@@ -25,7 +25,7 @@ namespace bns_ch_check
 
       BNSXMLNameChecker bnsXMLNameChecker = new BNSXMLNameChecker("/Users/shinhwe/bns-ch-text/Translation64.xml");
 
-      await bnsXMLNameChecker.CheckName("영생의 사원 광장 교환상인 희소안", "영생의 사원 광장 교환상인 희소안");
+      await bnsXMLNameChecker.CheckName("영생의 사원 광장 교환상인 희소안", "永生寺廣場交換商人 姬少安");
 
     }
   }
