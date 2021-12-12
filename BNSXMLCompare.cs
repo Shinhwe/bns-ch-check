@@ -1,178 +1,184 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Threading.Tasks;
-using System.Xml;
 
-namespace bns_ch_check
+
+namespace bns_ch_check;
+
+
+public class BNSXmlData
+{
+  public BNSXmlData(string originalValue, string replacementValue)
+  {
+    this.originalValue = originalValue;
+    this.replacementValue = replacementValue;
+  }
+  public string originalValue;
+  public string replacementValue;
+}
+
+public class BNSXMLCompare
 {
 
-  public class BNSXmlData
+  public async Task Compare(string beforePath, string afterPath)
   {
-    public BNSXmlData(string originalValue, string replacementValue)
-    {
-      this.originalValue = originalValue;
-      this.replacementValue = replacementValue;
-    }
-    public string originalValue;
-    public string replacementValue;
+    await this.Compare(beforePath, afterPath, false);
   }
 
-  public class BNSXMLCompare
+  public async Task Compare(string beforePath, string afterPath, bool showDiff)
   {
 
-    public async Task Compare(string beforePath, string afterPath)
+    Dictionary<string, BNSXmlData> beforeDictionary = new Dictionary<string, BNSXmlData>();
+
+    Dictionary<string, BNSXmlData> afterDictionary = new Dictionary<string, BNSXmlData>();
+
+    using (Stream xmlFile = File.OpenRead(beforePath))
     {
+      XmlReaderSettings settings = new XmlReaderSettings();
 
-      Dictionary<string, BNSXmlData> beforeDictionary = new Dictionary<string, BNSXmlData>();
+      settings.Async = true;
 
-      Dictionary<string, BNSXmlData> afterDictionary = new Dictionary<string, BNSXmlData>();
-
-      using (Stream xmlFile = File.OpenRead(beforePath))
+      using (XmlReader reader = XmlReader.Create(xmlFile, settings))
       {
-        XmlReaderSettings settings = new XmlReaderSettings();
+        string originalValue = "";
 
-        settings.Async = true;
+        string replacementValue = "";
 
-        using (XmlReader reader = XmlReader.Create(xmlFile, settings))
+        string alias = "";
+
+        int v = 0;
+
+        while (await reader.ReadAsync())
         {
-          string originalValue = "";
-
-          string replacementValue = "";
-
-          string alias = "";
-
-          int v = 0;
-
-          while (await reader.ReadAsync())
+          if (reader.NodeType == XmlNodeType.Element)
           {
-            if (reader.NodeType == XmlNodeType.Element)
+            if (reader.Name == "text")
             {
-              if (reader.Name == "text")
+              alias = reader.GetAttribute("alias");
+            }
+            else if (reader.Name == "original")
+            {
+              await reader.ReadAsync();
+              originalValue = await reader.GetValueAsync();
+              // Console.WriteLine("originalValue {0}", originalValue);
+              v += 1;
+            }
+            else if (reader.Name == "replacement")
+            {
+              await reader.ReadAsync();
+              replacementValue = await reader.GetValueAsync();
+              // Console.WriteLine("replacementlValue {0}", replacementlValue);
+              v += 1;
+            }
+
+            if (v == 2)
+            {
+
+
+              if (beforeDictionary.ContainsKey(alias))
               {
-                alias = reader.GetAttribute("alias");
+                // Console.WriteLine($"别名重复 {alias}");
               }
-              else if (reader.Name == "original")
+              else
               {
-                await reader.ReadAsync();
-                originalValue = await reader.GetValueAsync();
-                // Console.WriteLine("originalValue {0}", originalValue);
-                v += 1;
-              }
-              else if (reader.Name == "replacement")
-              {
-                await reader.ReadAsync();
-                replacementValue = await reader.GetValueAsync();
-                // Console.WriteLine("replacementlValue {0}", replacementlValue);
-                v += 1;
+                beforeDictionary.Add(alias, new BNSXmlData(originalValue, replacementValue));
               }
 
-              if (v == 2)
-              {
+              alias = "";
 
+              v = 0;
 
-                if (beforeDictionary.ContainsKey(alias))
-                {
-                  // Console.WriteLine($"别名重复 {alias}");
-                }
-                else
-                {
-                  beforeDictionary.Add(alias, new BNSXmlData(originalValue, replacementValue));
-                }
+              originalValue = "";
 
-                alias = "";
-
-                v = 0;
-
-                originalValue = "";
-
-                replacementValue = "";
-
-              }
+              replacementValue = "";
 
             }
 
           }
+
         }
       }
+    }
 
-      using (Stream xmlFile = File.OpenRead(afterPath))
+    using (Stream xmlFile = File.OpenRead(afterPath))
+    {
+      XmlReaderSettings settings = new XmlReaderSettings();
+
+      settings.Async = true;
+
+      using (XmlReader reader = XmlReader.Create(xmlFile, settings))
       {
-        XmlReaderSettings settings = new XmlReaderSettings();
+        string originalValue = "";
 
-        settings.Async = true;
+        string replacementValue = "";
 
-        using (XmlReader reader = XmlReader.Create(xmlFile, settings))
+        string alias = "";
+
+        int v = 0;
+
+        while (await reader.ReadAsync())
         {
-          string originalValue = "";
-
-          string replacementValue = "";
-
-          string alias = "";
-
-          int v = 0;
-
-          while (await reader.ReadAsync())
+          if (reader.NodeType == XmlNodeType.Element)
           {
-            if (reader.NodeType == XmlNodeType.Element)
+            if (reader.Name == "text")
             {
-              if (reader.Name == "text")
+              alias = reader.GetAttribute("alias");
+            }
+            else if (reader.Name == "original")
+            {
+              await reader.ReadAsync();
+              originalValue = await reader.GetValueAsync();
+              // Console.WriteLine("originalValue {0}", originalValue);
+              v += 1;
+            }
+            else if (reader.Name == "replacement")
+            {
+              await reader.ReadAsync();
+              replacementValue = await reader.GetValueAsync();
+              // Console.WriteLine("replacementlValue {0}", replacementlValue);
+              v += 1;
+            }
+
+            if (v == 2)
+            {
+
+              if (afterDictionary.ContainsKey(alias))
               {
-                alias = reader.GetAttribute("alias");
+                // Console.WriteLine($"别名重复 {alias}");
               }
-              else if (reader.Name == "original")
+              else
               {
-                await reader.ReadAsync();
-                originalValue = await reader.GetValueAsync();
-                // Console.WriteLine("originalValue {0}", originalValue);
-                v += 1;
-              }
-              else if (reader.Name == "replacement")
-              {
-                await reader.ReadAsync();
-                replacementValue = await reader.GetValueAsync();
-                // Console.WriteLine("replacementlValue {0}", replacementlValue);
-                v += 1;
+                afterDictionary.Add(alias, new BNSXmlData(originalValue, replacementValue));
               }
 
-              if (v == 2)
-              {
+              alias = "";
 
-                if (afterDictionary.ContainsKey(alias))
-                {
-                  // Console.WriteLine($"别名重复 {alias}");
-                }
-                else
-                {
-                  afterDictionary.Add(alias, new BNSXmlData(originalValue, replacementValue));
-                }
+              v = 0;
 
-                alias = "";
+              originalValue = "";
 
-                v = 0;
-
-                originalValue = "";
-
-                replacementValue = "";
-
-              }
+              replacementValue = "";
 
             }
 
           }
+
         }
       }
+    }
 
 
-      foreach (string alias in afterDictionary.Keys)
+    foreach (string alias in afterDictionary.Keys)
+    {
+      if (beforeDictionary.ContainsKey(alias) == false)
       {
-        if (beforeDictionary.ContainsKey(alias) == false)
+        Console.WriteLine($"新增条目 {alias}");
+      }
+      else if (afterDictionary[alias].originalValue != beforeDictionary[alias].originalValue)
+      {
+        Console.WriteLine($"原文变更 {alias}");
+
+        if (showDiff == true)
         {
-          Console.WriteLine($"新增条目 {alias}");
-        }
-        else if (afterDictionary[alias].originalValue != beforeDictionary[alias].originalValue)
-        {
-          Console.WriteLine($"原文变更 {alias}");
+          Console.WriteLine($"變更前原文 {beforeDictionary[alias].originalValue}");
+          Console.WriteLine($"變更後原文 {afterDictionary[alias].originalValue}");
         }
       }
     }

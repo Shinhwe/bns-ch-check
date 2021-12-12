@@ -1,0 +1,6 @@
+成就译文有韩文! 別名 Achieve.RegName_757_1_acquire-specific-fish-count
+成就译文有韩文! 別名 Achieve.RegName_760_1_acquire-fish-size-grade-count
+檢測到括號數量錯誤! 別名 Name.Key.LeftBracket
+檢測到括號數量錯誤! 別名 Name.Key.RightBracket
+檢測到括號數量錯誤! 別名 Name.Slot.Key.LeftBracket
+檢測到括號數量錯誤! 別名 Name.Slot.Key.RightBracket

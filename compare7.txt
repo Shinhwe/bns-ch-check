@@ -1,0 +1,185 @@
+原文变更 TextData.Desc2.ConditionEvent.StrategyCard_Penetration
+變更前原文 치명타 명중 시 일정 확률로 공격력의 7,200% 추가 피해
+變更後原文 치명타 명중 시 일정 확률로 공격력의 7200% 추가 피해
+原文变更 Effect.Desc2.Glyph_FlyingTiger_Score1
+變更前原文 호환효과 중 항마공격력 증가<br/>호환효과 중 호랑이 공격 피격 시 기절
+變更後原文 호환효과 중 항마공격력 증가<br/>호환효과 중 호랑이에게 피격 시 기절
+原文变更 ItemSkill_DE_S11_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">패도</font> 발동 시 <font name="00008130.UI.Vital_LightBlue">쇄도</font> 재사용시간 2초 감소
+變更後原文 패도 발동 시 쇄도 재사용시간 2초 감소
+原文变更 ItemSkill_DE_S5_PVP_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">선풍</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">격돌</font> 재사용시간 8초 감소
+變更後原文 선풍 명중 시 격돌 재사용시간 8초 감소
+原文变更 ItemSkill_DE_S12_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">단조</font> 사용 시 금월효과 추가 1중첩
+變更後原文 단조 사용 시 금월효과 추가 1중첩
+原文变更 ItemSkill_DE_S13_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄도</font> 재사용시간 4초 감소
+變更後原文 무진 사용 시 쇄도 재사용시간 4초 감소
+原文变更 ItemSkill_DE_S14_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">쇄류</font> 명중 시 금월효과 추가 2중첩
+變更後原文 쇄류 명중 시 금월효과 추가 2중첩
+原文变更 ItemSkill_DE_S6_PVP_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">금월참</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">패도</font> 재사용시간 3초 감소<br/><font name="00008130.UI.Vital_LightBlue">패도</font> 발동 시 8초간 피해감소 20% 증가
+變更後原文 금월참 명중 시 패도 재사용시간 3초 감소<br/>패도 발동 시 8초간 피해감소 20% 증가
+原文变更 ItemSkill_DE_S15_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">분출</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">무진</font> 재사용시간 5초 감소
+變更後原文 분출 명중 시 무진 재사용시간 5초 감소
+原文变更 ItemSkill_DE_S18_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진, 쇄도</font> 사용 시 12초간 단금효과 적용(최대 5중첩)<br/>단금효과 중첩 당 항마공격력 35 증가<br/>단금효과 중첩 당 치명피해 2% 증가
+變更後原文 무진, 쇄도 사용 시 12초간 단금효과 적용(최대 5중첩)<br/>단금효과 중첩 당 항마공격력 35 증가<br/>단금효과 중첩 당 치명피해 2% 증가
+原文变更 ItemSkill_DE_B9_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">패도</font> 발동 시 4초간 <font name="00008130.UI.Vital_LightBlue">금월참</font> 명중 시 공격력의 300% 추가피해
+變更後原文 패도 발동 시 4초간 금월참 명중 시 공격력의 300% 추가피해
+原文变更 ItemSkill_DE_B10_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">군림</font> 사용 시 15초간 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격</font> 명중 시 공격력의 450% 추가피해
+變更後原文 군림 사용 시 15초간 월격, 쌍월격 명중 시 공격력의 450% 추가피해
+原文变更 ItemSkill_DE_B11_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_02_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_03_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_04_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_05_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_06_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_07_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_08_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B11_Lv1_09_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 750% 피해
+變更後原文 무진 사용 시 15초간 강륜효과 적용<br/>강륜효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 750% 피해
+原文变更 ItemSkill_DE_B12_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_02_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_03_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_04_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_05_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_06_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_07_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_08_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill_DE_B12_Lv1_09_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 15초간 격화효과 적용<br/>격화효과 중 <font name="00008130.UI.Vital_LightBlue">월격, 쌍월격, 금월참</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">쇄월</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">쇄월</font> 영역 내 공격력의 1300% 피해
+變更後原文 무진 사용 시 15초간 격화효과 적용<br/>격화효과 중 월격, 쌍월격, 금월참 사용 시 쇄월 발동<br/>쇄월 방어, 튕기기 관통<br/>쇄월 영역 내 공격력의 1300% 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv1_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">첫 태풍</font> 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">태풍</font> 명중 시 공격력의 40% 추가 피해
+變更後原文 첫 태풍 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 태풍 명중 시 공격력의 40% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv1_02_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">무진</font> 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쌍월계열 격돌, 쇄도, 선풍</font> 명중 시 공격력의 80% 추가 피해
+變更後原文 무진 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 쌍월계열 격돌, 쇄도, 선풍 명중 시 공격력의 80% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv1_03_Tooltip
+變更前原文 정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">격돌</font> 명중 시 공격력의 80% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 격돌 명중 시 공격력의 80% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv1_04_Tooltip
+變更前原文 정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쇄도</font> 명중 시 공격력의 80% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 쇄도 명중 시 공격력의 80% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv1_05_Tooltip
+變更前原文 정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">선풍</font> 명중 시 공격력의 80% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 100 증가<br/>정벌효과 중 선풍 명중 시 공격력의 80% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv2_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">첫 태풍, 무진</font> 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">태풍</font> 명중 시 공격력의 60% 추가 피해<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쌍월계열 격돌, 쇄도, 선풍</font> 명중 시 공격력의 120% 추가 피해
+變更後原文 첫 태풍, 무진 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 태풍 명중 시 공격력의 60% 추가 피해<br/>정벌효과 중 쌍월계열 격돌, 쇄도, 선풍 명중 시 공격력의 120% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv2_02_Tooltip
+變更前原文 정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">격돌</font> 명중 시 공격력의 120% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 격돌 명중 시 공격력의 120% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv2_03_Tooltip
+變更前原文 정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쇄도</font> 명중 시 공격력의 120% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 쇄도 명중 시 공격력의 120% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv2_04_Tooltip
+變更前原文 정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">선풍</font> 명중 시 공격력의 120% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 200 증가<br/>정벌효과 중 선풍 명중 시 공격력의 120% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv3_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">첫 태풍, 무진</font> 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">태풍</font> 명중 시 공격력의 120% 추가 피해<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쌍월계열 격돌, 쇄도, 선풍</font> 명중 시 공격력의 240% 추가 피해
+變更後原文 첫 태풍, 무진 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 태풍 명중 시 공격력의 120% 추가 피해<br/>정벌효과 중 쌍월계열 격돌, 쇄도, 선풍 명중 시 공격력의 240% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv3_02_Tooltip
+變更前原文 정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">격돌</font> 명중 시 공격력의 240% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 격돌 명중 시 공격력의 240% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv3_03_Tooltip
+變更前原文 정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쇄도</font> 명중 시 공격력의 240% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 쇄도 명중 시 공격력의 240% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv3_04_Tooltip
+變更前原文 정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">선풍</font> 명중 시 공격력의 240% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 300 증가<br/>정벌효과 중 선풍 명중 시 공격력의 240% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv4_01_Tooltip
+變更前原文 <font name="00008130.UI.Vital_LightBlue">첫 태풍, 무진</font> 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">태풍</font> 명중 시 공격력의 200% 추가 피해<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쌍월계열 격돌, 쇄도, 선풍</font> 명중 시 공격력의 400% 추가 피해
+變更後原文 첫 태풍, 무진 사용 시 10초간 정벌효과 발동<br/>정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 태풍 명중 시 공격력의 200% 추가 피해<br/>정벌효과 중 쌍월계열 격돌, 쇄도, 선풍 명중 시 공격력의 400% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv4_02_Tooltip
+變更前原文 정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">격돌</font> 명중 시 공격력의 400% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 격돌 명중 시 공격력의 400% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv4_03_Tooltip
+變更前原文 정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">쇄도</font> 명중 시 공격력의 400% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 쇄도 명중 시 공격력의 400% 추가 피해
+原文变更 ItemSkill.Text.DE_Typhoon_G3_Lv4_04_Tooltip
+變更前原文 정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 <font name="00008130.UI.Vital_LightBlue">선풍</font> 명중 시 공격력의 400% 추가 피해
+變更後原文 정벌효과 중 상태이상피해 350 증가<br/>정벌효과 중 선풍 명중 시 공격력의 400% 추가 피해
+新增条目 Item.Name2.Cash_Costume_Dress_0360
+新增条目 Item.Name2.Cash_Costume_Decoration_0401
+新增条目 Item.Name2.Cash_Costume_Dress_0361
+新增条目 Item.Name2.Cash_Costume_Decoration_0402
+新增条目 Item.Desc2.Cash_Costume_Dress_0360
+新增条目 Item.Desc2.Cash_Costume_Decoration_0401
+新增条目 Item.Desc2.Cash_Costume_Dress_0361
+新增条目 Item.Desc2.Cash_Costume_Decoration_0402
+原文变更 Item.Name2.Cash_Grocery_Key_0047
+變更前原文 황금 열쇠
+變更後原文 옛 황금 열쇠
+原文变更 Item.MainInfo.Cash_Grocery_Key_0047
+變更前原文 보물찾기 열기
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Npc.title2.CH_CA_EventGame_0001
+變更前原文 유랑단 게임
+變更後原文 유랑단게임
+原文变更 Npc.title2.CH_CA_EventGame_0002
+變更前原文 유랑단 게임 호객꾼
+變更後原文 유랑단게임 호객꾼
+原文变更 Npc.title2.CH_CA_EventGame_0003
+變更前原文 유랑단 게임
+變更後原文 유랑단게임
+原文变更 Npc.title2.CH_CA_EventGame_0004
+變更前原文 유랑단 게임
+變更後原文 유랑단게임
+原文变更 Text.DE_G1_effect_Desc21
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue"><font name="00008130.UI.Vital_LightBlue">태풍</font>, 광풍</font> 사용 중 피해 감소</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">태풍, 광풍</font> 사용 중 피해 감소</p>
+原文变更 Text.DB_Flower_02_Sub_01_Desc_Tip
+變更前原文 <p bottommargin="4"><font name="00008130.UI.Label_LightYellow_14">천</font> 효과</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">쇄류격 - 화선풍 : 연 - 승비격 : 연</font> 연게를 통해 <font name="00008130.UI.Label_LightYellow">천</font> 효과를 획득할 수 있습니다.</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Label_LightYellow">천</font> 효과 중 이동속도가 증가하며 <font name="00008130.UI.Vital_LightBlue">화선풍</font> 무공이 강화됩니다.</p>
+變更後原文 <p bottommargin="4"><font name="00008130.UI.Label_LightYellow_14">천</font> 효과</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">쇄류격 - 화선풍 : 연 - 승비격 : 연</font> 연계를 통해 <font name="00008130.UI.Label_LightYellow">천</font> 효과를 획득할 수 있습니다.</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Label_LightYellow">천</font> 효과 중 이동속도가 증가하며 <font name="00008130.UI.Vital_LightBlue">화선풍</font> 무공이 강화됩니다.</p>
+原文变更 Text.DB_Flower_02_Sub_02_Desc_Tip
+變更前原文 <p bottommargin="4"><font name="00008130.UI.Label_LightYellow_14">지</font> 효과</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">승비격 - 화선풍 : 연 - 쇄류격 : 연</font> 연게를 통해 <font name="00008130.UI.Label_LightYellow">지</font> 효과를 획득할 수 있습니다.</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Label_LightYellow">지</font> 효과 중 내력을 회복하며 <font name="00008130.UI.Vital_LightBlue">화선풍</font> 무공이 강화됩니다.</p>
+變更後原文 <p bottommargin="4"><font name="00008130.UI.Label_LightYellow_14">지</font> 효과</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">승비격 - 화선풍 : 연 - 쇄류격 : 연</font> 연계를 통해 <font name="00008130.UI.Label_LightYellow">지</font> 효과를 획득할 수 있습니다.</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Label_LightYellow">지</font> 효과 중 내력을 회복하며 <font name="00008130.UI.Vital_LightBlue">화선풍</font> 무공이 강화됩니다.</p>
+原文变更 Text.DB_Flower_01_Sub_05_Desc_Guide
+變更前原文 적이 공격해오는 순간을 노려서 <font name="00008130.UI.Vital_LightBlue">횡</font>을 사용하면 저항할 수 있습니다.
+變更後原文 적이 공격해오는 순간을 노려서 <font name="00008130.UI.Vital_LightBlue">화월보</font>를 사용하면 저항할 수 있습니다.
+原文变更 q_2156_1_text_2
+變更前原文 여러 가지 중요한 일들로 바쁘신 것은 알고 있지만, 잠시 제게 시간을 내 주시지 않겠습니까?<br/>풍년마을 서쪽 <font name="00008130.UI.Eq_ArenaName">해안객점</font>에서 기다리고 있겠습니다.
+變更後原文 여러 가지 중요한 일들로 바쁘신 것은 알고 있지만, 잠시 제게 시간을 내 주시지 않겠습니까?<br/>돼지농장 서쪽 <font name="00008130.UI.Eq_ArenaName">해안객점</font>에서 기다리고 있겠습니다.
+原文变更 q_2157_4_text_1
+變更前原文 &lt;충각단 태장금의 서신&gt;<br/>대협! 간곡히 부탁드리고 싶은 일이 있습니다. 이 서신을 보시면 풍년마을 서쪽 해안객점으로 와주십시오. <br/>기다리고 있겠습니다.
+變更後原文 &lt;충각단 태장금의 서신&gt;<br/>대협! 간곡히 부탁드리고 싶은 일이 있습니다. 이 서신을 보시면 돼지농장 서쪽 해안객점으로 와주십시오. <br/>기다리고 있겠습니다.

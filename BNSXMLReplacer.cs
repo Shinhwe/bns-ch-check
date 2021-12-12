@@ -1,46 +1,42 @@
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using System.Xml;
+
 using System.Xml.Linq;
 
-namespace bns_ch_check
+namespace bns_ch_check;
+
+public class BNSXMLReplacer
 {
-  public class BNSXMLReplacer
+  private string path;
+
+  public BNSXMLReplacer(string path)
   {
-    private string path;
+    this.path = path;
+  }
 
-    public BNSXMLReplacer(string path)
+  public void Replace(Dictionary<string, string> replaceMap)
+  {
+
+
+
+    XDocument doc = XDocument.Load(this.path);
+
+    XElement rootElement = doc.Element("table");
+
+    foreach (XElement textElement in rootElement.Elements("text"))
     {
-      this.path = path;
-    }
+      XElement originalElement = textElement.Element("original");
 
-    public void Replace(Dictionary<string, string> replaceMap)
-    {
+      XElement replacementElement = textElement.Element("replacement");
+
+      XCData originalXCData = (XCData)originalElement.FirstNode;
 
 
 
-      XDocument doc = XDocument.Load(this.path);
-
-      XElement rootElement = doc.Element("table");
-
-      foreach (XElement textElement in rootElement.Elements("text"))
+      if (replaceMap.ContainsKey(originalXCData.Value))
       {
-        XElement originalElement = textElement.Element("original");
-
-        XElement replacementElement = textElement.Element("replacement");
-
-        XCData originalXCData = (XCData)originalElement.FirstNode;
-
-
-
-        if (replaceMap.ContainsKey(originalXCData.Value))
-        {
-          replacementElement.ReplaceNodes(new XCData(replaceMap[originalXCData.Value]));
-        }
+        replacementElement.ReplaceNodes(new XCData(replaceMap[originalXCData.Value]));
       }
-
-      doc.Save(this.path);
     }
+
+    doc.Save(this.path);
   }
 }

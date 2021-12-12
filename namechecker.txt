@@ -1,0 +1,11 @@
+检测到名字翻译错误 别名: Item.Desc5.Produce_Grocery_Coin_0002
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8721
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8722
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8723
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8724
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8725
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8726
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8727
+检测到名字翻译错误 别名: Item.Desc6.General_Grocery_Sealed_8728
+检测到名字翻译错误 别名: Item.Desc6.Raid_Grocery_ReviveTalisman_0004
+检测到名字翻译错误 别名: Item.Desc6.General_Weapon_LongBow_2549

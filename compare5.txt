@@ -1,0 +1,88 @@
+原文变更 Achieve.Name_456_dungeon_Galma4_step4
+變更前原文 無限征服鬼門關的噩夢
+變更後原文 귀문관의 악몽 무한정복
+原文变更 Achieve.Name_946_consumable_SoulArena_Extreme_0001_step1
+變更前原文 合格之人(악몽의 그림자)
+變更後原文 자격을 갖춘 자 (악몽의 그림자)
+原文变更 ItemSkill.Text.WL_T4_G3_Lv4_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">핏빛안개</font> 사용 시 15초간 극황효과<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">공간붕괴</font> 명중 시 공격력의 570% 추가피해<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">윤회</font> 명중 시 공격력의 1235% 추가피해<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">참절</font> 명중 시 공격력의 380% 추가피해<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">안개칼날</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">번뇌의 번개화살</font> 발동, 공격력의 16000% 피해 (재발동 시간 20초, 대인에게 피해량 3% 적용)
+變更後原文 <font name="00008130.UI.Vital_LightBlue">핏빛안개</font> 사용 시 15초간 극황효과<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">공간붕괴</font> 명중 시 공격력의 600% 추가피해<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">윤회</font> 명중 시 공격력의 1300% 추가피해<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">참절</font> 명중 시 공격력의 400% 추가피해<br/>극황효과 중 <font name="00008130.UI.Vital_LightBlue">안개칼날</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">번뇌의 번개화살</font> 발동, 공격력의 16000% 피해 (재발동 시간 20초, 대인에게 피해량 3% 적용)
+原文变更 ItemSkill.Text.WL_T4_G3_Lv4_01_Tooltip
+變更前原文 핏빛안개 사용 시 15초간 극황효과<br/>극황효과 중 공간붕괴 명중 시 공격력의 570% 추가피해<br/>극황효과 중 윤회 명중 시 공격력의 1235% 추가피해<br/>극황효과 중 참절 명중 시 공격력의 380% 추가피해<br/>극황효과 중 안개칼날 명중 시 번뇌의 번개화살 발동, 공격력의 16000% 피해 (재발동 시간 20초, 대인에게 피해량 3% 적용)
+變更後原文 핏빛안개 사용 시 15초간 극황효과<br/>극황효과 중 공간붕괴 명중 시 공격력의 600% 추가피해<br/>극황효과 중 윤회 명중 시 공격력의 1300% 추가피해<br/>극황효과 중 참절 명중 시 공격력의 400% 추가피해<br/>극황효과 중 안개칼날 명중 시 번뇌의 번개화살 발동, 공격력의 16000% 피해 (재발동 시간 20초, 대인에게 피해량 3% 적용)
+原文变更 ItemSkill.Text.WL_T4_G3_Lv4_04_Tooltip
+變更前原文 극황효과 중 공간붕괴 명중 시 공격력의 570% 추가피해
+變更後原文 극황효과 중 공간붕괴 명중 시 공격력의 600% 추가피해
+原文变更 ItemSkill.Text.WL_T4_G3_Lv4_05_Tooltip
+變更前原文 극황효과 중 윤회 명중 시 공격력의 1235% 추가피해
+變更後原文 극황효과 중 윤회 명중 시 공격력의 1300% 추가피해
+原文变更 ItemSkill.Text.WL_T4_G3_Lv4_06_Tooltip
+變更前原文 극황효과 중 참절 명중 시 공격력의 380% 추가피해
+變更後原文 극황효과 중 참절 명중 시 공격력의 400% 추가피해
+新增条目 Item.Name2.Promotion_Accessory_Emblem_0107
+新增条目 Item.Name2.Promotion_Accessory_Emblem_0108
+新增条目 Item.Desc2.Promotion_Accessory_Emblem_0107
+新增条目 Item.Desc2.Promotion_Accessory_Emblem_0108
+新增条目 Item.Desc5.Promotion_Accessory_Emblem_0107
+新增条目 Item.Desc5.Promotion_Accessory_Emblem_0108
+原文变更 Item.Name2.General_Accessory_HalloweenEvent_0001_101
+變更前原文 호박
+變更後原文 옛 호박
+原文变更 Item.Name2.General_Accessory_HalloweenEvent_0001_102
+變更前原文 빛나는 호박머리
+變更後原文 옛 빛나는 호박머리
+新增条目 Item.Desc2.General_Accessory_HalloweenEvent_0001_101
+新增条目 Item.Desc2.General_Accessory_HalloweenEvent_0001_102
+新增条目 Item.Name2.Event_Costume_Dress_0391
+新增条目 Item.Name2.Event_Costume_Decoration_0403
+新增条目 Item.Name2.Event_Costume_Decoration_0404
+新增条目 Item.Desc2.Event_Costume_Dress_0391
+新增条目 Item.Desc2.Event_Costume_Decoration_0403
+新增条目 Item.Desc2.Event_Costume_Decoration_0404
+原文变更 Item.Name2.Event_Grocery_Festival_0025
+變更前原文 Halloween 폭죽
+變更後原文 옛 Halloween 폭죽
+原文变更 Item.Name2.Event_Grocery_Food_0118
+變更前原文 호박 사탕
+變更後原文 옛 호박 사탕
+原文变更 Item.Name2.Event_Grocery_Food_0119
+變更前原文 초콜릿
+變更後原文 옛 초콜릿
+原文变更 Item.Name2.Event_Grocery_Coin_0360
+變更前原文 Halloween 주화
+變更後原文 옛 Halloween 주화
+原文变更 Item.Name2.Event_Grocery_Coin_0361
+變更前原文 깨진 호박 조각
+變更後原文 옛 깨진 호박 조각
+原文变更 Item.Name2.Event_Grocery_SpecialMaterial_0070
+變更前原文 호박머리 도면
+變更後原文 옛호박머리 도면
+原文变更 Item.Name2.Cash_Grocery_Coin_0087
+變更前原文 소울패스 Plus 티켓
+變更後原文 옛 스페셜 패스 Plus 티켓
+新增条目 Item.Name2.Cash_Grocery_TestFood_0013
+新增条目 Item.Name2.Cash_Grocery_Coin_0088
+新增条目 Item.Desc2.Cash_Grocery_TestFood_0013
+原文变更 Item.MainInfo.Event_Grocery_Festival_0025
+變更前原文 폭죽 발사
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0118
+變更前原文 공격력 120 증가
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0119
+變更前原文 무공 재사용시간 초기화
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0360
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0361
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_SpecialMaterial_0070
+變更前原文 성장 재료
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0087
+變更前原文 소울패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_TestFood_0013
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0088

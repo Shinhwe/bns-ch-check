@@ -1,0 +1,193 @@
+原文变更 Achieve.Name_387_consumable_Event_Solo_Dungeon4_step1
+變更前原文 진 海上霸王
+變更後原文 진 파왕
+新增条目 Achieve.Name_990_consumable_2021Nov_Event_01_step1
+新增条目 Achieve.Desc_990_consumable_2021Nov_Event_01_step1
+新增条目 Achieve.Title_990_consumable_2021Nov_Event_01_step1
+新增条目 Achieve.RegName_2066_1_use-grocery
+新增条目 Achieve.SpecialTitle_89
+新增条目 Effect.Name2.Common_Common_Effect_WeaponFactory_71stage_1stClear_buff
+新增条目 Effect.Desc2.Common_Effect_WeaponFactory_71stage_1stClear_buff
+新增条目 Text.GlyphReward.Event_Grocery_Box_Glyph_0001
+新增条目 Name2.2021_12_01_01
+新增条目 Name2.2021_11_08_01
+新增条目 Name2.2021_12_08_02
+新增条目 Item.Name2.Cash_Costume_Dress_0358
+新增条目 Item.Name2.Cash_Costume_Decoration_0399
+新增条目 Item.Name2.Cash_Costume_Dress_0359
+新增条目 Item.Name2.Cash_Costume_Decoration_0400
+新增条目 Item.Name2.Event_Costume_Dress_0389
+新增条目 Item.Name2.Event_Costume_Decoration_0400
+新增条目 Item.Name2.Event_Costume_Decoration_0401
+新增条目 Item.Name2.Event_Costume_Dress_0390
+新增条目 Item.Name2.Event_Costume_Decoration_0402
+新增条目 Item.Desc2.Cash_Costume_Dress_0358
+新增条目 Item.Desc2.Cash_Costume_Decoration_0399
+新增条目 Item.Desc2.Cash_Costume_Dress_0359
+新增条目 Item.Desc2.Cash_Costume_Decoration_0400
+新增条目 Item.Desc2.Event_Costume_Dress_0389
+新增条目 Item.Desc2.Event_Costume_Decoration_0400
+新增条目 Item.Desc2.Event_Costume_Decoration_0401
+新增条目 Item.Desc2.Event_Costume_Dress_0390
+新增条目 Item.Desc2.Event_Costume_Decoration_0402
+原文变更 Item.Name2.Event_Grocery_Coin_GoldSeason_0004
+變更前原文 깨비촌 입장권
+變更後原文 옛 깨비촌 입장권
+原文变更 Item.Name2.Event_Grocery_Box_1262
+變更前原文 Halloween 상자
+變更後原文 옛 Halloween 상자
+原文变更 Item.Name2.Cash_Grocery_Coin_0086
+變更前原文 스페셜 패스 Plus 티켓
+變更後原文 옛 스페셜 패스 Plus 티켓
+新增条目 Item.Name2.Event_Grocery_Box_1264
+新增条目 Item.Name2.Event_Grocery_Coin_0363
+新增条目 Item.Name2.Event_Grocery_Coin_0364
+新增条目 Item.Name2.Event_Grocery_ExpTalisman_0012
+新增条目 Item.Name2.Event_Grocery_ExpTalisman_0013
+新增条目 Item.Name2.Event_Grocery_ExpTalisman_0014
+新增条目 Item.Name2.Event_Grocery_ExpTalisman_0015
+新增条目 Item.Name2.Event_Grocery_Box_Glyph_0001
+新增条目 Item.Name2.Cash_Grocery_Key_0047
+新增条目 Item.Name2.Cash_Grocery_Coin_0341
+新增条目 Item.Name2.Event_Grocery_SelectionBox_0111
+新增条目 Item.Name2.Event_Grocery_SelectionBox_0112
+新增条目 Item.Name2.Cash_Grocery_Box_0549
+新增条目 Item.Name2.Cash_Grocery_Box_0550
+新增条目 Item.Name2.Cash_Grocery_Box_0551
+新增条目 Item.Name2.Cash_Grocery_Box_0552
+新增条目 Item.Name2.Cash_Grocery_Box_0553
+新增条目 Item.Name2.Cash_Grocery_Box_0554
+新增条目 Item.Name2.Event_Grocery_Food_0120
+新增条目 Item.Name2.Event_Grocery_Box_BuffBox_01
+新增条目 Item.Name2.Event_Grocery_Food_factory_01
+新增条目 Item.Name2.Event_Grocery_Food_factory_02
+新增条目 Item.Name2.Event_Grocery_Food_factory_03
+新增条目 Item.Name2.Event_Grocery_Food_factory_04
+新增条目 Item.Desc2.Event_Grocery_Box_Glyph_0001
+新增条目 Item.Desc2.Cash_Grocery_Key_0047
+新增条目 Item.Desc2.Cash_Grocery_Box_0549
+新增条目 Item.Desc2.Cash_Grocery_Box_0550
+新增条目 Item.Desc2.Cash_Grocery_Box_0551
+新增条目 Item.Desc2.Cash_Grocery_Box_0552
+新增条目 Item.Desc2.Cash_Grocery_Box_0553
+新增条目 Item.Desc2.Cash_Grocery_Box_0554
+新增条目 Item.Desc2.Event_Grocery_Food_0120
+新增条目 Item.Desc2.Event_Grocery_Food_factory_01
+新增条目 Item.Desc2.Event_Grocery_Food_factory_02
+新增条目 Item.Desc2.Event_Grocery_Food_factory_03
+新增条目 Item.Desc2.Event_Grocery_Food_factory_04
+新增条目 Item.MainInfo.Event_Grocery_Coin_GoldSeason_0004
+原文变更 Item.MainInfo.Event_Grocery_Box_1262
+變更前原文 물품 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0086
+變更前原文 스페셜 패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Event_Grocery_Box_1264
+新增条目 Item.MainInfo.Event_Grocery_Coin_0363
+新增条目 Item.MainInfo.Event_Grocery_Coin_0364
+新增条目 Item.MainInfo.Event_Grocery_ExpTalisman_0012
+新增条目 Item.MainInfo.Event_Grocery_ExpTalisman_0013
+新增条目 Item.MainInfo.Event_Grocery_ExpTalisman_0014
+新增条目 Item.MainInfo.Event_Grocery_ExpTalisman_0015
+新增条目 Item.MainInfo.Event_Grocery_Box_Glyph_0001
+新增条目 Item.MainInfo.Cash_Grocery_Key_0047
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0341
+新增条目 Item.MainInfo.Event_Grocery_SelectionBox_0111
+新增条目 Item.MainInfo.Event_Grocery_SelectionBox_0112
+新增条目 Item.MainInfo.Cash_Grocery_Box_0549
+新增条目 Item.MainInfo.Cash_Grocery_Box_0550
+新增条目 Item.MainInfo.Cash_Grocery_Box_0551
+新增条目 Item.MainInfo.Cash_Grocery_Box_0552
+新增条目 Item.MainInfo.Cash_Grocery_Box_0553
+新增条目 Item.MainInfo.Cash_Grocery_Box_0554
+新增条目 Item.MainInfo.Event_Grocery_Food_0120
+新增条目 Item.MainInfo.Event_Grocery_Box_BuffBox_01
+新增条目 Item.MainInfo.Event_Grocery_Food_factory_01
+新增条目 Item.MainInfo.Event_Grocery_Food_factory_02
+新增条目 Item.MainInfo.Event_Grocery_Food_factory_03
+新增条目 Item.MainInfo.Event_Grocery_Food_factory_04
+新增条目 Item.SubInfo.Event_Grocery_Food_0120
+新增条目 Item.SubInfo.Event_Grocery_Food_factory_01
+新增条目 Item.SubInfo.Event_Grocery_Food_factory_02
+新增条目 Item.SubInfo.Event_Grocery_Food_factory_03
+新增条目 Item.SubInfo.Event_Grocery_Food_factory_04
+新增条目 Item.Desc4.Event_Grocery_Coin_0363
+新增条目 Item.Desc4.Event_Grocery_Coin_0364
+新增条目 Item.Desc4.Event_Grocery_ExpTalisman_0014
+新增条目 Item.Desc4.Event_Grocery_ExpTalisman_0015
+新增条目 Item.Desc4.Cash_Grocery_Coin_0341
+新增条目 Item.Desc4.Event_Grocery_Food_0120
+新增条目 Item.Desc4.Event_Grocery_Food_factory_01
+新增条目 Item.Desc4.Event_Grocery_Food_factory_02
+新增条目 Item.Desc4.Event_Grocery_Food_factory_03
+新增条目 Item.Desc4.Event_Grocery_Food_factory_04
+新增条目 Item.Desc5.Event_Grocery_Box_1264
+新增条目 Item.Desc5.Event_Grocery_Coin_0363
+新增条目 Item.Desc5.Event_Grocery_Coin_0364
+新增条目 Item.Desc5.Event_Grocery_ExpTalisman_0012
+新增条目 Item.Desc5.Event_Grocery_ExpTalisman_0013
+新增条目 Item.Desc5.Event_Grocery_ExpTalisman_0014
+新增条目 Item.Desc5.Event_Grocery_ExpTalisman_0015
+新增条目 Item.Desc5.Event_Grocery_Box_Glyph_0001
+新增条目 Item.Desc5.Cash_Grocery_Key_0047
+新增条目 Item.Desc5.Cash_Grocery_Coin_0341
+新增条目 Item.Desc5.Event_Grocery_SelectionBox_0111
+新增条目 Item.Desc5.Event_Grocery_SelectionBox_0112
+新增条目 Item.Desc5.Cash_Grocery_Box_0549
+新增条目 Item.Desc5.Cash_Grocery_Box_0550
+新增条目 Item.Desc5.Cash_Grocery_Box_0551
+新增条目 Item.Desc5.Cash_Grocery_Box_0552
+新增条目 Item.Desc5.Cash_Grocery_Box_0553
+新增条目 Item.Desc5.Cash_Grocery_Box_0554
+新增条目 Item.Desc5.Event_Grocery_Food_0120
+新增条目 Item.Desc5.Event_Grocery_Box_BuffBox_01
+原文变更 Name2.Trait_Archer_advanced_1_13
+變更前原文 내력화살 강화
+變更後原文 바람 여울
+
+
+
+
+
+
+
+
+
+
+
+
+新增条目 Skill.Tooltip.Archer_G1_DodgeShot_Left1_Lv17_1
+新增条目 Skill.Tooltip.Archer_G1_DodgeShot_Right1_Lv17_1
+原文变更 Skill.Tooltip.Archer_G1_BaseShot1_7
+變更前原文 조율 명중 시 감지 20 생성
+變更後原文 조율 명중 시 감지 10 생성
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_lv3_1
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_lv3_2
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_lv3_3
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_lv5_1
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_lv9_1
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_lv9_2
+原文变更 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_7
+變更前原文 진 조율 명중 시 감지 20 생성
+變更後原文 진 조율 명중 시 감지 10 생성
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_lv3_1
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_lv3_2
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_lv3_3
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_lv5_1
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_lv9_1
+新增条目 Skill.Tooltip.Archer_G1_BaseShot1_SoulMask_lv9_2
+新增条目 Quest.Name2.2169
+新增条目 q_2169_sum
+新增条目 Mission.Name2.2169_1
+新增条目 Mission.Name2.2169_2
+新增条目 q_2169_1_indi_1_text
+新增条目 q_2169_1_text_1
+新增条目 q_2169_1_text_2
+新增条目 q_2169_1_text_3
+新增条目 q_2169_1_text_4
+新增条目 q_2169_1_nextbutton_3
+新增条目 q_2169_2_text_1
+新增条目 q_2169_3_endok_text
+新增条目 q_2169_3_indi_1_text
+新增条目 q_2169_3_text_1
