@@ -58,11 +58,11 @@ public class BNSXMLItemNameToJSON
             if (v == 2)
             {
 
-              if (alias.IndexOf("Item.Name2.") != -1)
+              if (alias.IndexOf("Item.Name2.") != -1 && alias.ToLower().IndexOf("test") == -1 && replacementValue.StartsWith("+") == false)
               {
                 if (keyList.Contains(replacementValue) == false)
                 {
-                  Console.WriteLine($"\t\"{replacementValue}\": {{\n\t\t\"alias\": \"{alias}\",\n\t\t\"kr\": \"{originalValue}\"\n\t}},");
+                  Console.WriteLine($"\t\"{replacementValue}\": \"{originalValue}\",");
 
                   keyList.Add(replacementValue);
                 }

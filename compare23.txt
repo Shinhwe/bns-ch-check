@@ -1,0 +1,279 @@
+新增条目 Msg.Name.GuideMovie.47_HT
+新增条目 Msg.Name.GuideMovie.48_HT
+新增条目 Msg.Name.GuideMovie.49_HT
+新增条目 Name.GuideMovie.47
+新增条目 Name.GuideMovie.48
+新增条目 Name.GuideMovie.49
+新增条目 Name2.2022_06_22_01
+新增条目 Name2.2022_06_15_01
+新增条目 Name2.2022_05_18_03
+原文变更 ItemSkill_KF_B6_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 12000% 피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염
+變更後原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 20000% 피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염
+原文变更 ItemSkill_KF_B7_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 10초간 사화효과<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 12000% 피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염<br/>사화효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 공격력의 150% 추가피해<br/>사화효과 중 <font name="00008130.UI.Vital_LightBlue">멸산고</font> 명중 시 공격력의 300% 추가피해
+變更後原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 10초간 사화효과<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 20000% 피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염<br/>사화효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 공격력의 150% 추가피해<br/>사화효과 중 <font name="00008130.UI.Vital_LightBlue">멸산고</font> 명중 시 공격력의 300% 추가피해
+原文变更 ItemSkill_KF_B13_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 10초간 구천효과<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 12000% 피해<font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염<br/>구천효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 공격력의 150% 추가피해<br/>구천효과 중 <font name="00008130.UI.Vital_LightBlue">멸산고</font> 명중 시 공격력의 300% 추가피해<br/>구천효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 명중 시 공격력의 16000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 명중 시 공격력의 9000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 방어, 튕기기 관통
+變更後原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 10초간 구천효과<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 20000% 피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염<br/>구천효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 공격력의 150% 추가피해<br/>구천효과 중 <font name="00008130.UI.Vital_LightBlue">멸산고</font> 명중 시 공격력의 300% 추가피해<br/>구천효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 명중 시 공격력의 16000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 명중 시 공격력의 9000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">맹독폭발</font> 방어, 튕기기 관통
+原文变更 ItemSkill_KF_B13_Lv1_01_Tooltip
+變更前原文 산사태 사용 시 용성락 발동산사태 사용 시 10초간 구천효과<br/>용성락 10초간 공격력의 12000% 피해용성락 마지막 타격 시 공격력의 6000% 추가피해<br/>용성락 방어, 튕기기 관통용성락 마지막 타격 명중 시 3초간 적염<br/>구천효과 중 용권, 적룡권 명중 시 공격력의 150% 추가피해<br/>구천효과 중 멸산고 명중 시 공격력의 300% 추가피해구천효과 중 용권, 적룡권 사용 시 맹독폭발 발동<br/>맹독폭발 명중 시 공격력의 16000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>맹독폭발 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 맹독폭발 명중 시 공격력의 9000% 추가피해<br/>맹독폭발 방어, 튕기기 관통
+變更後原文 산사태 사용 시 용성락 발동산사태 사용 시 10초간 구천효과<br/>용성락 10초간 공격력의 20000% 피해<br/>용성락 마지막 타격 시 공격력의 6000% 추가피해<br/>용성락 방어, 튕기기 관통<br/>용성락 마지막 타격 명중 시 3초간 적염<br/>구천효과 중 용권, 적룡권 명중 시 공격력의 150% 추가피해<br/>구천효과 중 멸산고 명중 시 공격력의 300% 추가피해구천효과 중 용권, 적룡권 사용 시 맹독폭발 발동<br/>맹독폭발 명중 시 공격력의 16000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>맹독폭발 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 맹독폭발 명중 시 공격력의 9000% 추가피해<br/>맹독폭발 방어, 튕기기 관통
+原文变更 ItemSkill_KF_B16_G1_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 10초간 천수효과<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 12000% 피해<font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 공격력의 150% 추가피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">멸산고</font> 명중 시 공격력의 300% 추가피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+變更後原文 <font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">용성락</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">산사태</font> 사용 시 10초간 천수효과<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 10초간 공격력의 20000% 피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 시 공격력의 6000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 방어, 튕기기 관통<br/><font name="00008130.UI.Vital_LightBlue">용성락</font> 마지막 타격 명중 시 3초간 적염<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 공격력의 150% 추가피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">멸산고</font> 명중 시 공격력의 300% 추가피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+原文变更 ItemSkill_KF_B16_G1_Lv1_01_Tooltip
+變更前原文 산사태 사용 시 용성락 발동<br/>산사태 사용 시 10초간 천수효과<br/>용성락 10초간 공격력의 12000% 피해<br/>용성락 마지막 타격 시 공격력의 6000% 추가피해<br/>용성락 방어, 튕기기 관통용성락 마지막 타격 명중 시 3초간 적염<br/>천수효과 중 용권, 적룡권 명중 시 공격력의 150% 추가피해<br/>천수효과 중 멸산고 명중 시 공격력의 300% 추가피해<br/>천수효과 중 용권, 적룡권 사용 시 천수일격 발동<br/>천수일격 명중 시 공격력의 56000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>천수일격 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 천수일격 명중 시 공격력의 31000% 추가피해<br/>천수일격 방어, 튕기기 관통
+變更後原文 산사태 사용 시 용성락 발동<br/>산사태 사용 시 10초간 천수효과<br/>용성락 10초간 공격력의 20000% 피해<br/>용성락 마지막 타격 시 공격력의 6000% 추가피해<br/>용성락 방어, 튕기기 관통<br/>용성락 마지막 타격 명중 시 3초간 적염<br/>천수효과 중 용권, 적룡권 명중 시 공격력의 150% 추가피해<br/>천수효과 중 멸산고 명중 시 공격력의 300% 추가피해<br/>천수효과 중 용권, 적룡권 사용 시 천수일격 발동<br/>천수일격 명중 시 공격력의 56000% 추가피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>천수일격 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 천수일격 명중 시 공격력의 31000% 추가피해<br/>천수일격 방어, 튕기기 관통
+新增条目 ItemSkill.Text.Eff.PT_G3_Lv1_01_Name
+原文变更 ItemSkill_PT_Flame_shot_S3_Lv2_01_Name
+變更前原文 <font name="00008130.UI.Vital_LightBlue">필중</font> 강화
+變更後原文 <font name="00008130.UI.Vital_LightBlue">심연탄</font> 강화
+原文变更 ItemSkill_PT_Flame_shot_S3_Lv2_01_desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">필중</font> 명중 시 심연효과, 초심연효과 4초 증가
+變更後原文 <font name="00008130.UI.Vital_LightBlue">심연탄</font> 명중 시 심연효과, 초심연효과 4초 증가
+原文变更 ItemSkill_PT_Flame_shot_S3_Lv2_01_tooltip
+變更前原文 필중 명중 시 심연효과, 초심연효과 4초 증가
+變更後原文 심연탄 명중 시 심연효과, 초심연효과 4초 증가
+原文变更 ItemSkill_PT_DarkRain_S6_Lv1_01_desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">타락</font> 첫 타격 명중 시 <font name="00008130.UI.Vital_LightBlue">필중</font> 사용 가능
+變更後原文 <font name="00008130.UI.Vital_LightBlue">타락</font> 첫 타격 명중 시 <font name="00008130.UI.Vital_LightBlue">참격</font> 재사용 시간 6초 감소
+原文变更 ItemSkill_PT_DarkRain_S6_Lv1_01_tooltip
+變更前原文 타락 첫 타격 명중 시 필중 사용 가능
+變更後原文 타락 첫 타격 명중 시 참격 재사용 시간 6초 감소
+原文变更 Item.Name2.General_Accessory_ArborDayEvent_0001_101
+變更前原文 잠든 생명의 정수
+變更後原文 옛 잠든 생명의 정수
+原文变更 Item.Name2.General_Accessory_ArborDayEvent_0001_102
+變更前原文 찬란한 생명의 정수
+變更後原文 옛 찬란한 생명의 정수
+原文变更 Item.Desc2.General_Accessory_ArborDayEvent_0001_101
+變更前原文 생명의 기운이 빠져나간 정수입니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_ArborDayEvent_0001_102
+變更前原文 생명의 기운이 가득차 찬란하게 빛나는 정수입니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.Name2.Event_Costume_Dress_0402
+新增条目 Item.Name2.Event_Costume_Decoration_0413
+新增条目 Item.Desc2.Event_Costume_Dress_0402
+新增条目 Item.Desc2.Event_Costume_Decoration_0413
+原文变更 Item.Name2.General_Grocery_SpecialMaterial_1187
+變更前原文 광혼석
+變更後原文 옛 광혼석
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1187
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;혼의 기운을 강하게 하는 힘이 깃들어 있습니다.&quot;</font>
+變更後原文 과거에 사용되었던 물품입니다. 골동품 교환을 통해 적당한 가치의 물품으로 교환할 수 있습니다.
+原文变更 Item.MainInfo.General_Grocery_SpecialMaterial_1187
+變更前原文 성장 재료
+變更後原文 다른 물품으로 교환
+原文变更 Item.MainInfo.General_Grocery_SelectionBox_0611
+變更前原文 신공패 획득 가능
+變更後原文 검은 뱀의 그늘 신공패 직업별 계열 상자 획득 가능
+原文变更 Item.MainInfo.General_Grocery_SelectionBox_0612
+變更前原文 비공패 획득 가능
+變更後原文 검은 뱀의 그늘 비공패 직업별 계열 상자 획득 가능
+原文变更 Item.Name2.Event_Grocery_SpecialMaterial_0073
+變更前原文 생명의 기운
+變更後原文 옛 생명의 기운
+原文变更 Item.Name2.Event_Grocery_Coin_0370
+變更前原文 생명의 새싹 주화
+變更後原文 옛 생명의 새싹 주화
+原文变更 Item.Name2.Event_Grocery_Food_0125
+變更前原文 생명의 독각대왕 소주
+變更後原文 옛 생명의 독각대왕 소주
+原文变更 Item.Name2.Cash_Grocery_Coin_0098
+變更前原文 소울패스 Plus 티켓
+變更後原文 옛 소울패스 Plus 티켓
+新增条目 Item.Name2.Cash_Grocery_Coin_0103
+新增条目 Item.Name2.Cash_Grocery_Coin_0104
+新增条目 Item.Name2.Event_Grocery_Box_1333
+新增条目 Item.Name2.Event_Grocery_Box_1334
+新增条目 Item.Name2.Event_Grocery_Box_1335
+新增条目 Item.Name2.Cash_Grocery_Coin_0105
+原文变更 Item.MainInfo.Event_Grocery_SpecialMaterial_0073
+變更前原文 성장 재료
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0370
+變更前原文 물품 교환에 사용
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0125
+變更前原文 공격력 25 증가<br/>치명피해 200 증가
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0098
+變更前原文 소울패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0103
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0104
+新增条目 Item.MainInfo.Event_Grocery_Box_1333
+新增条目 Item.MainInfo.Event_Grocery_Box_1334
+新增条目 Item.MainInfo.Event_Grocery_Box_1335
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0105
+新增条目 Item.Desc5.Cash_Grocery_Coin_0103
+新增条目 Item.Desc5.Cash_Grocery_Coin_0105
+新增条目 Item.Desc6.Cash_Grocery_Coin_0105
+新增条目 Name.BuyudoLoadingTip.1
+新增条目 Name.BuyudoLoadingTip.2
+新增条目 Name.BuyudoLoadingTip.3
+新增条目 Name.BuyudoLoadingTip.4
+新增条目 Name.BuyudoLoadingTip.5
+新增条目 Name.BuyudoLoadingTip.6
+新增条目 Name.BuyudoLoadingTip.7
+新增条目 Name.BuyudoLoadingTip.8
+新增条目 Name.BuyudoLoadingTip.9
+新增条目 Name.BuyudoLoadingTip.10
+新增条目 Npc.name2.ME_BC_DarkCrazyTribeC_0001
+新增条目 Npc.name2.ME_BC_BoneMaskBigA_0001
+新增条目 Npc.title2.ME_BC_DarkCrazyTribeC_0001
+新增条目 Npc.title2.ME_BC_BoneMaskBigA_0001
+原文变更 Text.PT_Void_02_Sub_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">심연탄</font>, <font name="00008130.UI.Vital_LightBlue">필중</font>, <font name="00008130.UI.Vital_LightBlue">망상</font>은  격사의 중요한 연계무공입니다.
+變更後原文 <font name="00008130.UI.Vital_LightBlue">심연탄</font>과 <font name="00008130.UI.Vital_LightBlue">망상</font>은  격사의 중요한 연계무공입니다.
+原文变更 Text.PT_Void_02_Sub_01_Desc_Tip
+變更前原文 <p bottommargin="4"><font name="00008130.UI.Normal_14">심연탄</font></p><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">망상</font>과 연계하여 사용 가능합니다. <font name="00008130.UI.Vital_LightBlue">심연탄</font>사용 후 <font name="00008130.UI.Vital_LightBlue">필중</font>을 사용하면 일정 시간동안 <font name="00008130.UI.Vital_LightBlue">망상</font>이 강화됩니다.</p>
+變更後原文 <p bottommargin="4"><font name="00008130.UI.Normal_14">심연탄</font></p><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">망상</font>과 연계하여 사용 가능합니다. <font name="00008130.UI.Vital_LightBlue">심연탄</font>을 적에게 명중 시키면 일정 시간 동안 해당 적에게 <font name="00008130.UI.Vital_LightBlue">망상</font>으로 가하는 피해가 증가합니다.</p>
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_01_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_02_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_03_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_04_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_01_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_02_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_03_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_04_Name
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_01_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_02_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_03_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G1_04_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_01_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_02_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_03_Desc
+新增条目 Text.SkillTrainingRoomGroup.BA_G2_04_Desc
+新增条目 Text.BA_G1_01_Sub_01_Name
+新增条目 Text.BA_G1_01_Sub_02_Name
+新增条目 Text.BA_G1_01_Sub_03_Name
+新增条目 Text.BA_G1_01_Sub_04_Name
+新增条目 Text.BA_G1_01_Sub_05_Name
+新增条目 Text.BA_G1_01_Sub_06_Name
+新增条目 Text.BA_G1_01_Sub_07_Name
+新增条目 Text.BA_G1_02_Sub_01_Name
+新增条目 Text.BA_G1_02_Sub_02_Name
+新增条目 Text.BA_G1_02_Sub_03_Name
+新增条目 Text.BA_G1_02_Sub_04_Name
+新增条目 Text.BA_G1_02_Sub_05_Name
+新增条目 Text.BA_G1_02_Sub_06_Name
+新增条目 Text.BA_G1_03_Sub_01_Name
+新增条目 Text.BA_G1_03_Sub_02_Name
+新增条目 Text.BA_G1_03_Sub_03_Name
+新增条目 Text.BA_G1_03_Sub_04_Name
+新增条目 Text.BA_G1_04_Sub_01_Name
+新增条目 Text.BA_G1_01_Sub_01_Desc
+新增条目 Text.BA_G1_01_Sub_02_Desc
+新增条目 Text.BA_G1_01_Sub_03_Desc
+新增条目 Text.BA_G1_01_Sub_04_Desc
+新增条目 Text.BA_G1_01_Sub_05_Desc
+新增条目 Text.BA_G1_01_Sub_06_Desc
+新增条目 Text.BA_G1_01_Sub_07_Desc
+新增条目 Text.BA_G1_02_Sub_01_Desc
+新增条目 Text.BA_G1_02_Sub_02_Desc
+新增条目 Text.BA_G1_02_Sub_03_Desc
+新增条目 Text.BA_G1_02_Sub_04_Desc
+新增条目 Text.BA_G1_02_Sub_05_Desc
+新增条目 Text.BA_G1_02_Sub_06_Desc
+新增条目 Text.BA_G1_03_Sub_01_Desc
+新增条目 Text.BA_G1_03_Sub_02_Desc
+新增条目 Text.BA_G1_03_Sub_03_Desc
+新增条目 Text.BA_G1_03_Sub_04_Desc
+新增条目 Text.BA_G1_04_Sub_01_Desc
+新增条目 Text.BA_G1_01_Sub_01_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_02_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_03_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_04_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_05_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_06_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_07_Desc_Tip
+新增条目 Text.BA_G1_02_Sub_01_Desc_Tip
+新增条目 Text.BA_G1_02_Sub_02_Desc_Tip
+新增条目 Text.BA_G1_02_Sub_03_Desc_Tip
+新增条目 Text.BA_G1_02_Sub_04_Desc_Tip
+新增条目 Text.BA_G1_02_Sub_05_Desc_Tip
+新增条目 Text.BA_G1_02_Sub_06_Desc_Tip
+新增条目 Text.BA_G1_03_Sub_01_Desc_Tip
+新增条目 Text.BA_G1_03_Sub_02_Desc_Tip
+新增条目 Text.BA_G1_03_Sub_03_Desc_Tip
+新增条目 Text.BA_G1_03_Sub_04_Desc_Tip
+新增条目 Text.BA_G1_04_Sub_01_Desc_Tip
+新增条目 Text.BA_G1_01_Sub_01_Desc_Guide
+新增条目 Text.BA_G1_01_Sub_02_Desc_Guide
+新增条目 Text.BA_G1_01_Sub_05_Desc_Guide
+新增条目 Text.BA_G1_01_Sub_06_Desc_Guide
+新增条目 Text.BA_G1_01_Sub_07_Desc_Guide
+新增条目 Text.BA_G1_02_Sub_01_Desc_Guide
+新增条目 Text.BA_G1_02_Sub_02_Desc_Guide
+新增条目 Text.BA_G1_02_Sub_03_Desc_Guide
+新增条目 Text.BA_G1_02_Sub_04_Desc_Guide
+新增条目 Text.BA_G1_02_Sub_05_Desc_Guide
+新增条目 Text.BA_G1_02_Sub_06_Desc_Guide
+新增条目 Text.BA_G1_03_Sub_01_Desc_Guide
+新增条目 Text.BA_G1_03_Sub_02_Desc_Guide
+新增条目 Text.BA_G1_03_Sub_03_Desc_Guide
+新增条目 Text.BA_G1_03_Sub_04_Desc_Guide
+新增条目 Text.BA_G1_04_Sub_01_Desc_Guide
+新增条目 Text.BA_G2_01_Sub_01_Name
+新增条目 Text.BA_G2_01_Sub_02_Name
+新增条目 Text.BA_G2_01_Sub_03_Name
+新增条目 Text.BA_G2_01_Sub_04_Name
+新增条目 Text.BA_G2_01_Sub_05_Name
+新增条目 Text.BA_G2_01_Sub_06_Name
+新增条目 Text.BA_G2_02_Sub_01_Name
+新增条目 Text.BA_G2_02_Sub_02_Name
+新增条目 Text.BA_G2_02_Sub_03_Name
+新增条目 Text.BA_G2_02_Sub_04_Name
+新增条目 Text.BA_G2_02_Sub_05_Name
+新增条目 Text.BA_G2_03_Sub_01_Name
+新增条目 Text.BA_G2_03_Sub_02_Name
+新增条目 Text.BA_G2_03_Sub_03_Name
+新增条目 Text.BA_G2_04_Sub_01_Name
+新增条目 Text.BA_G2_01_Sub_01_Desc
+新增条目 Text.BA_G2_01_Sub_02_Desc
+新增条目 Text.BA_G2_01_Sub_03_Desc
+新增条目 Text.BA_G2_01_Sub_04_Desc
+新增条目 Text.BA_G2_01_Sub_05_Desc
+新增条目 Text.BA_G2_01_Sub_06_Desc
+新增条目 Text.BA_G2_02_Sub_01_Desc
+新增条目 Text.BA_G2_02_Sub_02_Desc
+新增条目 Text.BA_G2_02_Sub_03_Desc
+新增条目 Text.BA_G2_02_Sub_04_Desc
+新增条目 Text.BA_G2_02_Sub_05_Desc
+新增条目 Text.BA_G2_03_Sub_01_Desc
+新增条目 Text.BA_G2_03_Sub_02_Desc
+新增条目 Text.BA_G2_03_Sub_03_Desc
+新增条目 Text.BA_G2_04_Sub_01_Desc
+新增条目 Text.BA_G2_01_Sub_01_Desc_Tip
+新增条目 Text.BA_G2_01_Sub_02_Desc_Tip
+新增条目 Text.BA_G2_01_Sub_03_Desc_Tip
+新增条目 Text.BA_G2_01_Sub_04_Desc_Tip
+新增条目 Text.BA_G2_01_Sub_05_Desc_Tip
+新增条目 Text.BA_G2_01_Sub_06_Desc_Tip
+新增条目 Text.BA_G2_02_Sub_01_Desc_Tip
+新增条目 Text.BA_G2_02_Sub_02_Desc_Tip
+新增条目 Text.BA_G2_02_Sub_03_Desc_Tip
+新增条目 Text.BA_G2_02_Sub_04_Desc_Tip
+新增条目 Text.BA_G2_02_Sub_05_Desc_Tip
+新增条目 Text.BA_G2_03_Sub_01_Desc_Tip
+新增条目 Text.BA_G2_03_Sub_02_Desc_Tip
+新增条目 Text.BA_G2_03_Sub_03_Desc_Tip
+新增条目 Text.BA_G2_04_Sub_01_Desc_Tip
+新增条目 Text.BA_G2_01_Sub_01_Desc_Guide
+新增条目 Text.BA_G2_01_Sub_02_Desc_Guide
+新增条目 Text.BA_G2_01_Sub_03_Desc_Guide
+新增条目 Text.BA_G2_01_Sub_04_Desc_Guide
+新增条目 Text.BA_G2_01_Sub_05_Desc_Guide
+新增条目 Text.BA_G2_01_Sub_06_Desc_Guide
+新增条目 Text.BA_G2_02_Sub_01_Desc_Guide
+新增条目 Text.BA_G2_02_Sub_02_Desc_Guide
+新增条目 Text.BA_G2_02_Sub_03_Desc_Guide
+新增条目 Text.BA_G2_02_Sub_04_Desc_Guide
+新增条目 Text.BA_G2_02_Sub_05_Desc_Guide
+新增条目 Text.BA_G2_03_Sub_01_Desc_Guide
+新增条目 Text.BA_G2_03_Sub_02_Desc_Guide
+新增条目 Text.BA_G2_03_Sub_03_Desc_Guide
+新增条目 Text.BA_G2_04_Sub_01_Desc_Guide

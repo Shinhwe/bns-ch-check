@@ -1,0 +1,65 @@
+原文变更 Effect.Desc2.Warrior_Debuff_melting
+變更前原文 받는 피해 1% 증가(최대 4중첩)<br/>잔향 효과와 중복 적용 불가능
+變更後原文 받는 피해 1.5% 증가(최대 4중첩)<br/>잔향 효과와 중복 적용 불가능
+原文变更 Effect.Desc2.Shooter_G3_Targeted_Buff
+變更前原文 공격력, 공력피해율 10% 증가
+變更後原文 공격력, 공력피해율 15% 증가
+新增条目 Name2.2022_05_11_02
+原文变更 ItemSkill.Text.Eff.PT_T5_G3_Lv1_01_Desc
+變更前原文 염라효과 중 연쇄저격,기관총사격, 분광포, 산탄사격 추가피해
+變更後原文 염왕효과 중 연쇄저격,기관총사격, 분광포, 산탄사격 추가피해
+新增条目 Item.Name2.Event_Costume_Dress_0400
+新增条目 Item.Name2.Event_Costume_Decoration_0411
+新增条目 Item.Name2.Event_Costume_Dress_0401
+新增条目 Item.Name2.Event_Costume_Decoration_0412
+新增条目 Item.Desc2.Event_Costume_Dress_0400
+新增条目 Item.Desc2.Event_Costume_Decoration_0411
+新增条目 Item.Desc2.Event_Costume_Dress_0401
+新增条目 Item.Desc2.Event_Costume_Decoration_0412
+原文变更 Item.Name2.Cash_Grocery_Coin_0095
+變更前原文 소울패스 주화 [소울패스 10시즌]
+變更後原文 옛 소울패스 주화 [소울패스 10시즌]
+原文变更 Item.Name2.Event_Grocery_Food_0124
+變更前原文 달콤한 화이트데이 사탕
+變更後原文 옛 달콤한 화이트데이 사탕
+新增条目 Item.Name2.Event_Grocery_Box_1331
+新增条目 Item.Name2.Event_Grocery_Coin_0371
+新增条目 Item.Name2.Event_Grocery_Box_1332
+新增条目 Item.Desc2.Event_Grocery_Box_1332
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0095
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0124
+變更前原文 10분동안 치명타 시 흡혈 1000
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Event_Grocery_Box_1331
+新增条目 Item.MainInfo.Event_Grocery_Coin_0371
+新增条目 Item.MainInfo.Event_Grocery_Box_1332
+新增条目 Item.Desc5.Event_Grocery_Box_1331
+新增条目 Item.Desc5.Event_Grocery_Coin_0371
+新增条目 Item.Desc5.Event_Grocery_Box_1332
+新增条目 Item.Desc6.Event_Grocery_Coin_0371
+原文变更 Item.Desc6.General_Weapon_DualBlade_2652
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 인형의 폐가
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 천명지위제단 잡화상인 강승상
+新增条目 Npc.name2.ME_PC_Dummy_0166
+新增条目 Npc.title2.ME_PC_Dummy_0166
+原文变更 Text.skill.Warrior_Tooltip_Melting_Debuff2
+變更前原文 융해 1중첩 당 대상의 받는 피해 1% 증가
+變更後原文 융해 1중첩 당 대상의 받는 피해 1.5% 증가
+新增条目 Text.skill.Warrior_Tooltip_Warrior_G3_Area_Explosion
+原文变更 Text.WA_G3_Train_Desc
+變更前原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염제</font> 상태 중 <font name="00008130.UI.Vital_LightBlue">염폭참, 염룡검, 홍염</font> 사용 가능</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염제</font> 상태 중 <font name="00008130.UI.Label_LightYellow_12">공격력</font> 및 <font name="00008130.UI.Label_LightYellow_12">치명 확률</font>  증가</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염제</font> 상태 중 상태이상 저항</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염왕진, 염화난무:반, 염화난무:나선, 염화난무:섬광</font>무공을 통해 <font name="00008130.UI.Label_LightYellow_12">불꽃</font> 획득 가능</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Label_LightYellow_12">불꽃</font> 보유 중 <font name="00008130.UI.Vital_LightBlue">속검</font> 무공 사용 시 상태이상 저항 효과</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염폭참, 염룡검, 연무, 염화난무:반</font> 무공을 통해 상대방에게 <font name="00008130.UI.Label_LightYellow_12">융해</font> 효과 부여 가능</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Label_LightYellow_12">융해</font> 효과 중 대상의 받는 피해 1% 증가</p>
+變更後原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염제</font> 상태 중 <font name="00008130.UI.Vital_LightBlue">염폭참, 염룡검, 홍염</font> 사용 가능</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염제</font> 상태 중 <font name="00008130.UI.Label_LightYellow_12">공격력</font> 및 <font name="00008130.UI.Label_LightYellow_12">치명 확률</font>  증가</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염제</font> 상태 중 상태이상 저항</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염왕진, 염화난무:반, 염화난무:나선, 염화난무:섬광</font>무공을 통해 <font name="00008130.UI.Label_LightYellow_12">불꽃</font> 획득 가능</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Label_LightYellow_12">불꽃</font> 보유 중 <font name="00008130.UI.Vital_LightBlue">속검</font> 무공 사용 시 상태이상 저항 효과</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염폭참, 염룡검, 연무, 염화난무:반</font> 무공을 통해 상대방에게 <font name="00008130.UI.Label_LightYellow_12">융해</font> 효과 부여 가능</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Label_LightYellow_12">융해</font> 효과 중 대상의 받는 피해 1.5% 증가</p>
+原文变更 Text.Skill.Warrior_G3_BurstBlade_Combo_Lv1
+變更前原文 연무:참
+變更後原文 연무
+原文变更 Text.Skill.Warrior_G3_SwordCrash_Combo_Lv1
+變更前原文 연무:검
+變更後原文 연무
+原文变更 Text.Skill.Warrior_G3_BurstBlade_Combo_SoulMask_Lv1
+變更前原文 진 연무:참
+變更後原文 연무
+新增条目 SkillTooltipAttr.text.E_Damage_After_Warrior_G3_SwordCrash
+新增条目 SkillTooltipAttr.text.E_Damage_After_Warrior_G3_BurstBlade
+新增条目 SkillTooltipAttr.text.E_Damage_After_Warrior_G3_BurstBlade_SM

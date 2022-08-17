@@ -1,0 +1,277 @@
+新增条目 Effect.Name2.Effect_Item_Event_Grocery_Food_0124
+新增条目 Effect.Name2.Effect_Item_Event_Grocery_Food_0124_HpDrain
+新增条目 Effect.Desc2.Effect_Item_Event_Grocery_Food_0124
+原文变更 Effect.Name2.GWJ_Dummy_AltarSpirit_7
+變更前原文 지속회복
+變更後原文 재생증가
+新增条目 IBN.ItemBrand_ContentsGuardian_0002
+新增条目 ItemBrand.Desc5.0306
+新增条目 Name2.2022_04_13_01
+新增条目 Name2.2022_04_06_01
+新增条目 Item.Name2.Cash_Costume_Dress_0372
+新增条目 Item.Name2.Cash_Costume_Decoration_0417
+新增条目 Item.Name2.Cash_Costume_Dress_0373
+新增条目 Item.Name2.Cash_Costume_Decoration_0418
+新增条目 Item.Name2.Cash_Costume_Dress_0374
+新增条目 Item.Name2.Cash_Costume_Decoration_0419
+新增条目 Item.Name2.Cash_Costume_Dress_0375
+新增条目 Item.Name2.Cash_Costume_Decoration_0420
+新增条目 Item.Desc2.Cash_Costume_Dress_0372
+新增条目 Item.Desc2.Cash_Costume_Decoration_0417
+新增条目 Item.Desc2.Cash_Costume_Dress_0373
+新增条目 Item.Desc2.Cash_Costume_Decoration_0418
+新增条目 Item.Desc2.Cash_Costume_Dress_0374
+新增条目 Item.Desc2.Cash_Costume_Decoration_0419
+新增条目 Item.Desc2.Cash_Costume_Dress_0375
+新增条目 Item.Desc2.Cash_Costume_Decoration_0420
+新增条目 Item.Name2.General_Grocery_Box_4919
+新增条目 Item.MainInfo.General_Grocery_Box_4919
+新增条目 Item.Desc6.General_Grocery_Box_4919
+原文变更 Item.Name2.Cash_Grocery_Coin_0094
+變更前原文 소울패스 Plus 티켓
+變更後原文 옛 소울패스 Plus 티켓
+原文变更 Item.Name2.Cash_Grocery_Key_0048
+變更前原文 황금 열쇠
+變更後原文 옛 황금 열쇠
+新增条目 Item.Name2.Cash_Grocery_Coin_0095
+新增条目 Item.Name2.Cash_Grocery_Coin_0096
+新增条目 Item.Name2.Event_Grocery_Box_1268
+新增条目 Item.Name2.Event_Grocery_Box_1269
+新增条目 Item.Name2.Event_Grocery_Food_0124
+新增条目 Item.Name2.Event_Grocery_Box_1270
+新增条目 Item.Name2.Event_Grocery_Box_1271
+新增条目 Item.Name2.Event_Grocery_Box_1272
+新增条目 Item.Name2.Event_Grocery_Box_1273
+新增条目 Item.Name2.Event_Grocery_Box_1274
+新增条目 Item.Name2.Event_Grocery_Box_1275
+新增条目 Item.Name2.Event_Grocery_Box_1276
+新增条目 Item.Name2.Event_Grocery_Box_1277
+新增条目 Item.Name2.Event_Grocery_Box_1278
+新增条目 Item.Name2.Event_Grocery_Box_1279
+新增条目 Item.Name2.Event_Grocery_Box_1280
+新增条目 Item.Name2.Event_Grocery_Box_1281
+新增条目 Item.Name2.Event_Grocery_Box_1282
+新增条目 Item.Name2.Event_Grocery_Box_1283
+新增条目 Item.Name2.Event_Grocery_Box_1284
+新增条目 Item.Name2.Event_Grocery_Box_1285
+新增条目 Item.Name2.Event_Grocery_Box_1286
+新增条目 Item.Name2.Event_Grocery_Box_1287
+新增条目 Item.Name2.Event_Grocery_Box_1288
+新增条目 Item.Name2.Event_Grocery_Box_1289
+新增条目 Item.Name2.Event_Grocery_Box_1290
+新增条目 Item.Name2.Event_Grocery_Box_1291
+新增条目 Item.Name2.Event_Grocery_Box_1292
+新增条目 Item.Name2.Event_Grocery_Box_1293
+新增条目 Item.Name2.Event_Grocery_Box_1294
+新增条目 Item.Name2.Event_Grocery_Box_1295
+新增条目 Item.Name2.Event_Grocery_Box_1296
+新增条目 Item.Name2.Event_Grocery_Box_1297
+新增条目 Item.Name2.Event_Grocery_Box_1298
+新增条目 Item.Name2.Event_Grocery_Box_1299
+新增条目 Item.Name2.Event_Grocery_Box_1300
+新增条目 Item.Name2.Event_Grocery_Box_1301
+新增条目 Item.Name2.Event_Grocery_Box_1302
+新增条目 Item.Name2.Event_Grocery_Box_1303
+新增条目 Item.Name2.Event_Grocery_Box_1304
+新增条目 Item.Name2.Event_Grocery_Box_1305
+新增条目 Item.Name2.Event_Grocery_Box_1306
+新增条目 Item.Name2.Event_Grocery_Box_1307
+新增条目 Item.Name2.Event_Grocery_Box_1308
+新增条目 Item.Name2.Event_Grocery_Box_1309
+新增条目 Item.Name2.Event_Grocery_Box_1310
+新增条目 Item.Name2.Event_Grocery_Box_1311
+新增条目 Item.Name2.Event_Grocery_Box_1312
+新增条目 Item.Name2.Event_Grocery_Box_1313
+新增条目 Item.Name2.Event_Grocery_Box_1314
+新增条目 Item.Name2.Event_Grocery_Box_1315
+新增条目 Item.Name2.Event_Grocery_Box_1316
+新增条目 Item.Name2.Event_Grocery_Box_1317
+新增条目 Item.Name2.Event_Grocery_Box_1318
+新增条目 Item.Name2.Event_Grocery_Box_1319
+新增条目 Item.Name2.Event_Grocery_Box_1320
+新增条目 Item.Name2.Event_Grocery_Box_1321
+新增条目 Item.Name2.Event_Grocery_Box_1322
+新增条目 Item.Name2.Event_Grocery_Box_1323
+新增条目 Item.Name2.Event_Grocery_Box_1324
+新增条目 Item.Name2.Event_Grocery_Box_1325
+新增条目 Item.Name2.Event_Grocery_Box_1326
+新增条目 Item.Name2.Event_Grocery_Box_1327
+新增条目 Item.Name2.Event_Grocery_Box_1328
+新增条目 Item.Name2.Event_Grocery_Box_1329
+新增条目 Item.Desc2.Event_Grocery_Food_0124
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0094
+變更前原文 소울패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Key_0048
+變更前原文 달콤한 보물찾기 열기
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0095
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0096
+新增条目 Item.MainInfo.Event_Grocery_Box_1268
+新增条目 Item.MainInfo.Event_Grocery_Box_1269
+新增条目 Item.MainInfo.Event_Grocery_Food_0124
+新增条目 Item.MainInfo.Event_Grocery_Box_1270
+新增条目 Item.MainInfo.Event_Grocery_Box_1271
+新增条目 Item.MainInfo.Event_Grocery_Box_1272
+新增条目 Item.MainInfo.Event_Grocery_Box_1273
+新增条目 Item.MainInfo.Event_Grocery_Box_1274
+新增条目 Item.MainInfo.Event_Grocery_Box_1275
+新增条目 Item.MainInfo.Event_Grocery_Box_1276
+新增条目 Item.MainInfo.Event_Grocery_Box_1277
+新增条目 Item.MainInfo.Event_Grocery_Box_1278
+新增条目 Item.MainInfo.Event_Grocery_Box_1279
+新增条目 Item.MainInfo.Event_Grocery_Box_1280
+新增条目 Item.MainInfo.Event_Grocery_Box_1281
+新增条目 Item.MainInfo.Event_Grocery_Box_1282
+新增条目 Item.MainInfo.Event_Grocery_Box_1283
+新增条目 Item.MainInfo.Event_Grocery_Box_1284
+新增条目 Item.MainInfo.Event_Grocery_Box_1285
+新增条目 Item.MainInfo.Event_Grocery_Box_1286
+新增条目 Item.MainInfo.Event_Grocery_Box_1287
+新增条目 Item.MainInfo.Event_Grocery_Box_1288
+新增条目 Item.MainInfo.Event_Grocery_Box_1289
+新增条目 Item.MainInfo.Event_Grocery_Box_1290
+新增条目 Item.MainInfo.Event_Grocery_Box_1291
+新增条目 Item.MainInfo.Event_Grocery_Box_1292
+新增条目 Item.MainInfo.Event_Grocery_Box_1293
+新增条目 Item.MainInfo.Event_Grocery_Box_1294
+新增条目 Item.MainInfo.Event_Grocery_Box_1295
+新增条目 Item.MainInfo.Event_Grocery_Box_1296
+新增条目 Item.MainInfo.Event_Grocery_Box_1297
+新增条目 Item.MainInfo.Event_Grocery_Box_1298
+新增条目 Item.MainInfo.Event_Grocery_Box_1299
+新增条目 Item.MainInfo.Event_Grocery_Box_1300
+新增条目 Item.MainInfo.Event_Grocery_Box_1301
+新增条目 Item.MainInfo.Event_Grocery_Box_1302
+新增条目 Item.MainInfo.Event_Grocery_Box_1303
+新增条目 Item.MainInfo.Event_Grocery_Box_1304
+新增条目 Item.MainInfo.Event_Grocery_Box_1305
+新增条目 Item.MainInfo.Event_Grocery_Box_1306
+新增条目 Item.MainInfo.Event_Grocery_Box_1307
+新增条目 Item.MainInfo.Event_Grocery_Box_1308
+新增条目 Item.MainInfo.Event_Grocery_Box_1309
+新增条目 Item.MainInfo.Event_Grocery_Box_1310
+新增条目 Item.MainInfo.Event_Grocery_Box_1311
+新增条目 Item.MainInfo.Event_Grocery_Box_1312
+新增条目 Item.MainInfo.Event_Grocery_Box_1313
+新增条目 Item.MainInfo.Event_Grocery_Box_1314
+新增条目 Item.MainInfo.Event_Grocery_Box_1315
+新增条目 Item.MainInfo.Event_Grocery_Box_1316
+新增条目 Item.MainInfo.Event_Grocery_Box_1317
+新增条目 Item.MainInfo.Event_Grocery_Box_1318
+新增条目 Item.MainInfo.Event_Grocery_Box_1319
+新增条目 Item.MainInfo.Event_Grocery_Box_1320
+新增条目 Item.MainInfo.Event_Grocery_Box_1321
+新增条目 Item.MainInfo.Event_Grocery_Box_1322
+新增条目 Item.MainInfo.Event_Grocery_Box_1323
+新增条目 Item.MainInfo.Event_Grocery_Box_1324
+新增条目 Item.MainInfo.Event_Grocery_Box_1325
+新增条目 Item.MainInfo.Event_Grocery_Box_1326
+新增条目 Item.MainInfo.Event_Grocery_Box_1327
+新增条目 Item.MainInfo.Event_Grocery_Box_1328
+新增条目 Item.MainInfo.Event_Grocery_Box_1329
+新增条目 Item.SubInfo.Event_Grocery_Food_0124
+新增条目 Item.Desc4.Event_Grocery_Food_0124
+新增条目 Item.Desc5.Cash_Grocery_Coin_0095
+新增条目 Item.Desc6.Event_Grocery_Box_1268
+新增条目 Item.Desc6.Event_Grocery_Box_1269
+新增条目 Item.Desc6.Event_Grocery_Food_0124
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0032
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0033
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0034
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0039
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0040
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0041
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0042
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0043
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0046
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0047
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0048
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0053
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Item.Desc5.Contents_Weapon_Guardian_0055
+變更前原文 각성 형태로 진화할 수 없습니다.
+變更後原文 각성 형태로 진화할 수 없습니다.<br/>변환을 통해 천상분지 특별 원석 주머니를 획득할 수 있습니다.
+原文变更 Store2.Tendency_pointshop_0003.name2
+變更前原文 천도
+變更後原文 이벤트
+原文变更 FirstGonRyun_env_01
+變更前原文 사당에서 쓰이는 향로입니다.
+變更後原文 사당
+新增条目 SR_Chonsu_env_01
+新增条目 SR_Chonsu_env_02
+新增条目 SR_Chonsu_env_03
+新增条目 FirstGonRyun_env_19
+新增条目 FirstGonRyun_env_20
+新增条目 FirstGonRyun_env_21
+新增条目 FirstGonRyun_env_22
+新增条目 FirstGonRyun_env_23
+新增条目 FirstGonRyun_env_24
+新增条目 Quest.Name2.2186
+新增条目 q_2186_1_text_1
+新增条目 q_2186_1_text_2
+新增条目 q_2186_1_text_3
+新增条目 q_2186_1_text_4
+新增条目 q_2186_1_text_5
+新增条目 q_2186_1_text_6
+新增条目 q_2186_sum
+新增条目 q_2186_des_1
+新增条目 Mission.Name2.2186_1
+新增条目 q_2186_2_text_1
+新增条目 q_2186_2_text_2
+新增条目 q_2186_2_text_3
+新增条目 q_2186_2_text_4
+新增条目 q_2186_3_text_1
+新增条目 q_2186_3_text_2
+新增条目 q_2186_3_text_3
+新增条目 q_2186_3_text_4
+新增条目 q_2186_4_text_1
+新增条目 q_2186_4_text_2
+新增条目 q_2186_4_text_3
+新增条目 q_2186_4_text_4
+新增条目 Mission.Name2.2186_2
+新增条目 q_2186_1_icon_msg_1_text1
+新增条目 q_2186_2_icon_msg_1_text1
+新增条目 q_2186_3_icon_msg_1_text1
+新增条目 q_2186_4_icon_msg_1_text1
+新增条目 QLooting.name2_2172_1
+新增条目 QLooting.name2_2173_9
+新增条目 QLooting.name2_2174_3
+新增条目 QLooting.name2_2174_6
+新增条目 QLooting.name2_2175_1
+新增条目 QLooting.name2_25317_1
+新增条目 QLooting.name2_2182_1
+新增条目 QLooting.name2_2183_2
+新增条目 QLooting.name2_2183_4
+新增条目 QLooting.name2_2184_2
+新增条目 QLooting.name2_2184_4
+新增条目 QLooting.name2_25321_1
+新增条目 QLooting.name2_25322_1
+新增条目 QLooting.name2_25323_1
+新增条目 QLooting.name2_2186_1
+新增条目 QLooting.name2_2186_2
+新增条目 QLooting.name2_2186_3
+新增条目 QLooting.name2_2186_4

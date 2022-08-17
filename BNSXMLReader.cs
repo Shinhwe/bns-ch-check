@@ -1,6 +1,7 @@
 
 using System.Text.RegularExpressions;
 namespace bns_ch_check;
+using System.Text.Json;
 
 public class BNSXmlReader
 {
@@ -61,33 +62,41 @@ public class BNSXmlReader
 
               MatchCollection originalNumberMatchCollection = numberRegex.Matches(originalValue);
 
-              // if (replacementNumberMatchCollection.Count != originalNumberMatchCollection.Count)
-              // {
-              //   Console.WriteLine("译文数字数量和原文数字数量不符! 译文 = {0} 别名 = {1}", replacementValue, alias);
-              // }
-              // else if (originalNumberMatchCollection.Count > 0)
-              // {
-              //   for (int i = 0; i < originalNumberMatchCollection.Count; i++)
-              //   {
-              //     string originalNumberText = originalNumberMatchCollection[i].Value.Replace(",", "");
+              string[] originalNumberArray = originalNumberMatchCollection.OfType<Match>().Select(m => m.Groups[0].Value).Where(m => m != "00008130").ToArray();
 
-              //     string replacementNumberText = replacementNumberMatchCollection[i].Value.Replace(",", "");
+              string[] replacementNumberArray = replacementNumberMatchCollection.OfType<Match>().Select(m => m.Groups[0].Value).Where(m => m != "00008130").ToArray();
 
-              //     int originalNumber = Convert.ToInt32(originalNumberText);
-
-              //     int replacementNumber = Convert.ToInt32(replacementNumberText);
-
-              //     if (originalNumber != replacementNumber)
-              //     {
-              //       Console.WriteLine("译文数字和原文数字不符! 译文 = {0} 别名 = {1}", replacementValue, alias);
-              //     }
-              //   }
-              // }
-
-              if (hangulMatch.Success == true)
+              if (alias.IndexOf("ItemSkill.Text") != -1)
               {
-                Console.WriteLine("译文有韩文! 译文 = {0} 别名 = {1}", replacementValue, alias);
+                if (replacementNumberArray.Length != originalNumberArray.Length)
+                {
+                  Console.WriteLine("译文数字数量和原文数字数量不符!\n原文數字 = {0}\n譯文數字 = {1}\n译文 = {2}\n别名 = {3}", JsonSerializer.Serialize(originalNumberArray), JsonSerializer.Serialize(replacementNumberArray), replacementValue, alias);
+                }
+                else if (originalNumberArray.Length > 0)
+                {
+                  for (int i = 0; i < originalNumberArray.Length; i++)
+                  {
+                    string originalNumberText = originalNumberArray[i].Replace(",", "");
+
+                    string replacementNumberText = replacementNumberArray[i].Replace(",", "");
+
+                    int originalNumber = Convert.ToInt32(originalNumberText);
+
+                    int replacementNumber = Convert.ToInt32(replacementNumberText);
+
+                    if (originalNumber != replacementNumber)
+                    {
+
+                      Console.WriteLine("译文数字和原文数字不符!\n原文數字 = {0}\n譯文數字 = {1}\n译文 = {2}\n别名 = {3}", JsonSerializer.Serialize(originalNumberArray), JsonSerializer.Serialize(replacementNumberArray), replacementValue, alias);
+                    }
+                  }
+                }
               }
+
+              // if (hangulMatch.Success == true)
+              // {
+              //   Console.WriteLine("译文有韩文! 译文 = {0} 别名 = {1}", replacementValue, alias);
+              // }
 
               alias = "";
 
@@ -100,23 +109,6 @@ public class BNSXmlReader
             }
 
           }
-          // switch (reader.NodeType)
-          // {
-          //   case XmlNodeType.Element:
-          //     Console.WriteLine("Start Element {0}", reader.Name);
-          //     break;
-          //   case XmlNodeType.Text:
-          //     Console.WriteLine("Text Node: {0}",
-          //              await reader.GetValueAsync());
-          //     break;
-          //   case XmlNodeType.EndElement:
-          //     Console.WriteLine("End Element {0}", reader.Name);
-          //     break;
-          //   default:
-          //     Console.WriteLine("Other node {0} with value {1}",
-          //                     reader.NodeType, reader.Value);
-          //     break;
-          // }
         }
       }
     }

@@ -1,0 +1,126 @@
+新增条目 Name.Collecting_Mission_0206
+新增条目 Msg.Name.GuideMovie.19
+新增条目 Msg.Name.GuideMovie.20
+新增条目 Msg.Name.GuideMovie.21
+新增条目 Msg.Name.GuideMovie.22
+原文变更 Msg.Name.GuideMovie.28
+變更前原文 &apos;천공의 유랑선&apos; 공략 정보를 확인해보세요.
+變更後原文 천공의 유랑선&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.29
+變更前原文 &apos;몽환의 천수림&apos; 공략 정보를 확인해보세요.
+變更後原文 몽환의 천수림&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.30
+變更前原文 &apos;인형의 폐가&apos; 공략 정보를 확인해보세요.
+變更後原文 인형의 폐가&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.31
+變更前原文 &apos;삼도천 명도귀교&apos; 공략 정보를 확인해보세요.
+變更後原文 삼도천 명도귀교&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.32
+變更前原文 &apos;번개구름 골짜기&apos; 공략 정보를 확인해보세요.
+變更後原文 번개구름 골짜기&apos; 공략 정보를 확인해보세요.
+新增条目 Msg.Name.GuideMovie.19_HT
+新增条目 Msg.Name.GuideMovie.20_HT
+新增条目 Msg.Name.GuideMovie.21_HT
+新增条目 Msg.Name.GuideMovie.22_HT
+原文变更 Msg.Name.GuideMovie.28_HT
+變更前原文 &apos;천공의 유랑선&apos; 공략 정보를 확인해보세요.
+變更後原文 천공의 유랑선&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.29_HT
+變更前原文 &apos;몽환의 천수림&apos; 공략 정보를 확인해보세요.
+變更後原文 몽환의 천수림&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.30_HT
+變更前原文 &apos;인형의 폐가&apos; 공략 정보를 확인해보세요.
+變更後原文 인형의 폐가&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.31_HT
+變更前原文 &apos;삼도천 명도귀교&apos; 공략 정보를 확인해보세요.
+變更後原文 삼도천 명도귀교&apos; 공략 정보를 확인해보세요.
+原文变更 Msg.Name.GuideMovie.32_HT
+變更前原文 &apos;번개구름 골짜기&apos; 공략 정보를 확인해보세요.
+變更後原文 번개구름 골짜기&apos; 공략 정보를 확인해보세요.
+新增条目 Msg.Name.GuideMovie.34_HT
+新增条目 Msg.Name.GuideMovie.35_HT
+新增条目 Msg.Name.GuideMovie.37_HT
+新增条目 Msg.Name.GuideMovie.45_HT
+新增条目 Msg.Name.GuideMovie.46_HT
+新增条目 Name.GuideMovie.34
+新增条目 Name.GuideMovie.35
+新增条目 Name.GuideMovie.36
+新增条目 Name.GuideMovie.37
+新增条目 Name.GuideMovie.38
+新增条目 Name.GuideMovie.39
+新增条目 Name.GuideMovie.40
+新增条目 Name.GuideMovie.41
+新增条目 Name.GuideMovie.42
+新增条目 Name.GuideMovie.43
+新增条目 Name.GuideMovie.44
+新增条目 Name.GuideMovie.45
+新增条目 Name.GuideMovie.46
+原文变更 Name.GuideMovie.Category.2
+變更前原文 조작
+變更後原文 컨텐츠
+原文变更 Name.GuideMovie.Category.4
+變更前原文 컨텐츠
+變更後原文 조작
+原文变更 Item.Name2.Event_Grocery_Coin_GoldSeason_0006
+變更前原文 깨비촌 입장권
+變更後原文 옛 깨비촌 입장권
+原文变更 Item.Name2.Cash_Grocery_Coin_0342
+變更前原文 만물주화
+變更後原文 옛 만물주화
+原文变更 Item.Name2.Cash_Grocery_Coin_0343
+變更前原文 만물상 재입장권
+變更後原文 옛 만물상 재입장권
+原文变更 Item.Name2.Cash_Grocery_Coin_0089
+變更前原文 광현 패스 Plus 티켓
+變更後原文 옛 광현 패스 Plus 티켓
+原文变更 Item.Name2.Cash_Grocery_Potion_0008
+變更前原文 광현 패스 레벨업
+變更後原文 옛 광현 패스 레벨업
+新增条目 Item.Name2.Cash_Grocery_Box_0566
+新增条目 Item.Desc2.Cash_Grocery_Box_0566
+新增条目 Item.MainInfo.Event_Grocery_Coin_GoldSeason_0006
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0342
+變更前原文 풍성한 만물상 구매
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0343
+變更前原文 풍성한 만물상 초기화
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0089
+變更前原文 광현 패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Potion_0008
+變更前原文 광현 소울 패스 포인트 획득<br/>묶음 사용 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_Box_0566
+新增条目 Item.SubInfo.Cash_Grocery_Box_0566
+新增条目 Item.Name2.General_Weapon_Guardian_0194_100
+新增条目 Item.Name2.General_Weapon_Guardian_0194_200
+新增条目 Item.Name2.Event_Weapon_Sword_0153
+新增条目 Item.Name2.Event_Weapon_Gauntlet_0153
+新增条目 Item.Name2.Event_Weapon_Staff_0153
+新增条目 Item.Name2.Event_Weapon_Aura-bangle_0153
+新增条目 Item.Name2.Event_Weapon_Axe_0153
+新增条目 Item.Name2.Event_Weapon_Dagger_0153
+新增条目 Item.Name2.Event_Weapon_RynSword_0153
+新增条目 Item.Name2.Event_Weapon_WarDagger_0153
+新增条目 Item.Name2.Event_Weapon_SoulGauntlet_0153
+新增条目 Item.Name2.Event_Weapon_Gun_0153
+新增条目 Item.Name2.Event_Weapon_GreatSword_0153
+新增条目 Item.Name2.Event_Weapon_LongBow_0153
+新增条目 Item.Name2.Event_Weapon_Orb_0153
+新增条目 Item.Name2.Event_Weapon_DualBlade_0153
+原文变更 Skill3.Destroyer_Protection_Typhoon_Lv1.SUB_3
+變更前原文 명중 시 근성<br/>근성 중 최대 내력 100 증가
+變更後原文 사용 시 근성<br/>근성 중 최대 내력 100 증가
+原文变更 Skill3.Destroyer_G2_Execution_1_Lv3_SUB_6
+變更前原文 첫 번째 타격 시 적 끌어당김, 튕기기 관통
+變更後原文 시전 중 적 끌어당김(최대 4회)
+原文变更 Transform.Warning.fail
+變更前原文 일정 확률로 <font name="00008130.UI.Vital_red">실패</font>할 수 있습니다.
+變更後原文 일정 확률로 <font name="00008130.UI.Vital_red">실패</font>할 수 있습니다.<br/>확률은 세부 확률 버튼 혹은 블소N샵 공지사항에서 확인 가능합니다.
+原文变更 CH_WC_HwaJung_0003_soc_01_text
+變更前原文 목인장에게 <arg p="id:skill.name2" id="skill:SoulFighter_Attack_JusticePunch_Lv1"/><arg p="id:skill.current-short-cut-key.key1.image" id="skill:SoulFighter_Attack_JusticePunch_Lv1"/> <arg p="id:skill.name2" id="skill:SoulFighter_Attack_PowerstepPunch_Lv1"/><arg p="id:skill.current-short-cut-key.key1.image" id="skill:SoulFighter_Attack_PowerstepPunch_Lv1"/> <arg p="id:skill.name2" id="skill:SoulFighter_Attack_FinalAttack_Lv1_Earth"/><arg p="id:skill.current-short-cut-key.key1.image" id="skill:SoulFighter_Attack_FinalAttack_Lv1_Earth1"/> 연계기를 수련해봐!
+變更後原文 목인장에게 <arg p="id:skill.name2" id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1"/><arg p="id:skill.current-short-cut-key.key1.image" id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1"/><arg p="id:skill.name2" id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1"/><arg p="id:skill.current-short-cut-key.key1.image" id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1"/> 연계기를 수련해봐!
+原文变更 gm_344_1
+變更前原文 목인장을 상대로 <arg id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1" p="id:skill.name2"/><arg id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1" p="id:skill.icon"/><arg id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1" p="id:skill.current-short-cut-key.key1.image"/><arg id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1" p="id:skill.name2"/><arg id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1" p="id:skill.icon"/><arg id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1" p="id:skill.current-short-cut-key.key1.image"/><arg id="skill:SoulFighter_G1_Attack_FinalAttack_Lv1" p="id:skill.name2"/><arg id="skill:SoulFighter_G1_Attack_FinalAttack_Lv1" p="id:skill.icon"/><arg id="skill:SoulFighter_G1_Attack_FinalAttack_Lv1" p="id:skill.current-short-cut-key.key1.image"/> 연계기를 사용하세요
+變更後原文 목인장을 상대로 <arg id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1" p="id:skill.name2"/><arg id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1" p="id:skill.icon"/><arg id="skill:SoulFighter_G1_Attack_JusticePunch_Lv1" p="id:skill.current-short-cut-key.key1.image"/> <arg id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1" p="id:skill.name2"/><arg id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1" p="id:skill.icon"/><arg id="skill:SoulFighter_G1_Attack_PowerstepPunch_Lv1" p="id:skill.current-short-cut-key.key1.image"/> 연계기를 사용하세요<br/><font name="00008130.UI.Eq_ItemGrade_Quest">기권사 [금강]</font> 계열만 퀘스트를 진행할 수 있습니다

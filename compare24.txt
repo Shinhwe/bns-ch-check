@@ -1,0 +1,793 @@
+新增条目 chatdomain.AncientTower
+新增条目 Name.Collecting_Mission_0207
+新增条目 Name.Collecting_Mission_0208
+新增条目 Name.Collecting_Mission_0209
+新增条目 Name.Collecting_Mission_0210
+新增条目 Name.Collecting_Mission_0211
+新增条目 Name.Collecting_Mission_0212
+新增条目 Name.Collecting_Mission_0213
+新增条目 Name.Collecting_Mission_0214
+新增条目 Name.Collecting_Mission_0215
+新增条目 Name.Collecting_Mission_0216
+新增条目 Name.Collecting_Mission_0217
+新增条目 Name.Collecting_Mission_0218
+新增条目 Name.Collecting_Mission_0219
+新增条目 Name.Collecting_Mission_0220
+新增条目 Name.Collecting_Mission_0221
+新增条目 Name.Collecting_Mission_0222
+新增条目 Name.Collecting_Mission_0223
+原文变更 Dungeon.Name2.Dungeon_blackspeartemple
+變更前原文 흑창족 신전
+變更後原文 혼돈의 흑신목
+原文变更 InterD.Desc.Dungeon_Bongin_NaRyuSeongJi
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_NaryuSungJi"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>아만<br/><br/>잠들어있던 고대 나류법기들이 깨어났다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_NaryuSungJi"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>아만<br/><br/>잠들어있던 고대 나류법기들이 깨어났다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_PirateShip
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_PirateShip_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>묵철완<br/><br/>해적 흑혈단의 숨겨진 본거지<br/>바다의 보물을 손에 넣고 강력한 저주의 힘을 얻은 흑혈단은 육지로의 침공을 준비하고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_PirateShip_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>묵철완<br/><br/>해적 흑혈단의 숨겨진 본거지<br/>바다의 보물을 손에 넣고 강력한 저주의 힘을 얻은 흑혈단은 육지로의 침공을 준비하고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_GwiMyeonGeukDan
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_GhostMask_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>귀면왕<br/><br/>귀면극단 비밀 무대<br/>은밀하게 진행되는 밤의 귀면극에서 사람들이 사라지고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_GhostMask_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>귀면왕<br/><br/>귀면극단 비밀 무대<br/>은밀하게 진행되는 밤의 귀면극에서 사람들이 사라지고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_DistrotedCastle
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_CheonMuGung_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>파천무황 섭무<br/><br/>죽어서도 죽지 못한 자의 원한과 닮은 듯 강력한 주술로 뒤틀려 버린 천무궁.<br/>천무궁을 집어삼킨 강력한 사령술이 천무궁의 망자들을 되살리고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_CheonMuGung_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>파천무황 섭무<br/><br/>죽어서도 죽지 못한 자의 원한과 닮은 듯 강력한 주술로 뒤틀려 버린 천무궁.<br/>천무궁을 집어삼킨 강력한 사령술이 천무궁의 망자들을 되살리고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_HangerTheZeroth
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_HangerTheZeroth_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>기동법기 설영: 제0식<br/><br/>설풍대가 강철장벽에 은신하여 만든 최초의 격납고. <br/>당시 설풍대 법기연구진이 가진 최고의 기술력을 총 동원하여 만들었던 초월형 기동법기가 잠들어 있다. <br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_HangerTheZeroth_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>기동법기 설영: 제0식<br/><br/>설풍대가 강철장벽에 은신하여 만든 최초의 격납고. <br/>당시 설풍대 법기연구진이 가진 최고의 기술력을 총 동원하여 만들었던 초월형 기동법기가 잠들어 있다. <br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_SunDoWon
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Sundowon_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>제천<br/>영화주의 영험한 힘을 담은 선도가 열리는 과수원.<br/>제천과 어린 영수들이 혼란스러운 틈을 타 선도원을 점거하고 선도주를 갈취하고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Sundowon_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>제천<br/>영화주의 영험한 힘을 담은 선도가 열리는 과수원.<br/>제천과 어린 영수들이 혼란스러운 틈을 타 선도원을 점거하고 선도주를 갈취하고 있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_DollHouse
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_DollHouse_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>마기인형 아가<br/>서락의 대부호였던 무역상인의 집.<br/>자신을 악령으로부터 보호하기 위해 많은 함정들과 전투인형들로 집안을 채워놓았다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_DollHouse_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>마기인형 아가<br/>서락의 대부호였던 무역상인의 집.<br/>자신을 악령으로부터 보호하기 위해 많은 함정들과 전투인형들로 집안을 채워놓았다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_GumjoBase
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_GumjoBase_Boss"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>아얀카<br/><br/>서락에서의 그릇된 천명제로 인해<br/>피폐해진 금조족 번개부락<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_GumjoBase_Boss"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>아얀카<br/><br/>서락에서의 그릇된 천명제로 인해<br/>피폐해진 금조족 번개부락<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_Punishment
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Punishment_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>집행자 야마현, 야마사<br/>사람이 죽어 저승으로 가는 도중 있다는 다리.<br/>망자에게는 걷고 또 걸어야 닿을 수 있는 곳이라 전해진다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Punishment_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>집행자 야마현, 야마사<br/>사람이 죽어 저승으로 가는 도중 있다는 다리.<br/>망자에게는 걷고 또 걸어야 닿을 수 있는 곳이라 전해진다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_CheonMyungHatchery
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Hatchery_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>천음마왕<br/><br/>겉으로 보기엔 운국의 서적들을 관리하는 평범한 건물.<br/>하지만 그 안쪽에는 엄청난 비밀이 도사리고 있었다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Hatchery_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>천음마왕<br/><br/>겉으로 보기엔 운국의 서적들을 관리하는 평범한 건물.<br/>하지만 그 안쪽에는 엄청난 비밀이 도사리고 있었다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_SandTemple
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_SandTemple_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>굴라<br/><br/>탐욕에 빠져 봉인되었던 고대의 제사관이 깨어났다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"/></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_SandTemple_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>굴라<br/><br/>탐욕에 빠져 봉인되었던 고대의 제사관이 깨어났다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_Sujangko
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_NaRyuStorage"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>아검 아마라<br/><br/>태천왕의 무덤에 있는 석실 중 하나인 수장고.<br/>이곳에 강력한 나류 법기가 잠들어 있다는 사실을 알게 된 철무괴는 독고검에게 탈취를 명령한다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_NaRyuStorage"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>아검 아마라<br/><br/>태천왕의 무덤에 있는 석실 중 하나인 수장고.<br/>이곳에 강력한 나류 법기가 잠들어 있다는 사실을 알게 된 철무괴는 독고검에게 탈취를 명령한다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_HookCanyon
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Hookcanyon_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>서리갈<br/><br/>잿빛 사막에 숨겨진 패랑족의 무기 제작 및 광물 채취 장소<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_Hookcanyon_Boss1"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>서리갈<br/><br/>잿빛 사막에 숨겨진 패랑족의 무기 제작 및 광물 채취 장소<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+原文变更 InterD.Desc.Dungeon_BimilJeondang
+變更前原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_BimilJeondang_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>흑룡교주 진천마왕<br/><br/>흑룡교의 비밀스러운 종교 활동이 이루어지는 장소.<br/>정신이 돌아온 흑룡교주를 이곳으로 데려가 음모를 꾸미고있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행을 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+變更後原文 <p justification="true" justificationtype="linefeedbywidgetarea"><link id="none"><image enablescale="true" imagesetpath="00015590.Tag_Persons" scalerate="1.2"/>6인<image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Two" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Six" scalerate="1.4"/><image enablescale="true" imagesetpath="00015590.Tag_Dungeon_Four" scalerate="1.4"/></link> <link id="none"><font name="00008130.UI.Label_LightYellow_12">통합매칭 가능</font></link></p><p horizontalalignment="center"><br/><image enablescale="false" imagesetpath="00027918.Dungeon_BimilJeondang_Boss2"/><br/><image enablescale="true" imagesetpath="00009499.Field_Boss" scalerate="1.4"/>흑룡교주 진천마왕<br/><br/>흑룡교의 비밀스러운 종교 활동이 이루어지는 장소.<br/>정신이 돌아온 흑룡교주를 이곳으로 데려가 음모를 꾸미고있다.<br/><br/>입문 파티는 연습 난이도로 퀘스트 진행이 가능하지만, 보스 처치에 따른 보상은 획득할 수 없습니다.</p>
+新增条目 Msg.ME_PA_BlackSnakeLightDarkness_0003_HL_01
+新增条目 Msg.ME_PA_BlackSnakeLightDarkness_0003_HL_01_BHT
+新增条目 Msg.Quest.Replay.Accept
+新增条目 Msg.Quest.Replay.Dispose
+新增条目 Msg.Quest.Replay.Added
+原文变更 Msg.TimeLimitField.Enter.Fail.NotRequiredMasteryLevel
+變更前原文 요구 마스터리 레벨에 만족하지 않습니다.
+變更後原文 요구 홍문 레벨에 만족하지 않습니다.
+新增条目 Msg.Item.Buy.Fail
+新增条目 Msg.Slate.ChangePage.Fail
+新增条目 Msg.Slate.ChangePage.Success
+新增条目 Msg.Badge.Ok.ChangeBadgePage.Number
+新增条目 Msg.Badge.Fail.ChangeBadgePage
+新增条目 Msg.TalkSocial.Mourning_5250
+新增条目 Msg.TalkSocial.target.Mourning_5250
+原文变更 Msg.TalkSocial.Mourning
+變更前原文 <arg p="2:creature.name"/><ga/> 애도합니다.
+變更後原文 <arg p="2:creature.name"/><ga/> 슬픔에 잠김니다.
+原文变更 Msg.TalkSocial.target.Mourning
+變更前原文 <arg p="2:creature.name"/><ga/> <arg p="3:string"/>에게 애도의 뜻을 표합니다.
+變更後原文 <arg p="2:creature.name"/><ga/> 슬픔에 잠김니다.
+新增条目 Msg.TalkSocial.Costume_Premium2022_5th
+新增条目 Msg.TalkSocial.target.Costume_Premium2022_5th
+新增条目 Msg.Quest.AcquireFail.InvalidZone
+新增条目 IBN.ItemBrand_ContentsGuardian_0003
+新增条目 IBMain.ItemBrand_ContentsGuardian_0003
+新增条目 ItemBrand.Desc5.0308
+新增条目 Set.Name2.Item_Set_0563
+新增条目 Name2.2022_07_13_01
+新增条目 Name2.2022_06_22_02
+原文变更 ItemSkill_KF_S21_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">흑랑/혈랑/아랑변신</font> 사용 시 공력피해율 12% 증가<br/><font name="00008130.UI.Vital_LightBlue">아랑난무</font> 명중 시 철권 추가 10 중첩
+變更後原文 <font name="00008130.UI.Vital_LightBlue">흑랑/혈랑/아랑변신</font> 사용 시 15초간 신토효과<br/>신토효과 중 공력피해율 12% 증가<br/><font name="00008130.UI.Vital_LightBlue">아랑난무</font> 명중 시 철권 추가 10 중첩
+原文变更 ItemSkill_KF_S21_Lv1_01_Tooltip
+變更前原文 흑랑/혈랑/아랑변신 사용 시 공력피해율 12% 증가
+變更後原文 흑랑/혈랑/아랑변신 사용 시 15초간 신토효과<br/>신토효과 중 공력피해율 12% 증가
+新增条目 Item.Name2.Event_Costume_Dress_0403
+新增条目 Item.Name2.Event_Costume_Decoration_0414
+新增条目 Item.Name2.Event_Costume_Decoration_0415
+新增条目 Item.Name2.Event_Costume_Dress_0404
+新增条目 Item.Name2.Event_Costume_Decoration_0416
+新增条目 Item.Name2.Event_Costume_Decoration_0417
+新增条目 Item.Name2.Cash_Costume_Dress_0380
+新增条目 Item.Name2.Cash_Costume_Decoration_0425
+新增条目 Item.Name2.Cash_Costume_Decoration_0426
+新增条目 Item.Name2.Cash_Costume_Dress_0381
+新增条目 Item.Name2.Cash_Costume_Decoration_0427
+新增条目 Item.Name2.Cash_Costume_Decoration_0428
+新增条目 Item.Name2.Cash_Costume_Dress_0382
+新增条目 Item.Name2.Cash_Costume_Decoration_0429
+新增条目 Item.Name2.Cash_Costume_Decoration_0430
+新增条目 Item.Name2.Cash_Costume_Dress_0383
+新增条目 Item.Name2.Cash_Costume_Decoration_0431
+新增条目 Item.Name2.Cash_Costume_Dress_0384
+新增条目 Item.Name2.Cash_Costume_Decoration_0432
+新增条目 Item.Desc2.Event_Costume_Dress_0403
+新增条目 Item.Desc2.Event_Costume_Decoration_0414
+新增条目 Item.Desc2.Event_Costume_Decoration_0415
+新增条目 Item.Desc2.Event_Costume_Dress_0404
+新增条目 Item.Desc2.Event_Costume_Decoration_0416
+新增条目 Item.Desc2.Event_Costume_Decoration_0417
+新增条目 Item.Desc2.Cash_Costume_Dress_0380
+新增条目 Item.Desc2.Cash_Costume_Decoration_0425
+新增条目 Item.Desc2.Cash_Costume_Decoration_0426
+新增条目 Item.Desc2.Cash_Costume_Dress_0381
+新增条目 Item.Desc2.Cash_Costume_Decoration_0427
+新增条目 Item.Desc2.Cash_Costume_Decoration_0428
+新增条目 Item.Desc2.Cash_Costume_Dress_0382
+新增条目 Item.Desc2.Cash_Costume_Decoration_0429
+新增条目 Item.Desc2.Cash_Costume_Decoration_0430
+新增条目 Item.Desc2.Cash_Costume_Dress_0383
+新增条目 Item.Desc2.Cash_Costume_Decoration_0431
+新增条目 Item.Desc2.Cash_Costume_Dress_0384
+新增条目 Item.Desc2.Cash_Costume_Decoration_0432
+新增条目 Item.Desc6.Event_Costume_Dress_0403
+新增条目 Item.Desc6.Event_Costume_Decoration_0414
+新增条目 Item.Desc6.Event_Costume_Decoration_0415
+新增条目 Item.Desc6.Event_Costume_Dress_0404
+新增条目 Item.Desc6.Event_Costume_Decoration_0416
+新增条目 Item.Desc6.Event_Costume_Decoration_0417
+原文变更 Item.Name2.General_Grocery_Coin_0298
+變更前原文 빛나는 천류 정복주화 [정규시즌 3]
+變更後原文 옛 빛나는 천류 정복주화 [정규시즌 3]
+新增条目 Item.Name2.General_Grocery_Coin_0303
+新增条目 Item.Name2.General_Grocery_Coin_0304
+新增条目 Item.Name2.General_Grocery_Box_4956
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0006
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0007
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0008
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0009
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0010
+新增条目 Item.Name2.Merchant_Grocery_Potion_1256
+新增条目 Item.Name2.General_Grocery_ExpTalisman_0017
+新增条目 Item.Name2.General_Grocery_ExpTalisman_0018
+新增条目 Item.Name2.General_Grocery_ExpTalisman_0019
+新增条目 Item.Name2.General_Grocery_Box_4957
+新增条目 Item.Name2.General_Grocery_Box_4958
+新增条目 Item.Name2.General_Grocery_Box_4959
+新增条目 Item.Name2.General_Grocery_SelectionBox_0771
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0011
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0012
+新增条目 Item.Name2.General_Grocery_WeaponGemBox_0013
+原文变更 Item.Desc2.General_Grocery_Coin_0298
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당, 곤륜파 본산 정규시즌 3이 종료되어 더 이상 획득이 불가능합니다.<br/>2022/05/18 까지 교환 가능합니다.&quot;</font>
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Coin_0301
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당, 곤륜파 본산 정규시즌 4 보상으로 획득할 수 있습니다<br/>교환 종료 시점은 추후 공지 예정입니다.&quot;</font>
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당, 곤륜파 본산 정규시즌 4가 종료되어 더 이상 획득이 불가능합니다.<br/>2022/06/22 까지 교환 가능합니다.&quot;</font>
+新增条目 Item.Desc2.General_Grocery_Coin_0303
+新增条目 Item.Desc2.General_Grocery_Coin_0304
+新增条目 Item.Desc2.Merchant_Grocery_Potion_1256
+原文变更 Item.MainInfo.General_Grocery_Coin_0298
+變更前原文 물품 교환
+變更後原文 <font name="00008130.UI.Vital_red">사용 불가</font>
+新增条目 Item.MainInfo.General_Grocery_Coin_0303
+新增条目 Item.MainInfo.General_Grocery_Coin_0304
+新增条目 Item.MainInfo.General_Grocery_Box_4956
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0006
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0007
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0008
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0009
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0010
+新增条目 Item.MainInfo.Merchant_Grocery_Potion_1256
+新增条目 Item.MainInfo.General_Grocery_ExpTalisman_0017
+新增条目 Item.MainInfo.General_Grocery_ExpTalisman_0018
+新增条目 Item.MainInfo.General_Grocery_ExpTalisman_0019
+新增条目 Item.MainInfo.General_Grocery_Box_4957
+新增条目 Item.MainInfo.General_Grocery_Box_4958
+新增条目 Item.MainInfo.General_Grocery_Box_4959
+新增条目 Item.MainInfo.General_Grocery_SelectionBox_0771
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0011
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0012
+新增条目 Item.MainInfo.General_Grocery_WeaponGemBox_0013
+新增条目 Item.Desc4.General_Grocery_Coin_0304
+新增条目 Item.Desc4.Merchant_Grocery_Potion_1256
+新增条目 Item.Desc5.General_Grocery_Coin_0303
+新增条目 Item.Desc5.Merchant_Grocery_Potion_1256
+新增条目 Item.Desc5.General_Grocery_ExpTalisman_0017
+新增条目 Item.Desc5.General_Grocery_ExpTalisman_0018
+新增条目 Item.Desc5.General_Grocery_ExpTalisman_0019
+新增条目 Item.Desc5.General_Grocery_WeaponGemBox_0011
+新增条目 Item.Desc5.General_Grocery_WeaponGemBox_0012
+新增条目 Item.Desc5.General_Grocery_WeaponGemBox_0013
+新增条目 Item.Desc6.General_Grocery_Coin_0303
+新增条目 Item.Desc6.General_Grocery_Coin_0304
+新增条目 Item.Desc6.General_Grocery_Box_4956
+新增条目 Item.Desc6.General_Grocery_WeaponGemBox_0006
+新增条目 Item.Desc6.General_Grocery_WeaponGemBox_0007
+新增条目 Item.Desc6.General_Grocery_WeaponGemBox_0008
+新增条目 Item.Desc6.General_Grocery_WeaponGemBox_0009
+新增条目 Item.Desc6.General_Grocery_WeaponGemBox_0010
+新增条目 Item.Desc6.General_Grocery_ExpTalisman_0017
+新增条目 Item.Desc6.General_Grocery_ExpTalisman_0018
+新增条目 Item.Desc6.General_Grocery_ExpTalisman_0019
+新增条目 Item.Desc6.General_Grocery_Box_4957
+新增条目 Item.Desc6.General_Grocery_Box_4958
+新增条目 Item.Desc6.General_Grocery_Box_4959
+新增条目 Item.Desc6.General_Grocery_SelectionBox_0771
+原文变更 Item.Name2.Event_Grocery_Box_1270
+變更前原文 성장의 봄 특별 진기석 상자
+變更後原文 최고급 특별 진기석 상자
+原文变更 Item.Name2.Event_Grocery_Box_1271
+變更前原文 성장의 봄 특별 원기석 상자
+變更後原文 최고급 특별 원기석 상자
+原文变更 Item.Name2.Event_Grocery_Box_1272
+變更前原文 성장의 봄 진기석 상자
+變更後原文 고급 진기석 상자
+原文变更 Item.Name2.Event_Grocery_Box_1273
+變更前原文 성장의 봄 원기석 상자
+變更後原文 고급 원기석 상자
+原文变更 Item.Name2.Event_Grocery_Box_1274
+變更前原文 성장의 봄 특별 진기석 검사 상자
+變更後原文 최고급 특별 진기석 검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1275
+變更前原文 성장의 봄 특별 진기석 권사 상자
+變更後原文 최고급 특별 진기석 권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1276
+變更前原文 성장의 봄 특별 진기석 기공사 상자
+變更後原文 최고급 특별 진기석 기공사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1277
+變更前原文 성장의 봄 특별 진기석 소환사 상자
+變更後原文 최고급 특별 진기석 소환사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1278
+變更前原文 성장의 봄 특별 진기석 격사 상자
+變更後原文 최고급 특별 진기석 격사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1279
+變更前原文 성장의 봄 특별 진기석 역사 상자
+變更後原文 최고급 특별 진기석 역사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1280
+變更前原文 성장의 봄 특별 진기석 암살자 상자
+變更後原文 최고급 특별 진기석 암살자 상자
+原文变更 Item.Name2.Event_Grocery_Box_1281
+變更前原文 성장의 봄 특별 진기석 투사 상자
+變更後原文 최고급 특별 진기석 투사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1282
+變更前原文 성장의 봄 특별 진기석 궁사 상자
+變更後原文 최고급 특별 진기석 궁사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1283
+變更前原文 성장의 봄 특별 진기석 천도사 상자
+變更後原文 최고급 특별 진기석 천도사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1284
+變更前原文 성장의 봄 특별 진기석 쌍검사 상자
+變更後原文 최고급 특별 진기석 쌍검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1285
+變更前原文 성장의 봄 특별 진기석 린검사 상자
+變更後原文 최고급 특별 진기석 린검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1286
+變更前原文 성장의 봄 특별 진기석 기권사 상자
+變更後原文 최고급 특별 진기석 기권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1287
+變更前原文 성장의 봄 특별 진기석 주술사 상자
+變更後原文 최고급 특별 진기석 주술사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1288
+變更前原文 성장의 봄 특별 원기석 검사 상자
+變更後原文 최고급 특별 원기석 검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1289
+變更前原文 성장의 봄 특별 원기석 권사 상자
+變更後原文 최고급 특별 원기석 권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1290
+變更前原文 성장의 봄 특별 원기석 기공사 상자
+變更後原文 최고급 특별 원기석 기공사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1291
+變更前原文 성장의 봄 특별 원기석 소환사 상자
+變更後原文 최고급 특별 원기석 소환사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1292
+變更前原文 성장의 봄 특별 원기석 격사 상자
+變更後原文 최고급 특별 원기석 격사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1293
+變更前原文 성장의 봄 특별 원기석 역사 상자
+變更後原文 최고급 특별 원기석 역사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1294
+變更前原文 성장의 봄 특별 원기석 암살자 상자
+變更後原文 최고급 특별 원기석 암살자 상자
+原文变更 Item.Name2.Event_Grocery_Box_1295
+變更前原文 성장의 봄 특별 원기석 투사 상자
+變更後原文 최고급 특별 원기석 투사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1296
+變更前原文 성장의 봄 특별 원기석 궁사 상자
+變更後原文 최고급 특별 원기석 궁사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1297
+變更前原文 성장의 봄 특별 원기석 천도사 상자
+變更後原文 최고급 특별 원기석 천도사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1298
+變更前原文 성장의 봄 특별 원기석 쌍검사 상자
+變更後原文 최고급 특별 원기석 쌍검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1299
+變更前原文 성장의 봄 특별 원기석 린검사 상자
+變更後原文 최고급 특별 원기석 린검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1300
+變更前原文 성장의 봄 특별 원기석 기권사 상자
+變更後原文 최고급 특별 원기석 기권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1301
+變更前原文 성장의 봄 특별 원기석 주술사 상자
+變更後原文 최고급 특별 원기석 주술사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1302
+變更前原文 성장의 봄 진기석 검사 상자
+變更後原文 고급 진기석 검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1303
+變更前原文 성장의 봄 진기석 권사 상자
+變更後原文 고급 진기석 권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1304
+變更前原文 성장의 봄 진기석 기공사 상자
+變更後原文 고급 진기석 기공사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1305
+變更前原文 성장의 봄 진기석 소환사 상자
+變更後原文 고급 진기석 소환사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1306
+變更前原文 성장의 봄 진기석 격사 상자
+變更後原文 고급 진기석 격사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1307
+變更前原文 성장의 봄 진기석 역사 상자
+變更後原文 고급 진기석 역사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1308
+變更前原文 성장의 봄 진기석 암살자 상자
+變更後原文 고급 진기석 암살자 상자
+原文变更 Item.Name2.Event_Grocery_Box_1309
+變更前原文 성장의 봄 진기석 투사 상자
+變更後原文 고급 진기석 투사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1310
+變更前原文 성장의 봄 진기석 궁사 상자
+變更後原文 고급 진기석 궁사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1311
+變更前原文 성장의 봄 진기석 천도사 상자
+變更後原文 고급 진기석 천도사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1312
+變更前原文 성장의 봄 진기석 쌍검사 상자
+變更後原文 고급 진기석 쌍검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1313
+變更前原文 성장의 봄 진기석 린검사 상자
+變更後原文 고급 진기석 린검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1314
+變更前原文 성장의 봄 진기석 기권사 상자
+變更後原文 고급 진기석 기권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1315
+變更前原文 성장의 봄 진기석 주술사 상자
+變更後原文 고급 진기석 주술사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1316
+變更前原文 성장의 봄 원기석 검사 상자
+變更後原文 고급 원기석 검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1317
+變更前原文 성장의 봄 원기석 권사 상자
+變更後原文 고급 원기석 권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1318
+變更前原文 성장의 봄 원기석 기공사 상자
+變更後原文 고급 원기석 기공사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1319
+變更前原文 성장의 봄 원기석 소환사 상자
+變更後原文 고급 원기석 소환사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1320
+變更前原文 성장의 봄 원기석 격사 상자
+變更後原文 고급 원기석 격사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1321
+變更前原文 성장의 봄 원기석 역사 상자
+變更後原文 고급 원기석 역사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1322
+變更前原文 성장의 봄 원기석 암살자 상자
+變更後原文 고급 원기석 암살자 상자
+原文变更 Item.Name2.Event_Grocery_Box_1323
+變更前原文 성장의 봄 원기석 투사 상자
+變更後原文 고급 원기석 투사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1324
+變更前原文 성장의 봄 원기석 궁사 상자
+變更後原文 고급 원기석 궁사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1325
+變更前原文 성장의 봄 원기석 천도사 상자
+變更後原文 고급 원기석 천도사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1326
+變更前原文 성장의 봄 원기석 쌍검사 상자
+變更後原文 고급 원기석 쌍검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1327
+變更前原文 성장의 봄 원기석 린검사 상자
+變更後原文 고급 원기석 린검사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1328
+變更前原文 성장의 봄 원기석 기권사 상자
+變更後原文 고급 원기석 기권사 상자
+原文变更 Item.Name2.Event_Grocery_Box_1329
+變更前原文 성장의 봄 원기석 주술사 상자
+變更後原文 고급 원기석 주술사 상자
+原文变更 Item.Name2.Cash_Grocery_Coin_0097
+變更前原文 소울패스 주화 [소울패스 11시즌]
+變更後原文 옛 소울패스 주화 [소울패스 11시즌]
+原文变更 Item.Name2.Event_Grocery_Box_1331
+變更前原文 배낭
+變更後原文 옛 배낭
+原文变更 Item.Name2.Event_Grocery_Coin_0371
+變更前原文 영양만점 도시락
+變更後原文 옛 영양만점 도시락
+原文变更 Item.Name2.Cash_Grocery_Coin_0099
+變更前原文 부유도 성장 스페셜 패스 Plus 티켓
+變更後原文 옛 부유도 성장 스페셜 패스 Plus 티켓
+原文变更 Item.Name2.Cash_Grocery_Potion_0011
+變更前原文 부유도 성장 스페셜 패스 레벨업
+變更後原文 옛 부유도 성장 스페셜 패스 레벨업
+原文变更 Item.Name2.Cash_Grocery_Coin_0101
+變更前原文 수호 보석 성장 스페셜 패스 Plus 티켓
+變更後原文 옛 수호 보석 성장 스페셜 패스 Plus 티켓
+原文变更 Item.Name2.Cash_Grocery_Potion_0012
+變更前原文 수호 보석 성장 스페셜 패스 레벨업
+變更後原文 옛 수호 보석 성장 스페셜 패스 레벨업
+原文变更 Item.Name2.Event_Grocery_Box_1335
+變更前原文 감사 꽃바구니
+變更後原文 옛 감사 꽃바구니
+新增条目 Item.Name2.Event_Grocery_Box_1336
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0109
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0110
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0111
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0112
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0113
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0114
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0115
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0116
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0117
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0118
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0119
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0120
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0121
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0122
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0123
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0124
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0125
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0126
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0127
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0128
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0129
+新增条目 Item.Name2.Contents_Grocery_WeaponGem_0130
+新增条目 Item.Name2.Cash_Grocery_Box_0603
+新增条目 Item.Name2.Event_Grocery_Box_1337
+新增条目 Item.Name2.Event_Grocery_Box_1338
+新增条目 Item.Name2.Event_Grocery_Box_1339
+新增条目 Item.Name2.Event_Grocery_Box_1340
+新增条目 Item.Name2.Cash_Grocery_Box_0604
+新增条目 Item.Name2.Cash_Grocery_Box_0605
+新增条目 Item.Name2.Cash_Grocery_Coin_0347
+新增条目 Item.Name2.Cash_Grocery_Coin_0348
+新增条目 Item.Name2.Cash_Grocery_Coin_0349
+新增条目 Item.Name2.Cash_Grocery_Potion_0013
+新增条目 Item.Desc2.Event_Grocery_Box_1336
+新增条目 Item.Desc2.Cash_Grocery_Box_0605
+新增条目 Item.Desc2.Cash_Grocery_Coin_0347
+新增条目 Item.Desc2.Cash_Grocery_Coin_0348
+新增条目 Item.Desc2.Cash_Grocery_Potion_0013
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0097
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1331
+變更前原文 물품 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0371
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0099
+變更前原文 부유도 성장 스페셜 패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Potion_0011
+變更前原文 부유도 성장 스페셜 패스 포인트 획득<br/>묶음 사용 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0101
+變更前原文 수호 보석 성장 스페셜 패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Potion_0012
+變更前原文 수호 보석 성장 스페셜 패스 포인트 획득<br/>묶음 사용 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1335
+變更前原文 물품 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Event_Grocery_Box_1336
+新增条目 Item.MainInfo.Cash_Grocery_Box_0603
+新增条目 Item.MainInfo.Event_Grocery_Box_1337
+新增条目 Item.MainInfo.Event_Grocery_Box_1338
+新增条目 Item.MainInfo.Event_Grocery_Box_1339
+新增条目 Item.MainInfo.Event_Grocery_Box_1340
+新增条目 Item.MainInfo.Cash_Grocery_Box_0604
+新增条目 Item.MainInfo.Cash_Grocery_Box_0605
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0347
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0348
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0349
+新增条目 Item.MainInfo.Cash_Grocery_Potion_0013
+新增条目 Item.Desc6.Event_Grocery_Box_1336
+新增条目 Item.Desc6.Cash_Grocery_Box_0603
+新增条目 Item.Desc6.Cash_Grocery_Box_0604
+新增条目 Item.Desc6.Cash_Grocery_Box_0605
+新增条目 Item.Name2.Contents_Weapon_Guardian_0056
+新增条目 Item.Name2.Contents_Weapon_Guardian_0057
+新增条目 Item.Name2.Contents_Weapon_Guardian_0058
+新增条目 Item.Name2.Contents_Weapon_Guardian_0059
+新增条目 Item.Name2.Contents_Weapon_Guardian_0060
+新增条目 Item.Name2.Contents_Weapon_Guardian_0061
+新增条目 Item.Name2.Contents_Weapon_Guardian_0062
+新增条目 Item.Name2.Contents_Weapon_Guardian_0063
+新增条目 Item.Name2.Contents_Weapon_Guardian_0064
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0056
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0057
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0058
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0059
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0060
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0061
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0062
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0063
+新增条目 Item.Desc5.Contents_Weapon_Guardian_0064
+新增条目 Item.Name2.Event_Weapon_Sword_0156
+新增条目 Item.Name2.Event_Weapon_Gauntlet_0156
+新增条目 Item.Name2.Event_Weapon_Aura-bangle_0156
+新增条目 Item.Name2.Event_Weapon_Staff_0156
+新增条目 Item.Name2.Event_Weapon_Gun_0156
+新增条目 Item.Name2.Event_Weapon_Axe_0156
+新增条目 Item.Name2.Event_Weapon_Dagger_0156
+新增条目 Item.Name2.Event_Weapon_GreatSword_0156
+新增条目 Item.Name2.Event_Weapon_LongBow_0156
+新增条目 Item.Name2.Event_Weapon_Orb_0156
+新增条目 Item.Name2.Event_Weapon_DualBlade_0156
+新增条目 Item.Name2.Event_Weapon_RynSword_0156
+新增条目 Item.Name2.Event_Weapon_SoulGauntlet_0156
+新增条目 Item.Name2.Event_Weapon_WarDagger_0156
+新增条目 Item.Name2.Cash_Weapon_Sword_0158
+新增条目 Item.Name2.Cash_Weapon_Gauntlet_0158
+新增条目 Item.Name2.Cash_Weapon_Aura-bangle_0158
+新增条目 Item.Name2.Cash_Weapon_Staff_0158
+新增条目 Item.Name2.Cash_Weapon_Gun_0158
+新增条目 Item.Name2.Cash_Weapon_Axe_0158
+新增条目 Item.Name2.Cash_Weapon_Dagger_0158
+新增条目 Item.Name2.Cash_Weapon_GreatSword_0158
+新增条目 Item.Name2.Cash_Weapon_LongBow_0158
+新增条目 Item.Name2.Cash_Weapon_Orb_0158
+新增条目 Item.Name2.Cash_Weapon_DualBlade_0158
+新增条目 Item.Name2.Cash_Weapon_RynSword_0158
+新增条目 Item.Name2.Cash_Weapon_SoulGauntlet_0158
+新增条目 Item.Name2.Cash_Weapon_WarDagger_0158
+原文变更 Map_499_name
+變更前原文 거신의 심장 1층
+變更後原文 거신의 심장
+原文变更 Map_500_name
+變更前原文 거신의 심장 2층
+變更後原文 거신의 심장 지하 1층
+原文变更 Map_501_name
+變更前原文 거신의 심장 3층
+變更後原文 거신의 심장 지하 2층
+新增条目 Name.Quest.Epic.Lock
+新增条目 Npc.name2.CH_PB_Titan_Heart_Board_0001
+新增条目 Npc.title2.CH_PB_Titan_Heart_Board_0001
+新增条目 UI.Season.SoloDungeon1.Name.52
+新增条目 UI.Season.SoloDungeon2.Name.65
+新增条目 UI.Season.Infinite.Name.83
+新增条目 UI.Season.Duel.Name.101
+新增条目 UI.Season.TagMatch.Name.101
+新增条目 UI.Season.Occupation.Name.67
+新增条目 UI.Season.CTF.Name.67
+新增条目 UI.Season.LTB.Name.62
+新增条目 UI.Season.GuildCombat.Name.62
+新增条目 Text.SkillTooltip_T1_PointBlood_11
+原文变更 Text.SkillTooltip_KungfuMaster_G3_Attack_BlackWolf_Lv1_01
+變更前原文 15초간 흑랑으로 변신
+變更後原文 15초간 흑랑으로 변신<br/>사용 시 진,극,멸 소모
+原文变更 Text.SkillTooltip_KungfuMaster_G3_Attack_BloodWolf_Lv1_01
+變更前原文 15초간 혈랑으로 변신
+變更後原文 15초간 혈랑으로 변신<br/>사용 시 진,극,멸 소모
+原文变更 Text.SkillTooltip_KungfuMaster_G3_Attack_ChangeWolf_Lv1_01
+變更前原文 15초간 아랑으로 변신
+變更後原文 15초간 아랑으로 변신<br/>사용 시 진,극,멸 소모
+原文变更 Text.PT_Void_02_Sub_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">심연탄</font>과 <font name="00008130.UI.Vital_LightBlue">망상</font>은  격사의 중요한 연계무공입니다.
+變更後原文 <font name="00008130.UI.Vital_LightBlue">심연탄</font>, <font name="00008130.UI.Vital_LightBlue">필중</font>, <font name="00008130.UI.Vital_LightBlue">망상</font>은  격사의 중요한 연계무공입니다.
+原文变更 Text.PT_Void_02_Sub_01_Desc_Tip
+變更前原文 <p bottommargin="4"><font name="00008130.UI.Normal_14">심연탄</font></p><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">망상</font>과 연계하여 사용 가능합니다. <font name="00008130.UI.Vital_LightBlue">심연탄</font>을 적에게 명중 시키면 일정 시간 동안 해당 적에게 <font name="00008130.UI.Vital_LightBlue">망상</font>으로 가하는 피해가 증가합니다.</p>
+變更後原文 <p bottommargin="4"><font name="00008130.UI.Normal_14">심연탄</font></p><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">망상</font>과 연계하여 사용 가능합니다. <font name="00008130.UI.Vital_LightBlue">심연탄</font>사용 후 <font name="00008130.UI.Vital_LightBlue">필중</font>을 사용하면 일정 시간동안 <font name="00008130.UI.Vital_LightBlue">망상</font>이 강화됩니다.</p>
+新增条目 TalkSocial.Costume_Premium2022_5th
+新增条目 timefield.Name2.Gwiamdo
+新增条目 timefield.Desc.Gwiamdo
+新增条目 timefield.Name2.YeonWoldo
+新增条目 timefield.Desc.YeonWoldo
+新增条目 timefield.Name2.Heart
+新增条目 timefield.Desc.Heart
+新增条目 UI.TimeLimitField.InvalidEnterLevel
+新增条目 UI.TimeLimitField.InvalidEnterMasteryLevel
+新增条目 UI.TimeLimitField.NotEnoughMoney
+新增条目 UI.TimeLimitField.InvalidNotTown
+新增条目 UI.TimeLimitField.RemainTime
+新增条目 UI.TimeLimitField.RemainTime3
+新增条目 UI.TimeLimitField.RemainTime2
+新增条目 UI.TimeLimitField.Proceeding
+新增条目 UI.TotalGateConfirm.GoToTimeLimitField1
+新增条目 UI.TotalGateConfirm.TimeLimitField1.Info
+新增条目 UI.TotalGateConfirm.GoToTimeLimitField2
+新增条目 UI.TotalGateConfirm.TimeLimitField2.Info
+新增条目 UI.TotalGateConfirm.GoToTimeLimitField3
+新增条目 UI.TotalGateConfirm.TimeLimitField3.Info
+新增条目 UI.TimeLimitField.AlreadyTimeLimitField
+原文变更 name.Board_001
+變更前原文 풍성한 만물상1
+變更後原文 풍요로운 만물상1
+原文变更 name.Board_002
+變更前原文 풍성한 만물상2
+變更後原文 풍요로운 만물상2
+原文变更 name.Board_003
+變更前原文 풍성한 만물상3
+變更後原文 풍요로운 만물상3
+原文变更 name.Board_004
+變更前原文 풍성한 만물상4
+變更後原文 풍요로운 만물상4
+原文变更 name.Board_005
+變更前原文 풍성한 만물상5
+變更後原文 풍요로운 만물상5
+原文变更 name.Board_006
+變更前原文 풍성한 만물상6
+變更後原文 풍요로운 만물상6
+原文变更 name.Board_007
+變更前原文 풍성한 만물상7
+變更後原文 풍요로운 만물상7
+原文变更 name.Board_008
+變更前原文 풍성한 만물상8
+變更後原文 풍요로운 만물상8
+原文变更 name.Board_009
+變更前原文 풍성한 만물상9
+變更後原文 풍요로운 만물상9
+原文变更 name.Board_010
+變更前原文 풍성한 만물상10
+變更後原文 풍요로운 만물상10
+新增条目 name.TreasureBoard_Season_014
+新增条目 UI.QuestJournal.Info.Completed.Title
+新增条目 UI.QuestJournal.Info.Completed.Desc
+新增条目 UI.QuestJournalCurrentQuestInfoRecall
+新增条目 UI.QuestJournal.Replay.Confirm.QuestAccept
+新增条目 UI.QuestJournal.Replay.Confirm.QuestDispose
+新增条目 UI.QuestJournal.Replay.Alert.AlreadyPlaying
+新增条目 UI.QuestJournal.Replay.Alert.NoReward
+新增条目 UI.QuestJournal.Replay.Alert.NotAvailable
+新增条目 UI.QuestJournal.Replay.Alert.CanNotPlayEpic
+原文变更 Transform.Warning.fail
+變更前原文 일정 확률로 <font name="00008130.UI.Vital_red">실패</font>할 수 있습니다.<br/>확률은 세부 확률 버튼 혹은 블소N샵 공지사항에서 확인 가능합니다.
+變更後原文 일정 확률로 <font name="00008130.UI.Vital_red">실패</font>할 수 있습니다.
+原文变更 UI.TreasureBoard.Title
+變更前原文 풍성한 만물상
+變更後原文 풍요로운 만물상
+新增条目 UI.ItemtransformProbabilityPanel
+新增条目 UI.TransformProbability.GuideMessage.RoundDown2DecimalPlaces
+新增条目 UI.TransformProbability.GuideMessage.fail.Probability
+新增条目 UI.QuestJournal.Replay.Confirm.QuestAcceptWithRecentQuestInfo
+新增条目 UI.QuestJournal.Replay.Confirm.Unavailable
+新增条目 Usercommand.TalkSocial_Costume_Premium2022_5th
+原文变更 q_1453_completed
+變更前原文 유란은 호호호 웃음을 흘렸다.<br/>나중에라도 진서연이 알게 되면 어떤 표정을 지을까?<br/><br/>마황을 담는 그릇이 특별해야 한다는 건 이미 진서연도 알고 있을 터였다. 지금까지 홍문파의 제자를 살려둔 이유는 그뿐이었다.<br/>그런데 그런 소중한 그릇이 마도의 길에 들어 버렸으니... <br/><br/>아끼던 그릇이 쓸모없어져 버린 걸 알게 되었을 때, 진서연이 무슨 표정을 지을지 유란은 자못 궁금했다.<br/>하지만 마냥 즐거워할 수만은 없는 유란이었다.<br/><br/>그릇이 쓸모없어졌다는 사실을 알게 되었을 때가 유란이 움직여야 할 시기였다. 유란은 가볍게 한숨을 내쉬었다. 그러나 이내 마음을 다잡았다. 그녀에겐 무신이 있기 때문이다.
+變更後原文 유란은 호호호 웃음을 흘렸다.<br/>나중에라도 진서연이 알게 되면 어떤 표정을 지을까?<br/><br/>마황을 담는 그릇이 특별해야 한다는 건 이미 진서연도 알고 있을 터였다. 지금까지 홍문파의 제자를 살려둔 이유는 그뿐이었다.<br/>그런데 그런 소중한 그릇이 마도의 길에 들어 버렸으니... <br/><br/>아끼던 그릇이 쓸모없어져 버린 걸 알게 되었을 때, 진서연이 무슨 표정을 지을지 유란은 자못 궁금했다.<br/>하지만 마냥 즐거워할 수만은 없는 유란이었다.<br/><br/>그릇이 쓸모없어졌다는 사실을 알게 되었을 때가 유란이 움직여야 할 시기였다. 유란은 가볍게 한숨을 내쉬었다. 그러나 이내 마음을 다잡았다. 왜냐면 그녀에겐 무신이 있기 때문이다.
+原文变更 Mission.Name2.1511_11
+變更前原文 무역단 부선장 하진과 대화
+變更後原文 쓰러진 선원들에게 내공 주입을 한 후, 무역단 부선장 하진과 대화
+原文变更 q_1612_2_nextbutton_2
+變更前原文 제자를 구하기 위해 서락으로 가야 하니 도와달라고 말한다
+變更後原文 제자를 구하기 위해서락으로 가야 하니 도와달라고 말한다
+原文变更 q_1638_5_text_1
+變更前原文 아니, 대협은... 단장님이 구해오신 분 아니십니까?<br/>정신이 드셨습니까?
+變更後原文 아니, 대협은...단장님이 구해오신 분 아니십니까?<br/>정신이 드셨습니까?
+原文变更 q_1638_5_text_2
+變更前原文 패랑족이요? 그들은 검은 바람 숲에 기거하고 있는 수인족입니다. <br/>본디 인간들을 납치해가던 포악한 무리이긴 하나... 이렇게 마을까지 넘어온 적은 처음입니다.
+變更後原文 패랑족이요? 그들은 검은 바람 숲에 기거하고 있는 수인족입니다. <br/>본디 인간들을 납치해가던 포악한 무리이긴 하나… 이렇게 마을까지 넘어온 적은 처음입니다.
+原文变更 q_1638_5_text_3
+變更前原文 참으로 감사한 말씀입니다만, 아직 몸도 성치 않으실 텐데... <br/>괜찮으시겠습니까?
+變更後原文 참으로 감사한 말씀입니다만, 아직 몸도 성치 않으실 텐데...<br/>괜찮으시겠습니까?
+原文变更 q_1643_1_text_2
+變更前原文 마을 중앙이라... 저 커다란 돌을 이야기 하는 것 같은데... <br/>이거 아무래도 우리가 감당할 수 없는 것 같다. 마을을 포기하는 것이 맞겠어.
+變更後原文 마을 중앙이라… 저 커다란 돌을 이야기 하는 것 같은데...<br/>이거 아무래도 우리가 감당할 수 없는 것 같다. 마을을 포기하는 것이 맞겠어.
+原文变更 q_1643_3_indi_1_text
+變更前原文 대협... 오셨습니까.
+變更後原文 대협...오셨습니까.
+原文变更 q_1643_3_text_2
+變更前原文 우선 마을이 이렇게 되어버린 원인을 알아내어 해결해야 할 것 같습니다.<br/>원인을 해결하지 못한다면... 이곳으로 돌아온 사람들 역시 다시 변해버릴 테니까요...
+變更後原文 우선 마을이 이렇게 되어버린 원인을 알아내어 해결해야 할 것 같습니다.<br/>원인을 해결하지 못한다면… 이곳으로 돌아온 사람들 역시 다시 변해버릴 테니까요...
+原文变更 q_1643_1_text_3
+變更前原文 가능하겠어? 니가 좀 강한 건 인정하지만... 기록의 내용이 사실이라면<br/>저건 사람이 감당할 수 없는. 그런 것 같은데...
+變更後原文 가능하겠어? 니가 좀 강한 건 인정하지만...기록의 내용이 사실이라면<br/>저건 사람이 감당할 수 없는. 그런 것 같은데...
+原文变更 q_1643_1_text_4
+變更前原文 그렇게까지 말한다면야... 좋아.  해보자.<br/>수적으로 열세인 우리가 넓은 공터에서 싸우는 것은 너무 불리해. 
+變更後原文 그렇게까지 말한다면야… 좋아.  해보자.<br/>수적으로 열세인 우리가 넓은 공터에서 싸우는 것은 너무 불리해. 
+原文变更 q_1643_1_text_6
+變更前原文 후우... 이 싸움이 호운촌에서의 마지막 싸움이 돼야 할 텐데.<br/>호운촌 탈환에 성공만 하면 약속대로 네게 솔깃한 정보를 줄게. 하하하
+變更後原文 후우...이 싸움이 호운촌에서의 마지막 싸움이 돼야 할 텐데.<br/>호운촌 탈환에 성공만 하면 약속대로 네게 솔깃한 정보를 줄게. 하하하
+原文变更 q_1643_completed
+變更前原文 &quot;땅거미가 짙게 깔리는 밤이 되면 스산한 기운이 나를 옭아맨다. 조금씩 숨이 차오른다. 고통스럽다. <br/><br/>&quot;유…화…&apos; 왜 자꾸 이 이름이 맴도는건가…&quot; <br/><br/>언제부턴가 그는 밤을 마주하는 것이 두려워지기 시작했다. <br/><br/>머리 속을 가득 메우고 있던 생각들은 서서히 사라지기 시작했고, 점점 감정제어가 힘들다.<br/><br/>자신이 탁기에 오염 되었음을 알게 되었고, 언젠가 자신이 마물이 되어 하나뿐인 딸을 해칠지도 모른다는 생각이 들자 불안해지기 시작했다.<br/><br/>그는 밤이 찾아오기 전 마을 밖 숨겨진 동굴 안에 딸 유화를 데리고 길을 나섰다. <br/><br/>&quot;유화야, 아빠가 다시 올 때까지 이곳에서 기다리렴. 아빠가 곧 돌아올게&quot;<br/><br/>그러나 그는 돌아오지 않았다. 아니, 돌아올 수 없었다. 유화에게 한 말은 지킬 수 없는 마지막 약속이 되어버렸다.<br/><br/>죽음으로 되찾은 기억은 결국 딸 유화를 지켜내지 못했다.<br/><br/>&quot;유화야... 사랑하는 우리 딸 유화야...<br/>끝까지 지켜주지 못한 이 못난 아비를 용서해라...&quot;
+變更後原文 &quot;땅거미가 짙게 깔리는 밤이 되면 스산한 기운이 나를 옭아맨다. 조금씩 숨이 차오른다. 고통스럽다. <br/><br/>&quot;유…화…&apos; 왜 자꾸 이 이름이 맴도는건가…&quot; <br/> <br/>언제부턴가 그는 밤을 마주하는 것이 두려워지기 시작했다. <br/><br/>머리 속을 가득 메우고 있던 생각들은 서서히 사라지기 시작했고, 점점 감정제어가 힘들다.<br/><br/>자신이 탁기에 오염 되었음을 알게 되었고, 언젠가 자신이 마물이 되어 하나뿐인 딸을 해칠지도 모른다는 생각이 들자 불안해지기 시작했다.<br/><br/>그는 밤이 찾아오기 전 마을 밖 숨겨진 동굴 안에 딸 유화를 데리고 길을 나섰다. <br/>   <br/>&quot;유화야, 아빠가 다시 올 때까지 이곳에서 기다리렴. 아빠가 곧 돌아올게&quot;<br/><br/>그러나 그는 돌아오지 않았다. 아니, 돌아올 수 없었다. 유화에게 한 말은 지킬 수 없는 마지막 약속이 되어버렸다.<br/><br/>죽음으로 되찾은 기억은 결국 딸 유화를 지켜내지 못했다.<br/><br/>&quot;유화야... 사랑하는 우리 딸 유화야...<br/>끝까지 지켜주지 못한 이 못난 아비를 용서해라...&quot;
+原文变更 q_1645_completed
+變更前原文 &quot;틀렸습니다. 명계로 가는 차원의 문이 닫혀버리다니... 어찌... 어찌하여 귀천검의 조각으로도 실패를 한 단 말입니까.&quot;<br/><br/>앞선 마음이 초래한 결과 였을까, 아니면 명계의 문을 막고 있는 음기가 강했던 탓일까… <br/>승려 허명은 명계로 가는 차원의 문을 소환하는데 실패하고 만다. <br/><br/>명계로 가는 차원의 문이 닫히자 좌절에 빠진 이가 또 있었으니 바로 귀천검 조각을 지니고 있던 충각단 제독 철무괴였다. <br/><br/>&quot;역시 귀천검이 복원되어야만 가능한 일이었단 말인가...&quot;<br/><br/>아내를 찾기 위한 일념 하나로 여정을 시작한 철무괴와 대협, 그리고 자신의 한계를 시험하고자 했던 승려 허명까지도... <br/>애석하게도 명계로 가는 문턱 앞에 서있던 그들 셋은 그렇게 말 없이 침묵하며 저마다의 좌절을 되삼키고 있었다.
+變更後原文 &apos;&quot;틀렸습니다. 명계로 가는 차원의 문이 닫혀버리다니... 어찌... 어찌하여 귀천검의 조각으로도 실패를 한 단 말입니까.&quot;<br/><br/>앞선 마음이 초래한 결과 였을까, 아니면 명계의 문을 막고 있는 음기가 강했던 탓일까… <br/>승려 허명은 명계로 가는 차원의 문을 소환하는데 실패하고 만다. <br/><br/>명계로 가는 차원의 문이 닫히자 좌절에 빠진 이가 또 있었으니 바로 귀천검 조각을 지니고 있던 충각단 제독 철무괴였다. <br/><br/>&quot;역시 귀천검이 복원되어야만 가능한 일이었단 말인가...&quot;<br/><br/>아내를 찾기 위한 일념 하나로 여정을 시작한 철무괴와 대협, 그리고 자신의 한계를 시험하고자 했던 승려 허명까지도... <br/>애석하게도 명계로 가는 문턱 앞에 서있던 그들 셋은 그렇게 말 없이 침묵하며 저마다의 좌절을 되삼키고 있었다.
+原文变更 q_1650_completed
+變更前原文 마침내 천녀 오비연이 대협의 제자를 불러오기 위한 의식을 시작하던 그때 였다. <br/><br/>&quot;성스러운 이곳에 마... 마기의 기운이...? &quot;<br/><br/>불길한 기운을 느꼈던 오비연의 예감은 적중했고, 이윽고 무신 천진권의 날카로운 음성이 천건수 전체에 메아리 치며 들려 온다.<br/><br/>&quot; 애송이 넌 여전히 어리고, 여전히 어리석구나.&quot;<br/><br/>결국, 대협의 모든 여정은 이곳까지 오기 위한 천진권과 철무괴의 잘 짜여진 권모술수 였단 말인가... <br/><br/>팔을 뻗어 천녀를 속박하는 무신, 그대로 귀천검을 오비연의 심장을 향해 날린다. <br/><br/>&quot;절실한 무언가를 지켜내기 위해서는 선택과 집중이 필요한 법. 때로는 그 선택에 따라 무언가를 버릴 줄도 알아야 한다...&quot;<br/><br/>막아설 시간조차 없었던 그 찰나의 순간, 천건수 전체는 생명력을 잃었고, 의식을 잃은 가물가물한 시간 속에 희미하게 철무괴의 목소리만 들려 온다. 
+變更後原文 &apos;마침내 천녀 오비연이 대협의 제자를 불러오기 위한 의식을 시작하던 그때 였다. <br/><br/>&quot;성스러운 이곳에 마... 마기의 기운이...? &quot;<br/><br/>불길한 기운을 느꼈던 오비연의 예감은 적중했고, 이윽고 무신 천진권의 날카로운 음성이 천건수 전체에 메아리 치며 들려 온다.<br/><br/>&quot; 애송이 넌 여전히 어리고, 여전히 어리석구나.&quot;<br/><br/>결국, 대협의 모든 여정은 이곳까지 오기 위한 천진권과 철무괴의 잘 짜여진 권모술수 였단 말인가... <br/><br/>팔을 뻗어 천녀를 속박하는 무신, 그대로 귀천검을 오비연의 심장을 향해 날린다. <br/><br/>&quot;절실한 무언가를 지켜내기 위해서는 선택과 집중이 필요한 법. 때로는 그 선택에 따라 무언가를 버릴 줄도 알아야 한다...&quot;<br/><br/>막아설 시간조차 없었던 그 찰나의 순간, 천건수 전체는 생명력을 잃었고, 의식을 잃은 가물가물한 시간 속에 희미하게 철무괴의 목소리만 들려 온다. 
+原文变更 q_1651_completed
+變更前原文 헌계의 죽은 자들이 가는 사후 영적 세계 &apos;명계&apos;<br/>죽은 자의 영혼은 이곳에 머물다가 명부전의 판결을 받은 뒤, 현계로 환생하거나 극락으로 가거나, 혹은 지옥으로 간다. <br/><br/>영령 뿐 아니라 요괴나 악귀, 망자들이 떠돌고 있기도 한 이곳은 입구도 출구도 존재하지 않으며, 오직 명계로 통하는 차원의 문이나 아직 그 누구도 확인하지 못한 명계의 바다를 통해 갈 수 있다고 한다.  <br/><br/>물이 흐르는 나루터 외길. 나루터와 마주보고 있는 다리 건너 관문에 명부사자가 대협을 막아선다.<br/><br/>&quot;여기가 어딘 줄은 알고 온 것인가. 이곳은 생명력을 가진 이가 오래 머물 수 없는 생과 사의 경계에 있는 곳이다.&quot;<br/><br/>순간 대협의 머리 속에는 자신을 도우려다 희생당한 천녀 오비연의 마지막 모습이 스친다. 쳔녀님의 희생을 헛되게 하지 않기 위해서라도 어떻게든 대협은 연옥마을 안으로 들어가 서연을 찾아야만 했다. <br/><br/>기회는 기다려주지 않는 법, 대협은 끝을 알 수 없는 어두캄캄한 외 길 앞에서 다시 한번 두 주먹을 쥐고 연옥마을로 향했다.
+變更後原文 현계의 죽은 자들이 가는 사후 영적 세계 &apos;명계&apos;<br/>죽은 자의 영혼은 이곳에 머물다가 명부전의 판결을 받은 뒤, 현계로 환생하거나 극락으로 가거나, 혹은 지옥으로 간다. <br/><br/>영령 뿐 아니라 요괴나 악귀, 망자들이 떠돌고 있기도 한 이곳은 입구도 출구도 존재하지 않으며, 오직 명계로 통하는 차원의 문이나 아직 그 누구도 확인하지 못한 명계의 바다를 통해 갈 수 있다고 한다.  <br/><br/>물이 흐르는 나루터 외길. 나루터와 마주보고 있는 다리 건너 관문에 명부사자가 대협을 막아선다.<br/><br/>&quot;여기가 어딘 줄은 알고 온 것인가. 이곳은 생명력을 가진 이가 오래 머물 수 없는 생과 사의 경계에 있는 곳이다.&quot;<br/><br/>순간 대협의 머리 속에는 자신을 도우려다 희생당한 천녀 오비연의 마지막 모습이 스친다. 쳔녀님의 희생을 헛되게 하지 않기 위해서라도 어떻게든 대협은 연옥마을 안으로 들어가 서연을 찾아야만 했다. <br/><br/>기회는 기다려주지 않는 법, 대협은 끝을 알 수 없는 어두캄캄한 외 길 앞에서 다시 한번 두 주먹을 쥐고 연옥마을로 향했다.
+原文变更 q_1755_completed
+變更前原文 다들 무사한가?<br/><br/>거친 숨을 내 몰아쉬고 있는 최진아. <br/>애써 태연한 척하고 있지만 실은 마음속에 누구보다 큰 마음의 짐을 짊어지고<br/>있을 그녀 였다. <br/><br/>오랜 시간 나라를 위해 몸 바쳐 온 그녀가 운국의 황후를 등지기로 한 것은 결코 쉬운 선택이 아니었으리라. <br/><br/>힘든 선택을 했던 만큼 최진아는 어떻게 해서든 눈앞에 닥친 운국의 위기를 <br/>자신의 힘으로 막아내고 싶었다. 그것은 운국의 무사로서 오랜 시간 치열하게 외길을 걸어온 자신과의 약속을 지키는 것이기도 했다.<br/><br/>잠시 호흡을 가다듬은 최진아, 다시금 두 손으로 칼의 손잡이를 강하게 쥐며<br/>다음 행보를 준비한다.<br/><br/>
+變更後原文 &apos;다들 무사한가?<br/><br/>거친 숨을 내 몰아쉬고 있는 최진아. <br/>애써 태연한 척하고 있지만 실은 마음속에 누구보다 큰 마음의 짐을 짊어지고<br/>있을 그녀 였다. <br/><br/>오랜 시간 나라를 위해 몸 바쳐 온 그녀가 운국의 황후를 등지기로 한 것은 결코 쉬운 선택이 아니었으리라. <br/><br/>힘든 선택을 했던 만큼 최진아는 어떻게 해서든 눈앞에 닥친 운국의 위기를 <br/>자신의 힘으로 막아내고 싶었다. 그것은 운국의 무사로서 오랜 시간 치열하게 외길을 걸어온 자신과의 약속을 지키는 것이기도 했다.<br/><br/>잠시 호흡을 가다듬은 최진아, 다시금 두 손으로 칼의 손잡이를 강하게 쥐며<br/>다음 행보를 준비한다.<br/><br/>
+原文变更 q_1969_completed
+變更前原文 &lt; 윤회의 서고 계시록 &gt; 전문 발췌본<br/><br/>모든 삶 속에 존재하는 요람에서 생의 끝자락까지의 순간들.<br/><br/>필연적 인연을 맺고 살아가야 하는 자들에게 무엇보다 중요한 것은 <br/>삶 속에 공존하는 희로애락이 아니겠는가.<br/><br/>어떤 이들은 지나온 시간과 기억 속에 메어 살아가고, <br/>또 어떤 이들는 실체 없는 앞날의 청사진을 쫓으며 숨가쁘게 살아가고...<br/><br/>생명의 흐름 속에 끊임없이 반복되는 삶의 굴레 속에 정답이 없다 한들<br/>어딘가에는 그 시간들의 시작과 끝을 정의하는 축은 필요할 터,<br/>창조주의 천명으로 그 두 개의 축을 회고와 내세로 명명한다.<br/><br/>이는 후일 모든 만물의 근원이자 신인류의 탄생에까지 그 기록을 이어갈 것이며, 오직 자격을 갖춘 자만이 선계의 윤회의 서고에서 확인할 수 있으리라.
+變更後原文 &lt; 윤회의 서고 계시록 &gt; 전문 발췌본<br/><br/>모든 삶 속에 존재하는 요람에서 생의 끝자락까지의 순간들.<br/><br/>필연적 인연을 맺고 살아가야 하는 자들에게 무엇보다 중요한 것은 <br/>삶 속에 공존하는 희로애락이 아니겠는가.<br/><br/>어떤 이들은 지나온 시간과 기억 속에 메어 살아가고, <br/>또 어떤 이들는 실체 없는 앞날의 청사진을 쫓으며 숨가쁘게 살아가고...<br/><br/>생명의 흐름 속에 끊임없이 반복되는 삶의 굴레 속에 정답이 없다 한들<br/>어딘가에는 그 시간들의 시작과 끝을 정의하는 축은 필요할 터,<br/>창조주의 천명으로 그 두 개의 축을 회고와 내세로 명명한다.<br/><br/>이는 후일 모든 만물의 근원이자 신인류의 탄생에까지 그 기록을 이어갈 것이며,  오직 자격을 갖춘 자만이 선계의 윤회의 서고에서 확인할 수 있으리라.
+原文变更 q_2123_completed
+變更前原文 홍석근은 광휘의 전당으로 돌아온 막내를 보며 더없이 흐뭇한 마음이 차올랐지만 끝내 그 마음을 감추었다.<br/><br/>막내야,<br/>눈부신 성장을 통해 이 자리에까지 오게 된 네게 마지막 인사를 건넨다는 것이 쉽지 않은 일이로구나.<br/><br/>허나, 사람에게는 저마다의 자리라는 것이 있는 것 아니겠느냐.<br/>아직 이곳은 네가 있어야 할 자리가 아닌 것 같구나.<br/><br/>네게 주어진 사명은 아직 끝나지 않았다.<br/>현계로 돌아가거라. 너는 아직 현계에서의 삶이 남아있다.<br/>너만이 할 수 있는 현계에서의 사명을 찾아 꼭 이뤄다오.<br/><br/>익산운과 비월 역시 같은 마음으로 그저 묵묵히 끝도 시작도 아닌 인사를 건넬 뿐이었다.<br/><br/>허나 그들은 모두 알고 있었다.<br/>새 시대를 맞이하여 현계를 끌고 갈 그 주역은 오직 단 한 명뿐임을.
+變更後原文 홍석근은 광휘의 전당으로 돌아온 막내를 보며 더없이 흐뭇한 마음이 차올랐지만 끝내 그 마음을 감추었다.<br/><br/>막내야,<br/>눈부신 성장을 통해 이 자리에까지 오게 된 네게 마지막 인사를 건넨다는 것이  쉽지 않은 일이로구나.<br/><br/>허나, 사람에게는 저마다의 자리라는 것이 있는 것 아니겠느냐.<br/>아직 이곳은 네가 있어야 할 자리가 아닌 것 같구나.<br/><br/>네게 주어진 사명은 아직 끝나지 않았다.<br/>현계로 돌아가거라. 너는 아직 현계에서의 삶이 남아있다.<br/>너만이 할 수 있는 현계에서의 사명을 찾아 꼭 이뤄다오.<br/><br/>익산운과 비월 역시 같은 마음으로 그저 묵묵히 끝도 시작도 아닌 인사를 건넬 뿐이었다.<br/><br/>허나 그들은 모두 알고 있었다.<br/>새 시대를 맞이하여 현계를 끌고 갈 그 주역은 오직 단 한 명뿐임을.
+新增条目 Quest.Name2.2210
+新增条目 q_2210_sum
+新增条目 q_2210_des_1
+新增条目 Mission.Name2.2210_1
+新增条目 Mission.Name2.2210_2
+新增条目 q_2210_1_text_1
+新增条目 q_2210_1_text_2
+新增条目 q_2210_1_text_3
+新增条目 q_2210_2_text_1
+新增条目 q_2210_2_text_2
+新增条目 q_2210_3_text_1
+新增条目 q_2210_3_text_2
+新增条目 q_2210_3_text_3
+新增条目 q_2210_4_text_1
+新增条目 q_2210_4_text_2
+新增条目 q_2210_1_text_4
+新增条目 Quest.Name2.2211
+新增条目 q_2211_sum
+新增条目 Mission.Name2.2211_1
+新增条目 q_2211_1_text_1
+新增条目 q_2211_1_text_2
+新增条目 q_2211_1_text_3
+新增条目 q_2211_1_text_4
+新增条目 q_2211_1_text_5
+新增条目 q_2211_1_text_6
+新增条目 q_2211_2_text_1
+新增条目 q_2211_2_nextbutton_1
+新增条目 q_2211_2_text_2
+原文变更 q_229_m2_text_1
+變更前原文 상대가 공격할 때 <arg id="skill:KungfuMaster_G1_HighKick_Lv1" p="id:skill.name2"/><arg id="skill:KungfuMaster_G1_HighKick_Lv1" p="id:skill.current-short-cut-key.key1.image"/> 초식을 사용해 내력을 회복하며 공격해라!
+變更後原文 상대가 공격할 때 <arg id="skill: KungfuMaster_G1_HighKick_Lv1" p="id:skill.name2"/><arg id="skill: KungfuMaster_G1_HighKick_Lv1" p="id:skill.current-short-cut-key.key1.image"/> 초식을 사용해 내력을 회복하며 공격해라!
+原文变更 q_229_des_3
+變更前原文 <arg id="skill:KungfuMaster_G1_HighKick_Lv1" p="id:skill.name2"/><arg id="skill:KungfuMaster_G1_HighKick_Lv1" p="id:skill.current-short-cut-key.key1.image"/>을 사용하며 회복한 내력으로, <arg id="skill:KungfuMaster_G1_PowerfulAttack_Lv1" p="id:skill.name2"/> 초식을 사용할 수 있다. <br/><arg id="skill:KungfuMaster_G1_PowerfulAttack_Lv1" p="id:skill.current-short-cut-key.key1.image"/>키가 활성화되면 눌러서 <arg id="skill:KungfuMaster_G1_PowerfulAttack_Lv1" p="id:skill.name2"/> 초식을 사용해라!
+變更後原文 <arg id="skill:KungfuMaster_G1_HighKick_Lv1" p="id:skill.name2"/> <arg id="skill:KungfuMaster_G1_HighKick_Lv1" p="id:skill.current-short-cut-key.key1.image"/>을 사용하며 회복한 내력으로, <arg id="skill:KungfuMaster_G1_PowerfulAttack_Lv1" p="id:skill.name2"/> 초식을 사용할 수 있다. <br/><arg id="skill:KungfuMaster_G1_PowerfulAttack_Lv1" p="id:skill.current-short-cut-key.key1.image"/>키가 활성화되면 눌러서 <arg id="skill:KungfuMaster_G1_PowerfulAttack_Lv1" p="id:skill.name2"/> 초식을 사용해라!
+新增条目 Quest.Name2.25324
+新增条目 Mission.Name2.25324_1
+新增条目 Mission.Name2.25324_2
+新增条目 Quest.Name2.25325
+新增条目 Mission.Name2.25325_1
+新增条目 Mission.Name2.25325_2
+新增条目 Quest.Name2.25326
+新增条目 Mission.Name2.25326_1
+新增条目 Mission.Name2.25326_2
+原文变更 q_502_completed
+變更前原文 길동은 높은 곳에서 돌아보며 녹림도 산채의 일을 떠올렸다.<br/>대두령 소양상의 딸인 소연화는 툭하면 사라지곤 했기 때문에, 그런 소연화를 따라다니며 사고를 치지 않도록 수습하는 일은 그리 새삼스러운 건 아니었다. <br/><br/>그러나 이번에는 상황이 조금 달랐다.<br/>소연화가 도적왕에 걸맞은 최고의 보물을 도적질해오겠다며 찾아 나선 건 다름 아닌 무신의 비보. 몸 안의 기운 때문에 직접 찾아 나설 수 없었던 길동의 입장에서는 천재일우의 기회였다.<br/><br/>하지만 소연화의 실력으로는 무리임이 뻔했다. 도움이 될 누군가가 필요할 터였다. 그리고... 그게 누구일지는 머리 속에 떠오르는 이가 있었다.<br/>
+變更後原文 길동은 높은 곳에서 돌아보며 녹림도 산채의 일을 떠올렸다. <br/>대두령 소양상의 딸인 소연화는 툭하면 사라지곤 했기 때문에, 그런 소연화를 따라다니며 사고를 치지 않도록 수습하는 일은 그리 새삼스러운 건 아니었다. <br/><br/>그러나 이번에는 상황이 조금 달랐다.<br/>소연화가 도적왕에 걸맞은 최고의 보물을 도적질해오겠다며 찾아 나선 건 다름 아닌 무신의 비보. 몸 안의 기운 때문에 직접 찾아 나설 수 없었던 길동의 입장에서는 천재일우의 기회였다.<br/><br/>하지만 소연화의 실력으로는 무리임이 뻔했다. 도움이 될 누군가가 필요할 터였다. 그리고... 그게 누구일지는 머리 속에 떠오르는 이가 있었다. 
+原文变更 q_533_completed
+變更前原文 극마지체.<br/>신공에 버금가는 마공의 최고수준을 일컫는 말.<br/>극마지체에 이르면 탁기가 밖으로 드러나지 않는다. <br/><br/>무신이 마황과 함께 동귀어진하던 날, 그는 모든 것을 버릴 각오가 되어 있었다. 그러나 막상 그의 몸에 마황의 기운이 들어오는 걸 느꼈을 땐, 처음으로... 두려웠었다.<br/><br/>무신이 현계로 다시 나왔을 때 그는 온몸에 흐르는 탁기를 느꼈다. 극마지체. 그는 마공의 최고수준에 이르러 신공에 버금가는 힘을 얻은 것이다. 애써 무신릉에 감춰둔 신공을 찾을 필요도 없었다. 물론 자신의 피는 이미 탁기에 물들어 무신릉으로 들어갈 수도 없는 처지였다.<br/><br/>무신은 이 힘으로 천하를 제패할 수도 있으리라 생각했다. 천하뿐이 아니었다.<br/>그러나 그러기 위해서는 하나가 필요했다. <br/>귀천검.<br/>무신은 기회를 노렸다. 하지만, 비월의 제자 손에 어이없이 당할 줄은 생각 못 했다. <br/><br/>길동은 고개를 가로저었다.<br/>과거의 일이 생각나다니.... 비월의 제자가 끝까지 자신을 훼방하는 통에 잠시 마음이 흔들린 모양이었다. 그러나 아직은 자신이 나설 때가 아니었다. <br/>길동은 분을 삭이며 마음을 다잡았다. 지금은 그저 홍석근의 제자가 잘해주길 기다리면 될 터였다.<br/>
+變更後原文 극마지체.<br/>신공에 버금가는 마공의 최고수준을 일컫는 말.<br/>극마지체에 이르면 탁기가 밖으로 드러나지 않는다. <br/><br/>무신이 마황과 함께 동귀어진하던 날, 그는 모든 것을 버릴 각오가 되어 있었다. 그러나 막상 그의 몸에 마황의 기운이 들어오는 걸 느꼈을 땐, 처음으로... 두려웠었다.<br/><br/>무신이 현계로 다시 나왔을 때 그는 온몸에 흐르는 탁기를 느꼈다. 극마지체. 그는 마공의 최고수준에 이르러 신공에 버금가는 힘을 얻은 것이다. 애써 무신릉에 감춰둔 신공을 찾을 필요도 없었다. 물론 자신의 피는 이미 탁기에 물들어 무신릉으로 들어갈 수도 없는 처지였다.<br/><br/>무신은 이 힘으로 천하를 제패할 수도 있으리라 생각했다. 천하뿐이 아니었다.<br/>그러나 그러기 위해서는 하나가 필요했다. <br/>귀천검.<br/>무신은 기회를 노렸다. 하지만, 비월의 제자 손에 어이없이 당할 줄은 생각 못 했다. <br/><br/>길동은 고개를 가로저었다.<br/>과거의 일이 생각나다니.... 비월의 제자가 끝까지 자신을 훼방하는 통에 잠시 마음이 흔들린 모양이었다. 그러나 아직은 자신이 나설 때가 아니었다. <br/>길동은 분을 삭이며 마음을 다잡았다. 지금은 그저 홍석근의 제자가 잘해주길 기다리면 될 터였다.
+原文变更 q_695_3_text_3
+變更前原文 <font name="00008130.UI.Eq_Friendly_NpcName">남소유</font> <font name="00008130.UI.Eq_Friendly_NpcName">공주마마</font>의 행방을 찾던 중, <font name="00008130.UI.Eq_Hostile_Party">흑룡교</font> 무리와 마주쳤네. <br/>그들도 공주마마를 찾고 있더군.
+變更後原文 <font name="00008130.UI.Eq_Friendly_NpcName">남소유</font><font name="00008130.UI.Eq_Friendly_NpcName">공주마마</font>의 행방을 찾던 중, <font name="00008130.UI.Eq_Hostile_Party">흑룡교</font> 무리와 마주쳤네. <br/>그들도 공주마마를 찾고 있더군.
+原文变更 q_912_completed
+變更前原文 진서연이 눈치챘을까? <br/><br/>유란은 대체 진서연이 어디까지 알고 있는지 궁금했다. 겉으로는 무신과 그 후예를 놓친 것을 탓했지만, 자신과 무신이 이미 내통하고 있다는 것을 알고 있음을 내비쳤다.<br/><br/>진서연이 못마땅해도 유란은 명분이 없다. 진서연은 마황의 명을 직접 받은 대리인이며, 귀천검도 그녀 손에 있다. 천명제 준비는 잘 되어가고 있고, 이제는 때만 기다리면 된다. <br/><br/>진서연이 자신을 내치지 않는 이상 자기가 먼저 속내를 드러낼 필요는 없다고 유란은 생각했다. 어차피 서로 필요에 의해서 함께 가는 것 아닌가. 아직은 때가 아니었다. 무신의 말대로 그녀는 당분간 진서연의 곁을 지키기로 했다. 
+變更後原文 진서연이 눈치챘을까? <br/><br/>유란은 대체 진서연이 어디까지 알고 있는지 궁금했다. 겉으로는 무신과 그 후예를 놓친 것을 탓했지만, 자신과 무신이 이미 내통하고 있다는 것을 알고 있음을 내비쳤다.<br/><br/>진서연이 못마땅해도 유란은 명분이 없다. 진서연은 마황의 명을 직접 받은 대리인이며, 귀천검도 그녀 손에 있다. 천명제 준비는 잘 되어가고 있고, 이제는 때만 기다리면 된다. <br/><br/>진서연이 자신을 내치지 않는 이상 자기가 먼저 속내를 드러낼 필요는 없다고 유란은 생각했다. 어차피 서로 필요에 의해서 함께 가는 것 아닌가. 아직은 때가 아니었다. 무신의 말대로 그녀는 당분간 진서연의 곁을 지키기로 했다.
+原文变更 q_918_completed
+變更前原文 섭광의 마음 속엔 불만이 가득 찼다. <br/><br/>형님들과 자신을 제치고 황위를 계승한 막내 섭환에 대한 불만이었다. 바다 건너 식민지 대륙의 제후 자리로 물러난 자신의 신세를 한탄했다. 그는 포악해졌고, 백성을 분풀이 대상으로 삼았으며, 술과 여자로 세월을 허송했다. 이름난 기생은 모조리 고도궁으로 불렀다. 유란도 예외는 아니었다.<br/><br/>동방대륙 최고의 기녀라는 명성답게 유란은 혀 위에 섭광을 놓고 마음대로 굴렸다. 섭광을 꼬드기는 건 일도 아니었다. 천명제를 지내면 하늘이 내린 진정한 황제가 될 수 있다는 말 한 마디에 그는 당장 천명제 준비를 서둘렀다.<br/><br/>물론 천명제는 실패했다. 섭광 따위의 인간이 하늘의 간택을 받을 리가 만무하다. 예상한 대로 선계의 문은 열리지 않고, 마계의 문이 열렸다. 탁기가 쏟아지고 도시는 마물로 가득찼다. 그 문으로 마황이 왔는지도 모를 일이었다.<br/><br/>어째서 내가 아니라며 울부짖는 섭광의 눈에 유란이 들어왔다. 그리고 그녀의 곁에 서 있던 한 남자....  그제야 섭광은 무엇인가 잘못되었다는 생각이 들었다. 그러나 이미 너무 늦은 후였다. <br/>
+變更後原文 섭광의 마음 속엔 불만이 가득 찼다. <br/><br/>형님들과 자신을 제치고 황위를 계승한 막내 섭환에 대한 불만이었다. 바다 건너 식민지 대륙의 제후 자리로 물러난 자신의 신세를 한탄했다. 그는 포악해졌고, 백성을 분풀이 대상으로 삼았으며, 술과 여자로 세월을 허송했다. 이름난 기생은 모조리 고도궁으로 불렀다. 유란도 예외는 아니었다.<br/><br/>동방대륙 최고의 기녀라는 명성답게 유란은 혀 위에 섭광을 놓고 마음대로 굴렸다. 섭광을 꼬드기는 건 일도 아니었다. 천명제를 지내면 하늘이 내린 진정한 황제가 될 수 있다는 말 한 마디에 그는 당장 천명제 준비를 서둘렀다.<br/><br/>물론 천명제는 실패했다. 섭광 따위의 인간이 하늘의 간택을 받을 리가 만무하다. 예상한 대로 선계의 문은 열리지 않고, 마계의 문이 열렸다. 탁기가 쏟아지고 도시는 마물로 가득찼다. 그 문으로 마황이 왔는지도 모를 일이었다. <br/><br/>어째서 내가 아니라며 울부짖는 섭광의 눈에 유란이 들어왔다. 그리고 그녀의 곁에 서 있던 한 남자....  그제야 섭광은 무엇인가 잘못되었다는 생각이 들었다. 그러나 이미 너무 늦은 후였다. 
+原文变更 q_949_completed
+變更前原文 암흑 속에서 얼마나 지났을까.<br/><br/>바닥에 널브러진 무성은 고통에 몸부림쳤다. 몸 안에 꿈틀거리는 탁기의 고통 때문에 바닥을 긁던 손톱은 이미 다 빠져버렸고, 고통을 참느라 이를 악문 탓에 이빨은 모두 부서졌다.<br/><br/>탁기와 어둠뿐인 곳에서 무성은 자신의 무력함을 탓하고 또 탓했다.<br/>누이를 잃었을 때도, 그리고 지금도 아무것도 하지 못하고 당하기만 하는 자신이 비참하고 비참했다.<br/><br/>힘, 힘만 있다면 모든 것이 달라질 터였다.<br/>누이를 죽음에 이르게 한 마영강도,<br/>역모자의 누명을 쓰고 돌아가신 부모님의 복수도,<br/>날 이렇게 만든 진서연도....<br/><br/>- 힘을 원하느냐.<br/><br/>무성은 깊은 심연에서 들려오는 목소리에 고개를 들었다.<br/><br/>- 원한다면 힘을 주지. <br/><br/>무성은 자신의 몸 안에서 힘이 넘치는 것을 느꼈다. <br/>자신의 몸도 원래대로 돌아가고 있었다.<br/>
+變更後原文 암흑 속에서 얼마나 지났을까.<br/><br/>바닥에 널브러진 무성은 고통에 몸부림쳤다. 몸 안에 꿈틀거리는 탁기의 고통  때문에 바닥을 긁던 손톱은 이미 다 빠져버렸고, 고통을 참느라 이를 악문 탓에 이빨은 모두 부서졌다.<br/><br/>탁기와 어둠뿐인 곳에서 무성은 자신의 무력함을 탓하고 또 탓했다.<br/>누이를 잃었을 때도, 그리고 지금도 아무것도 하지 못하고 당하기만 하는 자신이 비참하고 비참했다.<br/><br/>힘, 힘만 있다면 모든 것이 달라질 터였다.<br/>누이를 죽음에 이르게 한 마영강도,<br/>역모자의 누명을 쓰고 돌아가신 부모님의 복수도,<br/>날 이렇게 만든 진서연도....<br/><br/>- 힘을 원하느냐.<br/><br/>무성은 깊은 심연에서 들려오는 목소리에 고개를 들었다.<br/><br/>- 원한다면 힘을 주지. <br/><br/>무성은 자신의 몸 안에서 힘이 넘치는 것을 느꼈다. <br/>자신의 몸도 원래대로 돌아가고 있었다. 
+原文变更 q_950_completed
+變更前原文 유정 누나는 잘 지내고 있을까? 보고 싶은데...<br/>유명한 형하고는 도대체 언제 결혼하려는 거야.<br/>이제 곧 어머니 생신이신데... 올해는 선물을 뭘 해드리지?<br/>홍사부님... 기침을 많이 하셨는데 괜찮으실까?<br/>막내는 훈련은 잘 받고 있을까? 저번에 보니 제법 무공이 늘었던데...<br/>그런데 왜 이렇게 슬픈 기분이 드는 거지?<br/><br/>무성은 희미해져 가는 기억을 더듬었다. <br/><br/>누가 그랬지?<br/>그가...?<br/>내가......?<br/><br/>왜 이렇게 된 거지?<br/>난 단지 내가 사랑하는 이들을 지키기 위해서 힘을 갖고 싶었을 뿐인데....<br/>
+變更後原文 유정 누나는 잘 지내고 있을까? 보고 싶은데...<br/>유명한 형하고는 도대체 언제 결혼하려는 거야.<br/>이제 곧 어머니 생신이신데... 올해는 선물을 뭘 해드리지?<br/>홍사부님... 기침을 많이 하셨는데 괜찮으실까?<br/>막내는 훈련은 잘 받고 있을까? 저번에 보니 제법 무공이 늘었던데...<br/>그런데 왜 이렇게 슬픈 기분이 드는 거지?<br/><br/>무성은 희미해져 가는 기억을 더듬었다. <br/><br/>누가 그랬지?<br/>그가...?<br/>내가......?<br/><br/>왜 이렇게 된 거지?<br/>난 단지 내가 사랑하는 이들을 지키기 위해서 힘을 갖고 싶었을 뿐인데....
+原文变更 CH_CA_EventGame_0003_indi_1_text
+變更前原文 징검다리 건너기 게임이 곧 시작됩니다.
+變更後原文 징겁다리 건너기 게임이 곧 시작됩니다.
+原文变更 CH_CA_EventGame_0001_indi_1_text
+變更前原文 징검다리 건너기 게임이 곧 시작됩니다.
+變更後原文 징겁다리 건너기 게임이 곧 시작됩니다.
+新增条目 q_2211_1_icon_msg_1_text1
+新增条目 CH_PB_Titan_Heart_Board_0001_msg_1_text1
+新增条目 QG_TitanHeart
+新增条目 QG_NamdoHistoricSite1
+新增条目 QG_NamdoHistoricSite2

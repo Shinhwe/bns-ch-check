@@ -1,0 +1,789 @@
+原文变更 Achieve.Desc_565_etc_Tendency_BuYuDo_Peach_step1
+變更前原文 부유도에서 천도 2000개 획득
+變更後原文 옛 부유도에서 천도 2000개 획득
+原文变更 Achieve.Desc_565_etc_Tendency_BuYuDo_Peach_step2
+變更前原文 부유도에서 천도 10,000개 획득
+變更後原文 옛 부유도에서 천도 10,000개 획득
+原文变更 Achieve.Desc_565_etc_Tendency_BuYuDo_Peach_step3
+變更前原文 부유도에서 천도 50,000개 획득
+變更後原文 옛 부유도에서 천도 50,000개 획득
+原文变更 Achieve.Desc_565_etc_Tendency_BuYuDo_Peach_step4
+變更前原文 부유도에서 천도 200,000개 획득
+變更後原文 옛 부유도에서 천도 200,000개 획득
+原文变更 Achieve.Desc_565_etc_Tendency_BuYuDo_Peach_step5
+變更前原文 부유도에서 천도 500,000개 획득
+變更後原文 옛 부유도에서 천도 500,000개 획득
+原文变更 Achieve.Desc_566_faction_Tendency_BuYuDo_FactionScore_step1
+變更前原文 부유도에서 영기 획득
+變更後原文 옛 부유도에서 영기 획득
+原文变更 Achieve.Desc_566_faction_Tendency_BuYuDo_FactionScore_step2
+變更前原文 부유도에서 영기 1000개 획득
+變更後原文 옛 부유도에서 영기 1000개 획득
+原文变更 Achieve.Desc_566_faction_Tendency_BuYuDo_FactionScore_step3
+變更前原文 부유도에서 영기 3000개 획득
+變更後原文 옛 부유도에서 영기 3000개 획득
+原文变更 Achieve.Desc_566_faction_Tendency_BuYuDo_FactionScore_step4
+變更前原文 부유도에서 영기 5000개 획득
+變更後原文 옛 부유도에서 영기 5000개 획득
+原文变更 Achieve.Desc_566_faction_Tendency_BuYuDo_FactionScore_step5
+變更前原文 부유도에서 영기 10000개 획득
+變更後原文 옛 부유도에서 영기 10000개 획득
+原文变更 Achieve.Desc_567_faction_Tendency_BuYuDo_Quest_step1
+變更前原文 부유도에서 세력별 퀘스트 완료 100회
+變更後原文 옛 부유도에서 세력별 퀘스트 완료 100회
+原文变更 Achieve.Desc_567_faction_Tendency_BuYuDo_Quest_step2
+變更前原文 부유도에서 세력별 퀘스트 완료 300회
+變更後原文 옛 부유도에서 세력별 퀘스트 완료 300회
+原文变更 Achieve.Desc_567_faction_Tendency_BuYuDo_Quest_step3
+變更前原文 부유도에서 세력별 퀘스트 완료 500회
+變更後原文 옛 부유도에서 세력별 퀘스트 완료 500회
+原文变更 Achieve.Desc_568_faction_Tendency_BuYuDo_KillPC_step1
+變更前原文 부유도에서 상대 세력 플레이어 10명 처치
+變更後原文 옛 부유도에서 상대 세력 플레이어 10명 처치
+原文变更 Achieve.Desc_568_faction_Tendency_BuYuDo_KillPC_step2
+變更前原文 부유도에서 상대 세력 플레이어 100명 처치
+變更後原文 옛 부유도에서 상대 세력 플레이어 100명 처치
+原文变更 Achieve.Desc_568_faction_Tendency_BuYuDo_KillPC_step3
+變更前原文 부유도에서 상대 세력 플레이어 500명 처치
+變更後原文 옛 부유도에서 상대 세력 플레이어 500명 처치
+原文变更 Achieve.RegName_565_1_accumulate-field-play-point
+變更前原文 부유도에서 천도 획득
+變更後原文 옛 부유도에서 천도 획득
+原文变更 Achieve.RegName_566_1_accumulate-faction-score
+變更前原文 부유도에서 영기 획득
+變更後原文 옛 부유도에서 영기 획득
+原文变更 Achieve.RegName_570_1_kill-pc
+變更前原文 부유도에서 상대 세력 플레이어 처치
+變更後原文 옛 부유도에서 상대 세력 플레이어 처치
+新增条目 chatdomain.daesamak8
+新增条目 Dungeon.Name2.Dungeon_blackspeartemple
+新增条目 Effect.Name2.Common_Effect_faction-battle-field_Buff_01
+新增条目 Effect.Desc2.Common_Effect_faction-battle-field_Buff_01
+新增条目 Effect.Name2.Gadget_Arena_MachineGun_03_Knockback
+新增条目 Effect.Desc2.Gadget_Arena_MachineGun_03_Knockback
+新增条目 Effect.Name2.Gadget_Arena_ShockBombA_01_MidAir
+新增条目 Effect.Desc2.Gadget_Arena_ShockBombA_01_MidAir
+新增条目 Effect.Name2.Gadget_Arena_SnowBall_01_FastFreezing
+新增条目 Effect.Desc2.Gadget_Arena_SnowBall_01_FastFreezing
+原文变更 Effect.Desc2.Item_SecurityBuff_001
+變更前原文 공격력 <font name="00008130.UI.Label_LightYellow_12">20</font> 증가<br/>공력 <font name="00008130.UI.Label_LightYellow_12">2%</font> 증가<br/>방어력 <font name="00008130.UI.Label_LightYellow_12">200</font> 증가
+變更後原文 공격력 <font name="00008130.UI.Label_LightYellow_12">20</font> 증가<br/>공력 피해율 <font name="00008130.UI.Label_LightYellow_12">2%</font> 증가<br/>방어력 <font name="00008130.UI.Label_LightYellow_12">200</font> 증가
+新增条目 Effect.Name2.Acc_Nova_Ancient_T6_Act
+新增条目 Effect.Name2.NovaslotEffect_var9_Cooltime
+新增条目 Effect.Desc2.Acc_Nova_Ancient_T6_Act
+新增条目 Effect.Desc2.Acc_Nova_Ancient_T6_Act2
+新增条目 Effect.Desc2.Acc_Nova_Ancient_T6_Act3
+新增条目 Effect.Desc2.NovaslotEffect_var9_Cooltime
+新增条目 Effect.Desc7.General_Accessory_Nova_0061
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_101
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_102
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_103
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_104
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_105
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_106
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_107
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_108
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_109
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_110
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_111
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_112
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_113
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_114
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_115
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_116
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_117
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_118
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_119
+新增条目 Effect.Desc7.General_Accessory_Nova_0061_120
+新增条目 Effect.Name2.Warrior_G3_Shild_heal
+新增条目 Fielditem.name2.Arena_MachineGun_03
+新增条目 Fielditem.name2.Arena_ShockBombA_01
+新增条目 Fielditem.name2.Arena_SnowBall_01
+新增条目 Fielditem.action-name2.Arena_MachineGun_03
+新增条目 Fielditem.action-name2.Arena_ShockBombA_01
+新增条目 Fielditem.action-name2.Arena_SnowBall_01
+新增条目 Fielditem.action-desc2.Arena_MachineGun_03
+新增条目 Fielditem.action-desc2.Arena_ShockBombA_01
+新增条目 Fielditem.action-desc2.Arena_SnowBall_01
+新增条目 Fielditem.drop-action-name.Arena_MachineGun_03
+新增条目 Fielditem.drop-action-name.Arena_ShockBombA_01
+新增条目 Fielditem.drop-action-name.Arena_SnowBall_01
+新增条目 Fielditem.drop-action-desc.Arena_MachineGun_03
+新增条目 Fielditem.drop-action-desc.Arena_ShockBombA_01
+新增条目 Fielditem.drop-action-desc.Arena_SnowBall_01
+新增条目 Fielditem.description2.Arena_MachineGun_03
+新增条目 Fielditem.description2.Arena_ShockBombA_01
+新增条目 Fielditem.description2.Arena_SnowBall_01
+新增条目 Msg.ME_CT_DesertDragon_0004_HL_01
+新增条目 Msg.ME_CT_DesertDragon_0004_HL_02
+新增条目 Msg.ME_CT_DesertDragon_0004_HL_03
+新增条目 Msg.ME_CT_DesertDragon_0003_HL_01
+新增条目 Msg.ME_CT_DesertDragon_0004_HL_02_HT
+新增条目 Msg.ME_CT_DesertDragon_0004_HL_01_BHT
+新增条目 Msg.ME_CT_DesertDragon_0004_HL_03_BHT
+新增条目 Msg.ME_CT_DesertDragon_0003_HL_01_BHT
+新增条目 Msg.InterBattleFieldView.NotNowAvailable
+新增条目 Msg.InterBattleFieldView.StateError
+新增条目 Msg.InterBattleFieldView.InvalidFaction
+新增条目 Msg.InterBattleFieldView.InvalidCloth
+新增条目 Msg.InterBattleFieldView.PartyNotEnter
+新增条目 Msg.InterBattleField.EnterFail.Level
+新增条目 Msg.InterBattleField.EnterFail.MasteryLevel
+新增条目 Msg.InterBattleFieldView.InvalidCloth_HT
+新增条目 Text.Glyph.Glyph_SoulRage
+新增条目 Text.Glyph.Glyph_WeaponMaster
+新增条目 Text.Glyph.Flavor.Buyudo
+新增条目 TextData.GlyphAbility.Glyph_SoulRage_Score1
+新增条目 TextData.GlyphAbility.Attr1.Glyph_SoulRage_Score1
+新增条目 TextData.GlyphAbility.Glyph_WeaponMaster_Score1
+新增条目 TextData.GlyphAbility.Attr1.Glyph_WeaponMaster_Score1
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0023
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0024
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0025
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0026
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0027
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0028
+新增条目 Effect.Name2.Glyph_SoulRage_Buff1_Score1
+新增条目 Effect.Desc2.Glyph_SoulRage_Buff1_Score1
+新增条目 Effect.Name2.Glyph_WeaponMaster_Buff1_Score1
+新增条目 Effect.Desc2.Glyph_WeaponMaster_Buff1_Score1
+原文变更 Item.Name2.Quest_Scroll_BackChung_0068
+變更前原文 혼천교 비밀 지령서
+變更後原文 옛 혼천교 비밀 지령서
+新增条目 Item.MainInfo.Quest_Scroll_BackChung_0068
+原文变更 Item.Desc2.Quest_Scroll_BackChung_0068
+變更前原文 혼천교의 비밀 작전이 적혀있는 지령서. 하지만 모든 내용을 알 수 없습니다.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Name2.Quest_Scroll_BackChung_0069
+變更前原文 무림맹 비밀 지령서
+變更後原文 옛 무림맹 비밀 지령서
+新增条目 Item.MainInfo.Quest_Scroll_BackChung_0069
+原文变更 Item.Desc2.Quest_Scroll_BackChung_0069
+變更前原文 무림맹의 비밀 작전이 적혀있는 지령서. 하지만 모든 내용을 알 수 없습니다.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Name2.Quest_Scroll_BackChung_0070
+變更前原文 혼천교 분타주 임명서
+變更後原文 옛 혼천교 분타주 임명서
+新增条目 Item.MainInfo.Quest_Scroll_BackChung_0070
+原文变更 Item.Desc2.Quest_Scroll_BackChung_0070
+變更前原文 흑벌무를 바람평야 분타주로 임명하는 내용의 서신입니다. 흑벌무의 피가 묻어 있습니다.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Name2.Quest_Scroll_BackChung_0071
+變更前原文 무림맹 분타주 임명서
+變更後原文 옛 무림맹 분타주 임명서
+新增条目 Item.MainInfo.Quest_Scroll_BackChung_0071
+原文变更 Item.Desc2.Quest_Scroll_BackChung_0071
+變更前原文 백야천을 바람평야 분타주로 임명하는 내용의 서신입니다. 백야천의 피가 묻어 있습니다.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Name2.Quest_Scroll_BackChung_0076
+變更前原文 무림맹 명령서
+變更後原文 옛 무림맹 명령서
+新增条目 Item.MainInfo.Quest_Scroll_BackChung_0076
+原文变更 Item.Desc2.Quest_Scroll_BackChung_0076
+變更前原文 약초전쟁 임무를 받을 수 있는 서신.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Name2.Quest_Scroll_BackChung_0077
+變更前原文 혼천교 명령서
+變更後原文 옛 혼천교 명령서
+新增条目 Item.MainInfo.Quest_Scroll_BackChung_0077
+原文变更 Item.Desc2.Quest_Scroll_BackChung_0077
+變更前原文 약초전쟁 임무를 받을 수 있는 서신.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+新增条目 Name2.2022_05_18_01
+新增条目 Name2.2022_05_25_01
+新增条目 Name2.2022_05_18_02
+新增条目 Name2.2022_05_25_02
+原文变更 ItemSkill.Text.Eff.PT_T2_G3_Lv1_01_Desc
+變更前原文 천곤효과 중 분광포, 산탄사격, 전탄난사 추가피해
+變更後原文 천곤효과 중 분광포, 산탄사격 추가피해
+新增条目 Item.Name2.General_Accessory_Nova_0061
+新增条目 Item.Name2.General_Accessory_Nova_0061_101
+新增条目 Item.Name2.General_Accessory_Nova_0061_102
+新增条目 Item.Name2.General_Accessory_Nova_0061_103
+新增条目 Item.Name2.General_Accessory_Nova_0061_104
+新增条目 Item.Name2.General_Accessory_Nova_0061_105
+新增条目 Item.Name2.General_Accessory_Nova_0061_106
+新增条目 Item.Name2.General_Accessory_Nova_0061_107
+新增条目 Item.Name2.General_Accessory_Nova_0061_108
+新增条目 Item.Name2.General_Accessory_Nova_0061_109
+新增条目 Item.Name2.General_Accessory_Nova_0061_110
+新增条目 Item.Name2.General_Accessory_Nova_0061_111
+新增条目 Item.Name2.General_Accessory_Nova_0061_112
+新增条目 Item.Name2.General_Accessory_Nova_0061_113
+新增条目 Item.Name2.General_Accessory_Nova_0061_114
+新增条目 Item.Name2.General_Accessory_Nova_0061_115
+新增条目 Item.Name2.General_Accessory_Nova_0061_116
+新增条目 Item.Name2.General_Accessory_Nova_0061_117
+新增条目 Item.Name2.General_Accessory_Nova_0061_118
+新增条目 Item.Name2.General_Accessory_Nova_0061_119
+新增条目 Item.Name2.General_Accessory_Nova_0061_120
+新增条目 Item.Nick.General_Accessory_Nova_0061
+新增条目 Item.Name2.Cash_Costume_Dress_0378
+新增条目 Item.Name2.Cash_Costume_Decoration_0423
+新增条目 Item.Name2.Cash_Costume_Dress_0379
+新增条目 Item.Name2.Cash_Costume_Decoration_0424
+新增条目 Item.Desc2.Cash_Costume_Dress_0378
+新增条目 Item.Desc2.Cash_Costume_Decoration_0423
+新增条目 Item.Desc2.Cash_Costume_Dress_0379
+新增条目 Item.Desc2.Cash_Costume_Decoration_0424
+原文变更 Item.Name2.General_Grocery_MaxFactionScoreTalisman_0001
+變更前原文 혈풍 영기부적
+變更後原文 옛 혈풍 영기부적
+原文变更 Item.Name2.General_Grocery_Key_1010
+變更前原文 특수무기 열쇠
+變更後原文 옛 특수무기 열쇠
+原文变更 Item.Name2.General_Grocery_Box_1747
+變更前原文 초원 영석 꾸러미
+變更後原文 옛 초원 영석 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_1748
+變更前原文 초원 영석 주머니
+變更後原文 옛 초원 영석 주머니
+原文变更 Item.Name2.General_Grocery_Box_1749
+變更前原文 초원 영석 상자
+變更後原文 옛 초원 영석 상자
+原文变更 Item.Name2.General_Grocery_Box_1750
+變更前原文 초원 월석 꾸러미
+變更後原文 옛 초원 월석 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_1751
+變更前原文 초원 월석 주머니
+變更後原文 옛 초원 월석 주머니
+原文变更 Item.Name2.General_Grocery_Box_1752
+變更前原文 초원 월석 상자
+變更後原文 옛 초원 월석 상자
+原文变更 Item.Name2.General_Grocery_Box_2097
+變更前原文 초원 영석 궤짝
+變更後原文 옛 초원 영석 궤짝
+原文变更 Item.Name2.General_Grocery_Box_2098
+變更前原文 초원 영석 함
+變更後原文 옛 초원 영석 함
+原文变更 Item.Name2.General_Grocery_Box_3048
+變更前原文 초원 보화 꾸러미
+變更後原文 옛 초원 보화 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_3049
+變更前原文 초원 보화 주머니
+變更後原文 옛 초원 보화 주머니
+原文变更 Item.Name2.General_Grocery_Box_3050
+變更前原文 초원 보화 상자
+變更後原文 옛 초원 보화 상자
+原文变更 Item.Name2.General_Grocery_Box_3051
+變更前原文 초원 보화 궤짝
+變更後原文 옛 초원 보화 궤짝
+原文变更 Item.Name2.General_Grocery_Key_1024
+變更前原文 초원 열쇠
+變更後原文 옛 초원 열쇠
+原文变更 Item.Name2.General_Grocery_SlateScroll_0007
+變更前原文 빛나는 천하쌍세 각인서
+變更後原文 옛 빛나는 천하쌍세 각인서
+原文变更 Item.Name2.General_Grocery_SlateScroll_0008
+變更前原文 이글거리는 천하쌍세 각인서
+變更後原文 옛 이글거리는 천하쌍세 각인서
+原文变更 Item.Name2.General_Grocery_Box_4367
+變更前原文 찬란한 초원 영석 꾸러미
+變更後原文 옛 찬란한 초원 영석 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_4368
+變更前原文 찬란한 초원 영석 주머니
+變更後原文 옛 찬란한 초원 영석 주머니
+原文变更 Item.Name2.General_Grocery_Box_4369
+變更前原文 찬란한 초원 영석 상자
+變更後原文 옛 찬란한 초원 영석 상자
+原文变更 Item.Name2.General_Grocery_Box_4370
+變更前原文 찬란한 초원 월석 꾸러미
+變更後原文 옛 찬란한 초원 월석 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_4371
+變更前原文 찬란한 초원 월석 주머니
+變更後原文 옛 찬란한 초원 월석 주머니
+原文变更 Item.Name2.General_Grocery_Box_4372
+變更前原文 찬란한 초원 월석 상자
+變更後原文 옛 찬란한 초원 월석 상자
+原文变更 Item.Name2.General_Grocery_Box_4373
+變更前原文 찬란한 초원 월석 궤짝
+變更後原文 옛 찬란한 초원 월석 궤짝
+原文变更 Item.Name2.General_Grocery_Box_4374
+變更前原文 영롱한 초원 영석 꾸러미
+變更後原文 옛 영롱한 초원 영석 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_4375
+變更前原文 영롱한 초원 영석 주머니
+變更後原文 옛 영롱한 초원 영석 주머니
+原文变更 Item.Name2.General_Grocery_Box_4376
+變更前原文 영롱한 초원 영석 상자
+變更後原文 옛 영롱한 초원 영석 상자
+原文变更 Item.Name2.General_Grocery_Box_4377
+變更前原文 영롱한 초원 월석 꾸러미
+變更後原文 옛 영롱한 초원 월석 꾸러미
+原文变更 Item.Name2.General_Grocery_Box_4378
+變更前原文 영롱한 초원 월석 주머니
+變更後原文 옛 영롱한 초원 월석 주머니
+原文变更 Item.Name2.General_Grocery_Box_4379
+變更前原文 영롱한 초원 월석 상자
+變更後原文 옛 영롱한 초원 월석 상자
+原文变更 Item.Name2.General_Grocery_Box_4380
+變更前原文 영롱한 초원 월석 궤짝
+變更後原文 옛 영롱한 초원 월석 궤짝
+原文变更 Item.Name2.General_Grocery_Displaybox_5273
+變更前原文 나율의 정기
+變更後原文 천광의 정기
+原文变更 Item.Name2.General_Grocery_Coin_0297
+變更前原文 빛나는 천류 정복주화 [정규시즌 2]
+變更後原文 옛 빛나는 천류 정복주화 [정규시즌 2]
+新增条目 Item.Name2.General_Grocery_Coin_0301
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1565
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1566
+新增条目 Item.Name2.General_Grocery_Coin_0302
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1567
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1568
+新增条目 Item.Name2.General_Grocery_Box_4937
+新增条目 Item.Name2.General_Grocery_Box_4938
+新增条目 Item.Name2.General_Grocery_Box_4939
+新增条目 Item.Name2.General_Grocery_Box_4940
+新增条目 Item.Name2.General_Grocery_Box_4941
+新增条目 Item.Name2.General_Grocery_Box_4942
+新增条目 Item.Name2.General_Grocery_Box_4943
+新增条目 Item.Name2.General_Grocery_Box_4944
+新增条目 Item.Name2.General_Grocery_Box_4945
+新增条目 Item.Name2.General_Grocery_Box_4946
+新增条目 Item.Name2.General_Grocery_Box_4947
+新增条目 Item.Name2.General_Grocery_Box_4948
+新增条目 Item.Name2.General_Grocery_Box_4949
+新增条目 Item.Name2.General_Grocery_Box_4950
+新增条目 Item.Name2.General_Grocery_Box_4951
+新增条目 Item.Name2.General_Grocery_Box_4952
+新增条目 Item.Name2.General_Grocery_Box_4953
+新增条目 Item.Name2.General_Grocery_Box_4954
+新增条目 Item.Name2.General_Grocery_Box_4955
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0023
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0024
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0025
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0026
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0027
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0028
+原文变更 Item.Desc2.General_Grocery_Key_1010
+變更前原文 영석초원 세력 막사 주변에서 특수무기 획득 시 사용할 수 있습니다.
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Coin_0263
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;세상을 움직이는 자, 그 힘을 증명하라!&quot;</font>
+變更後原文 영석초원이 폐쇄되어 더 이상 획득이 불가능합니다. 2022/05/18 까지 부유도 세력 교환상인에게서 교환 가능합니다.
+原文变更 Item.Desc2.General_Grocery_Coin_0264
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;광폭한 맹수를 제압하여, 승리를 쟁취하라!&quot;</font>
+變更後原文 영석초원이 폐쇄되어 더 이상 획득이 불가능합니다. 2022/05/18 까지 부유도 세력 교환상인에게서 교환 가능합니다.
+原文变更 Item.Desc2.General_Grocery_Coin_0297
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당, 곤륜파 본산 정규시즌 2가 종료되어 더 이상 획득이 불가능합니다.<br/>2022/04/20 까지 교환 가능합니다.&quot;</font>
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Coin_0298
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당, 곤륜파 본산 정규시즌 3 보상으로 획득할 수 있습니다<br/>교환 종료 시점은 추후 공지 예정입니다.&quot;</font>
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당, 곤륜파 본산 정규시즌 3이 종료되어 더 이상 획득이 불가능합니다.<br/>2022/05/18 까지 교환 가능합니다.&quot;</font>
+新增条目 Item.Desc2.General_Grocery_Coin_0301
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1565
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1566
+新增条目 Item.Desc2.General_Grocery_Coin_0302
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1567
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1568
+新增条目 Item.Desc2.General_Grocery_Box_4938
+新增条目 Item.Desc2.General_Grocery_Box_4939
+新增条目 Item.Desc2.General_Grocery_Box_4940
+新增条目 Item.Desc2.General_Grocery_Box_4941
+新增条目 Item.Desc2.General_Grocery_Box_4942
+新增条目 Item.Desc2.General_Grocery_Box_4943
+新增条目 Item.Desc2.General_Grocery_Box_4944
+新增条目 Item.Desc2.General_Grocery_Box_4945
+新增条目 Item.Desc2.General_Grocery_Box_4946
+新增条目 Item.Desc2.General_Grocery_Box_4947
+新增条目 Item.Desc2.General_Grocery_Box_4948
+新增条目 Item.Desc2.General_Grocery_Box_4949
+新增条目 Item.Desc2.General_Grocery_Box_4954
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0023
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0024
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0025
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0026
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0027
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0028
+原文变更 Item.MainInfo.General_Grocery_Key_1010
+變更前原文 특수무기 잠금 해제
+變更後原文 <font name="00008130.UI.Vital_red">사용 불가</font>
+原文变更 Item.MainInfo.General_Grocery_Coin_0297
+變更前原文 물품 교환
+變更後原文 <font name="00008130.UI.Vital_red">사용 불가</font>
+新增条目 Item.MainInfo.General_Grocery_Coin_0301
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1565
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1566
+新增条目 Item.MainInfo.General_Grocery_Coin_0302
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1567
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1568
+新增条目 Item.MainInfo.General_Grocery_Box_4937
+新增条目 Item.MainInfo.General_Grocery_Box_4938
+新增条目 Item.MainInfo.General_Grocery_Box_4939
+新增条目 Item.MainInfo.General_Grocery_Box_4940
+新增条目 Item.MainInfo.General_Grocery_Box_4941
+新增条目 Item.MainInfo.General_Grocery_Box_4942
+新增条目 Item.MainInfo.General_Grocery_Box_4943
+新增条目 Item.MainInfo.General_Grocery_Box_4944
+新增条目 Item.MainInfo.General_Grocery_Box_4945
+新增条目 Item.MainInfo.General_Grocery_Box_4946
+新增条目 Item.MainInfo.General_Grocery_Box_4947
+新增条目 Item.MainInfo.General_Grocery_Box_4948
+新增条目 Item.MainInfo.General_Grocery_Box_4949
+新增条目 Item.MainInfo.General_Grocery_Box_4950
+新增条目 Item.MainInfo.General_Grocery_Box_4951
+新增条目 Item.MainInfo.General_Grocery_Box_4952
+新增条目 Item.MainInfo.General_Grocery_Box_4953
+新增条目 Item.MainInfo.General_Grocery_Box_4954
+新增条目 Item.MainInfo.General_Grocery_Box_4955
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0023
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0024
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0025
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0026
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0027
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0028
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1565
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1566
+原文变更 Item.Desc5.General_Grocery_Coin_0263
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+新增条目 Item.Desc5.General_Grocery_Coin_0264
+原文变更 Item.Desc5.General_Grocery_Displaybox_5273
+變更前原文 <arg id="item:General_Grocery_SpecialMaterial_1560" p="id:item.front-icon.scale.120"/> <font name="00008130.Program.Fontset_ItemGrade_5">나율의 정기</font><Image Imagesetpath="00015590.Tag_Random" enablescale="true" scalerate="1.2"/><br/><arg id="item:General_Grocery_SpecialMaterial_1561" p="id:item.front-icon.scale.120"/> <font name="00008130.Program.Fontset_ItemGrade_7">나율의 대정기</font><Image Imagesetpath="00015590.Tag_Random" enablescale="true" scalerate="1.2"/>
+變更後原文 <arg id="item:General_Grocery_SpecialMaterial_1565" p="id:item.front-icon.scale.120"/> <font name="00008130.Program.Fontset_ItemGrade_5">천광의 정기</font><Image Imagesetpath="00015590.Tag_Random" enablescale="true" scalerate="1.2"/><br/><arg id="item:General_Grocery_SpecialMaterial_1566" p="id:item.front-icon.scale.120"/> <font name="00008130.Program.Fontset_ItemGrade_7">천광의 대정기</font><Image Imagesetpath="00015590.Tag_Random" enablescale="true" scalerate="1.2"/>
+新增条目 Item.Desc5.General_Grocery_Coin_0301
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1565
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1566
+新增条目 Item.Desc5.General_Grocery_Coin_0302
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1567
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1568
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1024
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1028
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_Coin_0133
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_Coin_0134
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1029
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_Coin_0142
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_GuildMaterial_0023
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1407
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1408
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 바람평야 영석초원 세력 교환상인
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+原文变更 Item.Desc6.General_Grocery_Key_1038
+變更前原文 <image imagesetpath="00009076.Tooltip_FildDrop" enablescale="true" scalerate="1.2"/> 바람평야 영석초원
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 부유도 세력 교환상인
+新增条目 Item.Desc6.General_Grocery_Coin_0301
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1565
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1566
+新增条目 Item.Desc6.General_Grocery_Coin_0302
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1567
+新增条目 Item.Desc6.General_Grocery_Box_4937
+新增条目 Item.Desc6.General_Grocery_Box_4938
+新增条目 Item.Desc6.General_Grocery_Box_4939
+新增条目 Item.Desc6.General_Grocery_Box_4940
+新增条目 Item.Desc6.General_Grocery_Box_4941
+新增条目 Item.Desc6.General_Grocery_Box_4942
+新增条目 Item.Desc6.General_Grocery_Box_4943
+新增条目 Item.Desc6.General_Grocery_Box_4944
+新增条目 Item.Desc6.General_Grocery_Box_4945
+新增条目 Item.Desc6.General_Grocery_Box_4946
+新增条目 Item.Desc6.General_Grocery_Box_4947
+新增条目 Item.Desc6.General_Grocery_Box_4948
+新增条目 Item.Desc6.General_Grocery_Box_4949
+新增条目 Item.Desc6.General_Grocery_Box_4950
+新增条目 Item.Desc6.General_Grocery_Box_4951
+新增条目 Item.Desc6.General_Grocery_Box_4952
+新增条目 Item.Desc6.General_Grocery_Box_4953
+新增条目 Item.Desc6.General_Grocery_Box_4954
+新增条目 Item.Desc6.General_Grocery_Box_4955
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0023
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0024
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0025
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0026
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0027
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0028
+原文变更 Item.Name2.Event_Grocery_ReviveTalisman_0006
+變更前原文 초원 개인부활 부적
+變更後原文 옛 초원 개인부활 부적
+原文变更 Item.Name2.Cash_Grocery_Coin_0346
+變更前原文 신비수 스페셜 패스 Plus 티켓
+變更後原文 옛 신비수 스페셜 패스 Plus 티켓
+原文变更 Item.Name2.Cash_Grocery_Potion_0010
+變更前原文 신비수 스페셜 패스 레벨업
+變更後原文 옛 신비수 스페셜 패스 레벨업
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0306
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0307
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0308
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0309
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0310
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0311
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0312
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0313
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0314
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0315
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0316
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0317
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0318
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0319
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0320
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0321
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0322
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0323
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_0324
+新增条目 Item.Name2.Cash_Grocery_WeaponGem_Box_0041
+新增条目 Item.Name2.Cash_Grocery_Coin_0099
+新增条目 Item.Name2.Cash_Grocery_Potion_0011
+新增条目 Item.Name2.Cash_Grocery_Coin_0100
+新增条目 Item.Name2.Cash_Grocery_Box_0601
+新增条目 Item.Name2.Cash_Grocery_Coin_0101
+新增条目 Item.Name2.Cash_Grocery_Potion_0012
+新增条目 Item.Name2.Cash_Grocery_Coin_0102
+新增条目 Item.Name2.Cash_Grocery_Deed_0059
+新增条目 Item.Name2.Cash_Grocery_Deed_0060
+新增条目 Item.Name2.Cash_Grocery_Deed_0061
+新增条目 Item.Name2.Cash_Grocery_Box_0602
+新增条目 Item.Desc2.Event_Grocery_ReviveTalisman_0006
+新增条目 Item.Desc2.Cash_Grocery_Potion_0011
+新增条目 Item.Desc2.Cash_Grocery_Box_0601
+新增条目 Item.Desc2.Cash_Grocery_Potion_0012
+原文变更 Item.MainInfo.Event_Grocery_ReviveTalisman_0006
+變更前原文 탈진 및 사망 시 부활
+變更後原文 <font name="00008130.UI.Vital_red">사용 불가</font>
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0346
+變更前原文 신비수 스페셜 패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Potion_0010
+變更前原文 신비수 스페셜 패스 포인트 획득<br/>묶음 사용 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_WeaponGem_Box_0041
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0099
+新增条目 Item.MainInfo.Cash_Grocery_Potion_0011
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0100
+新增条目 Item.MainInfo.Cash_Grocery_Box_0601
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0101
+新增条目 Item.MainInfo.Cash_Grocery_Potion_0012
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0102
+新增条目 Item.MainInfo.Cash_Grocery_Deed_0059
+新增条目 Item.MainInfo.Cash_Grocery_Deed_0060
+新增条目 Item.MainInfo.Cash_Grocery_Deed_0061
+新增条目 Item.MainInfo.Cash_Grocery_Box_0602
+新增条目 Item.Desc5.Cash_Grocery_Coin_0100
+新增条目 Item.Desc5.Cash_Grocery_Coin_0102
+新增条目 Item.Desc5.Cash_Grocery_Deed_0059
+新增条目 Item.Desc5.Cash_Grocery_Deed_0060
+新增条目 Item.Desc5.Cash_Grocery_Deed_0061
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0306
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0307
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0308
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0309
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0310
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0311
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0312
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0313
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0314
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0315
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0316
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0317
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0318
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0319
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0320
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0321
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0322
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0323
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_0324
+新增条目 Item.Desc6.Cash_Grocery_WeaponGem_Box_0041
+新增条目 Item.Desc6.Cash_Grocery_Box_0601
+新增条目 Item.Desc6.Cash_Grocery_Deed_0059
+新增条目 Item.Desc6.Cash_Grocery_Deed_0060
+新增条目 Item.Desc6.Cash_Grocery_Deed_0061
+新增条目 Item.Desc6.Cash_Grocery_Box_0602
+新增条目 Item.Name2.General_Weapon_Guardian_0195_100
+新增条目 Item.Name2.General_Weapon_Guardian_0195_200
+新增条目 Item.Name2.Cash_Weapon_Sword_0157
+新增条目 Item.Name2.Cash_Weapon_Gauntlet_0157
+新增条目 Item.Name2.Cash_Weapon_Aura-bangle_0157
+新增条目 Item.Name2.Cash_Weapon_Staff_0157
+新增条目 Item.Name2.Cash_Weapon_Gun_0157
+新增条目 Item.Name2.Cash_Weapon_Axe_0157
+新增条目 Item.Name2.Cash_Weapon_Dagger_0157
+新增条目 Item.Name2.Cash_Weapon_GreatSword_0157
+新增条目 Item.Name2.Cash_Weapon_LongBow_0157
+新增条目 Item.Name2.Cash_Weapon_Orb_0157
+新增条目 Item.Name2.Cash_Weapon_DualBlade_0157
+新增条目 Item.Name2.Cash_Weapon_RynSword_0157
+新增条目 Item.Name2.Cash_Weapon_SoulGauntlet_0157
+新增条目 Item.Name2.Cash_Weapon_WarDagger_0157
+新增条目 Discovery.Name2.981_Interserver
+新增条目 Discovery.Name2.982_Interserver
+新增条目 Discovery.Name2.RunContestA_All
+新增条目 Discovery.Name2.983_Interserver
+新增条目 Discovery.Name2.984_Interserver
+新增条目 Discovery.Name2.BlackDragonLab
+新增条目 Discovery.Name2.BlackDragonLab_1
+新增条目 Discovery.Name2.BlackDragonLab_2
+新增条目 Discovery.Name2.BlackDragonLab_3
+新增条目 Discovery.Name2.7100_Interserver
+新增条目 Name.KeyCommand.toggle-inter-battle-field
+原文变更 Name.ItemStore.EventStore
+變更前原文 이벤트 상점
+變更後原文 유랑 상점
+原文变更 Npc.name2.MH_HonCheonGyo_0044
+變更前原文 적월단
+變更後原文 적원단
+原文变更 Npc.name2.MH_HonCheonGyo_0046
+變更前原文 적월단
+變更後原文 적원단
+原文变更 Npc.name2.ME_PC_Dummy_0166
+變更前原文 더미
+變更後原文 장막의 핵
+新增条目 UI.Season.SoloDungeon1.Name.51
+新增条目 UI.Season.SoloDungeon2.Name.64
+新增条目 UI.Season.Infinite.Name.82
+新增条目 UI.Season.Duel.Name.100
+新增条目 UI.Season.TagMatch.Name.100
+新增条目 UI.Season.Occupation.Name.66
+新增条目 UI.Season.CTF.Name.66
+新增条目 UI.Season.LTB.Name.61
+新增条目 UI.Season.GuildCombat.Name.61
+新增条目 Skill.MainInfo1.Gadget_Arena_MachineGun_03
+新增条目 Skill.MainInfo2.Gadget_Arena_MachineGun_03
+新增条目 Skill.SubInfo.Gadget_Arena_MachineGun_03
+新增条目 Skill.MainInfo1.Gadget_Arena_ShockBombA_01
+新增条目 Skill.MainInfo2.Gadget_Gadget_Arena_ShockBombA_01
+新增条目 Skill.SubInfo.Gadget_Gadget_Arena_ShockBombA_01
+新增条目 Skill.MainInfo1.Gadget_Arena_SnowBall_01
+新增条目 Skill.MainInfo2.Gadget_Arena_SnowBall_01
+新增条目 Skill.SubInfo.Gadget_Arena_SnowBall_01
+新增条目 Skill.Name2.GWJ_B1_Dummy_DoorRecall
+原文变更 Text.skill.Warrior_Tooltip_G3_Back_Attack2
+變更前原文 염폭참, 염룡검, 염왕진, 반월염화, 나선염화, 섬광염화 사용 후 연계 가능
+變更後原文 염폭참, 염룡검, 염왕진, 염화난무:나선, 염화난무:섬광 사용 후 연계 가능
+原文变更 Text.WA_G3_Train_Desc13
+變更前原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염폭참, 염룡진, 염룡검</font> 무공의 연계 기능 제거 및 피해량 변경</p>
+變更後原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염폭참, 염왕진, 염룡검</font> 무공의 연계 기능 제거 및 피해량 변경</p>
+原文变更 Text.WA_G3_Train_Desc32
+變更前原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">역공</font> 무공 연계 기능 추가</p>
+變更後原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">역공, 방어이동</font> 무공 연계 기능 추가</p>
+原文变更 Text.WA_G3_Train_Desc33
+變更前原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">하단베기</font> 기능 강화</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염왕수</font> 기능 강화</p>
+變更後原文 <p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">돌진</font> 기능 강화</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">하단베기</font> 기능 강화</p><p bottommargin="10" bullets="●" bulletsfontset="00008130.UI.Normal_12"><font name="00008130.UI.Vital_LightBlue">염왕수</font> 기능 강화</p>
+原文变更 SkillTooltipAttr.text.E_Damage_After_Warrior_G3_SwordCrash
+變更前原文 염룡검 사용 후 연계 시 <arg p="3:string"/>의 피해
+變更後原文 염룡검 사용 후 연계 시 <arg p="2:string"/>의 피해
+原文变更 SkillTooltipAttr.text.E_Damage_After_Warrior_G3_BurstBlade
+變更前原文 염폭참 사용 후 연계 시 <arg p="3:string"/>의 피해
+變更後原文 염폭참 사용 후 연계 시 <arg p="2:string"/>의 피해
+原文变更 SkillTooltipAttr.text.E_Damage_After_Warrior_G3_BurstBlade_SM
+變更前原文 진 염폭참 사용 후 연계 시 <arg p="3:string"/>의 피해
+變更後原文 진 염폭참 사용 후 연계 시 <arg p="2:string"/>의 피해
+原文变更 SkillTooltipAttr.text.Shooter_G2_Passive_SUB_1
+變更前原文 방출 사용 시 3초간 공격력 5% 증가, 받는 피해 5% 감소
+變更後原文 방출 명중 시 3초간 공격력 5% 증가, 받는 피해 5% 감소
+原文变更 SkillTooltipAttr.text.Shooter_StartBreak_2
+變更前原文 파괴 효과 중 특정 무공 명중 시 브레이크 게이지 축적
+變更後原文 파괴 효과 중 전탄난사, 진 전탄난사, 작렬 명중 시 브레이크 게이지 축적
+原文变更 Skill.SwordMaster_Sword_LightningMoonSlash_Lv21_3
+變更前原文 사용 시 축적 1 중첩
+變更後原文 명중 시 축적 1 중첩
+原文变更 Store2.MuRimMaeng_0077.name2
+變更前原文 세력
+變更後原文 세력1
+新增条目 Store2.MuRimMaeng_0079.name2
+原文变更 Store2.HonChunGyo_0076.name2
+變更前原文 세력
+變更後原文 세력1
+新增条目 Store2.HonChunGyo_0078.name2
+原文变更 UI.Option.Tooltip.UseWarningConfirmTooltip
+變更前原文 선택하면 영웅 등급 이상 물품을 분해, 사용, 처분 시 &apos;지금분해&apos;, &apos;지금사용&apos;, &apos;지금처분&apos; 을 입력하게 됩니다.<br/>2단계 이상 성장된 물품을 제작에 사용 시에는<br/>&apos;재료사용&apos;을 입력하게 됩니다.
+變更後原文 선택하면 영웅 등급 이상 물품을 분해, 사용, 처분, 판매 시 &apos;지금분해&apos;, &apos;지금사용&apos;, &apos;지금처분&apos;, &apos;지금판매, 를 입력하게 됩니다.<br/>2단계 이상 성장된 물품을 제작에 사용 시에는<br/>&apos;재료사용&apos;을 입력하게 됩니다.
+原文变更 UI.ItemStore.UnlocatedStoreExpired.Fail
+變更前原文 이벤트 상점 시간이 종료되어 더 이상 물품을 구매 할수 없습니다.
+變更後原文 유랑 상점 이용시간이 종료되어 더 이상 물품을 구매 할수 없습니다.
+原文变更 UI.ButtonTooltip.UnlocatedStore
+變更前原文 이벤트 상점
+變更後原文 유랑 상점
+新增条目 UI.ButtonTooltip.FieldZone
+新增条目 UI.Time.Range.DayOfWeek.Hour.Min
+新增条目 UI.Time.DueDate.DayOfWeek.Hour.Min
+新增条目 UI.FieldZonePanel
+新增条目 UI.FieldZone.AdmissionTime
+新增条目 UI.FieldZone.AdmissionNum
+新增条目 UI.FieldZone.RewardItem
+新增条目 UI.FieldZone.Enter
+新增条目 PublicRaid.Name2.BuYudo
+新增条目 UI.FieldZone.Tooltip.BuYudo
+新增条目 UI.ItemWarningConfirm.Title.ItemStore.Sell.Gem
+新增条目 UI.ItemWarningConfirm.Description.ItemStore.Sell.Gem
+新增条目 UI.ItemWarningConfirm.title.ItemStore.BuyFail.Gem
+新增条目 UI.ItemWarningConfirm.Description.ItemStore.BuyFail.Gem
+新增条目 UI.ItemWarningConfirm.Title.ItemStore.Sell.ItemGrade
+新增条目 UI.ItemWarningConfirm.Description.ItemStore.Sell.ItemGrade
+新增条目 UI.ItemWarningConfirm.Description.ItemStore.Sell.ItemGrade.NeedKeyword
+新增条目 UI.ItemWarningConfirm.Keyword.ItemStore.Sell.ItemGrade
+新增条目 UI.ItemWarningConfirm.Description.ItemStore.Sell.Appearance
+新增条目 UI.Tooltip.UIInfo.InterServerBattleField
+原文变更 baekchung_env_375
+變更前原文 대왕월석고룡의 파편입니다. 부유도 곡괭이가 있어야 채집 할 수 있습니다.
+變更後原文 대왕월석고룡의 파편입니다.
+新增条目 blackspeartemple_env_01
+新增条目 blackspeartemple_env_02
+新增条目 blackspeartemple_env_03
+新增条目 blackspeartemple_env_04
+新增条目 blackspeartemple_env_05
+新增条目 blackspeartemple_env_06
+新增条目 blackspeartemple_env_07
+新增条目 blackspeartemple_env_08
+新增条目 blackspeartemple_env_09
+新增条目 blackspeartemple_env_10
+新增条目 blackspeartemple_env_11
+新增条目 blackspeartemple_env_12
+新增条目 blackspeartemple_env_13
+新增条目 blackspeartemple_env_14
+新增条目 blackspeartemple_env_15
+新增条目 blackspeartemple_env_16
+新增条目 blackspeartemple_env_17
+新增条目 blackspeartemple_env_18
+原文变更 Mission.Name2.1045_2
+變更前原文 무림맹 백호대 수색조장 임대호에게 보고
+變更後原文 무림맹 백호대 수색조장 임대호의 서신
+原文变更 Mission.Name2.1046_2
+變更前原文 혼천교 염화단 수색단장 남궁선에게 보고
+變更後原文 혼천교 염화단 수색단장 남궁선의 서신
+原文变更 q_1051_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">무림맹 백호대 수색조장 임대호</font><br/>빙백신조, 폭열신조, 돌연변이 월석고룡의 영기구슬을 수집하도록.
+變更後原文 <font name="00008130.UI.QJ_NpcName">무림맹 백호대 수색조장 임대호</font><br/>빙백신조, 폭열신조, 대왕월석고룡의 영기구슬을 수집하도록.
+原文变更 Mission.Name2.1051_3
+變更前原文 돌연변이 월석고룡의 금빛 영기구슬 획득
+變更後原文 대왕월석고룡의 금빛 영기구슬 획득
+原文变更 q_1052_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">혼천교 염화단 수색단장 남궁선</font><br/>빙백신조, 폭열신조, 돌연변이 월석고룡의 영기구슬을 수집하도록.
+變更後原文 <font name="00008130.UI.QJ_NpcName">혼천교 염화단 수색단장 남궁선</font><br/>빙백신조, 폭열신조, 대왕월석고룡의 영기구슬을 수집하도록.
+原文变更 Mission.Name2.1052_3
+變更前原文 돌연변이 월석고룡의 금빛 영기구슬 획득
+變更後原文 대왕월석고룡의 금빛 영기구슬 획득
+原文变更 q_25059_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">무림맹 책사 독고혈</font><br/>돌연변이 월석고룡의 금빛 영기구슬을 가져오도록.
+變更後原文 <font name="00008130.UI.QJ_NpcName">무림맹 책사 독고혈</font><br/>대왕월석고룡의 금빛 영기구슬을 가져오도록.
+原文变更 Mission.Name2.25059_1
+變更前原文 돌연변이 월석고룡의 금빛 영기구슬 획득
+變更後原文 대왕월석고룡의 금빛 영기구슬 획득
+原文变更 q_25059_1_text_1
+變更前原文 &lt; 독고혈의 서신 &gt;<br/>수고했다. 계속 월석고룡을 주시하도록.
+變更後原文 &lt; 독고혈의 서신 &gt;<br/>수고했다. 계속 대왕월석고룡을 주시하도록.
+原文变更 q_25060_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">혼천교 호법 사갈천</font><br/>돌연변이 월석고룡의 금빛 영기구슬을 가져오도록.
+變更後原文 <font name="00008130.UI.QJ_NpcName">혼천교 호법 사갈천</font><br/>대왕월석고룡의 금빛 영기구슬을 가져오도록.
+原文变更 Mission.Name2.25060_1
+變更前原文 돌연변이 월석고룡의 금빛 영기구슬 획득
+變更後原文 대왕월석고룡의 금빛 영기구슬 획득
+原文变更 q_25060_1_text_1
+變更前原文 &lt; 사갈천의 서신 &gt;<br/>수고했어. 계속 월석고룡을 주시하도록.
+變更後原文 &lt; 사갈천의 서신 &gt;<br/>수고했어. 계속 대왕월석고룡을 주시하도록.
+新增条目 QLooting.name2_1045_2
+新增条目 QLooting.name2_1046_2

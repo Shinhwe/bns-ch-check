@@ -1,0 +1,2585 @@
+新增条目 Achieve.Name_696_dungeon_JububsaChonsu_step1
+新增条目 Achieve.Name_697_dungeon_JububsaChonsu_step1
+新增条目 Achieve.Name_697_dungeon_JububsaChonsu_step2
+新增条目 Achieve.Name_697_dungeon_JububsaChonsu_step3
+新增条目 Achieve.Name_697_dungeon_JububsaChonsu_step4
+新增条目 Achieve.Name_697_dungeon_JububsaChonsu_step5
+新增条目 Achieve.Name_698_dungeon_JububsaChonsu_step1
+原文变更 Achieve.Name_994_consumable_FirstGonRyun_Extreme_0001_step1
+變更前原文 끝에 다다른 자 (추후 공개)
+變更後原文 끝에 다다른 자 (곤륜파 본산)
+新增条目 Achieve.Name_1201_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Name_1201_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Name_1201_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Name_1202_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Name_1202_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Name_1202_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Name_1203_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Name_1203_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Name_1203_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Name_1204_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Name_1204_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Name_1204_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Name_1205_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Name_1206_dungeon_FirstGonRyun_step1
+原文变更 Achieve.Desc_689_dungeon_DungeonBoss_KillBoss9_step1
+變更前原文 봉마 7단계 이상에서 금강투신, 무패랑, 미지의 몬스터 각각 50회 처치
+變更後原文 봉마 7단계 이상에서 금강투신, 무패랑, 손량 각각 50회 처치
+新增条目 Achieve.Desc_696_dungeon_JububsaChonsu_step1
+新增条目 Achieve.Desc_697_dungeon_JububsaChonsu_step1
+新增条目 Achieve.Desc_697_dungeon_JububsaChonsu_step2
+新增条目 Achieve.Desc_697_dungeon_JububsaChonsu_step3
+新增条目 Achieve.Desc_697_dungeon_JububsaChonsu_step4
+新增条目 Achieve.Desc_697_dungeon_JububsaChonsu_step5
+新增条目 Achieve.Desc_698_dungeon_JububsaChonsu_step1
+原文变更 Achieve.Desc_994_consumable_FirstGonRyun_Extreme_0001_step1
+變更前原文 미지의 몬스터 내단 사용 시 달성
+變更後原文 손량의 내단 사용 시 달성
+原文变更 Achieve.Desc_995_consumable_NamdoGonRyun_All__Extreme_0001_step1
+變更前原文 금강투신의 내단, 무패랑의 내단, 미지의 몬스터 내단 사용
+變更後原文 금강투신의 내단, 무패랑의 내단, 손량의 내단 사용
+新增条目 Achieve.Desc_1201_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Desc_1201_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Desc_1201_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Desc_1202_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Desc_1202_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Desc_1202_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Desc_1203_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Desc_1203_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Desc_1203_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Desc_1204_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Desc_1204_dungeon_FirstGonRyun_step2
+新增条目 Achieve.Desc_1204_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Desc_1205_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Desc_1206_dungeon_FirstGonRyun_step1
+新增条目 Achieve.Title_696_dungeon_JububsaChonsu_step1
+新增条目 Achieve.Title_698_dungeon_JububsaChonsu_step1
+原文变更 Achieve.Title_994_consumable_FirstGonRyun_Extreme_0001_step1
+變更前原文 추후 공개
+變更後原文 곤륜파 본산 지배자
+新增条目 Achieve.Title_1201_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Title_1202_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Title_1203_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Title_1204_dungeon_FirstGonRyun_step3
+新增条目 Achieve.Title_1206_dungeon_FirstGonRyun_step1
+原文变更 Achieve.RegName_995_1_kill-boss-npc
+變更前原文 미지의 몬스터 처치
+變更後原文 <arg p="2:npc.name2"/> 처치
+原文变更 Achieve.RegName_917_1_kill-boss-npc
+變更前原文 미지의 몬스터 처치
+變更後原文 <arg p="2:npc.name2"/> 처치
+新增条目 Achieve.RegName_1212_1_kill-boss-npc
+新增条目 Achieve.RegName_1213_1_kill-boss-npc
+新增条目 Achieve.RegName_1214_1_kill-boss-npc
+新增条目 Achieve.RegName_1215_1_kill-boss-npc
+新增条目 Achieve.RegName_1216_1_kill-boss-npc
+新增条目 Achieve.RegName_1217_1_kill-npc
+新增条目 Achieve.RegName_1218_1_kill-boss-npc
+新增条目 Achieve.RegName_1219_1_kill-boss-npc
+新增条目 Achieve.RegName_1220_1_kill-boss-npc
+原文变更 PartyMatch.Desc.Campfire_NamdoHistoricSite_1
+變更前原文 남도파 야외 유적지
+變更後原文 남도파 시험의 전당
+原文变更 PartyMatch.Desc.Campfire_NamdoHistoricSite_2
+變更前原文 남도파 동굴 유적지
+變更後原文 남도파 전승의 사당
+新增条目 PartyMatch.Desc.Campfire_FirstGonRyun
+新增条目 chatdomain.Geonwonseongdo19
+新增条目 Dungeon.Name2.Dungeon_FirstGonRyun
+新增条目 InterD.Desc.Dungeon_FirstGonRyun
+原文变更 Effect.Desc2.Common_Effect_Break_Pho
+變更前原文 브레이크로 인한 상태이상을 저항했습니다<br/>받는 피해 증가
+變更後原文 브레이크로 인한 상태이상을 근성으로 무시했습니다<br/>받는 피해량 30% 증가
+新增条目 Effect.Name2.Common_Effect_BreakState_FightGod
+新增条目 Effect.Desc2.Common_Effect_BreakState_FightGod
+新增条目 Effect.Name2.Common_Effect_BreakState_GonRyun
+新增条目 Effect.Desc2.Common_Effect_BreakState_GonRyun
+新增条目 Effect.Name2.Common_Effect_BreakState_Normal
+新增条目 Effect.Desc2.Common_Effect_BreakState_Normal
+新增条目 Effect.Name2.Common_Effect_BreakState_MudSoldier
+新增条目 Effect.Desc2.Common_Effect_BreakState_MudSoldier
+新增条目 Effect.Name2.Item_SecurityBuff_001
+新增条目 Effect.Desc2.Item_SecurityBuff_001
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_Effect
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv1
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv2
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv3
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv4
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv5
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv6
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv7
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv8
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv9
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv10
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv11
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv12
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv13
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv14
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv15
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv16<replacement><![CDATA[<font name="00008130.UI.Label_Green03_12">치명방어 44, 대인방어력 44 증가<br/>도전 및 성장 관련 무기/장갑의 추가피해 효과 저항<br/>피격 시 9초간 천류효과 발동<br/>천류효과 발동 시 항마공격력 110, 항마방어력 1600 증가<br/>천류효과 발동 시 회복 7500 증가, 초당 생명력 19,500 회복<br/>천류효과 발동 시 치명방어 86, 대인방어력 86 증가<br/>(재발동 제한시간 30초)<br/>일정 확률로 공격력의 700% 추가피해</font>
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv17
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv18
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv19
+新增条目 Effect.Desc7.Acc_Bracelet_R8_Ancient_lv20
+新增条目 Effect.Name2.Acc_Belt_E8_Ancient_Effect_Act
+新增条目 Effect.Name2.Acc_Belt_E8_Ancient_Effect_AddDamage
+新增条目 Effect.Name2.Acc_Belt_E8_Ancient_Effect_CoolTime
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv1
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv2
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv3
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv4
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv5
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv6
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv7
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv8
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv9
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv10
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv11
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv12
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv13
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv14
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv15
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv16
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv17
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv18
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv19
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_Act_lv20
+新增条目 effect.Desc2.Acc_Belt_E8_Ancient_Effect_CoolTime
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_Effect
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv1
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv2
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv3
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv4
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv5
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv6
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv7
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv8
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv9
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv10
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv11
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv12
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv13
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv14
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv15
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv16
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv17
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv18
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv19
+新增条目 Effect.Desc7.Acc_Belt_E8_Ancient_lv20
+新增条目 Effect.Name2.Acc_New_Soul2_Ancient_T7_Act
+新增条目 Effect.Name2.Acc_New_Soul2_Ancient_T7_Buff
+新增条目 Effect.Name2.Acc_New_Soul2_Ancient_T7_AddDamage1
+新增条目 Effect.Name2.Acc_New_Soul2_Ancient_T7_AddDamage2
+新增条目 Effect.Desc2.Acc_New_Soul2_Ancient_T7_Act
+新增条目 Effect.Desc2.Acc_New_Soul2_Ancient_T7_Buff
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_01
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_02
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_03
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_04
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_05
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_06
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_07
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_08
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_09
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_10
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_11
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_12
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_13
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_14
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_15
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_16
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_17
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_18
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_19
+新增条目 Effect.Desc7.Acc_New_Soul2_Ancient_T7_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_11
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_12
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_13
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_14
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_15
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_16
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_17
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_18
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_19
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot1_Option1_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_11
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_12
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_13
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_14
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_15
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_16
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_17
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_18
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_19
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Bracelet_Effect_Slot3_Option1_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_11
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_12
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_13
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_14
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_15
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_16
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_17
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_18
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_19
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot1_Option1_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Belt_Effect_Slot3_Option2_10
+新增条目 Effect.Desc2.Improve_OptionEffect_Acc_Soul2_Slot_lv1
+新增条目 Effect.Desc2.Improve_OptionEffect_Acc_Soul2_Slot_lv2
+新增条目 Effect.Desc2.Improve_OptionEffect_Acc_Soul2_Slot_lv3
+新增条目 Effect.Desc2.Improve_OptionEffect_Acc_Soul2_Slot_lv4
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_Old
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_Old
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_Young
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_Young
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_BossPower
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_BossPower
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_BossPower_kill
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_BossPower_kill
+新增条目 Effect.Name2.GWJ_B1_TimeBomb_TimeBomb_13s
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_simtime1
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_simtime1
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_Boss_poison_SIMDOT
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_Boss_poison_SIMDOT
+新增条目 Effect.Name2.GWJ_B1_TimeBomb_Energy_PC
+新增条目 Effect.Desc2.GWJ_B1_TimeBomb_Energy_PC
+新增条目 Effect.Name2.GWJ_B1_TimeBomb_Energy2_PC
+新增条目 Effect.Desc2.GWJ_B1_TimeBomb_Energy2_PC
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_multiground_slow
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_multiground_slow
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_NeedleTime
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_NeedleTime
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_BombTime
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_BombTime
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_Boss_kneel5
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_Boss_kneel5
+新增条目 Effect.Name2.SWB_B1_multigroundn_Mark_MiddleMode
+新增条目 Effect.Desc2.SWB_B1_multigroundn_Mark_MiddleMode
+新增条目 Effect.Name2.SWB_B1_multigroundn_Mark_HardMode
+新增条目 Effect.Desc2.SWB_B1_multigroundn_Mark_HardMode
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_speeddown
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_speeddown
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_Young_PC
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_Young_PC
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_boss_defaultbuff
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_boss_defaultbuff
+新增条目 Effect.Name2.GWJ_B1_FirstGonRyun_InhalationCatchLink_immune
+新增条目 Effect.Desc2.GWJ_B1_FirstGonRyun_InhalationCatchLink_immune
+新增条目 Effect.Name2.GWJ_Hades_LinkLaser
+新增条目 Effect.Name2.GWJ_Hades_LinkLaser_Execution
+新增条目 Effect.Name2.GWJ_Hades_Suicide_Debuff
+新增条目 Effect.Name2.GWJ_Dummy_AltarSpirit_1
+新增条目 Effect.Name2.GWJ_Dummy_AltarSpirit_2
+新增条目 Effect.Name2.GWJ_Dummy_AltarSpirit_3
+新增条目 Effect.Name2.GWJ_Dummy_AltarSpirit_4
+新增条目 Effect.Name2.GWJ_Dummy_AltarSpirit_5
+新增条目 Effect.Name2.GWJ_Dummy_AltarSpirit_7
+新增条目 Effect.Name2.GWJ_Hades_Barrier_Yellow
+新增条目 Effect.Name2.GWJ_Hades_Barrier_Red
+新增条目 Effect.Name2.GWJ_N1_PastElder_SpiritRecall
+新增条目 Effect.Name2.GWJ_N1_PastElder_Sentence
+新增条目 Effect.Name2.GWJ_N1_PastElder_Execution
+新增条目 Effect.Name2.GWJ_N1_TimeProtection
+新增条目 Effect.Name2.GWJ_Dummy_Ghost_Immune
+新增条目 Effect.Name2.GWJ_Dummy_Ghost
+新增条目 Effect.Name2.GWJ_N1_AncientHades_Buff_DefenseUp
+新增条目 Effect.Name2.GWJ_Evocation
+新增条目 Effect.Desc2.GWJ_Hades_LinkLaser
+新增条目 Effect.Desc2.GWJ_Hades_LinkLaser_Execution
+新增条目 Effect.Desc2.GWJ_Hades_Suicide_Debuff
+新增条目 Effect.Desc2.GWJ_Dummy_AltarSpirit_1
+新增条目 Effect.Desc2.GWJ_Dummy_AltarSpirit_2
+新增条目 Effect.Desc2.GWJ_Dummy_AltarSpirit_3
+新增条目 Effect.Desc2.GWJ_Dummy_AltarSpirit_4
+新增条目 Effect.Desc2.GWJ_Dummy_AltarSpirit_5
+新增条目 Effect.Desc2.GWJ_Dummy_AltarSpirit_7
+新增条目 Effect.Desc2.GWJ_N1_PastElder_SpiritRecall
+新增条目 Effect.Desc2.GWJ_N1_PastElder_Sentence
+新增条目 Effect.Desc2.GWJ_N1_PastElder_Execution
+新增条目 Effect.Desc2.GWJ_N1_TimeProtection
+新增条目 Effect.Desc2.GWJ_Dummy_Ghost_Immune
+新增条目 Effect.Desc2.GWJ_Dummy_Ghost
+新增条目 Effect.Desc2.GWJ_N1_AncientHades_Buff_DefenseUp
+新增条目 Effect.Desc2.GWJ_Evocation
+原文变更 Effect.Desc2.DualBlader_G2_Flag_20_Sky_Buff
+變更前原文 이동속도 20% 증가<br/>화선풍 타수 증가
+變更後原文 이동속도 20% 증가<br/>화선풍 타격 수 증가
+原文变更 Effect.Desc2.DualBlader_FlowerScent_Debuff
+變更前原文 중첩 당 받는피해 2% 증가<br/>(최대 3중첩)
+變更後原文 중첩 당 받는피해 2% 증가(최대 3중첩)
+原文变更 Effect.Desc2.DualBlader_G2_Flag_03_Flower
+變更前原文 중첩 당 공격력 1% 증가<br/>(최대 5중첩)
+變更後原文 중첩 당 공격력 1% 증가(최대 5중첩)
+原文变更 Effect.Desc2.DualBlader_G1_Supersense
+變更前原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>치명확률 10% 증가<br/>멸륜참 명중 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화
+變更後原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>치명확률 10% 증가<br/>멸륜참 사용 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화
+原文变更 Effect.Desc2.DualBlader_G1_Supersense_5-1
+變更前原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>치명확률 10% 증가<br/>멸륜참 명중 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화<br/>해제 시 생명력 20% 회복
+變更後原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>치명확률 10% 증가<br/>멸륜참 사용 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화<br/>해제 시 생명력 20% 회복
+原文变更 Effect.Desc2.DualBlader_G1_Supersense_5-2
+變更前原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>치명확률 10% 증가<br/>치명피해 71% 증가<br/>멸륜참 명중 시 멸 중첩 2배 증가<br/>멸륜참 명중 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화
+變更後原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>치명확률 10% 증가<br/>치명피해 71% 증가<br/>멸륜참 사용 시 멸 중첩 2배 증가<br/>멸륜참 사용 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화
+原文变更 Effect.Desc2.DualBlader_G1_Supersense_5-3
+變更前原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>멸륜참 명중 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화<br/>해제 시 100초간 단련 효과(최대 5중첩)
+變更後原文 극한의 집중 상태로 짧은 시간 무극의 경지에 도달합니다.<br/>감각이 극도로 날카로워집니다.<br/>멸륜참 사용 시 무형보 재사용시간 초기화<br/>무형보 사용 시 멸륜참 재사용시간 초기화<br/>해제 시 100초간 단련 효과(최대 5중첩)
+新增条目 Effect.Desc2.DualBlader_G1_Break_buff_Lv2
+新增条目 Effect.Name2.WFC_B1_Dragon_MarkBomb
+新增条目 Effect.Name2.WFC_B1_Dragon_MarkLight
+新增条目 Effect.Name2.WFC_B1_Dragon_MarkLight_Explosion
+新增条目 Effect.Desc2.WFC_B1_Dragon_MarkBomb
+新增条目 Effect.Desc2.WFC_B1_Dragon_MarkLight
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_01
+變更前原文 손량이 초침에게 폭발명령을 내립니다.
+變更後原文 손량이 초월륜을 폭주시킵니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_02
+變更前原文 시간이 뒤로 이동되어 초침의 폭발이 중단됩니다.
+變更後原文 시간이 역행되어 초월륜의 폭발이 중단됩니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_03
+變更前原文 시간이 앞으로 이동되어 불꽃이 소각됩니다.
+變更後原文 시간이 빠르게 흘러 초월지대가 소각됩니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_04
+變更前原文 시간이 앞으로 이동되어 초침이 폭발합니다.
+變更後原文 시간이 빠르게 흘러 초월륜이 즉시 폭발합니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_05
+變更前原文 시간이 뒤로 이동되어 불꽃의 유지시간이 늘어납니다.
+變更後原文 시간이 역행되어 초월지대가 지속됩니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_06
+變更前原文 초침이 빠르게 이동합니다. 시간이 종료되면 광폭화 합니다.
+變更後原文 손량이 시간을 빠르게 돌립니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_07
+變更前原文 초침의 폭발이 멈췄습니다.
+變更後原文 초월륜의 폭발이 멈췄습니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_08
+變更前原文 초월이 중첩되어 초월폭발을 사용합니다.
+變更後原文 초월이 중첩되어 초월방출을 사용합니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_09
+變更前原文 시간이 다되어 광폭화 상태가 되었습니다.
+變更後原文 손량이 광폭화 상태가 되었습니다.
+新增条目 Msg.ME_PC_FirstGonRyunNamed_0001_0001_HL_01
+新增条目 Msg.ME_PC_FirstGonRyunNamed_0001_0001_HL_02
+新增条目 Msg.ME_PC_FirstGonRyunNamed_0001_0001_HL_03
+新增条目 Msg.MH_CC_NaYul_0001_HL_01
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_10
+新增条目 Msg.Dungeon_feedback_start_msg_01
+新增条目 Msg.ME_PC_FirstGonRyunNamed_0001_HL_HT
+新增条目 Msg.Dungeon_feedback_start_msg_01_HT
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_01_BHT
+變更前原文 <font name="00008130.UI.BossHeadline_Name">손량</font>이 <font name="00008130.UI.BossHeadline_Skill">초침</font>에게 폭발 명령을 내립니다.
+變更後原文 <font name="00008130.UI.BossHeadline_Name">손량</font>이 <font name="00008130.UI.BossHeadline_Skill">초월륜</font>을 폭주시킵니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_02_BHT
+變更前原文 시간이 뒤로 이동되어<font name="00008130.UI.BossHeadline_Name">초침</font>의 <font name="00008130.UI.BossHeadline_Skill">폭발</font>이 중단됩니다.
+變更後原文 시간이 역행되어<font name="00008130.UI.BossHeadline_Name">초월륜</font>의 <font name="00008130.UI.BossHeadline_Skill">폭발</font>이 중단됩니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_03_BHT
+變更前原文 시간이 앞으로 이동되어 <font name="00008130.UI.BossHeadline_Skill">불꽃</font>이 소각됩니다.
+變更後原文 시간이 빠르게 흘러 <font name="00008130.UI.BossHeadline_Skill">초월지대</font>가 소각됩니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_04_BHT
+變更前原文 시간이 앞으로 이동되어 <font name="00008130.UI.BossHeadline_Name">초침</font>이 즉시<font name="00008130.UI.BossHeadline_Skill">폭발</font>합니다.
+變更後原文 시간이 빠르게 흘러 <font name="00008130.UI.BossHeadline_Name">초월륜</font>이 즉시<font name="00008130.UI.BossHeadline_Skill">폭발</font>합니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_05_BHT
+變更前原文 시간이 뒤로 이동되어  <font name="00008130.UI.BossHeadline_Skill">불꽃</font>의 유지시간이 늘어납니다.
+變更後原文 시간이 역행되어  <font name="00008130.UI.BossHeadline_Skill">초월지대</font>가 지속됩니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_06_BHT
+變更前原文 <font name="00008130.UI.BossHeadline_Name">초침</font>이 빠르게 이동합니다. 시간이 종료되면 <font name="00008130.UI.BossHeadline_Skill">광폭화</font> 합니다.
+變更後原文 <font name="00008130.UI.BossHeadline_Name">손량</font>이 시간을 빠르게 돌립니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_07_BHT
+變更前原文 <font name="00008130.UI.BossHeadline_Name">초침</font>의 <font name="00008130.UI.BossHeadline_Skill">폭발</font>이 멈췄습니다.
+變更後原文 <font name="00008130.UI.BossHeadline_Name">초월륜</font>의 <font name="00008130.UI.BossHeadline_Skill">폭발</font>이 멈췄습니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_08_BHT
+變更前原文 <font name="00008130.UI.BossHeadline_Skill">초월</font>이 중첩되어 <font name="00008130.UI.BossHeadline_Skill">초월폭발</font>을 사용합니다.
+變更後原文 <font name="00008130.UI.BossHeadline_Skill">초월</font>이 중첩되어 <font name="00008130.UI.BossHeadline_Skill">초월방출</font>을 사용합니다.
+原文变更 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_09_BHT
+變更前原文 시간이 다되어 <font name="00008130.UI.BossHeadline_Skill">광폭화</font> 상태가 되었습니다.
+變更後原文 <font name="00008130.UI.BossHeadline_Name">손량</font>이 <font name="00008130.UI.BossHeadline_Skill">광폭화</font> 상태가 되었습니다.
+新增条目 Msg.ME_PC_FirstGonRyunNamed_0001_0001_HL_01_BHT
+新增条目 Msg.ME_PC_FirstGonRyunNamed_0001_0001_HL_02_BHT
+新增条目 Msg.MH_CC_NaYul_0001_HL_01_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_10_BHT
+原文变更 Msg.ItemTransform.Success.Normal.1
+變更前原文 <arg p="2:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Normal.2
+變更前原文 <arg p="2:item-name" link="true"/>, <arg p="3:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개, <arg p="3:item-name" link="true"/> <arg p="7:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Normal.3
+變更前原文 <arg p="2:item-name" link="true"/>, <arg p="3:item-name" link="true"/>, <arg p="4:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개, <arg p="3:item-name" link="true"/> <arg p="7:integer"/>개, <arg p="4:item-name" link="true"/> <arg p="8:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Normal.4
+變更前原文 <arg p="2:item-name" link="true"/>, <arg p="3:item-name" link="true"/>, <arg p="4:item-name" link="true"/>, <arg p="5:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개, <arg p="3:item-name" link="true"/> <arg p="7:integer"/>개, <arg p="4:item-name" link="true"/> <arg p="8:integer"/>개, <arg p="5:item-name" link="true"/> <arg p="9:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Rare.1
+變更前原文 <arg p="2:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Rare.2
+變更前原文 <arg p="2:item-name" link="true"/>, <arg p="3:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개, <arg p="3:item-name" link="true"/> <arg p="7:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Rare.3
+變更前原文 <arg p="2:item-name" link="true"/>, <arg p="3:item-name" link="true"/>, <arg p="4:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개, <arg p="3:item-name" link="true"/> <arg p="7:integer"/>개, <arg p="4:item-name" link="true"/> <arg p="8:integer"/>개로 변환되었습니다.
+原文变更 Msg.ItemTransform.Success.Rare.4
+變更前原文 <arg p="2:item-name" link="true"/>, <arg p="3:item-name" link="true"/>, <arg p="4:item-name" link="true"/>, <arg p="5:item-name" link="true"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name" link="true"/> <arg p="6:integer"/>개, <arg p="3:item-name" link="true"/> <arg p="7:integer"/>개, <arg p="4:item-name" link="true"/> <arg p="8:integer"/>개, <arg p="5:item-name" link="true"/> <arg p="9:integer"/>개로 변환되었습니다.
+原文变更 Msg.Item.MoveInventoryToWardrobe.Fail.Jewel
+變更前原文 보석이 장착된 물품은 도감에 보관할 수 없습니다.
+變更後原文 추가 물품이 장착된 물품은 도감에 보관할 수 없습니다.
+新增条目 Msg.BatchTransform.Fail.Default
+新增条目 Msg.BatchTransform.Fail.InvalidPacket
+新增条目 Msg.BatchTransform.Fail.EnteredFatiqueTime
+新增条目 Msg.BatchTransform.Fail.InCombatMode
+新增条目 Msg.BatchTransform.Fail.InvalidDeadState
+新增条目 Msg.BatchTransform.Fail.InvalidRecipe
+新增条目 Msg.BatchTransform.Fail.InvalidMainIngredient
+新增条目 Msg.BatchTransform.Fail.InvalidMainIngredientLevel
+新增条目 Msg.BatchTransform.Fail.InvalidMainIngredientWeaponGem
+新增条目 Msg.BatchTransform.Fail.InvalidSubIngredient
+新增条目 Msg.BatchTransform.Fail.InvalidSubIngredientLevel
+新增条目 Msg.BatchTransform.Fail.InvalidSubIngredientWeaponGem
+新增条目 Msg.BatchTransform.Fail.InvalidUpgradeGrocery
+新增条目 Msg.BatchTransform.Fail.NotEnoughItem
+新增条目 Msg.BatchTransform.Fail.NotEnoughMoney
+新增条目 Msg.BatchTransform.Fail.InventoryFull
+新增条目 Msg.BatchTransform.Fail.FailedToCheckDisposeItems
+新增条目 Msg.BatchTransform.Fail.FailedToCheckAcquireItems
+新增条目 Msg.BatchTransform.Fail.InvalidTransformCount
+新增条目 Msg.ItemTransform.Success.Normal.1.AndFail
+新增条目 Msg.ItemTransform.Success.Normal.2.AndFail
+新增条目 Msg.ItemTransform.Success.Normal.3.AndFail
+新增条目 Msg.ItemTransform.Success.Normal.4.AndFail
+新增条目 Msg.ItemTransform.Success.Rare.1.AndFail
+新增条目 Msg.ItemTransform.Success.Rare.2.AndFail
+新增条目 Msg.ItemTransform.Success.Rare.3.AndFail
+新增条目 Msg.ItemTransform.Success.Rare.4.AndFail
+新增条目 Msg.PcCafeUserKick.Notify
+新增条目 Msg.PcCafeUserKick.InMinuteNotify
+新增条目 Msg.Sns.Notification.FriendEnterWorld
+新增条目 Text.Glyph.Glyph_Babyface
+新增条目 Text.Glyph.Glyph_Independence
+新增条目 Text.Glyph.Flavor.Event_GonRyun
+新增条目 TextData.GlyphAbility.Glyph_Babyface_Score1
+新增条目 TextData.GlyphAbility.Attr1.Glyph_Babyface_Score1
+新增条目 TextData.GlyphAbility.Glyph_Independence_Score1
+新增条目 TextData.GlyphAbility.Attr1.Glyph_Independence_Score1
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0020
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0021
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0022
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0020
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0021
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0022
+新增条目 Text.GlyphReward.Event_Grocery_Box_Glyph_0002
+新增条目 Effect.Name2.Glyph_Babyface_Damage_Score1
+新增条目 Effect.Desc2.Glyph_Babyface_Damage_Score1
+新增条目 Effect.Name2.Glyph_Independence_Buff_Score1
+新增条目 Effect.Desc2.Glyph_Independence_Buff_Score1
+新增条目 Set.Name2.Item_Set_1016
+新增条目 Name2.2022_Sweet_Treasure_01
+新增条目 Name2.2022_Sweet_Treasure_02
+新增条目 Name2.2020_03_23_01
+新增条目 Name2.2020_03_23_02
+新增条目 ItemSkill.Text.Eff.AR_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.AR_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.AR_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.AR_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_06_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_07_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G1_Lv1_08_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_06_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_07_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_08_Tooltip
+新增条目 ItemSkill.Text.AR_T7_G2_Lv1_09_Tooltip
+原文变更 ItemSkill.Text.AR_S6_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">돌풍살</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">속사</font> 재사용 시간 0.5초 감소
+變更後原文 <font name="00008130.UI.Vital_LightBlue">돌풍살</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">속사</font> 재사용 시간 0.3초 감소
+原文变更 ItemSkill.Text.AR_S6_Lv1_01_Tooltip
+變更前原文 명중 시 속사 재사용 시간 0.5초 감소
+變更後原文 명중 시 속사 재사용 시간 0.3초 감소
+新增条目 ItemSkill.Text.Eff.AS_PoisonBreath_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.AS_PoisonBreath_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.AS_PoisonBreath_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.AS_PoisonBreath_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.AS_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.AS_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill_AS_PoisonBreath_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill_AS_PoisonBreath_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G1_Lv1_03_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G1_Lv1_04_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill_AS_PoisonBreath_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G2_Lv1_02_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G2_Lv1_03_Tooltip
+新增条目 ItemSkill_AS_PoisonBreath_T7_G2_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.AS_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.AS_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.AS_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.AS_T7_G3_Lv1_03_Tooltip
+新增条目 effect.name2.ItemSkill_BK_mach_slash_T7_G1_Lv1_01_Flag
+新增条目 effect.desc2.ItemSkill_BK_mach_slash_T7_G1_Lv1_01_Flag
+新增条目 effect.name2.ItemSkill_BK_mach_slash_T7_G2_Lv1_01_Flag
+新增条目 effect.desc2.ItemSkill_BK_mach_slash_T7_G2_Lv1_01_Flag
+新增条目 effect.name2.ItemSkill_BK_SoulBlast_T7_G3_Lv1_01_Flag
+新增条目 effect.desc2.ItemSkill_BK_SoulBlast_T7_G3_Lv1_01_Flag
+新增条目 ItemSkill.Text.BK_mach_slash_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.BK_mach_slash_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.BK_mach_slash_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.BK_mach_slash_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.BK_mach_slash_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.BK_mach_slash_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.BK_SoulBlast_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.BK_SoulBlast_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.BK_SoulBlast_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.DB_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.DB_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.DB_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.DB_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.DB_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.DB_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.DB_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.DB_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.DB_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.DB_T7_G2_Lv1_01_Tooltip
+新增条目 Effect.Name2.ItemSkill_DE_T7_G1_Lv1_01_Flag
+新增条目 effect.Desc2.ItemSkill_DE_T7_G1_Lv1_01_Flag
+新增条目 effect.Desc2.ItemSkill_DE_T7_G2_Lv1_01_Flag
+新增条目 effect.Desc2.ItemSkill_DE_T7_G3_Lv1_01_Flag
+新增条目 ItemSkill.Text.DE_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.DE_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.DE_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.DE_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.DE_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.DE_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill_DE_T7_G3_Lv1_01_Name
+新增条目 ItemSkill_DE_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill_DE_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill_DE_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill_DE_T7_G3_Lv1_03_Tooltip
+新增条目 ItemSkill_DE_T7_G3_Lv1_04_Tooltip
+新增条目 ItemSkill_DE_T7_G3_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.Eff.FM_energy_bit_missile_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.FM_energy_bit_missile_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.FM_energy_bit_missile_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.FM_energy_bit_missile_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.FM_energy_bit_missile_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.FM_energy_bit_missile_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.FM_energy_bit_missile_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill_KF_T7_G1_Lv1_01_Name
+新增条目 ItemSkill_KF_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill_KF_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill_KF_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill_KF_T7_G1_Lv1_03_Tooltip
+新增条目 ItemSkill_KF_T7_G1_Lv1_04_Tooltip
+新增条目 ItemSkill_KF_T7_G1_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.Eff.KF_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.KF_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill_KF_T7_G2_Lv1_01_Name
+新增条目 ItemSkill_KF_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill_KF_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill_KF_T7_G2_Lv1_02_Tooltip
+新增条目 ItemSkill_KF_T7_G2_Lv1_03_Tooltip
+新增条目 ItemSkill_KF_T7_G2_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.Eff.KF_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.KF_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill_KF_T7_G3_Lv1_01_Name
+新增条目 ItemSkill_KF_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill_KF_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_04_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_05_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_06_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_07_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_08_Tooltip
+新增条目 ItemSkill_KF_T7_G3_Lv1_09_Tooltip
+新增条目 ItemSkill.Text.Eff.ItemSkill_KF_T7_G3_Name
+新增条目 ItemSkill.Text.Eff.ItemSkill_KF_T7_G3_Desc
+新增条目 ItemSkill.Text.Eff.PT_Flame_shot_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.PT_Flame_shot_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.PT_Flame_shot_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.PT_Flame_shot_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.PT_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.PT_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G1_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G1_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G2_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G2_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.PT_Flame_shot_T7_G2_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.PT_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.PT_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.PT_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.PT_T7_G3_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G1_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.SF_T7_G2_Lv1_05_Tooltip
+新增条目 ItemSkill_SF_T7_G3_Lv1_01_Name
+新增条目 ItemSkill_SF_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill_SF_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill_SF_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill_SF_T7_G3_Lv1_03_Tooltip
+新增条目 ItemSkill_SF_T7_G3_Lv1_04_Tooltip
+新增条目 ItemSkill_SF_T7_G3_Lv1_05_Tooltip
+新增条目 Effect.Name2.ItemSkill_SF_T7_G1_Lv1_01_Flag
+新增条目 effect.Desc2.ItemSkill_SF_T7_G1_Lv1_01_Flag
+新增条目 effect.Desc2.ItemSkill_SF_T7_G2_Lv1_01_Flag
+新增条目 effect.Desc2.ItemSkill_SF_T7_G3_Lv1_01_Flag
+新增条目 ItemSkill_SU_MorningGrory_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill_SU_MorningGrory_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill_SU_Thornvine_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill_SU_Thornvine_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill_SU_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill_SU_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill_SU_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill_SU_T7_G3_Lv1_03_Tooltip
+新增条目 ItemSkill_SU_T7_G3_Lv1_04_Tooltip
+新增条目 ItemSkill_SU_T7_G3_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.Eff.SU_SoapBubble_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.SU_SoapBubble_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.SU_MorningGrory_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.SU_MorningGrory_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.SU_ThornVine_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.SU_ThornVine_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.SU_SoapBubble_T7_G3_Lv4_01_Name
+新增条目 ItemSkill.Text.Eff.SU_SoapBubble_T7_G3_Lv4_01_Desc
+新增条目 ItemSkill.Text.SW_RotateSoulBlade_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.SW_RotateSoulBlade_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.SW_RotateSoulBlade_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.SW_RotateSoulBlade_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.SW_RotateSoulBlade_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.SW_RotateSoulBlade_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.SW_RotateSoulBlade_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.SW_RotateSoulBlade_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.SW_RotateSoulBlade_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.SW_RotateSoulBlade_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.SW_RotateSoulBlade_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.SW_RotateSoulBlade_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G1_Lv1_06_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.TH_T7_G2_Lv1_06_Tooltip
+新增条目 ItemSkill.Text.Eff.TH_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.TH_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.TH_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.TH_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.WA_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.WA_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.WA_T7_G1_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.WA_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.WA_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.WA_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.WA_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.WA_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.Eff.WA_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.WA_T7_G2_Lv1_01_Desc
+原文变更 ItemSkill.Text.WL_GroundAttack_T6_G2_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">귀령개문</font> 사용 시 12초간 천호효과 발동<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">흑염룡</font> 명중 시 공격력의 385% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">흑염룡</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">비장의 화염폭발</font> 발동, 공격력의 42000% 피해 (재발동 시간 15초, 대인에게 피해량 5% 적용)
+變更後原文 <font name="00008130.UI.Vital_LightBlue">귀령개문</font> 사용 시 12초간 천호효과 발동<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">흑염룡</font> 명중 시 공격력의 385% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">흑염룡</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">비장의 화염폭발</font> 발동, 공격력의 42000% 피해 (재발동 시간 15초, 대인에게 피해량 2% 적용)
+原文变更 ItemSkill.Text.WL_GroundAttack_T6_G2_Lv1_01_Tooltip
+變更前原文 귀령개문 사용 시 12초간 천호효과 발동<br/>천호효과 중 흑염룡 명중 시 공격력의 385% 추가피해<br/>천호효과 중 흑염룡 명중 시 비장의 화염폭발 발동, 공격력의 42000% 피해 (재발동 시간 15초, 대인에게 피해량 5% 적용)
+變更後原文 귀령개문 사용 시 12초간 천호효과 발동<br/>천호효과 중 흑염룡 명중 시 공격력의 385% 추가피해<br/>천호효과 중 흑염룡 명중 시 비장의 화염폭발 발동, 공격력의 42000% 피해 (재발동 시간 15초, 대인에게 피해량 2% 적용)
+新增条目 ItemSkill.Text.WL_GroundAttack_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.WL_GroundAttack_T7_G1_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.WL_GroundAttack_T7_G1_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.WL_GroundAttack_T7_G1_Lv1_01_Desc
+新增条目 ItemSkill.Text.WL_GroundAttack_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.WL_GroundAttack_T7_G2_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.Eff.WL_GroundAttack_T7_G2_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.WL_GroundAttack_T7_G2_Lv1_01_Desc
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_01_Desc
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_01_Tooltip
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_02_Tooltip
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_03_Tooltip
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_04_Tooltip
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_05_Tooltip
+新增条目 ItemSkill.Text.WL_T7_G3_Lv1_06_Tooltip
+新增条目 ItemSkill.Text.Eff.WL_T7_G3_Lv1_01_Name
+新增条目 ItemSkill.Text.Eff.WL_T7_G3_Lv1_01_Desc
+原文变更 ItemSkill_WL_EventTargetNuke_B3_Lv1_01_Desc
+變更前原文 압도 중 <font name="00008130.UI.Vital_LightBlue">폭마령</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">사령쇄도</font> 재사용시간 3초 감소
+變更後原文 압도 중 <font name="00008130.UI.Vital_LightBlue">폭마령</font> 명중 시 일정 확률로 <font name="00008130.UI.Vital_LightBlue">사령쇄도</font> 재사용시간 3초 감소
+原文变更 ItemSkill_WL_EventTargetNuke_B3_Lv1_01_Tooltip
+變更前原文 압도 중 폭마령 명중 시 사령쇄도 재사용시간 3초 감소
+變更後原文 압도 중 폭마령 명중 시 일정 확률로 사령쇄도 재사용시간 3초 감소
+原文变更 ItemSkill_WL_EventTargetNuke_B4_Lv1_01_Desc
+變更前原文 압도 중 <font name="00008130.UI.Vital_LightBlue">흑염룡</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">귀령쇄도</font> 재사용시간 3초 감소
+變更後原文 압도 중 <font name="00008130.UI.Vital_LightBlue">흑염룡</font> 명중 시 일정 확률로 <font name="00008130.UI.Vital_LightBlue">귀령쇄도</font> 재사용시간 3초 감소
+原文变更 ItemSkill_WL_EventTargetNuke_B4_Lv1_01_Tooltip
+變更前原文 압도 중 흑염룡 명중 시 귀령쇄도 재사용시간 3초 감소
+變更後原文 압도 중 흑염룡 명중 시 일정 확률로 귀령쇄도 재사용시간 3초 감소
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_BM_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_KF_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SU_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_FM_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DE_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AS_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SW_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WL_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_SF_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_PT_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_WA_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_AR_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_TH_0003_120
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_101
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_102
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_103
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_104
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_105
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_106
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_107
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_108
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_109
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_110
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_111
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_112
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_113
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_114
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_115
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_116
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_117
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_118
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_119
+新增条目 Item.Name2.General_Accessory_Bracelet_Ancient_DB_0003_120
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_Belt_All_Ancient_0003_120
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_101
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_102
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_103
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_104
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_105
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_106
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_107
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_108
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_109
+新增条目 Item.Name2.General_EnchantGem_Bracelet_0001_110
+新增条目 Item.Name2.General_EnchantGem_Belt_0001
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_101
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_102
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_103
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_104
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_105
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_106
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_107
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_108
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_109
+新增条目 Item.Name2.General_EnchantGem_Belt_0001_110
+新增条目 Item.Name2.General_Accessory_Soul2_0107
+新增条目 Item.Name2.General_Accessory_Soul2_0107_101
+新增条目 Item.Name2.General_Accessory_Soul2_0107_102
+新增条目 Item.Name2.General_Accessory_Soul2_0107_103
+新增条目 Item.Name2.General_Accessory_Soul2_0107_104
+新增条目 Item.Name2.General_Accessory_Soul2_0107_105
+新增条目 Item.Name2.General_Accessory_Soul2_0107_106
+新增条目 Item.Name2.General_Accessory_Soul2_0107_107
+新增条目 Item.Name2.General_Accessory_Soul2_0107_108
+新增条目 Item.Name2.General_Accessory_Soul2_0107_109
+新增条目 Item.Name2.General_Accessory_Soul2_0107_110
+新增条目 Item.Name2.General_Accessory_Soul2_0107_111
+新增条目 Item.Name2.General_Accessory_Soul2_0107_112
+新增条目 Item.Name2.General_Accessory_Soul2_0107_113
+新增条目 Item.Name2.General_Accessory_Soul2_0107_114
+新增条目 Item.Name2.General_Accessory_Soul2_0107_115
+新增条目 Item.Name2.General_Accessory_Soul2_0107_116
+新增条目 Item.Name2.General_Accessory_Soul2_0107_117
+新增条目 Item.Name2.General_Accessory_Soul2_0107_118
+新增条目 Item.Name2.General_Accessory_Soul2_0107_119
+新增条目 Item.Name2.General_Accessory_Soul2_0107_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_BM_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_KF_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SU_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_FM_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DE_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AS_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SW_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WL_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_SF_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_PT_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_WA_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_AR_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_TH_0003_120
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_101
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_102
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_103
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_104
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_105
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_106
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_107
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_108
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_109
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_110
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_111
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_112
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_113
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_114
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_115
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_116
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_117
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_118
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_119
+新增条目 Item.Desc2.General_Accessory_Bracelet_Ancient_DB_0003_120
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_Belt_All_Ancient_0003_120
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_101
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_102
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_103
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_104
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_105
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_106
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_107
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_108
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_109
+新增条目 Item.Desc4.General_EnchantGem_Bracelet_0001_110
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_101
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_102
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_103
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_104
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_105
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_106
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_107
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_108
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_109
+新增条目 Item.Desc4.General_EnchantGem_Belt_0001_110
+新增条目 Item.Nick.General_Accessory_Soul2_0107
+新增条目 Item.Nick.General_Accessory_Soul2_0107_101
+新增条目 Item.Nick.General_Accessory_Soul2_0107_102
+新增条目 Item.Nick.General_Accessory_Soul2_0107_103
+新增条目 Item.Nick.General_Accessory_Soul2_0107_104
+新增条目 Item.Nick.General_Accessory_Soul2_0107_105
+新增条目 Item.Nick.General_Accessory_Soul2_0107_106
+新增条目 Item.Nick.General_Accessory_Soul2_0107_107
+新增条目 Item.Nick.General_Accessory_Soul2_0107_108
+新增条目 Item.Nick.General_Accessory_Soul2_0107_109
+新增条目 Item.Nick.General_Accessory_Soul2_0107_110
+新增条目 Item.Nick.General_Accessory_Soul2_0107_111
+新增条目 Item.Nick.General_Accessory_Soul2_0107_112
+新增条目 Item.Nick.General_Accessory_Soul2_0107_113
+新增条目 Item.Nick.General_Accessory_Soul2_0107_114
+新增条目 Item.Nick.General_Accessory_Soul2_0107_115
+新增条目 Item.Nick.General_Accessory_Soul2_0107_116
+新增条目 Item.Nick.General_Accessory_Soul2_0107_117
+新增条目 Item.Nick.General_Accessory_Soul2_0107_118
+新增条目 Item.Nick.General_Accessory_Soul2_0107_119
+新增条目 Item.Nick.General_Accessory_Soul2_0107_120
+新增条目 Item.Desc6.General_EnchantGem_Bracelet_0001
+新增条目 Item.Desc6.General_EnchantGem_Belt_0001
+新增条目 Item.Name2.General_Equip_Phantom_0003
+新增条目 Item.Desc2.General_Equip_Phantom_0003
+新增条目 Item.Name2.General_Costume_Dress_1225
+新增条目 Item.Name2.General_Costume_Decoration_1213
+新增条目 Item.Name2.General_Equip_Phantom_0001
+新增条目 Item.Desc2.General_Costume_Dress_1225
+新增条目 Item.Desc2.General_Costume_Decoration_1213
+新增条目 Item.Desc2.General_Equip_Phantom_0001
+新增条目 Item.Desc6.General_Costume_Dress_1225
+新增条目 Item.Desc6.General_Costume_Decoration_1213
+新增条目 Item.Name2.Event_Costume_Dress_0398
+新增条目 Item.Name2.Event_Costume_Dress_0399
+新增条目 Item.Name2.Cash_Costume_Dress_0370
+新增条目 Item.Name2.Cash_Costume_Decoration_0415
+新增条目 Item.Name2.Cash_Costume_Dress_0371
+新增条目 Item.Name2.Cash_Costume_Decoration_0416
+新增条目 Item.Desc2.Event_Costume_Dress_0398
+新增条目 Item.Desc2.Event_Costume_Dress_0399
+新增条目 Item.Desc2.Cash_Costume_Dress_0370
+新增条目 Item.Desc2.Cash_Costume_Decoration_0415
+新增条目 Item.Desc2.Cash_Costume_Dress_0371
+新增条目 Item.Desc2.Cash_Costume_Decoration_0416
+原文变更 Item.Name2.General_Grocery_Box_4531
+變更前原文 흑월 진기석 상자
+變更後原文 옛 흑월 진기석 상자
+原文变更 Item.Name2.General_Grocery_Box_4576
+變更前原文 주간도전 공로상
+變更後原文 옛 주간도전 공로상
+原文变更 Item.Name2.General_Grocery_Coin_0295
+變更前原文 천류 정복주화 [프리시즌 1]
+變更後原文 옛 천류 정복주화 [프리시즌 1]
+原文变更 Item.Name2.Produce_Grocery_Food_1155
+變更前原文 미지의 몬스터 내단
+變更後原文 손량의 내단
+新增条目 Item.Name2.General_Grocery_Coin_0297
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0020
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0021
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0022
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0020
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0021
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0022
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1556
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1557
+新增条目 Item.Name2.General_Grocery_Box_4897
+新增条目 Item.Name2.General_Grocery_Box_4898
+新增条目 Item.Name2.General_Grocery_Box_4899
+新增条目 Item.Name2.General_Grocery_Box_4900
+新增条目 Item.Name2.General_Grocery_Box_4901
+新增条目 Item.Name2.General_Grocery_Box_4902
+新增条目 Item.Name2.General_Grocery_Box_4903
+新增条目 Item.Name2.General_Grocery_Box_4904
+新增条目 Item.Name2.General_Grocery_Box_4905
+新增条目 Item.Name2.General_Grocery_Box_4906
+新增条目 Item.Name2.General_Grocery_Box_4907
+新增条目 Item.Name2.General_Grocery_SelectionBox_0734
+新增条目 Item.Name2.General_Grocery_Box_4908
+新增条目 Item.Name2.General_Grocery_Box_4909
+新增条目 Item.Name2.General_Grocery_Box_4910
+新增条目 Item.Name2.General_Grocery_SelectionBox_0735
+新增条目 Item.Name2.General_Grocery_Box_4911
+新增条目 Item.Name2.General_Grocery_Box_4912
+新增条目 Item.Name2.General_Grocery_Box_4913
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1558
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1559
+新增条目 Item.Name2.General_Grocery_SelectionBox_0736
+新增条目 Item.Name2.General_Grocery_SelectionBox_0737
+新增条目 Item.Name2.General_Grocery_SelectionBox_0738
+新增条目 Item.Name2.General_Grocery_Box_4914
+新增条目 Item.Name2.General_Grocery_Key_1051
+新增条目 Item.Name2.General_Grocery_Box_4915
+新增条目 Item.Name2.General_Grocery_Box_4916
+新增条目 Item.Name2.General_Grocery_Box_4917
+新增条目 Item.Name2.General_Grocery_Box_4918
+原文变更 Item.Desc2.General_Grocery_Coin_0295
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의전당 프리시즌 1이 종료되어 더 이상 획득이 불가능합니다.<br/>2022/02/23 까지 교환 가능합니다.&quot;</font>
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1550
+變更前原文 가이드 <image imagesetpath="00033689.Keyboard_Ctrl_Big" enablescale="true" scalerate="1.2"/> + <image imagesetpath="00033689.Keyboard_Alphabet_J" enablescale="true" scalerate="1.2"/>의 특수버튼으로 사용할 수 있습니다.<br/>던전 목록 중 &quot;시험의 전당&quot;, &quot;전승의 사당&quot;의 특별 보상 버튼을 클릭해 사용
+變更後原文 가이드 <image imagesetpath="00033689.Keyboard_Ctrl_Big" enablescale="true" scalerate="1.2"/> + <image imagesetpath="00033689.Keyboard_Alphabet_J" enablescale="true" scalerate="1.2"/>의 특수버튼으로 사용할 수 있습니다.<br/>던전 목록 중 &quot;시험의 전당&quot;, &quot;전승의 사당&quot;, &quot;곤륜파 본산&quot;의 특별 보상 버튼을 클릭해 사용
+原文变更 Item.Desc2.General_Grocery_Coin_0296
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당 정규시즌 1 보상으로 획득할 수 있습니다<br/>교환 종료 시점은 추후 공지 예정입니다.&quot;</font>
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의 전당, 전승의 사당 정규시즌 1이 종료되어 더 이상 획득이 불가능합니다.<br/>2022/03/23 까지 교환 가능합니다.&quot;</font>
+新增条目 Item.Desc2.General_Grocery_Coin_0297
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0020
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0021
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0022
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0020
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0021
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0022
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1556
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1557
+新增条目 Item.Desc2.General_Grocery_Box_4897
+新增条目 Item.Desc2.General_Grocery_Box_4898
+新增条目 Item.Desc2.General_Grocery_Box_4899
+新增条目 Item.Desc2.General_Grocery_Box_4903
+新增条目 Item.Desc2.General_Grocery_Box_4904
+新增条目 Item.Desc2.General_Grocery_Box_4905
+新增条目 Item.Desc2.General_Grocery_Box_4906
+新增条目 Item.Desc2.General_Grocery_Box_4907
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1558
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1559
+新增条目 Item.Desc2.General_Grocery_Box_4918
+原文变更 Item.MainInfo.General_Grocery_Coin_0295
+變更前原文 물품 교환
+變更後原文 <font name="00008130.UI.Vital_red">사용 불가</font>
+新增条目 Item.MainInfo.General_Grocery_Coin_0297
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0020
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0021
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0022
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0020
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0021
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0022
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1556
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1557
+新增条目 Item.MainInfo.General_Grocery_Box_4897
+新增条目 Item.MainInfo.General_Grocery_Box_4898
+新增条目 Item.MainInfo.General_Grocery_Box_4899
+新增条目 Item.MainInfo.General_Grocery_Box_4900
+新增条目 Item.MainInfo.General_Grocery_Box_4901
+新增条目 Item.MainInfo.General_Grocery_Box_4902
+新增条目 Item.MainInfo.General_Grocery_Box_4903
+新增条目 Item.MainInfo.General_Grocery_Box_4904
+新增条目 Item.MainInfo.General_Grocery_Box_4905
+新增条目 Item.MainInfo.General_Grocery_Box_4906
+新增条目 Item.MainInfo.General_Grocery_Box_4907
+新增条目 Item.MainInfo.General_Grocery_SelectionBox_0734
+新增条目 Item.MainInfo.General_Grocery_Box_4908
+新增条目 Item.MainInfo.General_Grocery_Box_4909
+新增条目 Item.MainInfo.General_Grocery_Box_4910
+新增条目 Item.MainInfo.General_Grocery_SelectionBox_0735
+新增条目 Item.MainInfo.General_Grocery_Box_4911
+新增条目 Item.MainInfo.General_Grocery_Box_4912
+新增条目 Item.MainInfo.General_Grocery_Box_4913
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1558
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1559
+新增条目 Item.MainInfo.General_Grocery_SelectionBox_0736
+新增条目 Item.MainInfo.General_Grocery_SelectionBox_0737
+新增条目 Item.MainInfo.General_Grocery_SelectionBox_0738
+新增条目 Item.MainInfo.General_Grocery_Box_4914
+新增条目 Item.MainInfo.General_Grocery_Key_1051
+新增条目 Item.MainInfo.General_Grocery_Box_4915
+新增条目 Item.MainInfo.General_Grocery_Box_4916
+新增条目 Item.MainInfo.General_Grocery_Box_4917
+新增条目 Item.MainInfo.General_Grocery_Box_4918
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1556
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1557
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1558
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1559
+新增条目 Item.IdentifyDesc.General_Grocery_Box_4915
+新增条目 Item.Desc4.General_Grocery_SelectionBox_0734
+新增条目 Item.Desc4.General_Grocery_Box_4908
+新增条目 Item.Desc4.General_Grocery_Box_4909
+新增条目 Item.Desc4.General_Grocery_Box_4910
+新增条目 Item.Desc4.General_Grocery_SelectionBox_0735
+新增条目 Item.Desc4.General_Grocery_Box_4911
+新增条目 Item.Desc4.General_Grocery_Box_4912
+新增条目 Item.Desc4.General_Grocery_Box_4913
+原文变更 Item.Desc5.General_Grocery_SpecialMaterial_1550
+變更前原文 <image imagesetpath="00009076.Tooltip_Party" enablescale="true" scalerate="1.2"/> 시험의 전당, 전승의 사당 특별 보상 횟수 충전
+變更後原文 <image imagesetpath="00009076.Tooltip_Party" enablescale="true" scalerate="1.2"/> 시험의 전당, 전승의 사당, 곤륜파 본산 특별 보상 횟수 충전
+原文变更 Item.Desc5.Produce_Grocery_Food_1155
+變更前原文 <font name="00008130.Program.Fontset_ItemGrade_7">&quot;추후 공개&quot;</font> 별호 획득<br/><br/><font name="00008130.UI.Label_LightYellow_12">안내</font><br/>생명력 회복 효과는 자신의 소환수에게도 적용됩니다.
+變更後原文 <font name="00008130.Program.Fontset_ItemGrade_7">&quot;곤륜파 본산 지배자&quot;</font> 별호 획득<br/><br/><font name="00008130.UI.Label_LightYellow_12">안내</font><br/>생명력 회복 효과는 자신의 소환수에게도 적용됩니다.
+新增条目 Item.Desc5.General_Grocery_Coin_0297
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1556
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1557
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1558
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1559
+新增条目 Item.Desc5.General_Grocery_Key_1051
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1540
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당, 전승의 사당, 곤륜파 본산
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1542
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당, 전승의 사당, 곤륜파 본산
+新增条目 Item.Desc6.Produce_Grocery_Food_1155
+新增条目 Item.Desc6.General_Grocery_Coin_0297
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0020
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0021
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0022
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0020
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0021
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0022
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1556
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1557
+新增条目 Item.Desc6.General_Grocery_Box_4897
+新增条目 Item.Desc6.General_Grocery_Box_4898
+新增条目 Item.Desc6.General_Grocery_Box_4899
+新增条目 Item.Desc6.General_Grocery_Box_4900
+新增条目 Item.Desc6.General_Grocery_Box_4901
+新增条目 Item.Desc6.General_Grocery_Box_4902
+新增条目 Item.Desc6.General_Grocery_Box_4903
+新增条目 Item.Desc6.General_Grocery_Box_4904
+新增条目 Item.Desc6.General_Grocery_Box_4905
+新增条目 Item.Desc6.General_Grocery_Box_4906
+新增条目 Item.Desc6.General_Grocery_Box_4907
+新增条目 Item.Desc6.General_Grocery_SelectionBox_0734
+新增条目 Item.Desc6.General_Grocery_SelectionBox_0735
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1559
+新增条目 Item.Desc6.General_Grocery_SelectionBox_0736
+新增条目 Item.Desc6.General_Grocery_SelectionBox_0737
+新增条目 Item.Desc6.General_Grocery_SelectionBox_0738
+新增条目 Item.Desc6.General_Grocery_Box_4914
+新增条目 Item.Desc6.General_Grocery_Box_4915
+新增条目 Item.Desc6.General_Grocery_Box_4916
+新增条目 Item.Desc6.General_Grocery_Box_4917
+新增条目 Item.Desc6.General_Grocery_Box_4918
+原文变更 Item.Name2.Event_Grocery_Food_0115
+變更前原文 깨비촌 소주
+變更後原文 옛 깨비촌 소주
+原文变更 Item.Name2.Event_Grocery_Food_0116
+變更前原文 깨비촌 만두
+變更後原文 옛 깨비촌 만두
+原文变更 Item.Name2.Event_Grocery_BuffTalisman_0005
+變更前原文 독각대왕 길운
+變更後原文 옛 독각대왕 길운
+原文变更 Item.Name2.Event_Grocery_Coin_GoldSeason_0008
+變更前原文 깨비촌 입장권
+變更後原文 옛 깨비촌 입장권
+原文变更 Item.Name2.Event_Grocery_Box_1252
+變更前原文 금박 금 주머니
+變更後原文 옛 금박 금 주머니
+原文变更 Item.Name2.Event_Grocery_Box_1253
+變更前原文 은박 금 주머니
+變更後原文 옛 은박 금 주머니
+原文变更 Item.Name2.Event_Grocery_Box_1254
+變更前原文 동박 금 주머니
+變更後原文 옛 동박 금 주머니
+原文变更 Item.Name2.Event_Grocery_Box_1255
+變更前原文 도깨비 금고
+變更後原文 옛 도깨비 금고
+原文变更 Item.Name2.Event_Grocery_Key_0031
+變更前原文 도깨비 열쇠
+變更後原文 옛 도깨비 열쇠
+新增条目 Item.Name2.Event_Grocery_Box_Glyph_0002
+新增条目 Item.Name2.Cash_Grocery_Coin_0344
+新增条目 Item.Name2.Cash_Grocery_Key_0048
+新增条目 Item.Name2.Event_Grocery_SelectionBox_0116
+新增条目 Item.Name2.Event_Grocery_SelectionBox_0117
+新增条目 Item.Name2.Promotion_Grocery_Festival_0016
+新增条目 Item.Name2.Promotion_Grocery_Festival_0017
+新增条目 Item.Name2.Promotion_Grocery_Festival_0018
+新增条目 Item.Name2.Cash_Grocery_Coin_0345
+新增条目 Item.Name2.Cash_Grocery_Potion_0009
+新增条目 Item.Name2.Event_Grocery_Coin_0369
+新增条目 Item.Desc2.Event_Grocery_Box_Glyph_0002
+新增条目 Item.Desc2.Cash_Grocery_Key_0048
+新增条目 Item.Desc2.Promotion_Grocery_Festival_0016
+新增条目 Item.Desc2.Promotion_Grocery_Festival_0017
+新增条目 Item.Desc2.Promotion_Grocery_Festival_0018
+新增条目 Item.Desc2.Cash_Grocery_Potion_0009
+原文变更 Item.MainInfo.Event_Grocery_Food_0115
+變更前原文 공격력 25 증가<br/>치명피해 200 증가
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0116
+變更前原文 20초동안 생명력 100% 회복
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Event_Grocery_Coin_GoldSeason_0008
+新增条目 Item.MainInfo.Event_Grocery_Box_Glyph_0002
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0344
+新增条目 Item.MainInfo.Cash_Grocery_Key_0048
+新增条目 Item.MainInfo.Event_Grocery_SelectionBox_0116
+新增条目 Item.MainInfo.Event_Grocery_SelectionBox_0117
+新增条目 Item.MainInfo.Promotion_Grocery_Festival_0016
+新增条目 Item.MainInfo.Promotion_Grocery_Festival_0017
+新增条目 Item.MainInfo.Promotion_Grocery_Festival_0018
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0345
+新增条目 Item.MainInfo.Cash_Grocery_Potion_0009
+新增条目 Item.MainInfo.Event_Grocery_Coin_0369
+新增条目 Item.Desc5.Cash_Grocery_Coin_0344
+新增条目 Item.Desc5.Cash_Grocery_Key_0048
+新增条目 Item.Desc6.Event_Grocery_Coin_0369
+原文变更 Discovery.Name2.FirstGonRyun
+變更前原文 초대 곤륜파
+變更後原文 곤륜파 본산
+原文变更 Discovery.Name2.FirstGonRyun_Boss
+變更前原文 고대 곤륜파
+變更後原文 시간의 회당
+新增条目 Discovery.Name2.FirstGonRyun_1
+新增条目 Discovery.Name2.FirstGonRyun_2
+新增条目 Discovery.Name2.FirstGonRyun_3
+新增条目 Discovery.Name2.FirstGonRyun_4
+新增条目 Discovery.Name2.979_Interserver
+新增条目 Discovery.Name2.980_Interserver
+新增条目 Discovery.Name2.AncientTower_1F
+新增条目 Discovery.Name2.AncientTower_2F
+新增条目 Discovery.Name2.AncientTower_3F
+原文变更 Map_555_name
+變更前原文 시험의 전당
+變更後原文 남도파 사당
+原文变更 Map_556_name
+變更前原文 남도파 전승의 사당
+變更後原文 남도파 전승의 전당
+原文变更 Map_557_name
+變更前原文 전승의 사당
+變更後原文 남도파 석굴
+新增条目 Map_572_name
+新增条目 Map_573_name
+新增条目 Map_574_name
+新增条目 Map_575_name
+新增条目 Map_576_name
+新增条目 Unit_6384_ME_PC_FirstGonRyunBoss_0001_name
+新增条目 Unit_6384_ME_PC_FirstGonRyunNamed_0001_name
+新增条目 Unit_6384_e_chest_6384_shrine_01_name
+新增条目 6100_CH_PC_FirstGonRyun_0001
+新增条目 6208_CH_PC_FirstGonRyun_0002
+新增条目 6215_CH_PC_FirstGonRyun_0005
+新增条目 6215_CH_PC_FirstGonRyun_0003
+新增条目 6207_CH_PC_FirstGonRyun_0007
+新增条目 6216_CH_PC_FirstGonRyun_0006
+新增条目 6216_CH_PC_FirstGonRyunOldBoss_0001
+新增条目 6216_CH_PC_FirstGonRyun_0004
+新增条目 unit_6208_01
+新增条目 unit_6208_02
+新增条目 unit_6208_03
+新增条目 unit_6208_04
+新增条目 unit_6208_05
+新增条目 unit_6208_06
+新增条目 Npc.name2.ME_CB_FightGod_0001
+新增条目 Npc.name2.CH_CB_RunContestA_0001
+新增条目 Npc.name2.ME_CB_RunContest_Mine_0001
+新增条目 Npc.name2.ME_CB_RunContest_Mine_0002
+新增条目 Npc.name2.CH_CB_RunContestA_0002
+新增条目 Npc.name2.CH_CB_RunContestA_0003
+新增条目 Npc.name2.CH_CB_RunContestA_0004
+新增条目 Npc.name2.CH_CB_RunContestA_0005
+新增条目 Npc.name2.CH_CB_RunContestA_0006
+新增条目 Npc.name2.CH_CB_RunContestA_0007
+新增条目 Npc.name2.CH_CB_RunContestA_0008
+新增条目 Npc.name2.CH_CB_RunContestA_0009
+新增条目 Npc.name2.CH_PB_Test_HS_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Soldier_Destroyer_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Soldier_KungfuFighter_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Soldier_Warrior_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Soldier_ForceMaster_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Commander_Destroyer_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Commander_KungfuFighter_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Commander_Warrior_0001
+新增条目 Npc.name2.MH_PB_Epic12_NorthLandArmy_Commander_ForceMaster_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Soldier_BladeMaster_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Soldier_Destroyer_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Soldier_KungfuFighter_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Soldier_Assassin_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Soldier_Archer_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Commander_BladeMaster_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Commander_Destroyer_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Commander_KungfuFighter_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Commander_Assassin_0001
+新增条目 Npc.name2.MH_PB_Epic12_BadCompany_Commander_Archer_0001
+新增条目 Npc.name2.MH_PB_Epic12_Bandit_TypeA_0001
+新增条目 Npc.name2.MH_PB_Epic12_Bandit_TypeB_0001
+新增条目 Npc.name2.MH_PB_Epic12_Bandit_TypeC_0001
+新增条目 Npc.name2.MH_PB_Epic12_EastTerritory_TypeA_0001
+新增条目 Npc.name2.MH_PB_Epic12_EastTerritory_TypeB_0001
+新增条目 Npc.title2.CH_PB_Test_HS_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Soldier_Destroyer_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Soldier_KungfuFighter_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Soldier_Warrior_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Soldier_ForceMaster_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Commander_Destroyer_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Commander_KungfuFighter_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Commander_Warrior_0001
+新增条目 Npc.title2.MH_PB_Epic12_NorthLandArmy_Commander_ForceMaster_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Soldier_BladeMaster_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Soldier_Destroyer_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Soldier_KungfuFighter_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Soldier_Assassin_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Soldier_Archer_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Commander_BladeMaster_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Commander_Destroyer_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Commander_KungfuFighter_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Commander_Assassin_0001
+新增条目 Npc.title2.MH_PB_Epic12_BadCompany_Commander_Archer_0001
+新增条目 Npc.title2.MH_PB_Epic12_Bandit_TypeA_0001
+新增条目 Npc.title2.MH_PB_Epic12_Bandit_TypeB_0001
+新增条目 Npc.title2.MH_PB_Epic12_Bandit_TypeC_0001
+新增条目 Npc.title2.MH_PB_Epic12_EastTerritory_TypeA_0001
+新增条目 Npc.title2.MH_PB_Epic12_EastTerritory_TypeB_0001
+原文变更 Npc.name2.ME_PC_Dummy_0132
+變更前原文 더미
+變更後原文 시간의 파편
+原文变更 Npc.name2.ME_PC_Dummy_0138
+變更前原文 여장로
+變更後原文 동방모란
+原文变更 Npc.name2.ME_PC_Dummy_0139
+變更前原文 더미
+變更後原文 시간의 파편
+原文变更 Npc.name2.ME_PC_Dummy_0140
+變更前原文 더미
+變更後原文 시간의 파편
+原文变更 Npc.name2.ME_PC_FirstGonRyun_0005
+變更前原文 하급주술사
+變更後原文 정예주술사
+原文变更 Npc.name2.ME_PC_FirstGonRyun_0008
+變更前原文 하급주술사
+變更後原文 정예주술사
+原文变更 Npc.name2.ME_PC_Needle_0001
+變更前原文 바늘
+變更後原文 시계바늘
+原文变更 Npc.name2.ME_PC_SecondHand_0001
+變更前原文 초침
+變更後原文 초월륜
+原文变更 Npc.name2.ME_PC_Dummy_0141
+變更前原文 더미
+變更後原文 시간의 파편
+原文变更 Npc.name2.ME_PC_Dummy_0147
+變更前原文 더미
+變更後原文 손량
+原文变更 Npc.name2.ME_PC_Dummy_0148
+變更前原文 여장로
+變更後原文 동방모란
+原文变更 Npc.name2.ME_PC_Dummy_0149
+變更前原文 여장로
+變更後原文 동방모란
+原文变更 Npc.name2.ME_PC_Dummy_0150
+變更前原文 여장로
+變更後原文 동방모란
+原文变更 Npc.name2.ME_PC_FlyLizard_0001
+變更前原文 석등비룡
+變更後原文 초월비룡
+原文变更 Npc.name2.ME_PC_Dummy_0151
+變更前原文 더미
+變更後原文 동방모란
+原文变更 Npc.name2.CH_PC_FirstGonRyunOldBoss_0001
+變更前原文 곤륜파 보스 노인
+變更後原文 손량
+原文变更 Npc.name2.CH_PC_FirstGonRyunYoungBoss_0001
+變更前原文 곤륜파 보스 청년
+變更後原文 손량
+原文变更 Npc.name2.ME_PC_Dummy_0152
+變更前原文 더미
+變更後原文 손량
+新增条目 Npc.name2.ME_PC_Dummy_0160
+新增条目 Npc.name2.ME_PC_Dummy_0161
+新增条目 Npc.name2.CH_PC_FirstGonRyunOldBoss_0002
+新增条目 Npc.name2.CH_PC_FirstGonRyunOldBoss_0003
+新增条目 Npc.name2.ME_PC_Dummy_0162
+新增条目 Npc.name2.ME_PC_Dummy_0163
+新增条目 Npc.name2.ME_PC_Dummy_0164
+新增条目 Npc.name2.ME_PC_Dummy_0165
+新增条目 Npc.title2.CH_PC_FirstGonRyunOldBoss_0001
+新增条目 Npc.title2.CH_PC_FirstGonRyunYoungBoss_0001
+新增条目 Npc.title2.ME_PC_Dummy_0161
+新增条目 Npc.title2.CH_PC_FirstGonRyunOldBoss_0002
+新增条目 Npc.title2.CH_PC_FirstGonRyunOldBoss_0003
+新增条目 Npc.title2.ME_PC_Dummy_0162
+新增条目 Npc.title2.ME_PC_Dummy_0163
+新增条目 Npc.title2.ME_PC_Dummy_0165
+新增条目 Npc.action-name.CH_PC_FirstGonRyunOldBoss_0001
+新增条目 Npc.action-desc.CH_PC_FirstGonRyunOldBoss_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Sword_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Spear_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Bow_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Sword_sizeup_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Spear_sizeup_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Bow_sizeup_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_sizeup_0001
+新增条目 Npc.name2.ME_SC_AncientMechDragon_0001
+新增条目 Npc.name2.ME_SC_AncientAdamantineMan_0001
+新增条目 Npc.name2.ME_SC_AsuraEye_0001
+新增条目 Npc.name2.ME_SC_AncientGolem_0001
+新增条目 Npc.name2.ME_SC_AncientGolemLeader_0001
+新增条目 Npc.name2.ME_SC_AncientHades_0001
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Sword_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Spear_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Bow_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_0004
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Sword_sizeup_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Spear_sizeup_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Bow_sizeup_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_sizeup_0002
+新增条目 Npc.name2.ME_SC_AncientAdamantineMan_0002
+新增条目 Npc.name2.ME_SC_AsuraEye_0002
+新增条目 Npc.name2.ME_SC_AncientGolem_0002
+新增条目 Npc.name2.ME_SC_AncientGolemLeader_0002
+新增条目 Npc.name2.ME_SC_AncientHades_0002
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Sword_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Spear_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Bow_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_0005
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_0006
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Sword_sizeup_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Spear_sizeup_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Bow_sizeup_0003
+新增条目 Npc.name2.ME_SC_RuneMechaYacha_Axe_sizeup_0003
+新增条目 Npc.name2.ME_SC_AncientAdamantineMan_0003
+新增条目 Npc.name2.ME_SC_AsuraEye_0003
+新增条目 Npc.name2.ME_SC_AncientGolem_0003
+新增条目 Npc.name2.ME_SC_AncientGolemLeader_0003
+新增条目 Npc.name2.ME_SC_AncientHades_0003
+新增条目 Npc.name2.ME_SC_AncientHades_0004
+新增条目 Npc.name2.ME_SC_Dummy_0305
+新增条目 Npc.name2.ME_SC_Dummy_0306
+新增条目 Npc.name2.ME_SC_Dummy_0307
+新增条目 Npc.name2.ME_SC_Dummy_0308
+新增条目 Npc.name2.ME_SC_Dummy_0309
+新增条目 Npc.name2.ME_SC_Dummy_0310
+新增条目 Npc.name2.ME_SC_Dummy_0311
+新增条目 Npc.name2.ME_SC_Dummy_0312
+新增条目 Npc.name2.ME_SC_Dummy_0313
+新增条目 Npc.name2.ME_SC_Dummy_0314
+新增条目 Npc.name2.ME_SC_Dummy_0315
+新增条目 Npc.name2.ME_SC_Dummy_0316
+新增条目 Npc.name2.ME_SC_Dummy_0317
+新增条目 Npc.name2.ME_SC_Dummy_0318
+新增条目 Npc.name2.ME_SC_Dummy_0319
+新增条目 Npc.name2.ME_SC_Dummy_0320
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Sword_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Spear_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Bow_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Sword_sizeup_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Spear_sizeup_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Bow_sizeup_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_sizeup_0001
+新增条目 Npc.title2.ME_SC_AncientMechDragon_0001
+新增条目 Npc.title2.ME_SC_AncientAdamantineMan_0001
+新增条目 Npc.title2.ME_SC_AsuraEye_0001
+新增条目 Npc.title2.ME_SC_AncientGolem_0001
+新增条目 Npc.title2.ME_SC_AncientGolemLeader_0001
+新增条目 Npc.title2.ME_SC_AncientHades_0001
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Sword_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Spear_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Bow_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_0004
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Sword_sizeup_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Spear_sizeup_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Bow_sizeup_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_sizeup_0002
+新增条目 Npc.title2.ME_SC_AncientAdamantineMan_0002
+新增条目 Npc.title2.ME_SC_AsuraEye_0002
+新增条目 Npc.title2.ME_SC_AncientGolem_0002
+新增条目 Npc.title2.ME_SC_AncientGolemLeader_0002
+新增条目 Npc.title2.ME_SC_AncientHades_0002
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Sword_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Spear_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Bow_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_0005
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_0006
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Sword_sizeup_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Spear_sizeup_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Bow_sizeup_0003
+新增条目 Npc.title2.ME_SC_RuneMechaYacha_Axe_sizeup_0003
+新增条目 Npc.title2.ME_SC_AncientAdamantineMan_0003
+新增条目 Npc.title2.ME_SC_AsuraEye_0003
+新增条目 Npc.title2.ME_SC_AncientGolem_0003
+新增条目 Npc.title2.ME_SC_AncientGolemLeader_0003
+新增条目 Npc.title2.ME_SC_AncientHades_0003
+新增条目 Npc.title2.ME_SC_AncientHades_0004
+新增条目 Npc.title2.ME_SC_Dummy_0305
+新增条目 Npc.title2.ME_SC_Dummy_0306
+新增条目 Npc.title2.ME_SC_Dummy_0307
+新增条目 Npc.title2.ME_SC_Dummy_0308
+新增条目 Npc.title2.ME_SC_Dummy_0309
+新增条目 Npc.title2.ME_SC_Dummy_0310
+新增条目 Npc.title2.ME_SC_Dummy_0311
+新增条目 Npc.title2.ME_SC_Dummy_0312
+新增条目 Npc.title2.ME_SC_Dummy_0313
+新增条目 Npc.title2.ME_SC_Dummy_0314
+新增条目 Npc.title2.ME_SC_Dummy_0315
+新增条目 Npc.title2.ME_SC_Dummy_0316
+新增条目 Npc.title2.ME_SC_Dummy_0317
+新增条目 Npc.title2.ME_SC_Dummy_0318
+新增条目 Npc.title2.ME_SC_Dummy_0319
+新增条目 Npc.title2.ME_SC_Dummy_0320
+原文变更 PartyChat.Name.PartyChat_Item_0113
+變更前原文 남도파 야외 유적지
+變更後原文 남도파 시험의 전당
+原文变更 PartyChat.Name.PartyChat_Item_0114
+變更前原文 남도파 동굴 유적지
+變更後原文 남도파 전승의 사당
+原文变更 PartyChat.Name.PartyChat_Item_0115
+變更前原文 혼돈의 바다뱀 보급기지
+變更後原文 혼돈의 보급기지
+新增条目 PartyChat.Name.PartyChat_Item_0116
+原文变更 sealed-dungeon-6_name
+變更前原文 초대 곤륜파
+變更後原文 곤륜파 본산
+新增条目 UI.Season.SoloDungeon1.Name.49
+新增条目 UI.Season.Infinite.Name.80
+新增条目 UI.Season.Duel.Name.98
+新增条目 UI.Season.TagMatch.Name.98
+新增条目 UI.Season.Occupation.Name.64
+新增条目 UI.Season.CTF.Name.64
+新增条目 UI.Season.LTB.Name.59
+新增条目 UI.Season.GuildCombat.Name.59
+新增条目 Skill.MainInfo1.Gadget_FirstGonRyun_Red
+新增条目 Skill.MainInfo1.Gadget_FirstGonRyun_Yellow
+新增条目 Skill.MainInfo2.Gadget_FirstGonRyun_Red
+新增条目 Skill.MainInfo2.Gadget_FirstGonRyun_Yellow
+新增条目 Skill.SubInfo.Gadget_FirstGonRyun_Red
+新增条目 Skill.SubInfo.Gadget_FirstGonRyun_Yellow
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_Swing
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_Spear
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_DownSmash
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_FrontBackAttack
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_Wave1
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_DeathLaser
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_Explosion
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_Absorb
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_TimeExplosion
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_FireArea1
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_DeathLaser2
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_ForceExplosion
+新增条目 Skill.Name2.GWJ_B1_SecondHand_Explosion1
+新增条目 Skill.Name2.GWJ_B1_Needle360
+新增条目 Skill.Name2.GWJ_B1_TimeBomb
+新增条目 Skill.Name2.GWJ_B1_TimeBomb_Energy
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyun_multiground
+新增条目 Skill.Name2.GWJ_B1_FirstGonRyunTimePiece_Normal
+新增条目 Skill.Name2.GWJ_N1_PastElder_SpinScythe
+新增条目 Skill.Name2.GWJ_N1_PastElder_Sentence
+新增条目 Skill.Name2.GWJ_N1_PastElder_Swing
+新增条目 Skill.Name2.GWJ_N1_PastElder_FogThunder
+新增条目 Skill.Name2.GWJ_N1_PastElder_FogThunderCounter
+新增条目 Skill.Name2.GWJ_N1_PastElder_NetherDoor
+新增条目 Skill.Name2.GWJ_N1_NetherDoor_Execute
+新增条目 Skill.Name2.GWJ_Hades_DrainLinkLaser
+新增条目 Skill.Name2.GWJ_Hades_Suicide
+新增条目 Skill.Name2.GWJ_TimeCore_Yellow
+新增条目 Skill.Name2.GWJ_TimeCore_Red
+新增条目 Skill.Name2.GWJ_TimePiece_Normal
+新增条目 Skill.Name2.GWJ_N1_PastElder_SpinScythe_time
+新增条目 Skill.Name2.GWJ_Dummy_Sentence
+新增条目 Skill.Name2.GWJ_TimePiece_Wave
+新增条目 ItemSkill.Text.T7_Skill_name1
+新增条目 ItemSkill.Text.T7_Skill_name2
+新增条目 Skill.Name2.WFC_B1_Dragon_LaserBeam
+新增条目 Skill.Name2.WFC_B1_Dragon_EarthQuake
+新增条目 Skill.Name2.WFC_B1_Dragon_Jump
+新增条目 Skill.Name2.WFC_B1_Dragon_Stomp
+新增条目 Skill.Name2.WFC_B1_Dragon_Breath
+新增条目 Skill.Name2.WFC_B1_Dragon_Explosion
+新增条目 Skill.Name2.WFC_B1_Dragon_AirBreath
+新增条目 Skill.Name2.WFC_B1_Dragon_AirGroundSim
+新增条目 Skill.Name2.WFC_B1_Dragon_Howling
+新增条目 Skill.Name2.WFC_B1_Dragon_TripleSmash
+新增条目 Skill.Name2.WFC_B1_Dragon_Ground
+新增条目 Skill.Name2.WFC_B1_Dragon_SafeGround
+新增条目 Skill.Name2.WFC_B1_Dragon_MarkExplosion
+原文变更 SkillTooltipAttr.text.E_using_skill_time_effect_number
+變更前原文 <arg p="2:string"/> 소환 중 <arg p="3:string"/>마다 <arg p="4:string"/> <arg p="5:string"/>씩 회복
+變更後原文 <arg p="2:string"/> 효과 중 <arg p="3:string"/>마다 <arg p="4:string"/> <arg p="5:string"/>씩 회복
+新增条目 SkillTooltip.Attr.text.E_add_damage_orbshooting_bomb
+新增条目 SkillTooltipAttr.text.E_using_skill_time_skill_time
+新增条目 SkillTooltipAttr.text.E_using_effect_time_effect_number
+新增条目 Name2.Teleport.6207_Teleport_01
+原文变更 UI.GameOption.BadgeAppearanceLabel.Tooltip
+變更前原文 광휘석 연출의 표시 여부를 설정합니다.
+變更後原文 광휘석 연출 및 환영연출의 표시 여부를 설정합니다.
+原文变更 UI.GameOption.BadgeAppearanceLabel
+變更前原文 <link id="tooltip:UI.GameOption.BadgeAppearanceLabel.Tooltip" ignoreinput="true">광휘석 연출</link>
+變更後原文 <link id="tooltip:UI.GameOption.BadgeAppearanceLabel.Tooltip" ignoreinput="true">광휘석 연출 및 환영연출</link>
+原文变更 UI.ItemTransform.Success.Normal.1
+變更前原文 <arg p="2:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Normal.2
+變更前原文 <arg p="2:item-name"/>, <arg p="3:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개, <arg p="3:item-name"/> <arg p="7:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Normal.3
+變更前原文 <arg p="2:item-name"/>, <arg p="3:item-name"/>, <arg p="4:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개, <arg p="3:item-name"/> <arg p="7:integer"/>개, <arg p="4:item-name"/> <arg p="8:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Normal.4
+變更前原文 <arg p="2:item-name"/>, <arg p="3:item-name"/>, <arg p="4:item-name"/>, <arg p="5:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개, <arg p="3:item-name"/> <arg p="7:integer"/>개, <arg p="4:item-name"/> <arg p="8:integer"/>개, <arg p="5:item-name"/> <arg p="9:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Rare.1
+變更前原文 <arg p="2:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Rare.2
+變更前原文 <arg p="2:item-name"/>, <arg p="3:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개, <arg p="3:item-name"/> <arg p="7:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Rare.3
+變更前原文 <arg p="2:item-name"/>, <arg p="3:item-name"/>, <arg p="4:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개, <arg p="3:item-name"/> <arg p="7:integer"/>개, <arg p="4:item-name"/> <arg p="8:integer"/>개로 변환되었습니다.
+原文变更 UI.ItemTransform.Success.Rare.4
+變更前原文 <arg p="2:item-name"/>, <arg p="3:item-name"/>, <arg p="4:item-name"/>, <arg p="5:item-name"/><ro/> 변환되었습니다.
+變更後原文 <arg p="2:item-name"/> <arg p="6:integer"/>개, <arg p="3:item-name"/> <arg p="7:integer"/>개, <arg p="4:item-name"/> <arg p="8:integer"/>개, <arg p="5:item-name"/> <arg p="9:integer"/>개로 변환되었습니다.
+新增条目 UI.ItemTransform.BatchTransformMaxCount
+新增条目 UI.ItemTransform.InvenFull
+新增条目 UI.ItemTransform.Fail.Count
+新增条目 UI.ItemTransform.QuantinyTitle
+新增条目 UI.SecondaryAuthBenefitsNotification.Title
+新增条目 UI.SecondaryAuthBenefitsNotification.Status
+新增条目 UI.SecondaryAuthBenefitsNotification.Tooltip
+新增条目 UI.SecondaryAuthBenefitLoading
+新增条目 UI.SecondaryAuthBenefitLoadingDsc
+新增条目 FirstGonRyun_env_01
+新增条目 FirstGonRyun_env_02
+新增条目 FirstGonRyun_env_03
+新增条目 FirstGonRyun_env_04
+新增条目 FirstGonRyun_env_05
+新增条目 FirstGonRyun_env_06
+新增条目 FirstGonRyun_env_07
+新增条目 FirstGonRyun_env_08
+新增条目 FirstGonRyun_env_09
+新增条目 FirstGonRyun_env_10
+新增条目 FirstGonRyun_env_11
+新增条目 FirstGonRyun_env_12
+新增条目 FirstGonRyun_env_13
+新增条目 FirstGonRyun_env_14
+新增条目 FirstGonRyun_env_15
+新增条目 FirstGonRyun_env_16
+新增条目 FirstGonRyun_env_17
+新增条目 FirstGonRyun_env_18
+原文变更 Mission.Name2.1925_1
+變更前原文 혼돈의 보급기지 포화란 또는 남도파 시험의 전당 금강투신 또는 전승의 사당 무패랑 5회 처치
+變更後原文 혼돈의 보급기지 포화란, 또는 남도파 시험의 전당 금강투신, 또는 전승의 사당 무패랑, 또는 곤륜파 본산 손량 5회 처치
+原文变更 q_2153_6_endok_text
+變更前原文 대협!<br/>오늘 진짜 멋있었습니다요~ 
+變更後原文 대협, 대협!<br/>오늘 진짜 끝내주게 멋있었습니다요~ 
+原文变更 q_2154_1_text_6
+變更前原文 자자, 사양 말고 자네도 어서 잔을 들게나.<br/>오늘만큼은 그저 모든 근심은 내려두고, 시원하게 들이켜 보세!
+變更後原文 자자, 사양 말고 자네도 어서 잔을 들게나.
+原文变更 q_2154_1_endok_text
+變更前原文 오늘만큼은 그저 모든 근심은 내려두고,<br/>시원하게 들이켜 보세!
+變更後原文 오늘만큼은 그저 모든 근심을 내려두고, 시원하게 들이켜보세!
+新增条目 Quest.Name2.2172
+新增条目 q_2172_1_text_1
+新增条目 q_2172_1_text_2
+新增条目 q_2172_1_text_3
+新增条目 q_2172_1_text_4
+新增条目 q_2172_2_indi_1_text
+新增条目 q_2172_2_text_1
+新增条目 q_2172_2_text_2
+新增条目 q_2172_sum
+新增条目 Mission.Name2.2172_1
+新增条目 Quest.Name2.2173
+新增条目 q_2173_1_endok_text
+新增条目 q_2173_1_indi_1_text
+新增条目 q_2173_1_text_1
+新增条目 q_2173_1_text_2
+新增条目 q_2173_1_text_3
+新增条目 q_2173_1_nextbutton_1
+新增条目 q_2173_1_nextbutton_2
+新增条目 q_2173_2_indi_1_text
+新增条目 q_2173_2_text_1
+新增条目 q_2173_2_subtext_1
+新增条目 q_2173_3_endok_text
+新增条目 q_2173_3_indi_1_text
+新增条目 q_2173_3_text_1
+新增条目 q_2173_3_text_2
+新增条目 q_2173_3_text_3
+新增条目 q_2173_3_text_4
+新增条目 q_2173_3_text_5
+新增条目 q_2173_3_subtext_4
+新增条目 q_2173_3_nextbutton_1
+新增条目 q_2173_3_nextbutton_2
+新增条目 q_2173_4_indi_1_text
+新增条目 q_2173_4_text_1
+新增条目 q_2173_4_text_2
+新增条目 q_2173_4_nextbutton_1
+新增条目 q_2173_5_endok_text
+新增条目 q_2173_5_text_1
+新增条目 q_2173_5_text_2
+新增条目 q_2173_5_text_3
+新增条目 q_2173_5_text_4
+新增条目 q_2173_5_text_5
+新增条目 q_2173_5_subtext_4
+新增条目 q_2173_5_nextbutton_2
+新增条目 q_2173_6_indi_1_text
+新增条目 q_2173_6_text_1
+新增条目 q_2173_6_text_2
+新增条目 q_2173_6_text_3
+新增条目 q_2173_6_text_4
+新增条目 q_2173_6_subtext_2
+新增条目 q_2173_6_nextbutton_1
+新增条目 q_2173_6_nextbutton_2
+新增条目 q_2173_7_indi_1_text
+新增条目 q_2173_7_text_1
+新增条目 q_2173_7_text_2
+新增条目 q_2173_7_text_3
+新增条目 q_2173_7_nextbutton_2
+新增条目 q_2173_8_indi_1_text
+新增条目 q_2173_8_text_1
+新增条目 q_2173_8_text_2
+新增条目 q_2173_8_subtext_1
+新增条目 q_2173_8_subtext_2
+新增条目 q_2173_9_text_1
+新增条目 q_2173_10_indi_1_text
+新增条目 q_2173_10_text_1
+新增条目 q_2173_10_text_2
+新增条目 q_2173_sum
+新增条目 Mission.Name2.2173_1
+新增条目 Mission.Name2.2173_2
+新增条目 Mission.Name2.2173_3
+新增条目 Mission.Name2.2173_4
+新增条目 Mission.Name2.2173_5
+新增条目 Mission.Name2.2173_6
+新增条目 Mission.Name2.2173_7
+新增条目 Mission.Name2.2173_8
+新增条目 Mission.Name2.2173_9
+新增条目 Mission.Name2.2173_10
+新增条目 Mission.Name2.2173_11
+新增条目 q_2173_11_text_1
+新增条目 Mission.Name2.2173_12
+新增条目 Quest.Name2.2174
+新增条目 q_2174_1_endok_text
+新增条目 q_2174_1_text_1
+新增条目 q_2174_1_text_2
+新增条目 q_2174_1_text_3
+新增条目 q_2174_1_text_4
+新增条目 q_2174_1_nextbutton_3
+新增条目 q_2174_2_indi_1_text
+新增条目 q_2174_2_text_1
+新增条目 q_2174_2_text_2
+新增条目 q_2174_2_text_3
+新增条目 q_2174_2_text_4
+新增条目 q_2174_2_nextbutton_3
+新增条目 q_2174_3_text_1
+新增条目 q_2174_3_text_2
+新增条目 q_2174_3_text_3
+新增条目 q_2174_4_endok_text
+新增条目 q_2174_4_indi_1_text
+新增条目 q_2174_4_text_1
+新增条目 q_2174_4_text_2
+新增条目 q_2174_4_text_3
+新增条目 q_2174_5_indi_1_text
+新增条目 q_2174_5_text_1
+新增条目 q_2174_5_text_2
+新增条目 q_2174_6_text_1
+新增条目 q_2174_6_text_2
+新增条目 q_2174_sum
+新增条目 Mission.Name2.2174_1
+新增条目 Mission.Name2.2174_2
+新增条目 Mission.Name2.2174_3
+新增条目 q_2174_2_subtext_2
+新增条目 q_2174_2_nextbutton_1
+新增条目 q_2174_4_subtext_2
+新增条目 q_2174_5_subtext_2
+新增条目 Quest.Name2.2175
+新增条目 q_2175_1_text_1
+新增条目 q_2175_1_text_2
+新增条目 q_2175_2_indi_1_text
+新增条目 q_2175_2_text_1
+新增条目 q_2175_2_text_2
+新增条目 q_2175_2_text_3
+新增条目 q_2175_2_text_4
+新增条目 q_2175_2_nextbutton_3
+新增条目 q_2175_3_endok_text
+新增条目 q_2175_3_indi_1_text
+新增条目 q_2175_3_text_1
+新增条目 q_2175_3_text_2
+新增条目 q_2175_3_text_3
+新增条目 q_2175_3_text_4
+新增条目 q_2175_3_text_5
+新增条目 q_2175_3_subtext_4
+新增条目 q_2175_3_nextbutton_3
+新增条目 q_2175_4_indi_1_text
+新增条目 q_2175_4_text_1
+新增条目 q_2175_4_text_2
+新增条目 q_2175_5_endok_text
+新增条目 q_2175_5_indi_1_text
+新增条目 q_2175_5_text_1
+新增条目 q_2175_5_text_2
+新增条目 q_2175_5_text_3
+新增条目 q_2175_5_text_4
+新增条目 q_2175_6_text_1
+新增条目 q_2175_6_text_2
+新增条目 q_2175_6_text_3
+新增条目 q_2175_6_text_4
+新增条目 q_2175_sum
+新增条目 Mission.Name2.2175_1
+新增条目 Mission.Name2.2175_2
+新增条目 Mission.Name2.2175_3
+新增条目 Mission.Name2.2175_4
+新增条目 Mission.Name2.2175_5
+新增条目 Mission.Name2.2175_6
+新增条目 Mission.Name2.2175_7
+新增条目 q_2175_2_nextbutton_1
+新增条目 q_2175_2_nextbutton_2
+新增条目 q_2175_3_subtext_2
+新增条目 q_2175_3_subtext_3
+新增条目 q_2175_3_nextbutton_1
+新增条目 q_2175_3_nextbutton_2
+新增条目 q_2175_3_nextbutton_4
+新增条目 q_2175_4_nextbutton_1
+新增条目 q_2175_5_subtext_3
+新增条目 q_2175_5_nextbutton_1
+新增条目 q_2175_5_nextbutton_2
+新增条目 q_2175_6_nextbutton_2
+新增条目 Quest.Name2.2185
+新增条目 q_2185_sum
+新增条目 q_2185_des_1
+新增条目 Mission.Name2.2185_1
+新增条目 Mission.Name2.2185_2
+新增条目 q_2185_1_endok_text
+新增条目 q_2185_1_indi_1_text
+新增条目 q_2185_1_text_1
+新增条目 q_2185_1_text_2
+新增条目 q_2185_1_text_3
+新增条目 q_2185_1_text_4
+新增条目 q_2185_2_endok_text
+新增条目 q_2185_2_indi_1_text
+新增条目 q_2185_2_text_1
+新增条目 q_2185_2_text_2
+新增条目 q_2185_2_text_3
+新增条目 q_2185_1_text_5
+新增条目 q_2185_1_text_6
+新增条目 q_2185_2_nextbutton_1
+新增条目 Quest.Name2.25316
+新增条目 Mission.Name2.25316_1
+新增条目 Mission.Name2.25316_2
+新增条目 Quest.Name2.25317
+新增条目 q_25317_1_text_1
+新增条目 q_25317_1_text_2
+新增条目 Mission.Name2.25317_1
+新增条目 Mission.Name2.25317_2
+原文变更 ME_PC_FirstGonRyun_0001_combatstart_01_text
+變更前原文 왠 하룻강아지 같은 신입이 들어왔군..!
+變更後原文 웬 하룻강아지 같은 신입이 들어왔군..!
+原文变更 ME_PC_FirstGonRyun_0001_battle_02_text
+變更前原文 범인줄 알았는데, 진짜 하룻강아지구만!
+變更後原文 범인 줄 알았는데, 진짜 하룻강아지구만!
+原文变更 ME_PC_FirstGonRyun_0002_soc_02_text
+變更前原文 역시 젊은게 좋지. 좋은게 좋은거라네
+變更後原文 역시 젊은 게 좋지. 좋은 게 좋은 거라네
+原文变更 ME_PC_FirstGonRyun_0003_soc_01_text
+變更前原文 문주님께선 나보다 더 아름다우신것 같아!
+變更後原文 문주님께선 나보다 더 아름다우신 것 같아!
+原文变更 ME_PC_FirstGonRyun_0003_soc_02_text
+變更前原文 그 분께선 어쩜 그렇게 아름다우신 걸까…
+變更後原文 그분께선 어쩜 그렇게 아름다우신 걸까…
+原文变更 ME_PC_FirstGonRyun_0004_soc_01_text
+變更前原文 수련을 게을리해선 안됩니다!
+變更後原文 수련을 게을리해선 안 됩니다!
+原文变更 ME_PC_FirstGonRyun_0004_combatstart_01_text
+變更前原文 새로온 수련생인가요?
+變更後原文 새로 온 수련생인가요?
+原文变更 ME_PC_FirstGonRyun_0005_soc_01_text
+變更前原文 언제까지 목각인형을 상대로 수련해야하는지 ..
+變更後原文 언제까지 목각인형을 상대로 수련해야 하는지 ..
+原文变更 ME_PC_FirstGonRyun_0005_combatstart_01_text
+變更前原文 드디어 나도 사제가 생긴건가?!
+變更後原文 드디어 나도 사제가 생긴 건가?!
+原文变更 ME_PC_FirstGonRyun_0005_combatstart_02_text
+變更前原文 야! 내가 누군줄 알아?
+變更後原文 야! 내가 누군 줄 알아?
+原文变更 ME_PC_FirstGonRyun_0006_combatstart_02_text
+變更前原文 오옷! 무공을 시험해볼수 있겠어..!
+變更後原文 오옷! 무공을 시험해볼 수 있겠어..!
+原文变更 ME_PC_FirstGonRyun_0006_battle_02_text
+變更前原文 이런건 어디서 배운거야?!
+變更後原文 이런 건 어디서 배운 거야?!
+原文变更 ME_PC_FirstGonRyun_0008_soc_01_text
+變更前原文 수련관 뒤쪽은 너무 음산한것 같아..
+變更後原文 수련관 뒤쪽은 너무 음산한 것 같아..
+原文变更 ME_PC_FirstGonRyun_0008_soc_02_text
+變更前原文 식신이라니... 내가 잡아먹히는거 아니야..?
+變更後原文 식신이라니... 내가 잡아먹히는 거 아니야..?
+原文变更 ME_PC_FirstGonRyun_0008_combatstart_02_text
+變更前原文 기다려요! 더는 못갑니다!
+變更後原文 기다려요! 더는 못 갑니다!
+原文变更 ME_PC_FirstGonRyun_0009_soc_01_text
+變更前原文 오늘도 사형께 수련을 게을리 한다고 혼났지뭐야?
+變更後原文 오늘도 사형께 수련을 게을리한다고 혼났지 뭐야?
+原文变更 ME_PC_FirstGonRyun_0009_soc_02_text
+變更前原文 하루정도는 그냥 쉬고 싶은데...
+變更後原文 하루 정도는 그냥 쉬고 싶은데...
+原文变更 ME_PC_FirstGonRyun_0009_combatstart_01_text
+變更前原文 설마, 농땡이 피운다고 날 잡으러 온거야?
+變更後原文 설마, 농땡이 피운다고 날 잡으러 온 거야?
+原文变更 ME_PC_FirstGonRyun_0019_battle_01_text
+變更前原文 허허..어딜 가는겐가?
+變更後原文 허허..어딜 가는 겐가?
+原文变更 ME_PC_FirstGonRyun_0021_battle_01_text
+變更前原文 술사를 죽이지 않으면 주술은 사라지지 않는답니다.
+變更後原文 술사를 죽이지 않으면 주술은 사라지지 않는 답니다.
+原文变更 ME_PC_FirstGonRyunBoss_0001_soc_01_text
+變更前原文 그래그래... 아까운 내 시간의 보상이 이 정도는 되야지!
+變更後原文 그래그래... 아까운 내 시간의 보상이 이 정도는 돼야지!
+原文变更 ME_PC_FirstGonRyunBoss_0001_combatstart_02_text
+變更前原文 죽을 시간을 제촉하는 놈이로구나!
+變更後原文 죽을 시간을 재촉하는 놈이로구나!
+原文变更 ME_PC_FirstGonRyunBoss_0001_battle_04_text
+變更前原文 오호~시간에 쫒겨보고 싶으냐?
+變更後原文 오호~시간에 쫓겨보고 싶으냐?
+原文变更 ME_PC_FirstGonRyunBoss_0001_battle_08_text
+變更前原文 하룻강아지 범 무서운줄 모르는군!
+變更後原文 하룻강아지 범 무서운 줄 모르는군!
+原文变更 ME_PC_FirstGonRyunNamed_0001_soc_02_text
+變更前原文 이 늙은이의 발을 묶겠다는 생각은 하지 말려무나...후후.
+變更後原文 이 늙은이의 발을 묶겠다는 생각은 하지 말려무나...후후
+原文变更 ME_PC_FirstGonRyunNamed_0001_soc_03_text
+變更前原文 쯧쯧...이미 모두 지나간 시간...다 부질 없거늘...
+變更後原文 쯧쯧...이미 모두 지나간 시간...다 부질없거늘...
+原文变更 ME_PC_FirstGonRyunNamed_0001_battle_02_text
+變更前原文 10년짜리 이야기거리는 되겠구나!
+變更後原文 10년짜리 이야깃거리는 되겠구나!
+原文变更 ME_PC_FirstGonRyunNamed_0001_battle_03_text
+變更前原文 살고싶다면 좀 더 빠릿하게 움직이렴!
+變更後原文 살고 싶다면 좀 더 빠릿하게 움직이렴!
+原文变更 ME_PC_FirstGonRyunNamed_0001_battle_04_text
+變更前原文 번개보다 빨라야 할게야!
+變更後原文 번개보다 빨라야 할 게야!
+原文变更 ME_PC_FirstGonRyunNamed_0001_battle_05_text
+變更前原文 네게 어울릴 만한 곳으로 보내주마, 아가야!
+變更後原文 아가야, 너에게 어울릴 만한 곳으로 보내주마!
+原文变更 CH_PC_FirstGonRyunYoungBoss_0001_soc_01_text
+變更前原文 자네! 문파 꼴이 이게 뭔가? 청소는 언제한게야?
+變更後原文 자네! 문파 꼴이 이게 뭔가? 청소는 언제 한 게야?
+新增条目 CH_PC_FirstGonRyunOldBoss_0003_soc_01_text
+新增条目 CH_PC_FirstGonRyunOldBoss_0003_soc_02_text
+新增条目 MH_CC_NaYul_0001_soc_01_text
+新增条目 MH_CC_NaYul_0001_soc_02_text
+新增条目 MH_CC_NaYul_0001_soc_03_text
+新增条目 MH_CC_NaYul_0001_soc_04_text
+新增条目 MH_CC_NaYul_0001_soc_05_text
+新增条目 MH_CC_NaYul_0001_soc_06_text
+新增条目 MH_CC_NaYul_0001_combatstart_01_text
+新增条目 MH_CC_NaYul_0001_combatstart_02_text
+新增条目 MH_CC_NaYul_0001_battle_01_text
+新增条目 MH_CC_NaYul_0001_battle_02_text
+新增条目 MH_CC_NaYul_0001_battle_03_text
+新增条目 MH_CC_NaYul_0001_battle_04_text
+新增条目 MH_CC_NaYul_0001_battle_05_text
+新增条目 MH_CC_NaYul_0001_battle_06_text
+新增条目 MH_CC_NaYul_0001_battle_07_text
+新增条目 MH_CC_NaYul_0001_battle_08_text
+新增条目 MH_CC_NaYul_0001_battle_09_text
+新增条目 MH_CC_NaYul_0001_battle_10_text
+新增条目 MH_CC_NaYul_0001_battle_11_text
+新增条目 MH_CC_NaYul_0001_battle_12_text
+新增条目 CH_CC_NaYul_0001_soc_01_text
+新增条目 CH_CC_NaYul_0001_soc_02_text
+新增条目 CH_CC_NaYul_0001_soc_03_text
+新增条目 CH_CC_NaYul_0001_soc_04_text
+新增条目 CH_CC_NaYul_0001_soc_05_text
+新增条目 CH_CC_NaYul_0001_soc_06_text
+新增条目 CH_CC_NaYul_0001_soc_07_text
+新增条目 CH_CC_NaYul_0001_soc_08_text
+新增条目 CH_CC_NaYul_0001_soc_09_text
+新增条目 q_2172_1_icon_msg_1_text1
+新增条目 q_2173_9_icon_msg_1_text1
+新增条目 q_2174_3_icon_msg_1_text1
+新增条目 q_2174_6_icon_msg_1_text1
+新增条目 q_2175_1_icon_msg_1_text1
+新增条目 q_25317_1_icon_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0001_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0002_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0005_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0003_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0007_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0006_msg_1_text1
+新增条目 CH_PC_FirstGonRyunOldBoss_0001_msg_1_text1
+新增条目 CH_PC_FirstGonRyunYoungBoss_0001_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0004_msg_1_text1
+新增条目 CH_PC_FirstGonRyun_0004_msg_1_subtext1
+新增条目 CH_PC_FirstGonRyun_0008_indi_1_text
+新增条目 CH_PC_FirstGonRyun_0009_indi_1_text
+新增条目 CH_PC_FirstGonRyun_0009_indi_2_text
+新增条目 CH_PC_FirstGonRyun_0010_indi_1_text
+新增条目 CH_PC_FirstGonRyun_0011_indi_1_text
+新增条目 CH_PC_FirstGonRyun_0011_indi_2_text
+新增条目 CH_PC_FirstGonRyun_0011_indi_3_text
+新增条目 CH_PC_FirstGonRyun_0012_indi_1_text
+新增条目 CH_PC_FirstGonRyun_0012_indi_2_text
+新增条目 CH_PC_FirstGonRyun_0013_indi_1_text
+新增条目 CH_PC_FirstGonRyun_0013_indi_2_text
+新增条目 CH_PC_FirstGonRyun_0014_indi_1_text
+新增条目 QG_FirstGonRyun
+新增条目 QLooting.name2_2185_1

@@ -1,0 +1,41 @@
+UI.TargetIndicator.ShooterAbyss.tooltip 這個得等國服翻譯照抄
+
+快速定位: 
+
+// 簡化的施展條件
+BA_G1_RB_1 
+
+
+// 創建角色的描述
+Text.Jobstyle.name
+Text.Jobstyle.desc
+
+
+// 天賦名稱
+Text.T_name.Warrior_advanced_03
+// 天賦描述
+Text.WA_G3_Train_Desc
+
+// 修煉場
+Text.SkillTrainingRoomGroup.*
+
+
+
+// 副本描述
+InterD.Desc
+
+
+// 萬象錄內容
+
+Card.Desc1.WorldAccountCard_0001
+
+
+// 以前的寶石
+
+Effect.Name2.WeaponGem_Effect_03_Gr3_0023
+
+
+
+// 檢查套裝屬性, 可能有誤
+
+Effect.Desc2.Item_Set_0128_8

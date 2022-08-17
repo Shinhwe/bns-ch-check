@@ -1,0 +1,2285 @@
+新增条目 Achieve.Name_690_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Name_690_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Name_690_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Name_691_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Name_691_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Name_691_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Name_692_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Name_692_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Name_692_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Name_693_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Name_693_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Name_693_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Name_694_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Name_695_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Name_992_consumable_NamdoHistoricSite_1_Extreme_0001_step1
+新增条目 Achieve.Name_993_consumable_NamdoHistoricSite_2_Extreme_0001_step1
+新增条目 Achieve.Name_994_consumable_FirstGonRyun_Extreme_0001_step1
+新增条目 Achieve.Name_995_consumable_NamdoGonRyun_All__Extreme_0001_step1
+原文变更 Achieve.Desc_500_Baram_KillNPC_SubBoss2_step1
+變更前原文 무지개 호수에서 삼색거와, 뇌점왕, 극독아귀, 빙옥귀 각각 100회 처치
+變更後原文 무지개 호수에서 삼색거와, 뇌점룡, 극독아귀, 빙옥귀 각각 100회 처치
+原文变更 Achieve.Desc_689_dungeon_DungeonBoss_KillBoss9_step1
+變更前原文 봉마 7단계 이상에서 금강투신, 미지의 몬스터, 미지의 몬스터 각각 50회 처치
+變更後原文 봉마 7단계 이상에서 금강투신, 무패랑, 미지의 몬스터 각각 50회 처치
+新增条目 Achieve.Desc_690_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Desc_690_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Desc_690_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Desc_691_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Desc_691_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Desc_691_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Desc_692_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Desc_692_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Desc_692_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Desc_693_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Desc_693_dungeon_TaekwangWolf_step2
+新增条目 Achieve.Desc_693_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Desc_694_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Desc_695_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Desc_992_consumable_NamdoHistoricSite_1_Extreme_0001_step1
+新增条目 Achieve.Desc_993_consumable_NamdoHistoricSite_2_Extreme_0001_step1
+新增条目 Achieve.Desc_994_consumable_FirstGonRyun_Extreme_0001_step1
+新增条目 Achieve.Desc_995_consumable_NamdoGonRyun_All__Extreme_0001_step1
+新增条目 Achieve.Title_690_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Title_691_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Title_692_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Title_693_dungeon_TaekwangWolf_step3
+新增条目 Achieve.Title_695_dungeon_TaekwangWolf_step1
+新增条目 Achieve.Title_992_consumable_NamdoHistoricSite_1_Extreme_0001_step1
+新增条目 Achieve.Title_993_consumable_NamdoHistoricSite_2_Extreme_0001_step1
+新增条目 Achieve.Title_994_consumable_FirstGonRyun_Extreme_0001_step1
+新增条目 Achieve.Title_995_consumable_NamdoGonRyun_All__Extreme_0001_step1
+原文变更 Achieve.RegName_916_1_kill-boss-npc
+變更前原文 미지의 몬스터 처치
+變更後原文 <arg p="2:npc.name2"/> 처치
+新增条目 Achieve.RegName_1206_1_kill-boss-npc
+新增条目 Achieve.RegName_1207_1_kill-boss-npc
+新增条目 Achieve.RegName_1208_1_kill-boss-npc
+新增条目 Achieve.RegName_1209_1_kill-boss-npc
+新增条目 Achieve.RegName_1210_1_kill-boss-npc
+新增条目 Achieve.RegName_1211_1_manipulate-env
+新增条目 Achieve.RegName_960_1_use-grocery
+新增条目 Achieve.RegName_961_1_use-grocery
+新增条目 Achieve.RegName_962_1_use-grocery
+新增条目 Achieve.RegName_963_1_use-grocery
+新增条目 Achieve.Slot1.960_1_use-grocery
+新增条目 Achieve.Slot1.961_1_use-grocery
+新增条目 Achieve.Slot1.962_1_use-grocery
+新增条目 Achieve.Slot1.963_1_use-grocery
+新增条目 Achieve.Slot2.963_1_use-grocery
+新增条目 Achieve.Slot3.963_1_use-grocery
+新增条目 Achieve.SpecialTitle_97
+新增条目 Achieve.SpecialTitle_98
+新增条目 Achieve.SpecialTitle_99
+新增条目 Achieve.SpecialTitle_100
+新增条目 Achieve.SpecialTitle_102
+新增条目 Achieve.SpecialTitle_103
+新增条目 Achieve.SpecialTitle_104
+新增条目 Achieve.SpecialTitle_105
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv1
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv2
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv3
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv4
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv5
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv6
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv7
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv8
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv9
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv10
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv11
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv12
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv13
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv14
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv15
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv16
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv17
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv18
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv19
+新增条目 Effect.Desc7.Acc_neckless_R7_Ancient_lv20
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_effect
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv1
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv2
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv3
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv4
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv5
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv6
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv7
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv8
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv9
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv10
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv11
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv12
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv13
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv14
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv15
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv16
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv17
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv18
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv19
+新增条目 Effect.Desc7.Acc_Gloves_D8_Ancient_lv20
+新增条目 Effect.Desc2.Improve_Set_Bonus8_0001
+新增条目 Effect.Desc2.Improve_Set_Bonus8_0002
+新增条目 Effect.Desc2.Improve_Set_Bonus8_0003
+新增条目 Effect.Desc2.Improve_Set_Bonus8_0004
+新增条目 Effect.Desc2.Improve_Set_Bonus8_0005
+新增条目 Effect.Desc2.Improve_Set_Bonus8_0006
+新增条目 Effect.Desc2.Improve_Min_Bonus8_0001
+新增条目 Effect.Desc2.Improve_Min_Bonus8_0002
+新增条目 Effect.Desc2.Improve_Min_Bonus8_0003
+新增条目 Effect.Desc2.Improve_Min_Bonus8_0004
+新增条目 Effect.Desc2.Improve_Min_Bonus8_0005
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_11
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_12
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_13
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_14
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_15
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_16
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_17
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_18
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_19
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_11
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_12
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_13
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_14
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_15
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_16
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_17
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_18
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_19
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_11
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_12
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_13
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_14
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_15
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_16
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_17
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_18
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_19
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_20
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_10
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_01
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_02
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_03
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_04
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_05
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_06
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_07
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_08
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_09
+新增条目 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_10
+新增条目 Effect.Name2.GWI_DemonNineTale_HPheal_SP_reduce
+新增条目 Effect.Desc2.GWI_DemonNineTale_HPheal_SP_reduce
+新增条目 Effect.Name2.GWI_DemonNineTale_Damage_Increase
+新增条目 Effect.Desc2.GWI_DemonNineTale_Damage_Increase
+新增条目 Effect.Name2.ME_GWE_B2_HPheal_SP_reduce
+新增条目 Effect.Desc2.ME_GWE_B2_HPheal_SP_reduce
+新增条目 Effect.Name2.ME_GWE_B2_Damage_Increase
+新增条目 Effect.Desc2.ME_GWE_B2_Damage_Increase
+新增条目 Effect.Name2.GWK_B1_Sealed_HealDown
+新增条目 Effect.Desc2.GWK_B1_Sealed_HealDown
+新增条目 Effect.Name2.GWK_B2_Dummy_TimeExplosion_PC_Debuf
+原文变更 Effect.Name2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Buff
+變更前原文 대지원기
+變更後原文 계시
+原文变更 Effect.Name2.GWK_B2_TaekwangWolf_ComboAttack_Boss_Count
+變更前原文 연계가속
+變更後原文 광기
+原文变更 Effect.Name2.GWK_B2_TaekwangWolf_Howling_PC_Debuff
+變更前原文 공포
+變更後原文 공포시선
+原文变更 Effect.Name2.GWK_B2_NamdoGolemLeader_BlueBarrier_Named_Buff
+變更前原文 네임드 파랑 보호막
+變更後原文 푸른 보호막
+原文变更 Effect.Name2.GWK_B2_NamdoGolemLeader_GreenBarrier_Named_Buff
+變更前原文 네임드 녹색 보호막
+變更後原文 녹색 보호막
+原文变更 Effect.Name2.GWK_B2_NamdoGolemLeader_BlueBarrier_Sub_Buff
+變更前原文 네임드쫄 파랑보호 기절
+變更後原文 푸른영기 보호막
+原文变更 Effect.Name2.GWK_B2_NamdoGolemLeader_GreenBarrier_Sub_Buff
+變更前原文 네임드쫄 녹색보호 다운
+變更後原文 녹색영기 보호막
+原文变更 Effect.Name2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Buff_Upgrade
+變更前原文 피자 안전영역 버프 진화
+變更後原文 전승
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_BlueBarrier_Named_End
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_GreenBarrier_Named_End
+新增条目 Effect.Name2.GWK_B2_TaekwangWolf_ComboAttack_Grade_Buff
+新增条目 Effect.Name2.GWK_B2_TaekwangWolf_Boss_Kneel1
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_WolfDash_PC_ScreenEffect_Eye
+變更前原文 환영늑대에 포착되었습니다. <br/> 막기 대응
+變更後原文 일패랑의 시야에 포착되었습니다. <br/>막기 대응시 기운 흡수
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_Howling2_Boss_Transform1_Ability
+變更前原文 무패랑이 분노한 상태입니다. <br/> 공격력 증가  <br/> 크기 증가
+變更後原文 무패랑이 분노하여 몸집이 커졌습니다. <br/>공격거리 증가
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_Howling3_Boss_Transform2_Ability
+變更前原文 무패랑이 폭주한 상태입니다. <br/> 공격력 증가  <br/> 크기 증가
+變更後原文 무패랑이 폭주하여 몸집이 거대해졌습니다. <br/>공격거리 대폭 증가
+新增条目 Effect.Desc2.GWK_B2_Dummy_TimeExplosion_PC_Debuf
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_Counter_Boss_FrontParry
+變更前原文 철벽 태세로 전방을 방어합니다. <br/> 전방 공격 흡수
+變更後原文 철벽태세로 전방을 방어합니다. <br/>전방공격시 기절
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Mark
+變更前原文 무패랑이 당신을 주시하고 있습니다. <br/> 주시
+變更後原文 무패랑이 당신을 주시합니다. <br/>공격력 치명피해 증가 <br/>혼란 면역 <br/>계시 및 전승 버프 불가
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Buff
+變更前原文 대지의 기운이 흡수되었습니다. <br/> 공격력 증가
+變更後原文 계시를 받았습니다. <br/>중첩당 공격력 치명피해 증가 <br/>5중첩시 전승버프 변환
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_ComboAttack_Boss_Count
+變更前原文 무패랑이 연속 공격을 시작합니다.
+變更後原文 무패랑이 광기에 휩싸였습니다. <br/>중첩당 피해 감소  <br/>무패랑 공격시 버프중첩 감소 <br/>무패랑의 연계공격 피격시 버프중첩 증가 <br/>(회전강타, 충격파, 가르기, 반원파)
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_Howling_PC_Debuff
+變更前原文 무패랑의 울음소리에 사로잡혔습니다. <br/> 공포 상태
+變更後原文 무패랑과 시선을 마주쳐 공포에 질렸습니다. <br/>공포 상태
+原文变更 Effect.Desc2.GWK_B2_NamdoGolemLeader_BlueBarrier_Named_Buff
+變更前原文 푸른영기를 던져 피해를 입힐수 있습니다. <br/>녹색영기 효과 저항
+變更後原文 푸른영기를 던져 피해를 입힐수 있습니다. <br/>중첩당 피해감소  <br/>푸른영기 적중시 중첩 감소 <br/>녹색영기 효과 저항
+原文变更 Effect.Desc2.GWK_B2_NamdoGolemLeader_GreenBarrier_Named_Buff
+變更前原文 녹색영기를 던져 피해를 입힐수 있습니다. <br/>푸른영기 효과 저항
+變更後原文 녹색영기를 던져 피해를 입힐수 있습니다. <br/>중첩당 피해감소  <br/>녹색영기 적중시 중첩 감소 <br/>푸른영기 효과 저항
+原文变更 Effect.Desc2.GWK_B2_NamdoGolemLeader_BlueBarrier_Sub_Buff
+變更前原文 기절효과로 해제할 수 있습니다. <br/>다운, 그로기, 넉백 저항
+變更後原文 기절효과로 해제할 수 있습니다. <br/>피해 감소 상태 <br/>다운, 그로기, 넉백 저항
+原文变更 Effect.Desc2.GWK_B2_NamdoGolemLeader_GreenBarrier_Sub_Buff
+變更前原文 다운효과로 해제할 수 있습니다. <br/>기절, 그로기, 넉백 저항
+變更後原文 다운효과로 해제할 수 있습니다. <br/>피해 감소 상태 <br/>기절, 그로기, 넉백 저항
+原文变更 Effect.Desc2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Buff_Upgrade
+變更前原文 대지의 기운이 강화되었습니다. <br/> 공격력 증가  <br/> 지면울림 상태이상 면역
+變更後原文 강력한 힘을 얻었습니다. <br/>공격력 치명 치명피해 공력피해 증가  <br/>1초마다 생명력 전체 회복  <br/>무패랑 공격 상태이상 면역
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_BlueBarrier_Named_End
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_GreenBarrier_Named_End
+新增条目 Effect.Desc2.GWK_B2_TaekwangWolf_ComboAttack_Grade_Buff
+新增条目 Effect.Desc2.GWK_B2_TaekwangWolf_Boss_Kneel1
+新增条目 Effect.Name2.BCB_B1_Machinist_HPheal_SP_reduce
+新增条目 Effect.Desc2.BCB_B1_Machinist_HPheal_SP_reduce
+新增条目 Effect.Name2.BCB_B1_Machinist_Damage_Increase
+新增条目 Effect.Desc2.BCB_B1_Machinist_Damage_Increase
+原文变更 Fielditem.name2.FirstGonRyun_TimeCore_Yellow
+變更前原文 적색 시간의 정수
+變更後原文 황색 시간의 정수
+原文变更 Fielditem.name2.FirstGonRyun_TimeCore_Red
+變更前原文 황색 시간의 정수
+變更後原文 적색 시간의 정수
+原文变更 Fielditem.action-desc2.FirstGonRyun_TimeCore_Yellow
+變更前原文 적색 시간의 정수를 들어올립니다.
+變更後原文 황색 시간의 정수를 들어올립니다.
+原文变更 Fielditem.action-desc2.FirstGonRyun_TimeCore_Red
+變更前原文 황색 시간의 정수를 들어올립니다.
+變更後原文 적색 시간의 정수를 들어올립니다.
+原文变更 Fielditem.drop-action-desc.FirstGonRyun_TimeCore_Yellow
+變更前原文 적색 시간의 정수를 버립니다.
+變更後原文 황색 시간의 정수를 버립니다.
+原文变更 Fielditem.drop-action-desc.FirstGonRyun_TimeCore_Red
+變更前原文 황색 시간의 정수를 버립니다.
+變更後原文 적색 시간의 정수를 버립니다.
+原文变更 Fielditem.description2.NamdoGolemLeader_BlueBall
+變更前原文 네임드가 푸른 보호막인 상태일때 던져서 피해를 줍니다.
+變更後原文 푸른 보호막인 상태일때 던져서 피해를 줍니다.
+原文变更 Fielditem.description2.NamdoGolemLeader_GreenBall
+變更前原文 네임드가 녹색 보호막인 상태일때 던져서 피해를 줍니다.
+變更後原文 녹색 보호막인 상태일때 던져서 피해를 줍니다.
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_01
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_02
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_03
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_04
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_05
+新增条目 Msg.ME_PC_Dummy_0158_HL_05
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_01
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_02
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_03
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_04
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_05
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_06
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_07
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_08
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_09
+新增条目 Msg.Dungeon_NamdoHistoricSite_msg_HL_02_HT
+新增条目 Msg.ME_PC_Dummy_0158_HL_01
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_01_BHT
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_02_BHT
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_03_BHT
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_04_BHT
+新增条目 Msg.ME_PA_TaekwangWolf_0001_0001_HL_05_BHT
+新增条目 Msg.ME_PC_Dummy_0158_HL_01_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_01_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_02_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_03_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_04_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_05_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_06_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_07_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_08_BHT
+新增条目 Msg.ME_PC_FirstGonRyunBoss_0001_0001_HL_09_BHT
+新增条目 Text.Glyph.Glyph_JunSeung
+新增条目 Text.Glyph.Glyph_Stampede
+新增条目 Text.Glyph.Flavor.Event_JunSeung
+新增条目 TextData.GlyphAbility.Glyph_JunSeung_Score1
+新增条目 TextData.GlyphAbility.Attr1.Glyph_JunSeung_Score1
+新增条目 TextData.GlyphAbility.Glyph_Stampede_Score1
+新增条目 TextData.GlyphAbility.Attr1.Glyph_Stampede_Score1
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0017
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0018
+新增条目 Text.GlyphReward.General_Grocery_NormalGlyph_Box_0019
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0017
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0018
+新增条目 Text.GlyphReward.General_Grocery_SpecialGlyph_Box_0019
+新增条目 Skill.Name2.Glyph_Stampede_Score1
+新增条目 Effect.Name2.Glyph_Stampede_Score1
+新增条目 Effect.Name2.Glyph_JunSeung_Damage_Score1
+新增条目 Effect.Desc2.Glyph_JunSeung_Damage_Score1
+新增条目 Set.Name2.Item_Set_1015
+原文变更 ItemSkill.Text.Eff.AR_T6_G2_Lv1_01_Desc
+變更前原文 돌풍살, 삼중사격, 강사, 태풍살 추가피해
+變更後原文 돌풍살, 삼중사격, 강사, 태풍살, 전진사격 추가피해
+原文变更 ItemSkill.Text.AR_T6_G2_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">화살비, 속사</font> 사용 시 15초간 천호효과 발동<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">돌풍살</font> 명중 시 공격력의 345% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">삼중사격</font> 첫 타격 명중 시 공격력의 495% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">강사</font> 명중 시 공격력의 875% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">태풍살</font> 명중 시 공격력의 1080% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">돌풍살, 삼중사격</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">비장의 화염폭발</font> 발동, 공격력의 42000% 피해 (재발동 시간 15초, 대인에게 피해량 2% 적용)
+變更後原文 <font name="00008130.UI.Vital_LightBlue">화살비, 속사</font> 사용 시 15초간 천호효과 발동<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">돌풍살</font> 명중 시 공격력의 345% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">삼중사격</font> 첫 타격 명중 시 공격력의 495% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">강사</font> 명중 시 공격력의 875% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">태풍살, 전진사격</font> 명중 시 공격력의 1080% 추가피해<br/>천호효과 중 <font name="00008130.UI.Vital_LightBlue">돌풍살, 삼중사격</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">비장의 화염폭발</font> 발동, 공격력의 42000% 피해 (재발동 시간 15초, 대인에게 피해량 2% 적용)
+新增条目 ItemSkill.Text.AR_T6_G2_Lv1_09_Tooltip
+原文变更 ItemSkill.Text.AR_B6_Lv1_01_Tooltip
+變更前原文 화살비, 궁신탄영 사용 시 15초간 선륜효과<br/>선륜효과 중 돌풍살, 삼중사격, 강사 사용 시 염화궤적 발동<br/>선륜효과 중 돌풍살 명중 시 공격력의 55% 피해<br/>선륜효과 중 삼중사격 첫 타격 명중 시 공격력의 245% 피해<br/>돌풍살, 강사로 염화궤적 발동 시 공격력의 600% 피해<br/>삼중사격으로 염화궤적 발동 시 3회에 걸쳐 공격력의 1800% 피해<br/>염화궤적 방어, 튕기기 관통
+變更後原文 화살비, 궁신탄영 사용 시 15초간 선륜효과<br/>선륜효과 중 돌풍살, 삼중사격, 강사 사용 시 염화궤적 발동<br/>선륜효과 중 돌풍살 명중 시 공격력의 55% 피해<br/>선륜효과 중 삼중사격 첫 타격 명중 시 공격력의 140% 피해<br/>돌풍살, 강사로 염화궤적 발동 시 공격력의 600% 피해<br/>삼중사격으로 염화궤적 발동 시 3회에 걸쳐 공격력의 1800% 피해<br/>염화궤적 방어, 튕기기 관통
+原文变更 ItemSkill.Text.AR_B8_Lv1_01_Tooltip
+變更前原文 화살비, 궁신탄영 사용 시 15초간 몽화효과<br/>몽화효과 중 돌풍살, 삼중사격, 강사 사용 시 염화궤적 발동<br/>몽화효과 중 돌풍살 명중 시 공격력의 125% 피해<br/>몽화효과 중 삼중사격 첫 타격 명중 시 공격력의 475% 피해<br/>돌풍살, 강사로 염화궤적 발동 시 공격력의 1000% 피해<br/>삼중사격으로 염화궤적 발동 시 3회에 걸쳐 공격력의 3000% 피해<br/>염화궤적 방어, 튕기기 관통
+變更後原文 화살비, 궁신탄영 사용 시 15초간 몽화효과<br/>몽화효과 중 돌풍살, 삼중사격, 강사 사용 시 염화궤적 발동<br/>몽화효과 중 돌풍살 명중 시 공격력의 125% 피해<br/>몽화효과 중 삼중사격 첫 타격 명중 시 공격력의 275% 피해<br/>돌풍살, 강사로 염화궤적 발동 시 공격력의 1000% 피해<br/>삼중사격으로 염화궤적 발동 시 3회에 걸쳐 공격력의 3000% 피해<br/>염화궤적 방어, 튕기기 관통
+原文变更 ItemSkill.Text.AR_B14_Lv1_01_Tooltip
+變更前原文 화살비, 궁신탄영 사용 시 15초간 중천효과<br/>중천효과 중 돌풍살, 삼중사격, 강사 사용 시 염화궤적 발동<br/>중천효과 중 돌풍살 명중 시 공격력의 125% 피해<br/>중천효과 중 삼중사격 첫 타격 명중 시 공격력의 475% 피해<br/>돌풍살, 강사로 염화궤적 발동 시 공격력의 1000% 피해<br/>삼중사격으로 염화궤적 발동 시 3회에 걸쳐 공격력의 3000% 피해<br/>염화궤적 방어, 튕기기 관통<br/>중천효과 중 돌풍살, 삼중사격, 강사 사용 시 맹독숨결 또는 맹독화살 발동<br/>맹독숨결, 맹독화살 명중 시 공격력의 16000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>맹독숨결, 맹독화살 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 맹독숨결, 맹독화살 명중 시 공격력의 9000% 추가피해<br/>맹독숨결, 맹독화살 방어, 튕기기 관통
+變更後原文 화살비, 궁신탄영 사용 시 15초간 중천효과<br/>중천효과 중 돌풍살, 삼중사격, 강사 사용 시 염화궤적 발동<br/>중천효과 중 돌풍살 명중 시 공격력의 125% 피해<br/>중천효과 중 삼중사격 첫 타격 명중 시 공격력의 275% 피해<br/>돌풍살, 강사로 염화궤적 발동 시 공격력의 1000% 피해<br/>삼중사격으로 염화궤적 발동 시 3회에 걸쳐 공격력의 3000% 피해<br/>염화궤적 방어, 튕기기 관통<br/>중천효과 중 돌풍살, 삼중사격, 강사 사용 시 맹독숨결 또는 맹독화살 발동<br/>맹독숨결, 맹독화살 명중 시 공격력의 16000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>맹독숨결, 맹독화살 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 맹독숨결, 맹독화살 명중 시 공격력의 9000% 추가피해<br/>맹독숨결, 맹독화살 방어, 튕기기 관통
+原文变更 ItemSkill.Text.AR_S23_Lv1_01_Desc
+變更前原文 상처찢기 9중첩인 대상에게 <font name="00008130.UI.Vital_LightBlue">태풍살</font> 명중 시 공격력의 2000% 추가피해
+變更後原文 상처찢기 9중첩인 대상에게 <font name="00008130.UI.Vital_LightBlue">태풍살</font> 명중 시 공격력의 2000% 추가피해<br/>반발력효과 중 상처찢기 9중첩인 대상에게 <font name="00008130.UI.Vital_LightBlue">전진사격</font> 명중 시 공격력의 2000% 추가피해
+原文变更 ItemSkill.Text.AR_S23_Lv1_01_Tooltip
+變更前原文 상처찢기 9중첩인 대상에게 태풍살 명중 시 공격력의 2000% 추가피해
+變更後原文 상처찢기 9중첩인 대상에게 태풍살 명중 시 공격력의 2000% 추가피해<br/>반발력효과 중 상처찢기 9중첩인 대상에게 전진사격 명중 시 공격력의 2000% 추가피해
+原文变更 ItemSkill.Text.ItemSkill_BK_G7_Bubble_Desc4
+變更前原文 피해감소 47% 증가<br/>대인방어력 2400 증가<br/>치명타 피해 감소 70% 증가<br/>상태이상피해 440 증가<br/>공격 명중 시 마다 대인공격력 130 증가 (최대 3중첩)
+變更後原文 피해감소 47% 증가<br/>대인방어력 2400 증가<br/>치명타 피해 감소 80% 증가<br/>상태이상피해 440 증가<br/>공격 명중 시 마다 대인공격력 130 증가 (최대 3중첩)
+原文变更 ItemSkill.Text.DE_Stomping_S10_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">발구르기</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">집행</font> 재사용시간 7초 감소
+變更後原文 <font name="00008130.UI.Vital_LightBlue">발구르기</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">집행, 선고</font> 재사용시간 7초 감소
+原文变更 ItemSkill.Text.DE_Stomping_S10_Lv1_01_Tooltip
+變更前原文 발구르기 사용 시 집행 재사용시간 7초 감소
+變更後原文 발구르기 사용 시 집행, 선고 재사용시간 7초 감소
+原文变更 ItemSkill_KF_B1_Lv1_01_Name
+變更前原文 <font name="00008130.UI.Vital_LightBlue">회축</font> 강화
+變更後原文 <font name="00008130.UI.Vital_LightBlue">통배권, 용호포</font> 강화
+原文变更 ItemSkill_KF_B1_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">회축</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">회천각</font> 재사용 시간 초기화<br/><font name="00008130.UI.Vital_LightBlue">회축</font> 명중 후 <font name="00008130.UI.Vital_LightBlue">회천각</font> 명중 시 공격력의 600% 추가피해
+變更後原文 <font name="00008130.UI.Vital_LightBlue">통배권, 용호포</font> 사용 후 4초간 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 내력 3 회복
+原文变更 ItemSkill_KF_B1_Lv1_01_Tooltip
+變更前原文 회축 명중 시 회천각 재사용 시간 초기화<br/>회축 명중 후 회천각 명중 시 공격력의 600% 추가피해
+變更後原文 통배권, 용호포 사용 후 4초간 용권, 적룡권 명중 시 내력 3 회복
+原文变更 ItemSkill_KF_B2_Lv1_01_Name
+變更前原文 <font name="00008130.UI.Vital_LightBlue">통배권, 용호포</font> 강화
+變更後原文 <font name="00008130.UI.Vital_LightBlue">회축</font> 강화
+原文变更 ItemSkill_KF_B2_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">통배권, 용호포</font> 사용 후 4초간 <font name="00008130.UI.Vital_LightBlue">용권, 적룡권</font> 명중 시 내력 3 회복
+變更後原文 <font name="00008130.UI.Vital_LightBlue">회축</font> 명중 시 <font name="00008130.UI.Vital_LightBlue">회천각</font> 재사용 시간 초기화<br/><font name="00008130.UI.Vital_LightBlue">회축</font> 명중 후 <font name="00008130.UI.Vital_LightBlue">회천각</font> 명중 시 공격력의 600% 추가피해
+原文变更 ItemSkill_KF_B2_Lv1_01_Tooltip
+變更前原文 통배권, 용호포 사용 후 4초간 용권, 적룡권 명중 시 내력 3 회복
+變更後原文 회축 명중 시 회천각 재사용 시간 초기화<br/>회축 명중 후 회천각 명중 시 공격력의 600% 추가피해
+原文变更 Effect.Desc2.ItemSkill_SU_B8_Lv1_01_Flag
+變更前原文 해바라기, 큰 해바라기 명중 시 추가피해
+變更後原文 해바라기, 큰 해바라기, 태양광선 명중 시 추가피해<br/>가시덩굴, 덩굴채찍, 쌍가시덩굴 명중 시 추가피해
+原文变更 Effect.Desc2.ItemSkill_SU_B14_Lv1_01_Flag
+變更前原文 해바라기, 태양광선, 큰 해바라기 명중 시 추가피해<br/>가시덩굴, 덩굴채찍, 쌍가시덩굴 사용 시 맹독숨결 발동
+變更後原文 해바라기, 태양광선, 큰 해바라기 명중 시 추가피해<br/>가시덩굴, 덩굴채찍, 쌍가시덩굴 명중 시 추가피해<br/>가시덩굴, 덩굴채찍, 쌍가시덩굴 사용 시 맹독숨결 발동
+新增条目 Effect.Name2.ItemSkill_SU_B6_Lv1_01_Flag
+新增条目 Effect.Desc2.ItemSkill_SU_B6_Lv1_01_Flag
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Sword_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Gauntlet_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Staff_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Aura-bangle_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Axe_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Dagger_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_RynSword_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_WarDagger_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Gun_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_GreatSword_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_LongBow_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_Orb_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_necklace_DualBlade_Ancient_0003_120
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_101
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_102
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_103
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_104
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_105
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_106
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_107
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_108
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_109
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_110
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_111
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_112
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_113
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_114
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_115
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_116
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_117
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_118
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_119
+新增条目 Item.Name2.General_Accessory_Gloves_All_Ancient_0003_120
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_101
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_102
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_103
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_104
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_105
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_106
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_107
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_108
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_109
+新增条目 Item.Name2.General_EnchantGem_Necklace_0001_110
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_101
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_102
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_103
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_104
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_105
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_106
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_107
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_108
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_109
+新增条目 Item.Name2.General_EnchantGem_Gloves_0001_110
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Sword_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Gauntlet_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Staff_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Aura-bangle_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Axe_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Dagger_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_RynSword_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_WarDagger_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_SoulGauntlet_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Gun_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_GreatSword_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_LongBow_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_Orb_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_necklace_DualBlade_Ancient_0003_120
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_101
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_102
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_103
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_104
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_105
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_106
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_107
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_108
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_109
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_110
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_111
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_112
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_113
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_114
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_115
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_116
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_117
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_118
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_119
+新增条目 Item.Desc2.General_Accessory_Gloves_All_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Sword_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Gauntlet_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Staff_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Aura-bangle_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Axe_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Dagger_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_RynSword_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_WarDagger_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_SoulGauntlet_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Gun_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_GreatSword_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_LongBow_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_Orb_Ancient_0003_120
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_101
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_102
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_103
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_104
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_105
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_106
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_107
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_108
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_109
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_110
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_111
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_112
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_113
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_114
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_115
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_116
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_117
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_118
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_119
+新增条目 Item.Desc4.General_Accessory_necklace_DualBlade_Ancient_0003_120
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_101
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_102
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_103
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_104
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_105
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_106
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_107
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_108
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_109
+新增条目 Item.Desc4.General_EnchantGem_Necklace_0001_110
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_101
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_102
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_103
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_104
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_105
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_106
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_107
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_108
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_109
+新增条目 Item.Desc4.General_EnchantGem_Gloves_0001_110
+新增条目 Item.Nick.General_Accessory_necklace_Sword_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Gauntlet_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Staff_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Aura-bangle_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Axe_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Dagger_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_RynSword_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_WarDagger_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_SoulGauntlet_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Gun_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_GreatSword_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_LongBow_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_Orb_Ancient_0003
+新增条目 Item.Nick.General_Accessory_necklace_DualBlade_Ancient_0003
+新增条目 Item.Nick.General_Accessory_Gloves_All_Ancient_0003
+新增条目 Item.Desc6.General_EnchantGem_Necklace_0001
+新增条目 Item.Desc6.General_EnchantGem_Gloves_0001
+新增条目 Item.Name2.General_Costume_Dress_1221
+新增条目 Item.Name2.General_Costume_Decoration_1205
+新增条目 Item.Name2.General_Costume_Decoration_1206
+新增条目 Item.Name2.General_Costume_Dress_1222
+新增条目 Item.Name2.General_Costume_Decoration_1207
+新增条目 Item.Name2.General_Costume_Decoration_1208
+新增条目 Item.Name2.General_Costume_Dress_1223
+新增条目 Item.Name2.General_Costume_Decoration_1209
+新增条目 Item.Name2.General_Costume_Decoration_1210
+新增条目 Item.Name2.General_Costume_Dress_1224
+新增条目 Item.Name2.General_Costume_Decoration_1211
+新增条目 Item.Name2.General_Costume_Decoration_1212
+新增条目 Item.Desc2.General_Costume_Dress_1221
+新增条目 Item.Desc2.General_Costume_Decoration_1205
+新增条目 Item.Desc2.General_Costume_Decoration_1206
+新增条目 Item.Desc2.General_Costume_Dress_1222
+新增条目 Item.Desc2.General_Costume_Decoration_1207
+新增条目 Item.Desc2.General_Costume_Decoration_1208
+新增条目 Item.Desc2.General_Costume_Dress_1223
+新增条目 Item.Desc2.General_Costume_Decoration_1209
+新增条目 Item.Desc2.General_Costume_Decoration_1210
+新增条目 Item.Desc2.General_Costume_Dress_1224
+新增条目 Item.Desc2.General_Costume_Decoration_1211
+新增条目 Item.Desc2.General_Costume_Decoration_1212
+新增条目 Item.Desc6.General_Costume_Dress_1221
+新增条目 Item.Desc6.General_Costume_Decoration_1205
+新增条目 Item.Desc6.General_Costume_Decoration_1206
+新增条目 Item.Desc6.General_Costume_Dress_1222
+新增条目 Item.Desc6.General_Costume_Decoration_1207
+新增条目 Item.Desc6.General_Costume_Decoration_1208
+原文变更 Item.Name2.General_Grocery_Coin_0293
+變更前原文 빛나는 천랑 정복주화 [정규시즌 4]
+變更後原文 옛 빛나는 천랑 정복주화 [정규시즌 4]
+原文变更 Item.Name2.General_Grocery_NormalGlyph_Box_0014
+變更前原文 시험의전당 인장 상자
+變更後原文 시험의 전당 인장 상자
+原文变更 Item.Name2.General_Grocery_NormalGlyph_Box_0015
+變更前原文 빛나는 시험의전당 인장 상자
+變更後原文 빛나는 시험의 전당 인장 상자
+原文变更 Item.Name2.General_Grocery_NormalGlyph_Box_0016
+變更前原文 이글거리는 시험의전당 인장 상자
+變更後原文 이글거리는 시험의 전당 인장 상자
+原文变更 Item.Name2.General_Grocery_SpecialGlyph_Box_0014
+變更前原文 시험의전당 특수 인장 상자
+變更後原文 시험의 전당 특수 인장 상자
+原文变更 Item.Name2.General_Grocery_SpecialGlyph_Box_0015
+變更前原文 빛나는 시험의전당 특수 인장 상자
+變更後原文 빛나는 시험의 전당 특수 인장 상자
+原文变更 Item.Name2.General_Grocery_SpecialGlyph_Box_0016
+變更前原文 이글거리는 시험의전당 특수 인장 상자
+變更後原文 이글거리는 시험의 전당 특수 인장 상자
+原文变更 Item.Name2.General_Grocery_Box_4854
+變更前原文 천류금고
+變更後原文 [시험의 전당] 천류금고
+原文变更 Item.Name2.General_Grocery_Box_4855
+變更前原文 빛나는 천류금고
+變更後原文 [시험의 전당] 빛나는 천류금고
+原文变更 Item.Name2.General_Grocery_Box_4856
+變更前原文 이글거리는 천류금고
+變更後原文 [시험의 전당] 이글거리는 천류금고
+新增条目 Item.Name2.General_Grocery_Coin_0296
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1553
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1554
+新增条目 Item.Name2.General_Grocery_Box_4878
+新增条目 Item.Name2.General_Grocery_Box_4879
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0017
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0018
+新增条目 Item.Name2.General_Grocery_NormalGlyph_Box_0019
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0017
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0018
+新增条目 Item.Name2.General_Grocery_SpecialGlyph_Box_0019
+新增条目 Item.Name2.General_Grocery_Box_4880
+新增条目 Item.Name2.General_Grocery_Box_4881
+新增条目 Item.Name2.General_Grocery_SpecialMaterial_1555
+新增条目 Item.Name2.General_Grocery_Box_4882
+新增条目 Item.Name2.General_Grocery_Box_4883
+新增条目 Item.Name2.General_Grocery_Box_4884
+新增条目 Item.Name2.General_Grocery_Box_4885
+新增条目 Item.Name2.General_Grocery_Box_4886
+新增条目 Item.Name2.General_Grocery_Box_4887
+新增条目 Item.Name2.General_Grocery_Box_4888
+新增条目 Item.Name2.General_Grocery_Box_4889
+新增条目 Item.Name2.Produce_Grocery_Food_1153
+新增条目 Item.Name2.Produce_Grocery_Food_1154
+新增条目 Item.Name2.Produce_Grocery_Food_1155
+原文变更 Item.Desc2.General_Grocery_Coin_0293
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;천공의 유랑선, 불법 군수공장, 통합 랭킹 정규시즌 4가 종료되어 더 이상 획득이 불가능합니다.<br/>2022/01/19 까지 교환 가능합니다.&quot;</font>
+變更後原文 과거에 사용되었던 물품으로 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Coin_0295
+變更前原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의전당 프리시즌 1 보상으로 획득할 수 있습니다.<br/>교환 종료 시점은 추후 공지 예정입니다.&quot;</font>
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;시험의전당 프리시즌 1이 종료되어 더 이상 획득이 불가능합니다.<br/>2022/02/23 까지 교환 가능합니다.&quot;</font>
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1550
+變更前原文 가이드 <image imagesetpath="00033689.Keyboard_Ctrl_Big" enablescale="true" scalerate="1.2"/> + <image imagesetpath="00033689.Keyboard_Alphabet_J" enablescale="true" scalerate="1.2"/>의 특수버튼으로 사용할 수 있습니다.<br/>던전 목록 중 &quot;남도파 시험의 전당&quot;의 특별 보상 버튼을 클릭해 사용
+變更後原文 가이드 <image imagesetpath="00033689.Keyboard_Ctrl_Big" enablescale="true" scalerate="1.2"/> + <image imagesetpath="00033689.Keyboard_Alphabet_J" enablescale="true" scalerate="1.2"/>의 특수버튼으로 사용할 수 있습니다.<br/>던전 목록 중 &quot;시험의 전당&quot;, &quot;전승의 사당&quot;의 특별 보상 버튼을 클릭해 사용
+新增条目 Item.Desc2.General_Grocery_Coin_0296
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1553
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1554
+新增条目 Item.Desc2.General_Grocery_Box_4878
+新增条目 Item.Desc2.General_Grocery_Box_4879
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0017
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0018
+新增条目 Item.Desc2.General_Grocery_NormalGlyph_Box_0019
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0017
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0018
+新增条目 Item.Desc2.General_Grocery_SpecialGlyph_Box_0019
+新增条目 Item.Desc2.General_Grocery_Box_4880
+新增条目 Item.Desc2.General_Grocery_Box_4881
+新增条目 Item.Desc2.General_Grocery_SpecialMaterial_1555
+新增条目 Item.Desc2.General_Grocery_Box_4885
+新增条目 Item.Desc2.General_Grocery_Box_4886
+新增条目 Item.Desc2.General_Grocery_Box_4887
+新增条目 Item.Desc2.General_Grocery_Box_4888
+新增条目 Item.Desc2.General_Grocery_Box_4889
+新增条目 Item.Desc2.Produce_Grocery_Food_1153
+新增条目 Item.Desc2.Produce_Grocery_Food_1154
+新增条目 Item.Desc2.Produce_Grocery_Food_1155
+原文变更 Item.MainInfo.General_Grocery_Coin_0293
+變更前原文 물품 교환
+變更後原文 <font name="00008130.UI.Vital_red">사용 불가</font>
+新增条目 Item.MainInfo.General_Grocery_Coin_0296
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1553
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1554
+新增条目 Item.MainInfo.General_Grocery_Box_4878
+新增条目 Item.MainInfo.General_Grocery_Box_4879
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0017
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0018
+新增条目 Item.MainInfo.General_Grocery_NormalGlyph_Box_0019
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0017
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0018
+新增条目 Item.MainInfo.General_Grocery_SpecialGlyph_Box_0019
+新增条目 Item.MainInfo.General_Grocery_Box_4880
+新增条目 Item.MainInfo.General_Grocery_Box_4881
+新增条目 Item.MainInfo.General_Grocery_SpecialMaterial_1555
+新增条目 Item.MainInfo.General_Grocery_Box_4882
+新增条目 Item.MainInfo.General_Grocery_Box_4883
+新增条目 Item.MainInfo.General_Grocery_Box_4884
+新增条目 Item.MainInfo.General_Grocery_Box_4885
+新增条目 Item.MainInfo.General_Grocery_Box_4886
+新增条目 Item.MainInfo.General_Grocery_Box_4887
+新增条目 Item.MainInfo.General_Grocery_Box_4888
+新增条目 Item.MainInfo.General_Grocery_Box_4889
+新增条目 Item.MainInfo.Produce_Grocery_Food_1153
+新增条目 Item.MainInfo.Produce_Grocery_Food_1154
+新增条目 Item.MainInfo.Produce_Grocery_Food_1155
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1553
+新增条目 Item.SubInfo.General_Grocery_SpecialMaterial_1554
+新增条目 Item.SubInfo.General_Grocery_Box_4880
+新增条目 Item.SubInfo.General_Grocery_Box_4881
+新增条目 Item.SubInfo.Produce_Grocery_Food_1153
+新增条目 Item.SubInfo.Produce_Grocery_Food_1154
+新增条目 Item.SubInfo.Produce_Grocery_Food_1155
+新增条目 Item.IdentifyDesc.General_Grocery_SpecialMaterial_1555
+新增条目 Item.Desc4.General_Grocery_Key_1049
+原文变更 Item.Desc5.General_Grocery_Key_1049
+變更前原文 <image imagesetpath="00009076.Tooltip_SpecialKey" enablescale="true" scalerate="1.2"/> 천상분지 보물방
+變更後原文 <arg p="id:item.front-icon.scale.120" id="item:Event_Grocery_Box_1265"/> 천상분지 주머니
+原文变更 Item.Desc5.General_Grocery_Key_1050
+變更前原文 <image imagesetpath="00009076.Tooltip_Growth" enablescale="true" scalerate="1.2"/> 천류금고, 빛나는 천류금고, 이글거리는 천류금고
+變更後原文 <image imagesetpath="00009076.Tooltip_Growth" enablescale="true" scalerate="1.2"/> 봉마록 각 던전에서 획득하는 천류금고, 빛나는 천류금고, 이글거리는 천류금고
+原文变更 Item.Desc5.General_Grocery_SpecialMaterial_1550
+變更前原文 <image imagesetpath="00009076.Tooltip_Party" enablescale="true" scalerate="1.2"/> 남도파 시험의 전당 특별 보상 횟수 충전
+變更後原文 <image imagesetpath="00009076.Tooltip_Party" enablescale="true" scalerate="1.2"/> 시험의 전당, 전승의 사당 특별 보상 횟수 충전
+新增条目 Item.Desc5.General_Grocery_Coin_0296
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1553
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1554
+新增条目 Item.Desc5.General_Grocery_SpecialMaterial_1555
+新增条目 Item.Desc5.Produce_Grocery_Food_1153
+新增条目 Item.Desc5.Produce_Grocery_Food_1154
+新增条目 Item.Desc5.Produce_Grocery_Food_1155
+原文变更 Item.Desc6.General_Grocery_SpecialGlyph_Box_0014
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 무신의 탑 강상채
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당
+原文变更 Item.Desc6.General_Grocery_SpecialGlyph_Box_0015
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 무신의 탑 강상채
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당
+原文变更 Item.Desc6.General_Grocery_SpecialGlyph_Box_0016
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 무신의 탑 강상채
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1538
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 시험의 전당<br/><image path="00008758.Achieve_Ranking_Gold" u="0" v="0" ul="64" vl="64" width="32" height="32" enablescale="true" scalerate="1.2"/> 봉마록 시험의 전당 정규시즌
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1539
+變更前原文 <image imagesetpath="00009076.Tooltip_Growth" enablescale="true" scalerate="1.2"/> 재료 변환
+變更後原文 <image imagesetpath="00009076.Tooltip_Growth" enablescale="true" scalerate="1.2"/> 재료 변환<br/><image path="00008758.Achieve_Ranking_Gold" u="0" v="0" ul="64" vl="64" width="32" height="32" enablescale="true" scalerate="1.2"/> 봉마록 시험의 전당 정규시즌
+新增条目 Item.Desc6.General_Grocery_Coin_0296
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1553
+新增条目 Item.Desc6.General_Grocery_SpecialMaterial_1554
+新增条目 Item.Desc6.General_Grocery_Box_4878
+新增条目 Item.Desc6.General_Grocery_Box_4879
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0017
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0018
+新增条目 Item.Desc6.General_Grocery_NormalGlyph_Box_0019
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0017
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0018
+新增条目 Item.Desc6.General_Grocery_SpecialGlyph_Box_0019
+新增条目 Item.Desc6.General_Grocery_Box_4880
+新增条目 Item.Desc6.General_Grocery_Box_4881
+新增条目 Item.Desc6.General_Grocery_Box_4882
+新增条目 Item.Desc6.General_Grocery_Box_4883
+新增条目 Item.Desc6.General_Grocery_Box_4884
+新增条目 Item.Desc6.General_Grocery_Box_4885
+新增条目 Item.Desc6.General_Grocery_Box_4886
+新增条目 Item.Desc6.General_Grocery_Box_4887
+新增条目 Item.Desc6.General_Grocery_Box_4888
+新增条目 Item.Desc6.General_Grocery_Box_4889
+新增条目 Item.Desc6.Produce_Grocery_Food_1153
+新增条目 Item.Desc6.Produce_Grocery_Food_1154
+原文变更 Item.Name2.Event_Grocery_Box_1263
+變更前原文 천상분지 주머니
+變更後原文 옛 천상분지 주머니
+原文变更 Item.Name2.Event_Grocery_Coin_0367
+變更前原文 성탄 주화
+變更後原文 옛 성탄 주화
+新增条目 Item.Name2.Event_Grocery_Box_1265
+原文变更 Item.MainInfo.Event_Grocery_Coin_0367
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Event_Grocery_Box_1265
+新增条目 Item.Desc6.Event_Grocery_Box_1265
+新增条目 Item.Name2.General_Weapon_Harp_2241
+新增条目 Item.Nick.General_Weapon_Harp_2241
+新增条目 Item.Desc6.General_Weapon_Harp_2241
+新增条目 Item.Name2.Event_Weapon_Sword_0154
+新增条目 Item.Name2.Event_Weapon_Gauntlet_0154
+新增条目 Item.Name2.Event_Weapon_Staff_0154
+新增条目 Item.Name2.Event_Weapon_Aura-bangle_0154
+新增条目 Item.Name2.Event_Weapon_Axe_0154
+新增条目 Item.Name2.Event_Weapon_Dagger_0154
+新增条目 Item.Name2.Event_Weapon_RynSword_0154
+新增条目 Item.Name2.Event_Weapon_WarDagger_0154
+新增条目 Item.Name2.Event_Weapon_SoulGauntlet_0154
+新增条目 Item.Name2.Event_Weapon_Gun_0154
+新增条目 Item.Name2.Event_Weapon_GreatSword_0154
+新增条目 Item.Name2.Event_Weapon_LongBow_0154
+新增条目 Item.Name2.Event_Weapon_Orb_0154
+新增条目 Item.Name2.Event_Weapon_DualBlade_0154
+新增条目 Item.Name2.Event_Weapon_Sword_0155
+新增条目 Item.Name2.Event_Weapon_Gauntlet_0155
+新增条目 Item.Name2.Event_Weapon_Staff_0155
+新增条目 Item.Name2.Event_Weapon_Aura-bangle_0155
+新增条目 Item.Name2.Event_Weapon_Axe_0155
+新增条目 Item.Name2.Event_Weapon_Dagger_0155
+新增条目 Item.Name2.Event_Weapon_RynSword_0155
+新增条目 Item.Name2.Event_Weapon_WarDagger_0155
+新增条目 Item.Name2.Event_Weapon_SoulGauntlet_0155
+新增条目 Item.Name2.Event_Weapon_Gun_0155
+新增条目 Item.Name2.Event_Weapon_GreatSword_0155
+新增条目 Item.Name2.Event_Weapon_LongBow_0155
+新增条目 Item.Name2.Event_Weapon_Orb_0155
+新增条目 Item.Name2.Event_Weapon_DualBlade_0155
+原文变更 Name.job.SoulFighter.styleIcon3
+變更前原文 <image enablescale="true" imagesetpath="00043230.JobStyle_Lock" scalerate="1.5"/><br/><arg p="1:string"/>
+變更後原文 <image enablescale="true" imagesetpath="/Game/Art/UI/GameUI/Resource/GameUI_SkillBookImage/JobStyle_SoulFighter03_Tooltip.JobStyle_SoulFighter03_Tooltip" scalerate="1.5"/><br/><arg p="1:string"/>
+原文变更 Map_555_name
+變更前原文 남도파 사당
+變更後原文 시험의 전당
+原文变更 Map_556_name
+變更前原文 남도파 전승의 전당
+變更後原文 남도파 전승의 사당
+原文变更 Map_557_name
+變更前原文 남도파 석굴
+變更後原文 전승의 사당
+新增条目 Unit_5244_CH_PA_NamdoHistoric_0002_name
+新增条目 Npc.name2.MH_CC_NaYul_0001
+新增条目 Npc.name2.MH_CC_NaYul_0002
+新增条目 Npc.name2.MH_CC_NaYul_0003
+新增条目 Npc.name2.MH_CC_NaYul_0004
+新增条目 Npc.name2.ME_CC_Dummy_0005
+新增条目 Npc.name2.ME_CC_Dummy_0006
+新增条目 Npc.name2.ME_CC_Dummy_0007
+新增条目 Npc.name2.ME_CC_Dummy_0008
+新增条目 Npc.name2.ME_CC_Dummy_0009
+新增条目 Npc.name2.ME_CC_Dummy_0010
+新增条目 Npc.name2.ME_CC_Dummy_0011
+新增条目 Npc.name2.ME_CC_Dummy_0012
+新增条目 Npc.title2.MH_CC_NaYul_0001
+新增条目 Npc.title2.MH_CC_NaYul_0002
+新增条目 Npc.title2.MH_CC_NaYul_0003
+新增条目 Npc.title2.MH_CC_NaYul_0004
+新增条目 Npc.title2.ME_CC_Dummy_0005
+新增条目 Npc.title2.ME_CC_Dummy_0006
+新增条目 Npc.title2.ME_CC_Dummy_0007
+新增条目 Npc.title2.ME_CC_Dummy_0008
+新增条目 Npc.title2.ME_CC_Dummy_0009
+新增条目 Npc.title2.ME_CC_Dummy_0010
+新增条目 Npc.title2.ME_CC_Dummy_0011
+新增条目 Npc.title2.ME_CC_Dummy_0012
+原文变更 Npc.name2.ME_PA_NamdoGolemLeader_0001
+變更前原文 대석괴
+變更後原文 암굴석괴
+新增条目 Npc.name2.ME_PA_Dummy_0249
+新增条目 Npc.name2.ME_PA_Dummy_0250
+新增条目 Npc.name2.ME_PA_Dummy_0258
+原文变更 Npc.name2.MH_PA_NamdoHistoric_0007
+變更前原文 진남 기공사
+變更後原文 기공사
+原文变更 Npc.name2.MH_PA_NamdoHistoric_0008
+變更前原文 진남 권사
+變更後原文 권사
+原文变更 Npc.name2.MH_PA_NamdoHistoric_0009
+變更前原文 진남 기권사
+變更後原文 기권사
+原文变更 Npc.name2.MH_PA_NamdoHistoric_0010
+變更前原文 곤남 기공사
+變更後原文 기공사
+原文变更 Npc.name2.MH_PA_NamdoHistoric_0011
+變更前原文 곤남 권사
+變更後原文 권사
+原文变更 Npc.name2.MH_PA_NamdoHistoric_0012
+變更前原文 곤남 기권사
+變更後原文 기권사
+原文变更 Npc.name2.ME_PA_NamdoGolem_0001
+變更前原文 녹석괴-초록
+變更後原文 암석괴
+原文变更 Npc.name2.ME_PA_NamdoGolem_0002
+變更前原文 녹석괴-파랑
+變更後原文 암석괴
+原文变更 Npc.name2.ME_PA_NamdoAdamantineMan_0002
+變更前原文 수호석상
+變更後原文 수호장군
+原文变更 Npc.name2.ME_PA_NamdoAdamantineMan_0003
+變更前原文 추적석상
+變更後原文 수호자
+新增条目 Npc.name2.ME_PA_Rock_Dummy_0001
+新增条目 Npc.name2.ME_PA_MudSoldier_0010
+新增条目 Npc.name2.ME_PA_NamdoAdamantineMan_0004
+新增条目 Npc.title2.ME_PA_MudSoldier_0010
+新增条目 Npc.title2.ME_PA_NamdoAdamantineMan_0004
+新增条目 Npc.name2.CH_PB_Test_PJS_DoDanHa_0001
+新增条目 Npc.title2.CH_PB_Test_PJS_DoDanHa_0001
+新增条目 Npc.name2.ME_PC_FirstGonRyunBoss_0001
+新增条目 Npc.name2.ME_PC_FirstGonRyunNamed_0001
+新增条目 Npc.name2.ME_PC_Dummy_0126
+新增条目 Npc.name2.ME_PC_Dummy_0127
+新增条目 Npc.name2.ME_PC_Dummy_0128
+新增条目 Npc.name2.ME_PC_Dummy_0129
+新增条目 Npc.name2.ME_PC_Dummy_0130
+新增条目 Npc.name2.ME_PC_Dummy_0131
+新增条目 Npc.name2.ME_PC_Dummy_0132
+新增条目 Npc.name2.ME_PC_Dummy_0133
+新增条目 Npc.name2.ME_PC_Dummy_0134
+新增条目 Npc.name2.ME_PC_Dummy_0135
+新增条目 Npc.name2.ME_PC_Dummy_0136
+新增条目 Npc.name2.ME_PC_Dummy_0137
+新增条目 Npc.name2.ME_PC_Dummy_0138
+新增条目 Npc.name2.ME_PC_Dummy_0139
+新增条目 Npc.name2.ME_PC_Dummy_0140
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0001
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0002
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0003
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0004
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0005
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0006
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0007
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0008
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0009
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0010
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0011
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0012
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0013
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0014
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0015
+新增条目 Npc.name2.ME_PC_Needle_0001
+新增条目 Npc.name2.ME_PC_SecondHand_0001
+新增条目 Npc.name2.ME_PC_TimeBomb_0001
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0016
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0017
+新增条目 Npc.name2.ME_PC_NetherDoor_0001
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0018
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0019
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0020
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0021
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0022
+新增条目 Npc.name2.ME_PC_Dummy_0141
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0023
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0024
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0025
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0026
+新增条目 Npc.name2.ME_PC_FirstGonRyun_0027
+新增条目 Npc.name2.ME_PC_Dummy_0142
+新增条目 Npc.name2.ME_PC_Dummy_0143
+新增条目 Npc.name2.ME_PC_Dummy_0144
+新增条目 Npc.name2.ME_PC_Dummy_0145
+新增条目 Npc.name2.ME_PC_Dummy_0146
+新增条目 Npc.name2.ME_PC_Dummy_0147
+新增条目 Npc.name2.ME_PC_Dummy_0148
+新增条目 Npc.name2.ME_PC_Dummy_0149
+新增条目 Npc.name2.ME_PC_Dummy_0150
+新增条目 Npc.name2.ME_PC_FlyLizard_0001
+新增条目 Npc.name2.ME_PC_Dummy_0151
+新增条目 Npc.name2.ME_PC_FirstGonRyunNamed_0002
+新增条目 Npc.name2.CH_PC_FirstGonRyunOldBoss_0001
+新增条目 Npc.name2.CH_PC_FirstGonRyunYoungBoss_0001
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0001
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0002
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0003
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0004
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0005
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0006
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0007
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0008
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0009
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0010
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0011
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0012
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0013
+新增条目 Npc.name2.CH_PC_FirstGonRyun_0014
+新增条目 Npc.name2.ME_PC_Dummy_0152
+新增条目 Npc.name2.ME_PC_Dummy_0153
+新增条目 Npc.name2.ME_PC_Dummy_0154
+新增条目 Npc.name2.ME_PC_Dummy_0155
+新增条目 Npc.name2.ME_PC_Dummy_0156
+新增条目 Npc.name2.ME_PC_Dummy_0157
+新增条目 Npc.name2.ME_PC_FirstGonRyunTestBoss_0001
+新增条目 Npc.name2.ME_PC_Dummy_0158
+新增条目 Npc.name2.ME_PC_Dummy_0159
+新增条目 Npc.title2.ME_PC_FirstGonRyunBoss_0001
+新增条目 Npc.title2.ME_PC_FirstGonRyunNamed_0001
+新增条目 Npc.title2.ME_PC_Dummy_0126
+新增条目 Npc.title2.ME_PC_Dummy_0127
+新增条目 Npc.title2.ME_PC_Dummy_0128
+新增条目 Npc.title2.ME_PC_Dummy_0129
+新增条目 Npc.title2.ME_PC_Dummy_0130
+新增条目 Npc.title2.ME_PC_Dummy_0131
+新增条目 Npc.title2.ME_PC_Dummy_0132
+新增条目 Npc.title2.ME_PC_Dummy_0133
+新增条目 Npc.title2.ME_PC_Dummy_0134
+新增条目 Npc.title2.ME_PC_Dummy_0135
+新增条目 Npc.title2.ME_PC_Dummy_0136
+新增条目 Npc.title2.ME_PC_Dummy_0137
+新增条目 Npc.title2.ME_PC_Dummy_0138
+新增条目 Npc.title2.ME_PC_Dummy_0139
+新增条目 Npc.title2.ME_PC_Dummy_0140
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0001
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0002
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0003
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0004
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0005
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0006
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0007
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0008
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0009
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0010
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0018
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0019
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0020
+新增条目 Npc.title2.ME_PC_FirstGonRyun_0021
+新增条目 Npc.title2.ME_PC_Dummy_0141
+新增条目 Npc.title2.ME_PC_Dummy_0142
+新增条目 Npc.title2.ME_PC_Dummy_0143
+新增条目 Npc.title2.ME_PC_Dummy_0144
+新增条目 Npc.title2.ME_PC_Dummy_0145
+新增条目 Npc.title2.ME_PC_Dummy_0146
+新增条目 Npc.title2.ME_PC_Dummy_0147
+新增条目 Npc.title2.ME_PC_Dummy_0148
+新增条目 Npc.title2.ME_PC_Dummy_0149
+新增条目 Npc.title2.ME_PC_Dummy_0150
+新增条目 Npc.title2.ME_PC_Dummy_0151
+新增条目 Npc.title2.ME_PC_FirstGonRyunNamed_0002
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0001
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0002
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0003
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0004
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0005
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0006
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0007
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0008
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0009
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0010
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0011
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0012
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0013
+新增条目 Npc.title2.CH_PC_FirstGonRyun_0014
+新增条目 Npc.title2.ME_PC_Dummy_0152
+新增条目 Npc.title2.ME_PC_Dummy_0153
+新增条目 Npc.title2.ME_PC_Dummy_0154
+新增条目 Npc.title2.ME_PC_Dummy_0155
+新增条目 Npc.title2.ME_PC_Dummy_0156
+新增条目 Npc.title2.ME_PC_Dummy_0157
+新增条目 Npc.title2.ME_PC_FirstGonRyunTestBoss_0001
+新增条目 Npc.title2.ME_PC_Dummy_0158
+新增条目 Npc.title2.ME_PC_Dummy_0159
+新增条目 UI.Season.SoloDungeon1.Name.48
+新增条目 UI.Season.Infinite.Name.79
+新增条目 UI.Season.Duel.Name.97
+新增条目 UI.Season.TagMatch.Name.97
+新增条目 UI.Season.Occupation.Name.63
+新增条目 UI.Season.CTF.Name.63
+新增条目 UI.Season.LTB.Name.58
+新增条目 UI.Season.GuildCombat.Name.58
+新增条目 Skill.Name2.Gadget_NamdoGolemLeader_BlueBall
+新增条目 Skill.Name2.Gadget_NamdoGolemLeader_GreenBall
+新增条目 Skill.MainInfo1.Gadget_NamdoGolemLeader_BlueBall
+新增条目 Skill.MainInfo1.Gadget_NamdoGolemLeader_GreenBall
+新增条目 Skill.MainInfo2.Gadget_NamdoGolemLeader_BlueBall
+新增条目 Skill.MainInfo2.Gadget_NamdoGolemLeader_GreenBall
+新增条目 Skill.SubInfo.Gadget_NamdoGolemLeader_BlueBall
+新增条目 Skill.SubInfo.Gadget_NamdoGolemLeader_GreenBall
+原文变更 TrainDesc.Trait_Archer_advanced_2_23
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">강사, 태풍살</font> 넉백 효과 삭제<br/><font name="00008130.UI.Vital_LightBlue">강사, 태풍살</font> 피해량 감소</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">태풍살</font> 넉백 효과 삭제<br/><font name="00008130.UI.Vital_LightBlue">태풍살</font> 피해량 감소</p>
+原文变更 Skill.Name2.GWK_B2_TaekwangWolf_TripleAttack
+變更前原文 연속가르기
+變更後原文 연속공격
+新增条目 Skill.Name2.GWK_B2_Dummy_rockfall
+新增条目 Skill.Name2.GWK_B2_TaekwangWolf_InhalationAttack
+新增条目 Skill.Name2.GWK_B2_Dummy_TimeExplosion1
+新增条目 Skill.Name2.GWK_B2_Dummy_TimeExplosion2
+新增条目 Skill.Name2.GWK_B2_Dummy_TimeExplosion3
+新增条目 Skill.Name2.GWK_B2_Dummy_TimeExplosion4
+新增条目 Skill.Name2.GWK_B2_Dummy_TimeExplosion5
+新增条目 Skill.Name2.GWK_B2_Dummy_TimeExplosion6
+新增条目 Skill.Name2.GWK_B2_Dummy_rockfall_Normal
+原文变更 Skill.Name2.GWK_B2_TaekwangWolf_TripleAttack_T2
+變更前原文 연속가르기
+變更後原文 연속공격
+原文变更 Skill.Name2.GWK_B2_TaekwangWolf_TripleAttack_T3
+變更前原文 연속가르기
+變更後原文 연속공격
+新增条目 Skill.Name2.GWK_B2_TaekwangWolf_FrontDash_Exec
+新增条目 Skill.Name2.GWK_B2_TaekwangWolf_BackDash_Exec
+新增条目 Skill.Name2.GWK_B2_TaekwangWolf_FrontDash100_Exec
+新增条目 Skill.Name2.GWK_B2_TaekwangWolf_BackDash100_Exec
+原文变更 SkillTooltipAttr.text.UC_I_after_using_taunt
+變更前原文 위압 사용 시
+變更後原文 도발 사용 시
+原文变更 SkillTooltipAttr.text.E_Break_Time_Extend
+變更前原文 브레이크 상태 <arg p="2:string"/> 연장(최대 4중첩)
+變更後原文 브레이크 상태 <arg p="2:string"/> 연장(최대 2 중첩)
+新增条目 SkillTooltipAttr.text.UC_I_during_Seed_Flag_3
+新增条目 SkillTooltip.Archer_G2_Snipe_Aim_7
+原文变更 Skill.Tooltip.Archer_G2_Repulsive_1
+變更前原文 사용 시 반발력 효과
+變更後原文 사용 시 반발력 효과 (최대 2 중첩)
+新增条目 Skill.Bard_G1_blocking_Tooltip_Lv1_1
+新增条目 Skill.Bard_G1_blocking_Tooltip_Lv1_2
+新增条目 Skill.Bard_G1_blocking_Tooltip_Lv1_3
+新增条目 Skill.Bard_G1_blocking_Tooltip_Lv1_4
+新增条目 Skill.Bard_G1_Stance_Change_Left_Hr_Lv1
+新增条目 Skill.Bard_G1_ducking_left_Hr_Lv1_1
+新增条目 Skill.Bard_G1_ducking_left_Hr_Lv3_1
+新增条目 Skill.Bard_G1_backtumbling_Hr_Lv1_1
+新增条目 Skill.Bard_G1_backtumbling_Hr_Lv3_1
+新增条目 Skill.Bard_G1_backtumbling_Hr_Lv5_1
+新增条目 Skill.Bard_G1_Split_Jump_Hr_Lv1_1
+新增条目 Skill.Bard_G1_Split_Crouch_Hr_Lv1_1
+新增条目 Skill.Bard_G1_blocking_R_Lv1_1
+新增条目 Skill.Bard_G1_blocking_R_Lv1_2
+新增条目 Skill.Bard_G1_blocking_R_Lv1_3
+新增条目 Skill.Bard_G1_blocking_Hr_Lv1_1
+新增条目 Skill.Bard_G1_blocking_F_Lv1_1
+新增条目 Skill.Bard_G1_blocking_F_Lv1_2
+新增条目 Skill.Bard_G1_blocking_F_Lv1_3
+新增条目 Skill.Bard_G1_blocking_F_Lv1_4
+新增条目 Skill.Bard_G1_blocking_F_Lv1_5
+新增条目 Skill.Bard_G1_Formless_Slash_Hr_Lv1_1
+新增条目 Skill.Bard_G1_Formless_Slash_Hr_Lv1_2
+新增条目 Skill.Bard_G1_Formless_Slash_Hr_Lv1_3
+新增条目 Skill.Bard_G1_Formless_Pierce_Hr_Lv1_1
+新增条目 Skill.Bard_G1_Formless_Pierce_Hr_Lv1_2
+新增条目 Skill.Bard_G1_Formless_Pierce_Hr_Lv1_3
+新增条目 Skill.Bard_G1_Formless_Slash_Hr_Lv3_1
+新增条目 Skill.Bard_G1_Formless_Slash_Hr_Lv3_2
+新增条目 Skill.Bard_G1_Tumbling_8m
+新增条目 Skill.Bard_G1_Tumbling_12m
+新增条目 Skill.Bard_G1_Smashing_Blade_dash8
+新增条目 Skill.Bard_G1_Smashing_Blade_dash12
+新增条目 Skill.Bard_G1_Smashing_Blade_target12
+新增条目 Skill.Bard_G1_Smashing_Blade_target16
+新增条目 Skill.Bard_G1_Breaking_Blade_R_target12
+新增条目 Skill.Bard_G1_Breaking_Blade_R_target16
+新增条目 Skill.Bard_G1_Smashing_Blade_recycle
+新增条目 Skill.Bard_G1_breaking_Blade_recycle
+新增条目 Skill.Bard_G1_buff_reduce_damage
+新增条目 Skill.Bard_G1_buff_attack_power
+新增条目 Skill.Bard_G1_buff_Active1
+新增条目 Skill.Bard_G1_buff_Active2
+新增条目 Skill.Bard_G1_buff_immune_abnormal
+新增条目 Skill.Bard_G1_buff_reduce_reduce_damage
+新增条目 Skill.Bard_G1_breaking_Blade_buff
+新增条目 Skill.Bard_G1_bleeding_Blade_1
+新增条目 Skill.Bard_G1_bleeding_Blade_2
+新增条目 Skill.Bard_G1_bleeding_Blade_3
+新增条目 Skill.Bard_G1_bleeding_Blade_4
+新增条目 Skill.Bard_G1_use_count2
+新增条目 Skill.Bard_G1_use_count3
+新增条目 Skill.Bard_G1_immune_swift
+新增条目 Skill.Bard_G1_immune_attack_buff
+新增条目 Skill.Bard_G1_Continuous_Blade_1
+新增条目 Skill.Bard_G1_Continuous_Blade_2
+新增条目 Skill.Bard_G1_Continuous_Blade_3
+新增条目 Skill.Bard_G1_Continuous_Blade_4
+新增条目 Skill.Bard_G1_Continuous_Blade_5
+新增条目 Skill.Bard_Dual_Rotate_Slash_Fast
+新增条目 Skill.Bard_Dual_Rotate_Slash_Fast2
+新增条目 Skill.Bard_Dual_Rotate_Slash_Buff
+新增条目 Skill.Bard_Dual_Rotate_Slash_Buff2
+新增条目 Skill.Bard_Dual_Rotate_reduce_recycle1
+新增条目 Skill.Bard_Dual_Rotate_Slash_SP_heal
+新增条目 Skill.Bard_Dual_Rotate_Slash_SP_heal2
+新增条目 Skill.Bard_Dual_Rotate_Slash_initilize_recycle
+新增条目 Skill.Bard_G1_Destructive_Cutting_1
+新增条目 Skill.Bard_G1_Destructive_Cutting_2
+新增条目 Skill.Bard_G1_Dash_Smash_Hr_Lv5_1
+新增条目 Skill.Bard_G1_Dash_Smash_Hr_Lv5_2
+新增条目 Skill.Bard_G1_Passive_Lv1_1
+新增条目 Skill.Bard_G1_Passive_Lv1_2
+新增条目 Skill.Bard_G1_Passive_Lv1_3
+新增条目 Skill.Bard_G1_Passive_Lv1_4
+新增条目 Skill.Bard_G1_Passive_Lv1_5
+新增条目 Skill.Bard_G1_Passive_Lv1_6
+新增条目 Skill.Bard_G1_Passive_Lv3_2
+新增条目 Skill.Bard_G1_Passive_Lv3_7
+新增条目 Skill.Bard_G1_Passive_Lv5_1
+新增条目 Skill.Bard_G1_Passive_Lv5_7
+新增条目 Skill.Bard_G1_Passive_Lv5_8
+新增条目 Skill.Bard_G1_Passive_Lv5_9
+新增条目 Skill.Bard_G1_Passive_Lv5_10
+新增条目 Skill.Bard_G1_Passive_Lv9_10
+新增条目 Skill.Bard_G1_Passive_Lv9_11
+新增条目 Skill.Bard_G1_Passive60_Lv1_1
+新增条目 Skill.Bard_G1_Passive60_Lv1_2
+新增条目 Skill.Bard_G1_Passive60_Lv1_3
+新增条目 Skill.Bard_G1_Passive60_Lv1_4
+新增条目 Skill.Bard_G1_Passive60_Lv1_5
+新增条目 Skill.Bard_G1_Reminiscence_Hr_Lv1_1
+新增条目 Skill.Bard_G1_Reminiscence_Hr_Lv1_2
+新增条目 Skill.Bard_G1_Reminiscence_Hr_Lv1_3
+新增条目 Skill.Bard_G1_Reminiscence_Hr_Lv1_4
+新增条目 Skill.Bard_G1_Take_a_Breather_Hr_Lv1_1
+新增条目 Skill.Bard_G1_Take_a_Breather_Hr_Lv1_2
+新增条目 Skill.Bard_G1_Take_a_Breather_Hr_Lv1_3
+新增条目 Skill.Bard_G1_Take_a_Breather_Hr_Lv1_4
+新增条目 Bard_G1_Infinity_Blade_Dash_Hr_1_Lv3_1
+新增条目 Bard_G1_Infinity_Blade_Dash_Hr_1_Lv3_2
+新增条目 Bard_G1_Infinity_Blade_Dash_Hr_1_Lv3_3
+新增条目 Bard_G1_Infinity_Blade_Dash_Hr_1_Lv3_4
+新增条目 Bard_G1_Infinity_Blade_Dash_Hr_1_Lv3_5
+新增条目 Bard_G1_Infinity_Blade_Dash_Hr_1_Lv3_6
+新增条目 Skill.Bard_G1_Smashing_Blade_2-3
+新增条目 Skill.Bard_G1_breaking_Blade_2-3
+新增条目 Skill.Bard_G1_Ghost_Step_target16
+新增条目 Text.skill.Bard_MasterSkill_2_step2
+新增条目 Text.skill.Bard_can_attack_16m
+新增条目 Text.skill.Bard_Increase_MoonSlash_Damage_3
+新增条目 Skill.Bard_G1_shock_wave_Hr_Lv1_1
+新增条目 Skill.Bard_G1_shock_wave_Hr_Lv1_2
+新增条目 Skill.Bard_G1_shock_wave_Hr_Lv1_3
+新增条目 Skill.Bard_G1_shock_wave_Hr_Lv1_4
+新增条目 Skill.Bard_G1_shock_wave_Hr_Lv1_5
+新增条目 Skill.Bard_G1_shock_wave_Hr_Lv1_6
+原文变更 Skill.DualBlader_G1_Passive_Lv1_5
+變更前原文 효과 중 멸륜참 명중 시 무형보 재사용시간 초기화
+變更後原文 효과 중 멸륜참 사용 시 무형보 재사용시간 초기화
+原文变更 Skill.DualBlader_G1_shock_wave_Hr_Lv1_3
+變更前原文 명중 후 10초 이내에 적 브레이크 시 8초간 멸시 효과
+變更後原文 브레이크 상태의 적 명중 시 4초간 멸시 효과
+原文变更 SkillTooltipAttr.text.Shooter_G3_Rifle_Mirage
+變更前原文 사용시 20초간 환영잔류 효과
+變更後原文 사용시 15초간 환영잔류 효과
+原文变更 Text.Skill.Warlock_G3_Samsara_07
+變更前原文 살생부 효과 명왕진과 중복 적용되지 않음
+變更後原文 붉은태양 무공의 태양로 효과와 중복 불가
+原文变更 Text.Skill.Warlock_G3_Samsara_Soulmask_07
+變更前原文 살생부 효과 명왕진과 중복 적용되지 않음
+變更後原文 붉은태양 무공의 태양로 효과와 중복 불가
+原文变更 Text.Skill.Warlock_G3_Samsara_Break_06
+變更前原文 살생부 효과 명왕진과 중복 적용되지 않음
+變更後原文 붉은태양 무공의 태양로 효과와 중복 불가
+原文变更 Mission.Name2.1756_3
+變更前原文 내성 북부 초소에 있는 북부 초소 경비대장과 대화
+變更後原文 내성 북부 초소에 있는 경비대장과 대화
+原文变更 q_1756_2_text_3
+變更前原文 내게 묘책이 하나 있네만…<br/>얼마나 통할지는 확신할 수 없네. 
+變更後原文 내게 묘책이 하나 있네만...<br/>얼마나 통할지는 확신할 수 없네. 
+原文变更 q_1756_2_text_5
+變更前原文 허나, 조금이라도 미심쩍어 보이면 바로 경비병들이 막아설 테니, <br/>북문초소를 지날 때까지 경거망동하지 말고 암전히 나를 따라오게.
+變更後原文 허나, 조금이라도 미심쩍어 보이면 바로 경비병들이 막아설 테니, <br/>북문 초소를 지날 때까지 경거망동하지 말고 암전히 나를 따라오게.
+原文变更 q_1756_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">운국 좌장군 황무천</font><br/>외지인은 내성을 방문하기 전 반드시 북문 초소에서 검문을 받아야 하네. <br/>신원이 불분명한 자는 내성으로 진입할 수 없지. <br/>경비대장에게 자네를 군사협정 체결을 위해 외지에서 초청한 지인이라고 소개할 생각이네. <br/>허나, 조금이라도 미심쩍어 보이면 바로 경비병들이 막아설테니, <br/>북문초소를 지날 때까지경거망동 하지말고 암전히 나를 따라오게.
+變更後原文 <font name="00008130.UI.QJ_NpcName">운국 좌장군 황무천</font><br/>외지인은 내성을 방문하기 전 반드시 북문 초소에서 검문을 받아야 하네. <br/>신원이 불분명한 자는 내성으로 진입할 수 없지. <br/>경비대장에게 자네를 군사협정 체결을 위해 외지에서 초청한 지인이라고 소개할 생각이네. <br/>허나, 조금이라도 미심쩍어 보이면 바로 경비병들이 막아설 테니, <br/>북문 초소를 지날 때까지 경거망동하지 말고 암전히 나를 따라오게.
+原文变更 q_1756_completed
+變更前原文 좌장군 황무천,<br/>그는 한밤중 느닷없는 최진아 일행의 기습 방문이 썩 불쾌하지만은 않다. <br/>아니, 어쩌면 마음 깊은 곳에서는 현재 돌아가고 있는 운국의 실상에 반기를 들어 줄<br/>자신의 편을 기다리고 있었는지도 모른다.  <br/><br/>한때 운국의 대장군으로서의 위엄과 명예는 이미 오래전 실추 되었고,<br/>좌장군으로서 지켜야 할 나라에 대한 사명감도 시간이 지날수록 흐릿해지던 그였다.<br/><br/>천인의 피… 섭씨 황족의 마지막 남은 후계자…<br/>과연 그녀는 운의 정당한 계승자로 새로운 운국을 열어줄 수 있을까...<br/><br/>실낱같은 희망의 불씨와 불신의 불씨가 한 데 뒤섞인 채 발걸음을 옮기다 보니<br/>어느새 천명궁 내성 앞에 도착해 있었다. <br/><br/>천명궁 내성... 굳게 닫힌 성문을 보며 황무천은 새삼 천명궁이 낯설게 느껴진다.
+變更後原文 좌장군 황무천,<br/>그는 한밤중 느닷없는 최진아 일행의 기습 방문이 썩 불쾌하지만은 않다. <br/>아니, 어쩌면 마음 깊은 곳에서는 현재 돌아가고 있는 운국의 실상에 반기를 들어 줄<br/>자신의 편을 기다리고 있었는지도 모른다.  <br/><br/>한때 운국의 대장군으로서의 위엄과 명예는 이미 오래전 실추되었고,<br/>좌장군으로서 지켜야 할 나라에 대한 사명감도 시간이 지날수록 흐릿해지던 그였다.<br/><br/>천인의 피... 섭씨 황족의 마지막 남은 후계자...<br/>과연 그녀는 운의 정당한 계승자로 새로운 운국을 열어줄 수 있을까...<br/><br/>실낱같은 희망과 불신의 불씨가 한 데 뒤섞인 채 발걸음을 옮기다 보니<br/>어느새 천명궁 내성 앞에 도착해 있었다. <br/><br/>굳게 닫힌 성문을 보며 황무천은 새삼 천명궁이 낯설게 느껴진다.
+原文变更 Mission.Name2.1925_1
+變更前原文 혼돈의 보급기지 포화란 또는 남도파 시험의 전당 금강투신 5회 처치
+變更後原文 혼돈의 보급기지 포화란 또는 남도파 시험의 전당 금강투신 또는 전승의 사당 무패랑 5회 처치
+原文变更 q_2156_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">충각단 태장금의 서신</font><br/>오래간만에 인사 올립니다, 대협.<br/>다름이 아니라 저희 충각단에 좀 괴이한 일이 일어나 대협께 상의를 드리고자 합니다.<br/>해무진 님이나 다른 충각단이 알게 되면 제가 많이 곤란하여 조용히 뵙고 싶습니다.<br/>이 서신을 보시는 데로 돼지농장 옆 해안객점으로 와주시면 감사하겠습니다.
+變更後原文 <font name="00008130.UI.QJ_NpcName">충각단 태장금의 서신</font><br/>오래간만에 인사 올립니다, 대협.<br/>다름이 아니라 저희 충각단에 좀 괴이한 일이 일어나 대협께 상의를 드리고자 합니다.<br/>해무진 님이나 다른 충각단이 알게 되면 제가 많이 곤란하여 조용히 뵙고 싶습니다.<br/>이 서신을 보시는 대로 돼지농장 옆 해안객점으로 와주시면 감사하겠습니다.
+新增条目 Quest.Name2.2167
+原文变更 ME_PC_FirstGonRyun_0001_soc_01_text
+變更前原文 내가 자네 나이일 때 하루 종일 수련만 했다네
+變更後原文 내가 자네 나이일 때는 하루 종일 수련만 했다네!
+原文变更 ME_PC_FirstGonRyun_0001_combatstart_02_text
+變更前原文 어디 한번 곤륜의 자질이 있는지 시험 해볼까!
+變更後原文 곤륜의 자질이 있는지 한 번 볼까?
+原文变更 ME_PC_FirstGonRyun_0002_soc_01_text
+變更前原文 내가 문주님 대신 세월을 정통으로 맞은 것 같군
+變更後原文 내가 문주님 대신 세월을 정통으로 맞은 것 같군.
+原文变更 ME_PC_FirstGonRyun_0002_combatstart_01_text
+變更前原文 이 늙은이라도 괜찮다면 상대해 주겠네
+變更後原文 이 늙은이라도 괜찮다면 상대해 주겠네!
+原文变更 ME_PC_FirstGonRyun_0003_soc_01_text
+變更前原文 문주님께선 나보다 더 아름다우신것 같아
+變更後原文 문주님께선 나보다 더 아름다우신것 같아!
+原文变更 ME_PC_FirstGonRyun_0003_soc_02_text
+變更前原文 그분께선 어쩜 그렇게 아름다우신 걸까 …
+變更後原文 그 분께선 어쩜 그렇게 아름다우신 걸까…
+原文变更 ME_PC_FirstGonRyun_0003_combatstart_01_text
+變更前原文 뭐야, 귀여운 녀석이 새로왔네?
+變更後原文 뭐야, 귀여운 녀석이 새로 왔네?
+原文变更 ME_PC_FirstGonRyun_0003_battle_02_text
+變更前原文 요상한 무공을 쓰는구나
+變更後原文 뭐지? 이 힘은?
+原文变更 ME_PC_FirstGonRyun_0004_soc_01_text
+變更前原文 수련을 게을리해선 안됩니다
+變更後原文 수련을 게을리해선 안됩니다!
+原文变更 ME_PC_FirstGonRyun_0004_soc_02_text
+變更前原文 음? 저기 농땡이를 피우는 수련생을 본것 같군요.
+變更後原文 음? 저기 농땡이 중인 수련생이 있는 것 같은데...?
+原文变更 ME_PC_FirstGonRyun_0005_soc_02_text
+變更前原文 하루종일 목각만 치고 있으니 미칠것 같아
+變更後原文 하루 종일 목각만 치고 있으니 미칠 것 같아!
+原文变更 ME_PC_FirstGonRyun_0005_combatstart_01_text
+變更前原文 드디어 후임이 들어온건가?!
+變更後原文 드디어 나도 사제가 생긴건가?!
+原文变更 ME_PC_FirstGonRyun_0005_combatstart_02_text
+變更前原文 이봐!
+變更後原文 야! 내가 누군줄 알아?
+原文变更 ME_PC_FirstGonRyun_0005_battle_01_text
+變更前原文 여기다!
+變更後原文 어딜 감히!
+原文变更 ME_PC_FirstGonRyun_0005_battle_02_text
+變更前原文 너 진짜 신입 맞아?
+變更後原文 잠깐! 너 진짜 신입 맞아?
+原文变更 ME_PC_FirstGonRyun_0006_soc_01_text
+變更前原文 새로 배운 무공을 시험 해보고 싶은데..
+變更後原文 새로 배운 무공을 시험 해보고 싶은데...
+原文变更 ME_PC_FirstGonRyun_0007_combatstart_02_text
+變更前原文 한 수 가르쳐 달라!
+變更後原文 한 수 가르쳐 줘!
+原文变更 ME_PC_FirstGonRyun_0007_battle_02_text
+變更前原文 음! 좋은 움직임이다!
+變更後原文 으윽! 이건 꽤 아픈 가르침인데?
+原文变更 ME_PC_FirstGonRyun_0008_soc_02_text
+變更前原文 식신이라니.. 내가 할 수 있을까..?
+變更後原文 식신이라니... 내가 잡아먹히는거 아니야..?
+原文变更 ME_PC_FirstGonRyun_0008_combatstart_01_text
+變更前原文 앗 누구시죠?
+變更後原文 응? 누구시죠?
+原文变更 ME_PC_FirstGonRyun_0008_combatstart_02_text
+變更前原文 처음 뵙겠습니다..?
+變更後原文 기다려요! 더는 못갑니다!
+原文变更 ME_PC_FirstGonRyun_0008_battle_02_text
+變更前原文 너무 몰아붙이진 말아주세요..!
+變更後原文 잠깐! 당신 누구야?!
+原文变更 ME_PC_FirstGonRyun_0009_soc_01_text
+變更前原文 오늘도 사형께 수련을 게을리 한다고 혼났지뭐야
+變更後原文 오늘도 사형께 수련을 게을리 한다고 혼났지뭐야?
+原文变更 ME_PC_FirstGonRyun_0009_soc_02_text
+變更前原文 하루정도는 그냥 쉬고 싶은데..
+變更後原文 하루정도는 그냥 쉬고 싶은데...
+原文变更 ME_PC_FirstGonRyun_0009_combatstart_02_text
+變更前原文 오늘은 기분이 별로라구!
+變更後原文 보기보다 나.. 난.. 바쁘다구..!
+原文变更 ME_PC_FirstGonRyun_0009_battle_02_text
+變更前原文 보기보다 나.. 난.. 바쁘다구..!
+變更後原文 내가 우습게 보여?
+原文变更 ME_PC_FirstGonRyun_0010_soc_02_text
+變更前原文 소문으로는 장로님보다 문주님께서 나이가 더 많으시대 ..
+變更後原文 소문으로는 장로님보다 문주님께서 나이가 더 많으시대.
+原文变更 ME_PC_FirstGonRyun_0014_battle_01_text
+變更前原文 계약에 따라.. 이곳을 수호한다 ..
+變更後原文 계약에.따라.수호한다.
+原文变更 ME_PC_FirstGonRyun_0014_battle_02_text
+變更前原文 더 이상 지나갈 수 없다 ..
+變更後原文 넌.허락되지.않았다!
+原文变更 ME_PC_FirstGonRyun_0018_battle_02_text
+變更前原文 나오너라..!
+變更後原文 나오너라!
+原文变更 ME_PC_FirstGonRyun_0019_battle_01_text
+變更前原文 허허.. 어딜 가는겐가
+變更後原文 허허..어딜 가는겐가?
+原文变更 ME_PC_FirstGonRyun_0019_battle_02_text
+變更前原文 벗어날 수 없다네
+變更後原文 벗어날 수 없다네!
+原文变更 ME_PC_FirstGonRyun_0020_combatstart_01_text
+變更前原文 왔구나..!
+變更後原文 왔구나...!
+原文变更 ME_PC_FirstGonRyun_0020_battle_01_text
+變更前原文 그 정도로는 바깥 공기를 쐴 수 없겠구나!
+變更後原文 그 정도로는 바깥 공기를 쐬긴 글렀지!
+原文变更 ME_PC_FirstGonRyun_0021_battle_01_text
+變更前原文 술사를 죽이지 않으면.. 주술은 사라지지 않습니다
+變更後原文 술사를 죽이지 않으면 주술은 사라지지 않는답니다.
+原文变更 ME_PC_FirstGonRyun_0021_battle_02_text
+變更前原文 지루하군요
+變更後原文 지루하네요.
+新增条目 ME_PC_FirstGonRyunBoss_0001_soc_01_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_soc_02_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_combatstart_01_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_combatstart_02_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_01_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_02_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_03_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_04_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_05_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_06_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_07_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_08_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_09_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_10_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_11_text
+新增条目 ME_PC_FirstGonRyunBoss_0001_battle_12_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_soc_01_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_soc_02_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_soc_03_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_combatstart_01_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_combatstart_02_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_01_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_02_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_03_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_04_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_05_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_06_text
+新增条目 ME_PC_FirstGonRyunNamed_0001_battle_07_text
+新增条目 CH_PC_FirstGonRyunYoungBoss_0001_soc_01_text
+新增条目 CH_PC_FirstGonRyun_0006_01_text
+原文变更 CH_HonChunGyo_0016_msg_2_text1
+變更前原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 부유도에 있는 계급 담당자를 만나보게나.
+變更後原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 영석초원에 있는 계급 담당자를 만나보게나.
+原文变更 CH_MuRimMaeng_0018_msg_2_text1
+變更前原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 부유도에 있는 계급 담당자를 만나보게나.
+變更後原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 영석초원에 있는 계급 담당자를 만나보게나.
+原文变更 CH_MuRimMaeng_0017_msg_2_text1
+變更前原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 부유도에 있는 계급 담당자를 만나보게나.
+變更後原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 영석초원에 있는 계급 담당자를 만나보게나.
+原文变更 CH_HonChunGyo_0015_msg_2_text1
+變更前原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 부유도에 있는 계급 담당자를 만나보게나.
+變更後原文 내가 가진 권한으로 상승시킬 수 있는 세력 계급은 3급까지라네!<br/>영기를 모아 더 높은 계급으로 상승하고 싶다면 영석초원에 있는 계급 담당자를 만나보게나.
+原文变更 q_2164_5_icon_msg_1_text1
+變更前原文 남도파 장승용의 서신입니다.
+變更後原文 남도파 정승우의 서신입니다.
+原文变更 q_2166_1_icon_msg_1_text1
+變更前原文 남도파 장승용의 서신입니다.
+變更後原文 남도파 정승우의 서신입니다.
+原文变更 q_2167_3_icon_msg_1_text1
+變更前原文 남도파 장승용의 서신입니다.
+變更後原文 남도파 정승우의 서신입니다.
+原文变更 q_2167_5_icon_msg_1_text1
+變更前原文 남도파 장승용의 서신입니다.
+變更後原文 남도파 정승우의 서신입니다.
+原文变更 q_25306_1_icon_msg_1_text1
+變更前原文 남도파 장승용의 서신입니다.
+變更後原文 남도파 정승우의 서신입니다.
+原文变更 QLooting.name2_2164_5
+變更前原文 남도파 장승용의 서신
+變更後原文 남도파 정승우의 서신
+原文变更 QLooting.name2_2166_1
+變更前原文 남도파 장승용의 서신
+變更後原文 남도파 정승우의 서신
+原文变更 QLooting.name2_2167_3
+變更前原文 남도파 장승용의 서신
+變更後原文 남도파 정승우의 서신
+原文变更 QLooting.name2_2167_5
+變更前原文 남도파 장승용의 서신
+變更後原文 남도파 정승우의 서신
+原文变更 QLooting.name2_25306_1
+變更前原文 남도파 장승용의 서신
+變更後原文 남도파 정승우의 서신

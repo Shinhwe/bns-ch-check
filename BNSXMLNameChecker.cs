@@ -14,8 +14,6 @@ public class BNSXMLNameChecker
 
   public async Task CheckName(string name, string translatedName)
   {
-
-
     using (Stream xmlFile = File.OpenRead(this.path))
     {
       XmlReaderSettings settings = new XmlReaderSettings();
@@ -57,7 +55,6 @@ public class BNSXMLNameChecker
 
             if (v == 2)
             {
-
 
               if (originalValue.IndexOf(name) != -1 && replacementValue.IndexOf(translatedName) == -1)
               {

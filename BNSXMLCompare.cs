@@ -1,18 +1,11 @@
 
 
+using System.Xml.Linq;
+
 namespace bns_ch_check;
 
 
-public class BNSXmlData
-{
-  public BNSXmlData(string originalValue, string replacementValue)
-  {
-    this.originalValue = originalValue;
-    this.replacementValue = replacementValue;
-  }
-  public string originalValue;
-  public string replacementValue;
-}
+
 
 public class BNSXMLCompare
 {
@@ -78,7 +71,11 @@ public class BNSXMLCompare
               }
               else
               {
-                beforeDictionary.Add(alias, new BNSXmlData(originalValue, replacementValue));
+                beforeDictionary.Add(alias, new BNSXmlData
+                {
+                  originalValue = originalValue,
+                  replacementValue = replacementValue
+                });
               }
 
               alias = "";
@@ -145,7 +142,11 @@ public class BNSXMLCompare
               }
               else
               {
-                afterDictionary.Add(alias, new BNSXmlData(originalValue, replacementValue));
+                afterDictionary.Add(alias, new BNSXmlData
+                {
+                  originalValue = originalValue,
+                  replacementValue = replacementValue
+                });
               }
 
               alias = "";
@@ -183,4 +184,5 @@ public class BNSXMLCompare
       }
     }
   }
+
 }

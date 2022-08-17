@@ -1,0 +1,76 @@
+新增条目 Effect.Name2.GWK_B1_FightGod_LevelDamage
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_BlueBarrier_Named_Buff
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_GreenBarrier_Named_Buff
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_DotDamage_Named_Debuff
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_BlueBarrier_Sub_Buff
+新增条目 Effect.Name2.GWK_B2_NamdoGolemLeader_GreenBarrier_Sub_Buff
+新增条目 Effect.Name2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Buff_Upgrade
+新增条目 Effect.Name2.GWK_B2_TaekwangWol_ShadowWolf_Absorb_PC_Buff
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_BlueBarrier_Named_Buff
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_GreenBarrier_Named_Buff
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_DotDamage_Named_Debuff
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_BlueBarrier_Sub_Buff
+新增条目 Effect.Desc2.GWK_B2_NamdoGolemLeader_GreenBarrier_Sub_Buff
+新增条目 Effect.Desc2.GWK_B2_TaekwangWolf_TimeExplosion_PC_Buff_Upgrade
+新增条目 Effect.Desc2.GWK_B2_TaekwangWol_ShadowWolf_Absorb_PC_Buff
+新增条目 Effect.Name2.Shooter_G3_Rifle_Mirage
+新增条目 Effect.Desc2.Shooter_G3_Rifle_Mirage
+原文变更 Effect.Desc2.Thunderer_Amplified_Photon
+變更前原文 광증폭 상태 중 강화된 광정, 광탄 사용 가능
+變更後原文 광증폭 상태 중 광정, 광탄, 광륜, 광휘, 광폭 명중 시 추가피해
+新增条目 Effect.Name2.Thunderer_G1_Slow
+新增条目 Effect.Desc2.Thunderer_G1_Slow
+原文变更 ItemSkill_PT_S24_Lv1_01_Name
+變更前原文 <font name="00008130.UI.Vital_LightBlue">투영모드</font> 강화
+變更後原文 <font name="00008130.UI.Vital_LightBlue">투영모드, 충전석</font> 강화
+原文变更 ItemSkill_PT_S24_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">투영모드</font> 사용 시 5초간 겹쳐짐 효과<br/>겹쳐짐 효과 중 항마공격력 350 증가
+變更後原文 <font name="00008130.UI.Vital_LightBlue">투영모드, 충전석</font> 사용 시 15초간 겹쳐짐 효과<br/>겹쳐짐 효과 중 항마공격력 350 증가
+原文变更 ItemSkill_PT_S24_Lv1_01_Tooltip
+變更前原文 사용 시 5초간 겹쳐짐 효과<br/>겹쳐짐 효과 중 항마공격력 350 증가
+變更後原文 사용 시 15초간 겹쳐짐 효과<br/>겹쳐짐 효과 중 항마공격력 350 증가
+原文变更 ItemSkill_SF_PW3_Lv4_02_Tooltip
+變更前原文 쇄붕격 명중 시 홍문지기 120 회복
+變更後原文 쇄붕격 명중 시 홍문지기 300 회복
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1532
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 혼돈의 보급기지<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 무신의 탑 강상채
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 혼돈의 보급기지
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1534
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 혼돈의 보급기지<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 무신의 탑 강상채
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 혼돈의 보급기지
+原文变更 Item.Name2.Event_Grocery_Coin_0365
+變更前原文 유랑단 게임 주화
+變更後原文 옛 유랑단 게임 주화
+原文变更 Item.Name2.Event_Grocery_Food_0121
+變更前原文 발발이 달고나
+變更後原文 옛 발발이 달고나
+原文变更 Item.Name2.Event_Grocery_Food_0122
+變更前原文 오징어 달고나
+變更後原文 옛 오징어 달고나
+原文变更 Item.MainInfo.Event_Grocery_Coin_0365
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0121
+變更前原文 전투 경험치 200% 증가
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0122
+變更前原文 치명 700 증가, 명중 500 증가, 항마공격력 60 증가
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.SubInfo.Event_Grocery_Box_0571
+變更前原文 최대 5000금 획득 가능
+變更後原文 최대 5500금 획득 가능
+新增条目 SkillTooltipAttr.text.E_Decrease_Speed_Pulled_Enemy
+新增条目 SkillTooltipAttr.text.Shooter_G3_Rifle_Mirage
+新增条目 SkillTooltipAttr.text.Shooter_G3_Rifle_Mirage_2
+原文变更 UI.CharacterInfo.Ability.Tooltip.attack-abnormal
+變更前原文 <p bottommargin="10" horizontalalignment="left"><font name="00008130.UI.Over_16">상태이상피해</font></p><p bottommargin="10"><font name="00008130.UI.Normal_14">상태이상피해 총합은 <font name="00008130.UI.FontSet_Info_Ability_14"><arg p="2:integer"/></font> 입니다.</font></p><p><font name="00008130.UI.Label_LightYellow_12">기절, 그로기, 다운, 제압, 장악, 흡공, 공중, 혼절 상태의 적을 공격할 때 피해가 <arg p="3:integer:floatDot2"/>% 증가합니다.</font></p>
+變更後原文 <p bottommargin="10" horizontalalignment="left"><font name="00008130.UI.Over_16">상태이상피해</font></p><p bottommargin="10"><font name="00008130.UI.Normal_14">상태이상피해 총합은 <font name="00008130.UI.FontSet_Info_Ability_14"><arg p="2:integer"/></font> 입니다.</font></p><p><font name="00008130.UI.Label_LightYellow_12">기절, 그로기, 다운, 제압, 장악, 흡공, 공중, 혼절 상태의 적을 공격 시 <arg p="3:integer:floatDot2"/>%의 피해를 줍니다.</font></p>
+原文变更 UI.CharacterInfo.Ability.Tooltip.boss-attack-power
+變更前原文 <p bottommargin="10" horizontalalignment="left"><font name="00008130.UI.Over_16">항마공격력</font></p><p bottommargin="10"><font name="00008130.UI.Normal_14">항마공격력 총합은 <font name="00008130.UI.FontSet_Info_Ability_14"><arg p="2:integer"/></font> 입니다.</font></p><p><font name="00008130.UI.Normal_12">기본 공격력은 <arg p="3:integer"/> 입니다.</font></p><p bottommargin="10">보스 대상에게 적용되는 추가공격력은 <font name="00008130.UI.FontSet_Info_TitleAbility_12"><arg p="4:integer"/></font> 입니다.</p><p>무공 사용 시 피해량에 영향을 줍니다.</p><p>보스 대상에게 적용됩니다.</p>
+變更後原文 <p bottommargin="10" horizontalalignment="left"><font name="00008130.UI.Over_16">항마공격력</font></p><p bottommargin="10"><font name="00008130.UI.Normal_14">항마공격력 총합은 <font name="00008130.UI.FontSet_Info_Ability_14"><arg p="2:integer"/></font> 입니다.</font></p><p><font name="00008130.UI.Normal_12">기본 공격력은 <arg p="3:integer"/> 입니다.</font></p><p bottommargin="10">NPC 대상에게 적용되는 추가공격력은 <font name="00008130.UI.FontSet_Info_TitleAbility_12"><arg p="4:integer"/></font> 입니다.</p><p>무공 사용 시 피해량에 영향을 줍니다.</p><p>NPC 대상에게 적용됩니다.</p>
+原文变更 UI.CharacterInfo.Ability.Tooltip.boss-defend-power
+變更前原文 <p bottommargin="10" horizontalalignment="left"><font name="00008130.UI.Over_16">항마방어력</font></p><p bottommargin="10"><font name="00008130.UI.Normal_14">항마방어력 총합은 <font name="00008130.UI.FontSet_Info_Ability_14"><arg p="2:integer"/></font> 입니다.</font></p><p>방어력으로 인해 상승한 기본 항마방어력은 <font name="00008130.UI.FontSet_Info_TitleAbility_12"><arg p="3:integer"/></font> 입니다.</p><p>장비를 착용하여 상승한 항마방어력은 <font name="00008130.UI.FontSet_Info_TitleAbility_12"><arg p="4:integer"/></font> 입니다.</p><p bottommargin="10">광역방어력은 <arg p="6:integer"/> 입니다.</p><p><font name="00008130.UI.Label_LightYellow_12">보스 대상의 공격으로 입는 피해를 <arg p="5:integer:floatDot2"/>% 감소시킵니다.</font></p><p bottommargin="10"><font name="00008130.UI.Label_LightYellow_12">보스 대상의 광역 공격으로 입는 피해를 추가로 <arg p="7:integer:floatDot2"/>% 감소시킵니다.</font></p><p>보스 대상의 공격으로 입는 피해를 줄여 생존에 영향을 줍니다.</p>
+變更後原文 <p bottommargin="10" horizontalalignment="left"><font name="00008130.UI.Over_16">항마방어력</font></p><p bottommargin="10"><font name="00008130.UI.Normal_14">항마방어력 총합은 <font name="00008130.UI.FontSet_Info_Ability_14"><arg p="2:integer"/></font> 입니다.</font></p><p>방어력으로 인해 상승한 기본 항마방어력은 <font name="00008130.UI.FontSet_Info_TitleAbility_12"><arg p="3:integer"/></font> 입니다.</p><p>장비를 착용하여 상승한 항마방어력은 <font name="00008130.UI.FontSet_Info_TitleAbility_12"><arg p="4:integer"/></font> 입니다.</p><p bottommargin="10">광역방어력은 <arg p="6:integer"/> 입니다.</p><p><font name="00008130.UI.Label_LightYellow_12">NPC 대상의 공격으로 입는 피해를 <arg p="5:integer:floatDot2"/>% 감소시킵니다.</font></p><p bottommargin="10"><font name="00008130.UI.Label_LightYellow_12">NPC 대상의 광역 공격으로 입는 피해를 추가로 <arg p="7:integer:floatDot2"/>% 감소시킵니다.</font></p><p>NPC 대상의 공격으로 입는 피해를 줄여 생존에 영향을 줍니다.</p>
+原文变更 q_1556_sum
+變更前原文 <font name="00008130.UI.QJ_NpcName">주법사 승려 허명의 서신</font>
+變更後原文 <font name="00008130.UI.QJ_NpcName">주법사 승려 허명의 서신</font><br/>대협, 그간 안녕하셨습니까? 주법사를 다녀가신 이후 벌써 수 일이 지났습니다.<br/>긴히 상의 드리고 싶은 것이 있어 서신을 드립니다. <br/>잿빛사막 일대에 저희가 관리해오던 금역에 대해서 말입니다.<br/>최근 주법사에서 관리하던 금역이 누군가에 의해 깨져버리는 일이 일어났습니다. <br/>상황 파악을 위해 송단 스님이 선발로 떠나셨는데 아무래도 느낌이 좋지 않아서 말입니다.<br/>제가 직접 찾아가 보는 것이 가장 확실한 방법이겠지만 주법사의 대소사를<br/>도맡아 하다 보니 도저히 자리를 비울 수가 없군요.<br/>대협께서 대신 <font name="00008130.UI.Eq_ArenaName">폭풍의 모래신전</font>으로 가셔서 <font name="00008130.UI.Eq_Friendly_NpcName">송단 스님</font>을 <br/>만나봐 주실 수 있겠습니까. 부탁드립니다.

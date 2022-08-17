@@ -1,0 +1,301 @@
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_01
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 1% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 1% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_02
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 2% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 2% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_03
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 3% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 3% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_04
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 4% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 4% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_05
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 5% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 5% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_06
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 6% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 6% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_07
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 7% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 7% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_08
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 8% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 8% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_09
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 9% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 9% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_10
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 10% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 10% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_11
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 11% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 11% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_12
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 12% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 12% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_13
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 13% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 13% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_14
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 14% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 14% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_15
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 15% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 15% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_16
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 16% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 16% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_17
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 17% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 17% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_18
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 18% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 18% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_19
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 19% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 19% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot1_Option1_20
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 피해감소 30% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 피해감소 30% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_01
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 10% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 10% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_02
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 20% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 20% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_03
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 30% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 30% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_04
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 40% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 40% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_05
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 50% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 50% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_06
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 60% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 60% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_07
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 70% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 70% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_08
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 80% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 80% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_09
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 90% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 90% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_10
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 100% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 100% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_11
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 110% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 110% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_12
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 120% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 120% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_13
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 130% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 130% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_14
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 140% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 140% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_15
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 150% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 150% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_16
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 160% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 160% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_17
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 170% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 170% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_18
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 180% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 180% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_19
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 190% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 190% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Necklace_Effect_Slot3_Option1_20
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 치명피해 300% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 치명피해 300% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_01
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 10 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 10 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_02
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 20 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 20 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_03
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 30 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 30 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_04
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 40 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 40 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_05
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 80 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 80 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_06
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 90 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 90 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_07
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 100 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 100 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_08
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 110 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 110 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_09
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 120 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 120 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_10
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 150 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 150 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_11
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 160 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 160 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_12
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 170 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 170 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_13
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 180 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 180 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_14
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 190 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 190 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_15
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 210 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 210 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_16
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 230 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 230 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_17
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 240 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 240 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_18
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 270 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 270 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_19
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 290 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 290 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot1_Option1_20
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 항마 공격력 550 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 항마 공격력 550 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_01
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 1% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 1% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_02
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 2% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 2% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_03
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 3% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 3% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_04
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 4% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 4% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_05
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 5% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 5% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_06
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 6% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 6% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_07
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 8% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 8% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_08
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 10% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 10% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_09
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 12% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 12% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option1_10
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 관통 20% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 관통 20% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_01
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 1% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 1% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_02
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 2% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 2% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_03
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 3% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 3% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_04
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 4% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 4% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_05
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 5% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 5% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_06
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 6% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 6% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_07
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 7% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 7% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_08
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 8% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 8% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_09
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 9% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 9% 증가 (봉마 던전 전용)</font>  
+原文变更 Effect.Desc2.Meteoric_Stone_T1_Gloves_Effect_Slot3_Option2_10
+變更前原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 전당에서 회복 15% 증가 (봉마 던전 전용)</font>  
+變更後原文     <font name="00008130.Program.Fontset_Chatting_Color_19">전승의 사당에서 회복 15% 증가 (봉마 던전 전용)</font>  
+新增条目 Name2.2022_03_16_01
+新增条目 Name2.2022_03_16_02
+新增条目 Item.Name2.Cash_Costume_Dress_0368
+新增条目 Item.Name2.Cash_Costume_Decoration_0413
+新增条目 Item.Name2.Cash_Costume_Dress_0369
+新增条目 Item.Name2.Cash_Costume_Decoration_0414
+新增条目 Item.Desc2.Cash_Costume_Dress_0368
+新增条目 Item.Desc2.Cash_Costume_Decoration_0413
+新增条目 Item.Desc2.Cash_Costume_Dress_0369
+新增条目 Item.Desc2.Cash_Costume_Decoration_0414
+原文变更 Item.Name2.Event_Grocery_Coin_GoldSeason_0007
+變更前原文 깨비촌 입장권
+變更後原文 옛 깨비촌 입장권
+原文变更 Item.Name2.Cash_Grocery_Coin_0091
+變更前原文 소울패스 Plus 티켓
+變更後原文 옛 소울패스 Plus 티켓
+新增条目 Item.Name2.Cash_Grocery_Box_0567
+新增条目 Item.Name2.Cash_Grocery_Coin_0092
+新增条目 Item.Name2.Cash_Grocery_Coin_0093
+新增条目 Item.Name2.Cash_Grocery_Box_0568
+新增条目 Item.Name2.Cash_Grocery_Box_0569
+新增条目 Item.Name2.Cash_Grocery_Box_0570
+新增条目 Item.Name2.Cash_Grocery_Coin_0094
+新增条目 Item.Desc2.Cash_Grocery_Box_0567
+新增条目 Item.Desc2.Cash_Grocery_Coin_0092
+新增条目 Item.MainInfo.Event_Grocery_Coin_GoldSeason_0007
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0091
+變更前原文 소울패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_Box_0567
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0092
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0093
+新增条目 Item.MainInfo.Cash_Grocery_Box_0568
+新增条目 Item.MainInfo.Cash_Grocery_Box_0569
+新增条目 Item.MainInfo.Cash_Grocery_Box_0570
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0094
+新增条目 Item.Desc5.Cash_Grocery_Coin_0092
+新增条目 Item.Desc5.Cash_Grocery_Coin_0093
+新增条目 Item.Desc6.Cash_Grocery_Box_0568
+新增条目 Item.Desc6.Cash_Grocery_Box_0569
+新增条目 Item.Desc6.Cash_Grocery_Box_0570
+新增条目 Item.Name2.General_Weapon_Harp_2241_101
+新增条目 Item.Name2.General_Weapon_Harp_2241_102
+新增条目 Item.Nick.General_Weapon_Harp_2241_101
+新增条目 Item.Nick.General_Weapon_Harp_2241_102
+新增条目 Item.Desc6.General_Weapon_Harp_2241_101
+新增条目 Item.Desc6.General_Weapon_Harp_2241_102
+新增条目 Item.Name2.Cash_Weapon_Sword_0156
+新增条目 Item.Name2.Cash_Weapon_Gauntlet_0156
+新增条目 Item.Name2.Cash_Weapon_Aura-bangle_0156
+新增条目 Item.Name2.Cash_Weapon_Staff_0156
+新增条目 Item.Name2.Cash_Weapon_Gun_0156
+新增条目 Item.Name2.Cash_Weapon_Axe_0156
+新增条目 Item.Name2.Cash_Weapon_Dagger_0156
+新增条目 Item.Name2.Cash_Weapon_GreatSword_0156
+新增条目 Item.Name2.Cash_Weapon_LongBow_0156
+新增条目 Item.Name2.Cash_Weapon_Orb_0156
+新增条目 Item.Name2.Cash_Weapon_DualBlade_0156
+新增条目 Item.Name2.Cash_Weapon_RynSword_0156
+新增条目 Item.Name2.Cash_Weapon_SoulGauntlet_0156
+新增条目 Item.Name2.Cash_Weapon_WarDagger_0156

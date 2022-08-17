@@ -1,0 +1,17 @@
+原文变更 Item.Name2.Event_Grocery_Coin_0368
+變更前原文 광현 특별 주화
+變更後原文 옛 광현 특별 주화
+原文变更 Item.Name2.Cash_Grocery_Coin_0090
+變更前原文 소울패스 Plus 티켓
+變更後原文 옛 소울패스 Plus 티켓
+新增条目 Item.Name2.Cash_Grocery_Coin_0091
+原文变更 Item.MainInfo.Event_Grocery_Coin_0368
+變更前原文 물품 교환에 사용
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0090
+變更前原文 소울패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0091
+原文变更 Npc.name2.MH_PA_MudSoldier_0001
+變更前原文 金剛羅漢
+變更後原文 금강나한

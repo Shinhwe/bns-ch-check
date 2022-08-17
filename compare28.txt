@@ -1,0 +1,256 @@
+原文变更 Effect.Name.braclet_Evolution_0003_G1
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 10%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 10% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G2
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 10%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 10% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G3
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 10%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 10% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G4
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 10%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 10% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G5
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 10%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 10% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G6
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 20%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 20% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G7
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 30%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 30% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G8
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 40%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 40% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G9
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 50%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 50% 증가</font>
+原文变更 Effect.Name.braclet_Evolution_0003_G10
+變更前原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 2회 치명타 공격 시 치명타 피해량 20% 증가</font>
+變更前譯文 <font name="00008130.UI.Label_Green03_12">成功抵抗時，提升暴擊傷害量 60%，持續 3 秒或 1 次暴擊</font>
+變更後原文 <font name="00008130.UI.Label_Green03_12">저항 시 3초 동안 다음 1회 치명타 공격 시 치명타 피해량 60% 증가</font>
+新增条目 Effect.Name.Bard_G1_Resistance_Song_Lv1
+新增条目 Effect.Desc.Bard_G1_Resistance_Song_Lv1
+新增条目 Effect.Name2.Bard_G2_Buff_Soundcolor
+新增条目 Effect.Desc2.Bard_G2_Buff_Soundcolor
+新增条目 Effect.Name2.Bard_G2_Buff_critical
+新增条目 Effect.Desc2.Bard_G2_Buff_critical
+新增条目 Effect.Name2.Bard_G2_Buff_cool
+新增条目 Effect.Desc2.Bard_G2_Buff_cool
+新增条目 Effect.Name2.Bard_G2_Buff_get
+新增条目 Effect.Desc2.Bard_G2_Buff_get
+新增条目 Effect.Name2.Bard_G2_Flag_06
+新增条目 Effect.Desc2.Bard_G2_Flag_06
+新增条目 Effect.Name2.Bard_G2_additional-Hp_Lv1
+新增条目 Effect.Desc2.Bard_G2_additional-Hp_Lv1
+新增条目 Effect.Name2.Bard_G2_Consciousness_Raising_Lv1_Buff
+新增条目 Effect.Desc2.Bard_G2_Consciousness_Raising_Lv1_Buff
+新增条目 Effect.Name2.Bard_G2_Flag_02
+新增条目 Effect.Desc2.Bard_G2_Flag_02
+新增条目 Effect.Name2.Bard_G2_Mind_Control_Buff
+新增条目 Effect.Desc2.Bard_G2_Mind_Control_Buff
+新增条目 Effect.Name2.Bard_G2_Flag_03
+新增条目 Effect.Name2.Bard_G2_Flag_04
+新增条目 Effect.Name2.Bard_G2_Flag_05
+新增条目 Effect.Desc2.Bard_G2_Flag_03
+新增条目 Effect.Desc2.Bard_G2_Flag_04
+新增条目 Effect.Desc2.Bard_G2_Flag_05
+原文变更 Item.Name2.Cash_Grocery_Coin_0347
+變更前原文 만물주화
+變更前譯文 萬物鑄幣<original><![CDATA[기간이 종료되어 더 이상 사용할 수 없습니다.]]></original>
+變更後原文 옛 만물주화
+原文变更 Item.Name2.Cash_Grocery_Coin_0348
+變更前原文 만물상 재입장권
+變更前譯文 萬物箱再入場券
+變更後原文 옛 만물상 재입장권
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0347
+變更前原文 풍요로운 만물상 구매
+變更前譯文 購買丰饶的萬物箱內的貨物
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0348
+變更前原文 풍요로운 만물상 초기화
+變更前譯文 初始化丰饶的萬物箱
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Name.LoadingTip.1
+變更前原文 오늘은 혼자 있고 싶다고요? Ctrl+F 로 다른 캐릭터를 잠시 안 보이게 할 수 있어요.
+變更前譯文 您今天想獨自一人進行遊戲嗎？使用Ctrl+F，可暫時使其他角色消失。
+變更後原文 오늘은 혼자 있고 싶다고요? Ctrl+F 로 다른 캐릭터들을 보이지 않게 설정할 수 있어요.
+原文变更 Name.LoadingTip.2
+變更前原文 업적 능력성취에서 능력치 보너스를 받을 수 있습니다.<br/>성장 중인 캐릭터에게는 공격력3 증가가 강력할 수 있죠!
+變更前譯文 在成就 能力成就處，可獲得能力值紅利。<br/>能讓成長中的角色提升攻擊力 3 點，變得更強大喔！
+變更後原文 업적 능력성취에서 능력치 보너스를 받을 수 있습니다.<br/>강호의 절대자 업적을 달성하여 공격력 증가 효과를 획득해 보세요.
+原文变更 Name.LoadingTip.6
+變更前原文 채팅으로 시장과 파워북을 바로 검색해보세요.<br/>/시장 “고급 진화석” /파워북 “매운 만두&quot;
+變更前譯文 馬上用聊天來搜尋拍賣所和最新消息吧。<br/>/拍賣所 “高級進化石” /最新消息 “麻辣湯餃”
+變更後原文 채팅으로 시장과 파워북을 바로 검색해보세요.<br/>/시장 “고급 진화석” /파워북 “단하검&quot;
+原文变更 Name.LoadingTip.14
+變更前原文 미니맵을 줄이려면 <arg p="seq:key-command.key1.icon.scale.140" seq="key-command:toggle-minimap-scale"/>를 누르세요. <arg p="seq:key-command.key1.icon.scale.140" seq="key-command:toggle-minimap-alpha"/>으로 투명하게 할 수도 있습니다.
+變更前譯文 若要縮小小地圖，請點擊 <arg p="seq:key-command.key1.icon.scale.140" seq="key-command:toggle-minimap-scale"/>。或使用 <arg p="seq:key-command.key1.icon.scale.140" seq="key-command:toggle-minimap-alpha"/>讓地圖變得透明。
+變更後原文 미니맵 크기를 줄이려면 <arg p="seq:key-command.key1.icon.scale.140" seq="key-command:toggle-minimap-scale"/>를 누르세요, 또한 <arg p="seq:key-command.key1.icon.scale.140" seq="key-command:toggle-minimap-alpha"/>으로 미니맵을 투명하게 할 수도 있습니다.
+原文变更 Name.LoadingTip.15
+變更前原文 회피이동 무공은 당신의 생존률을 높여줄 것입니다.<br/>무공 비급에서 ‘회피이동’을 검색해 보세요.
+變更前譯文 閃避移動招式能提高您的生存機率。<br/>請在武功秘笈搜尋「閃避移動」。
+變更後原文 무공비급(K) 특성을 통해 무공 및 무공 효과를 변경할 수 있습니다.
+原文变更 Name.LoadingTip.16
+變更前原文 보석은 무기에만 장착이 가능하며, 자유롭게 장착 및 해제를 할 수 있습니다.
+變更前譯文 寶石只能裝備在武器上，可以自由地裝備或解除。
+變更後原文 보석(금강석, 자수정 등)은 무기에, 수호옥(금강옥, 자수옥 등)은 수호석에 장착이 가능하며, 자유롭게 장착 및 해제를 할 수 있습니다.
+原文变更 Name.LoadingTip.22
+變更前原文 60레벨을 달성하면, 무공에 강력한 패시브 효과가 추가됩니다.
+變更前譯文 若達到60級，可以領悟武功的強力被動效果。
+變更後原文 60레벨을 달성하면, 특정 무공에 강력한 패시브 효과가 추가됩니다.
+原文变更 Name.LoadingTip.23
+變更前原文 어떤 공격은 점프로 피할 수 있습니다.
+變更前譯文 能用跳躍來避開某些攻擊。
+變更後原文 일부 NPC의 공격은 점프를 통해 피할 수 있습니다.
+原文变更 Name.LoadingTip.30
+變更前原文 검사는 어검보호로 파티원을 완벽하게 보호할 수 있습니다.
+變更前譯文 劍士能施展禦劍保護，完美地保護隊友。
+變更後原文 검사는 어검보호: 파티 특성을 선택 시 파티원을 완벽하게 보호할 수 있습니다.
+原文变更 Name.LoadingTip.34
+變更前原文 가장 빠른 레벨 성장의 방법은 <image enablescale="true" imagesetpath="00009499.Epic_Progress" scalerate="1.4"/> 에픽퀘스트를 따라가는 것입니다!
+變更前譯文 最快使等級成長的方法就是 <image enablescale="true" imagesetpath="00009499.Epic_Progress" scalerate="1.4"/> 跟隨主線任務進行遊戲！
+變更後原文 가장 빠른 레벨 성장의 방법은 <image enablescale="true" imagesetpath="00009499.Epic_Progress" scalerate="1.4"/> 에픽퀘스트를 따라가는 것입니다! 
+原文变更 Name.LoadingTip.37
+變更前原文 운기조식 중일 때 받는 철옹성은 감동입니다.
+變更前譯文 運氣療傷時，受到周圍的保護真令人感動。
+變更後原文 운기조식 중일 때 받는 역사의 철옹성은 감동입니다.
+原文变更 Name.LoadingTip.40
+變更前原文 린족에서도 키가 큰 자들이 있습니다. <br/>가장 키가 큰 린족은 가장 작은 진족 키만큼 큽니다.
+變更前譯文 燐族裡也有身高高的人。<br/>身高最高的燐族大約跟最矮的盡族一樣高。
+變更後原文 린족에서도 키가 큰 자들이 있습니다.<br/>가장 키가 큰 린족은 가장 작은 진족 키만큼 큽니다.
+原文变更 Name.LoadingTip.58
+變更前原文 경공 질주는 W + W 로도 가능하지만 W+Shift 로도 사용할 수 있습니다.
+變更前譯文 輕功疾走能透過 W + W 施展，而使用 W+Shift 也可行。
+變更後原文 경공 질주는 W+W 로도 가능하지만 W+Shift 로도 사용할 수 있습니다.
+原文变更 Name.LoadingTip.68
+變更前原文 통합던전에서 도감을 사용할 수 있습니다.
+變更前譯文 在統合副本中也可以使用圖鑑。
+變更後原文 통합던전에서도 도감(F2)을 사용할 수 있습니다.
+原文变更 Name.LoadingTip.73
+變更前原文 귀중품을 실수 없이 잘 간수할 수 있다면, ‘지금사용’을 입력하지 않게 설정하세요.
+變更前譯文 若您可以零失誤地保存貴重品，就請設定爲不輸入「現在使用」。
+變更後原文 귀중품을 실수 없이 잘 간수할 수 있다면, 환경 설정(O)에서 ‘글자입력’기능을 사용하지 않게 설정하세요.
+原文变更 Name.LoadingTip.77
+變更前原文 시장에 물품 등록 시 그래프의 막대를 우클릭하면, 그 금액이 입력됩니다.​
+變更前譯文 將物品登錄至拍賣所時，若在圖片上點擊滑鼠右鍵，就會輸入其金額。​
+變更後原文 시장에 물품 등록 시 그래프의 막대를 우클릭하면, 그 금액이 입력됩니다.
+原文变更 Name.LoadingTip.79
+變更前原文 미니맵에서 용맥을 마우스로 클릭하면 목적지를 알 수 있어요.
+變更前譯文 在小地圖裡用滑鼠點擊龍脈，就能得知其目的地。
+變更後原文 미니맵에서 용맥을 마우스로 클릭하면 목적지를 알 수 있어요.  
+原文变更 Name.LoadingTip.80
+變更前原文 홍문점수로 나의 능력치를 조절해 보세요.
+變更前譯文 使用洪門點數，試著調整我的能力值吧。
+變更後原文 내 정보(P)에서 홍문 점수를 사용해 다양한 효과를 선택할 수 있습니다.
+原文变更 Name.LoadingTip.82
+變更前原文 통합던전 공략 중에 빈 자리의 파티원을 추가 모집할 수도 있습니다.
+變更前譯文 統合副本攻略中若有空位，可以追加招募隊員。
+變更後原文 통합던전을 통해 영웅 던전을 공략 중이라면, 빈 자리에 파티원을 추가로 모집할 수도 있습니다.
+原文变更 Name.LoadingTip.83
+變更前原文 챌린지난이도의 던전은 보스의 공격 범위가 보이지 않습니다.
+變更前譯文 挑戰者難度的副本中，無法看見Boss的攻擊範圍。
+變更後原文 봉마록 각 단계를 최초 클리어 시 봉마록 최초 클리어 보상을 획득할 수 있습니다.
+原文变更 Name.LoadingTip.110
+變更前原文 고속성장 캐릭터를 생성하면, 10막부터 시작할 수 있습니다.
+變更前譯文 創建高速成長角色後，可以從第十幕開始進行遊戲。
+變更後原文 고속성장 이용권을 사용해 캐릭터를 생성하면, 에픽 퀘스트 11막부터 시작할 수 있습니다.
+原文变更 Name.LoadingTip.111
+變更前原文 OTP, NC인증기, 기기등록 서비스로 계정보안을 더욱 강화하세요.
+變更前譯文 使用OTP、NC認證器、器械登錄服務強化個人帳號安全。
+變更後原文 OTP, NC인증기, 기기등록 서비스로 계정보안을 더욱 강화하세요.<br/>보안이 강화된 계정에는 &apos;호신강림&apos;효과가 적용됩니다.
+原文变更 Name.LoadingTip.127
+變更前原文 영석, 월석, 영단, 선단 등 일부 재료를 우클릭하면 결정으로 가공할 수 있습니다.
+變更前譯文 點擊滑鼠右鍵，可以將靈石、月石、靈丹、仙丹等部分材料加工爲結晶。
+變更後原文 영석, 월석, 영단, 선단 등 일부 재료는 마우스 우클릭하면 결정으로 가공할 수 있습니다.
+原文变更 Name.LoadingTip.129
+變更前原文 구월도에서 만월동으로 이동하는 용맥이 열리면 청갑룡이 기다리고 있습니다.<br/>청갑룡을 잡으면 삼성 보석도 획득할 수 있어요.
+變更前譯文 從舊月島前往滿月洞的龍脈打開，青甲龍正在等你。<br/>只要捕獲青甲龍，就有機會獲得三星寶石。
+變更後原文 시간제 필드인 &apos;거신의 심장&apos;은 통합대기실(F8)을 통해 입장할 수 있습니다.
+原文变更 Name.LoadingTip.131
+變更前原文 소식 창을 열어 이벤트 소식을 확인할 수 있습니다.
+變更前譯文 開啟訊息窗口，可以確認活動消息。
+變更後原文 소식 창을 열어 진행 중인 이벤트 내용을 확인할 수 있습니다.
+原文变更 Name.LoadingTip.133
+變更前原文 숙련 던전에도 익숙해졌다면, 파티원들과 함께 챌린지던전에 도전해보세요.<br/>랭킹(F11) 창에서 파티를 등록할 수 있습니다.
+變更前譯文 如果已經習慣熟練副本的難度，不妨跟隊員一起前往挑戰者副本。<br/>在排名(F11)視窗中可以登錄隊伍排名。
+變更後原文 봉마 던전은 총 20단계의 난이도로 구성되어 있습니다.<br/>실력을 키워 더욱 높은 난이도에 도전해 보세요.
+原文变更 Name.LoadingTip.134
+變更前原文 이제는 던전 가이드(<arg p="seq:key-command.key1.name" seq="key-command:toggle-contents-journal-2"/>)에서 플레이 인포그래픽을 확인하세요.
+變更前譯文 在導引(<arg p="seq:key-command.key1.name" seq="key-command:toggle-contents-journal-2"/>)中可以確認遊戲資訊圖表。
+變更後原文 통합 가이드 창을 열어 궁금한 정보를 찾아 보세요.
+新增条目 Name.LoadingTip.136
+新增条目 Name.LoadingTip.137
+新增条目 Name.LoadingTip.138
+新增条目 Name.LoadingTip.139
+新增条目 Name.LoadingTip.140
+新增条目 Name.LoadingTip.141
+新增条目 Name.LoadingTip.142
+新增条目 Name.LoadingTip.143
+新增条目 Name.LoadingTip.144
+新增条目 Name.LoadingTip.145
+新增条目 Name.LoadingTip.146
+新增条目 Name.LoadingTip.147
+新增条目 Name.LoadingTip.148
+新增条目 Name.LoadingTip.149
+新增条目 Name.LoadingTip.150
+新增条目 Name.LoadingTip.151
+新增条目 Name.LoadingTip.152
+新增条目 Name.LoadingTip.153
+新增条目 Name.LoadingTip.154
+新增条目 Name.LoadingTip.155
+新增条目 Name.LoadingTip.156
+新增条目 Name.LoadingTip.157
+新增条目 Name.LoadingTip.158
+新增条目 Name.LoadingTip.159
+新增条目 Name.LoadingTip.160
+新增条目 Name.LoadingTip.161
+新增条目 Name.LoadingTip.162
+新增条目 Skill.Name2.DSA_B1_Totem_Grade5
+新增条目 Skill.Name2.DSA_B1_Totem_Grade4
+新增条目 Skill.Name2.DSA_B1_Totem_Grade3
+新增条目 Skill.Name2.DSA_B1_Totem_Grade2
+新增条目 Skill.Name2.DSA_B1_Totem_Grade1
+新增条目 SkillTooltipAttr.text.E_Change_Recycle_Duration_Using_Skill3
+新增条目 SkillTooltipAttr.text.E_Change_Recycle_Duration_Using_Skill4
+新增条目 SkillTooltipAttr.text.C_after_Damage_Reduce
+原文变更 SkillTooltipAttr.text.E_Additional_HP_Max_HP
+變更前原文 최대 생명력의 <arg p="2:string"/> 보호막으로 전환
+變更前譯文 최대 생명력의 <arg p="2:string"/> 보호막으로 전환
+變更後原文 최대 생명력의 <arg p="2:string"/> 만큼 보호막 생성
+原文变更 SkillTooltipAttr.text.E_Heal_Additional_HP
+變更前原文 보호막 <arg p="2:string"/> 회복
+變更前譯文 보호막 <arg p="2:string"/> 회복
+變更後原文 최대 생명력의 <arg p="2:string"/> 만큼 보호막  회복
+新增条目 SkillTooltipAttr.text.UC_S_Music_conditional
+原文变更 SkillTooltipAttr.text.E_Heal_Additional_HP_max_percent
+變更前原文 사용 시 시전자 최대 생명력의 <arg p="2:string"/> 음률 방벽 생성
+變更前譯文 사용 시 시전자 최대 생명력의 <arg p="2:string"/> 음률 방벽 생성
+變更後原文 사용 시 시전자 최대생명력의 <arg p="2:string"/>만큼 음률방벽 회복
+原文变更 SkillTooltipAttr.text.E_Heal_Additional_HP_max_percent_max
+變更前原文 음률 방벽 시전자 최대 생명력의 <arg p="2:string"/>까지 회복 가능
+變更前譯文 음률 방벽 시전자 최대 생명력의 <arg p="2:string"/>까지 회복 가능
+變更後原文 음률 방벽 시전자 최대생명력의 <arg p="2:string"/>까지 회복 가능
+原文变更 SkillTooltipAttr.text.E_Heal_Additional_HP_max_percent_party
+變更前原文 소모한 화음 중첩 마다 영역 내 파티원에게 시전자 최대 생명력의 <arg p="2:string"/> 음률 방벽 생성
+變更前譯文 소모한 화음 중첩 마다 영역 내 파티원에게 시전자 최대 생명력의 <arg p="2:string"/> 음률 방벽 생성
+變更後原文 소모한 화음마다 영역 내 파티원에게 시전자 최대생명력의 <arg p="2:string"/>만큼 음률장막 생성
+原文变更 SkillTooltipAttr.text.E_Heal_Additional_HP_max_percent_max_party
+變更前原文 음률 방벽 시전자 최대 생명력의 <arg p="2:string"/>까지 회복 가능
+變更前譯文 음률 방벽 시전자 최대 생명력의 <arg p="2:string"/>까지 회복 가능
+變更後原文 음률장막 시전자 최대생명력의 <arg p="2:string"/>까지 회복 가능
+新增条目 SkillTooltipAttr.text.UC_S_additional-hp2
+原文变更 UI.TargetIndicator.Bard_G1Widget1
+變更前原文 내력으로 빚은 현을 소모하여 환상 무공을 사용할 수 있습니다.
+變更前譯文 내력으로 빚은 현을 소모하여 환상 무공을 사용할 수 있습니다.
+變更後原文 내력으로 빚은 현을 소모하여 절현 무공을 사용할 수 있습니다.
+新增条目 UI.ItemStore.TooManySells.WithQuota.Desc

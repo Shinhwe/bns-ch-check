@@ -1,0 +1,4104 @@
+新增条目 Effect.Name2.Effect_Item_Event_Grocery_Food_0124
+新增条目 Effect.Name2.Effect_Item_Event_Grocery_Food_0124_HpDrain
+新增条目 Effect.Desc2.Effect_Item_Event_Grocery_Food_0124
+新增条目 Effect.Name2.GWJ_Hades_Stone_Yellow
+新增条目 Effect.Name2.GWJ_Hades_Stone_Red
+新增条目 Effect.Desc2.GWJ_Hades_Barrier_Yellow
+新增条目 Effect.Desc2.GWJ_Hades_Barrier_Red
+新增条目 Effect.Desc2.GWJ_Hades_Stone_Yellow
+新增条目 Effect.Desc2.GWJ_Hades_Stone_Red
+原文变更 TextData.GlyphAbility.Attr1.Glyph_YellowSoul_Score1
+變更前原文 기절, 그로기, 다운, 장악, 흡공, 제압된 적 명중 시 공격력의 <arg p="2:string"/> 추가피해(재발동 제한시간 15초)
+變更後原文 기절, 그로기, 다운, 장악, 흡공, 제압된 적 명중 시 공격력의 <arg p="2:string"/> 추가피해(대인에게 피해량 2% 적용)<br/>재발동 제한시간 15초
+新增条目 Skill.Name2.Glyph_YellowSoul_Score1
+新增条目 Name2.2022_04_27_01
+原文变更 ItemSkill_PT_bigong_B16_Lv1_01_desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">참격, 폭탄확산</font> 사용 시 12초간 천수효과<br/><font name="00008130.UI.Vital_LightBlue">열기분출</font> 사용 시 5초간 천수효과<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">연환</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">청염</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">청염</font> 발동 시 공격력의 700% 피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">작렬</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">청염</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">청염</font> 발동 시 공격력의 1050% 피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">청염</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">청염</font> 발동 시 공격력의 3500% 피해<br/><font name="00008130.UI.Vital_LightBlue">전탄난사 청염</font> 방어, 튕기기 관통<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">연환, 작렬, 전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 피해(재발동 시간 30초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+變更後原文 <font name="00008130.UI.Vital_LightBlue">참격, 폭탄확산</font> 사용 시 12초간 천수효과<br/><font name="00008130.UI.Vital_LightBlue">열기분출</font> 사용 시 5초간 천수효과<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">연환</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">청염</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">청염</font> 발동 시 공격력의 700% 피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">작렬</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">청염</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">청염</font> 발동 시 공격력의 1050% 피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">청염</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">청염</font> 발동 시 공격력의 3500% 피해<br/><font name="00008130.UI.Vital_LightBlue">전탄난사 청염</font> 방어, 튕기기 관통<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">연환, 작렬, 전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+原文变更 ItemSkill_PT_bigong_B16_Lv1_01_tooltip
+變更前原文 참격, 폭탄확산 사용 시 12초간 천수효과<br/>열기분출 사용 시 5초간 천수효과<br/>천수효과 중 연환 사용 시 청염 발동<br/>청염 발동 시 공격력의 700% 피해<br/>천수효과 중 작렬 사용 시 청염 발동<br/>청염 발동 시 공격력의 1050% 피해<br/>천수효과 중 전탄난사 사용 시 청염 발동<br/>청염 발동 시 공격력의 3500% 피해<br/>전탄난사 청염 방어, 튕기기 관통<br/>천수효과 중 연환, 작렬, 전탄난사 사용 시 천수일격 발동<br/>천수일격 명중 시 공격력의 56000% 피해(재발동 시간 30초, 대인에게 피해량 2% 적용)<br/>천수일격 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 천수일격 명중 시 공격력의 31000% 추가피해<br/>천수일격 방어, 튕기기 관통
+變更後原文 참격, 폭탄확산 사용 시 12초간 천수효과<br/>열기분출 사용 시 5초간 천수효과<br/>천수효과 중 연환 사용 시 청염 발동<br/>청염 발동 시 공격력의 700% 피해<br/>천수효과 중 작렬 사용 시 청염 발동<br/>청염 발동 시 공격력의 1050% 피해<br/>천수효과 중 전탄난사 사용 시 청염 발동<br/>청염 발동 시 공격력의 3500% 피해<br/>전탄난사 청염 방어, 튕기기 관통<br/>천수효과 중 연환, 작렬, 전탄난사 사용 시 천수일격 발동<br/>천수일격 명중 시 공격력의 56000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>천수일격 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 천수일격 명중 시 공격력의 31000% 추가피해<br/>천수일격 방어, 튕기기 관통
+原文变更 ItemSkill_PT_bigong_B17_Lv2_01_desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">참격 </font> 사용 시 12초간 천수효과<br/><font name="00008130.UI.Vital_LightBlue">열기분출</font> 사용 시 5초간 천수효과<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">망상, 작렬</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동 시 공격력의 550% 피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동 시 공격력의 780% 피해<br/><font name="00008130.UI.Vital_LightBlue">전탄난사 그림자탄환</font> 방어, 튕기기 관통<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">망상, 작렬</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 피해(재발동 시간 30초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+變更後原文 <font name="00008130.UI.Vital_LightBlue">참격 </font> 사용 시 12초간 천수효과<br/><font name="00008130.UI.Vital_LightBlue">열기분출</font> 사용 시 5초간 천수효과<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">망상, 작렬</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동 시 공격력의 550% 피해<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">그림자탄환</font> 발동 시 공격력의 780% 피해<br/><font name="00008130.UI.Vital_LightBlue">전탄난사 그림자탄환</font> 방어, 튕기기 관통<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">망상, 작렬</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">전탄난사</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+原文变更 ItemSkill_PT_bigong_B17_Lv2_01_tooltip
+變更前原文 참격 사용 시 12초간 천수효과<br/>열기분출 사용 시 5초간 천수효과<br/>천수효과 중 망상, 작렬 사용 시 그림자탄환 발동<br/>그림자탄환 발동 시 공격력의 550% 피해<br/>천수효과 중 전탄난사 사용 시 그림자탄환 발동<br/>그림자탄환 발동 시 공격력의 780% 피해<br/>전탄난사 그림자탄환 방어, 튕기기 관통<br/>천수효과 중 망상, 작렬 사용 시 천수일격 발동<br/>천수효과 중 전탄난사 사용 시 천수일격 발동<br/>천수일격 명중 시 공격력의 56000% 피해(재발동 시간 30초, 대인에게 피해량 2% 적용)<br/>천수일격 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 천수일격 명중 시 공격력의 31000% 추가피해<br/>천수일격 방어, 튕기기 관통
+變更後原文 참격 사용 시 12초간 천수효과<br/>열기분출 사용 시 5초간 천수효과<br/>천수효과 중 망상, 작렬 사용 시 그림자탄환 발동<br/>그림자탄환 발동 시 공격력의 550% 피해<br/>천수효과 중 전탄난사 사용 시 그림자탄환 발동<br/>그림자탄환 발동 시 공격력의 780% 피해<br/>전탄난사 그림자탄환 방어, 튕기기 관통<br/>천수효과 중 망상, 작렬 사용 시 천수일격 발동<br/>천수효과 중 전탄난사 사용 시 천수일격 발동<br/>천수일격 명중 시 공격력의 56000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/>천수일격 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 천수일격 명중 시 공격력의 31000% 추가피해<br/>천수일격 방어, 튕기기 관통
+原文变更 ItemSkill_PT_B18_Lv1_01_Desc
+變更前原文 <font name="00008130.UI.Vital_LightBlue">위상절단</font> 사용 시 15초간 천수효과<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">연쇄저격, 분광포, 기관총사격, 산탄사격</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">분열광선</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">분열광선</font> 명중 시 공격력의 450% 피해<br/><font name="00008130.UI.Vital_LightBlue">분열광선</font> 방어, 튕기기 관통<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">기관총사격</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 피해(재발동 시간 30초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+變更後原文 <font name="00008130.UI.Vital_LightBlue">위상절단</font> 사용 시 15초간 천수효과<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">연쇄저격, 분광포, 기관총사격, 산탄사격</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">분열광선</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">분열광선</font> 명중 시 공격력의 450% 피해<br/><font name="00008130.UI.Vital_LightBlue">분열광선</font> 방어, 튕기기 관통<br/>천수효과 중 <font name="00008130.UI.Vital_LightBlue">기관총사격</font> 사용 시 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 발동<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 56000% 피해(재발동 시간 20초, 대인에게 피해량 2% 적용)<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 20초간 독소효과 1중첩(최대 10중첩)<br/>독소효과 10중첩 시 20초간 극독효과<br/>극독효과 중인 적에게 <font name="00008130.UI.Vital_LightBlue">천수일격</font> 명중 시 공격력의 31000% 추가피해<br/><font name="00008130.UI.Vital_LightBlue">천수일격</font> 방어, 튕기기 관통
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0001
+變更前原文 설풍 원기석 [화룡연참/급소베기/창룡검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0002
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0003
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0004
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0005
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0006
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0007
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0008
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0009
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0010
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0001
+變更前原文 설풍 원기석 [화룡연참/급소베기/창룡검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0002
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0003
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0004
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0005
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0006
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0007
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0008
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0009
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0010
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0001
+變更前原文 설풍 원기석 [화룡연참/급소베기/창룡검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0002
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0003
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0004
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0005
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0006
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0007
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0008
+變更前原文 설풍 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0009
+變更前原文 설풍 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0010
+變更前原文 설풍 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 설풍 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0001
+變更前原文 설풍 원기석 [적룡권/풍령각/광란]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0002
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0003
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0004
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0005
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0006
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0007
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0008
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0009
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0010
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0001
+變更前原文 설풍 원기석 [적룡권/풍령각/광란]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0002
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0003
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0004
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0005
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0006
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0007
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0008
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0009
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0010
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0001
+變更前原文 설풍 원기석 [적룡권/풍령각/광란]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0002
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0003
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0004
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0005
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0006
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0007
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0008
+變更前原文 설풍 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0009
+變更前原文 설풍 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0010
+變更前原文 설풍 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 설풍 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0001
+變更前原文 설풍 원기석 [말벌/큰 해바라기/와장창]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0002
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0003
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0004
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0005
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0006
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0007
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0008
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0009
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0010
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0001
+變更前原文 설풍 원기석 [말벌/큰 해바라기/와장창]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0002
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0003
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0004
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0005
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0006
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0007
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0008
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0009
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0010
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0001
+變更前原文 설풍 원기석 [폭열신장/빙백연혼경/폭뢰파]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0002
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0003
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0004
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0005
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0006
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0007
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0008
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0009
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0010
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0001
+變更前原文 설풍 원기석 [폭열신장/빙백연혼경/폭뢰파]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0002
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0003
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0004
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0005
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0006
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0007
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0008
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0009
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0010
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0001
+變更前原文 설풍 원기석 [파괴/섬멸/쌍월격]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0002
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0003
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0004
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0005
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0006
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0007
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0008
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0009
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0010
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0001
+變更前原文 설풍 원기석 [파괴/섬멸/쌍월격]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0002
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0003
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0004
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0005
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0006
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0007
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0008
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0009
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0010
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0001
+變更前原文 설풍 원기석 [파괴/섬멸/쌍월격]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0002
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0003
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0004
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0005
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0006
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0007
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0008
+變更前原文 설풍 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0009
+變更前原文 설풍 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0010
+變更前原文 설풍 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 설풍 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0001
+變更前原文 설풍 원기석 [심장찌르기/뇌절도:살/월영섬]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0002
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0003
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0004
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0005
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0006
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0007
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0008
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0009
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0010
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0001
+變更前原文 설풍 원기석 [심장찌르기/뇌절도:살/월영섬]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0002
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0003
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0004
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0005
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0006
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0007
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0008
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0009
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0010
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0001
+變更前原文 설풍 원기석 [심장찌르기/뇌절도:살/월영섬]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0002
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0003
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0004
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0005
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0006
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0007
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0008
+變更前原文 설풍 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0009
+變更前原文 설풍 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0010
+變更前原文 설풍 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 설풍 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0001
+變更前原文 설풍 원기석 [태풍참/뇌연섬/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0002
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0003
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0004
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0005
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0006
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0007
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0008
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0009
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0010
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0001
+變更前原文 설풍 원기석 [태풍참/뇌연섬/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0002
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0003
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0004
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0005
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0006
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0007
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0008
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0009
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0010
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0001
+變更前原文 설풍 원기석 [폭마령/흑염룡/윤회]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0002
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0003
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0004
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0005
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0006
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0007
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0008
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0009
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0010
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0001
+變更前原文 설풍 원기석 [폭마령/흑염룡/윤회]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0002
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0003
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0004
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0005
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0006
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0007
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0008
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0009
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0010
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0001
+變更前原文 설풍 원기석 [창천권/빙륜환/태진각]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0002
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0003
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0004
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0005
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0006
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0007
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0008
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0009
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0010
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0001
+變更前原文 설풍 원기석 [창천권/빙륜환/태진각]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0002
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0003
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0004
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0005
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0006
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0007
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0008
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0009
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0010
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0001
+變更前原文 설풍 원기석 [전탄난사/기관총사격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0002
+變更前原文 설풍 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0003
+變更前原文 설풍 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0004
+變更前原文 설풍 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0005
+變更前原文 설풍 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0006
+變更前原文 설풍 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0007
+變更前原文 설풍 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0008
+變更前原文 설풍 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0009
+變更前原文 설풍 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0010
+變更前原文 설풍 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0001
+變更前原文 설풍 원기석 [전탄난사/기관총사격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0002
+變更前原文 설풍 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0003
+變更前原文 설풍 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0004
+變更前原文 설풍 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0005
+變更前原文 설풍 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0006
+變更前原文 설풍 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0007
+變更前原文 설풍 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0008
+變更前原文 설풍 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0009
+變更前原文 설풍 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0010
+變更前原文 설풍 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 설풍 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0001
+變更前原文 설풍 원기석 [난도/광검/염폭참]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0002
+變更前原文 설풍 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0003
+變更前原文 설풍 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0004
+變更前原文 설풍 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0005
+變更前原文 설풍 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0006
+變更前原文 설풍 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0007
+變更前原文 설풍 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0008
+變更前原文 설풍 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0009
+變更前原文 설풍 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0010
+變更前原文 설풍 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0001
+變更前原文 설풍 원기석 [난도/광검/염폭참]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0002
+變更前原文 설풍 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0003
+變更前原文 설풍 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0004
+變更前原文 설풍 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0005
+變更前原文 설풍 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0006
+變更前原文 설풍 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0007
+變更前原文 설풍 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0008
+變更前原文 설풍 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0009
+變更前原文 설풍 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0010
+變更前原文 설풍 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 설풍 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0001
+變更前原文 설풍 원기석 [공명/돌풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0002
+變更前原文 설풍 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0003
+變更前原文 설풍 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0004
+變更前原文 설풍 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0005
+變更前原文 설풍 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0006
+變更前原文 설풍 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0007
+變更前原文 설풍 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0008
+變更前原文 설풍 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0009
+變更前原文 설풍 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0010
+變更前原文 설풍 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0001
+變更前原文 설풍 원기석 [공명/돌풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0002
+變更前原文 설풍 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0003
+變更前原文 설풍 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0004
+變更前原文 설풍 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0005
+變更前原文 설풍 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0006
+變更前原文 설풍 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0007
+變更前原文 설풍 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0008
+變更前原文 설풍 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0009
+變更前原文 설풍 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0010
+變更前原文 설풍 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 설풍 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0001
+變更前原文 설풍 원기석 [폭열신장/빙백연혼경/폭뢰파]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0002
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0003
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0004
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0005
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0006
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0007
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0008
+變更前原文 설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0009
+變更前原文 설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0010
+變更前原文 설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 설풍 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0001
+變更前原文 설풍 원기석 [태풍참/뇌연섬/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0002
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0003
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0004
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0005
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0006
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0007
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0008
+變更前原文 설풍 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0009
+變更前原文 설풍 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0010
+變更前原文 설풍 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 설풍 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0001
+變更前原文 설풍 원기석 [광폭/번쩍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0002
+變更前原文 설풍 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0003
+變更前原文 설풍 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0004
+變更前原文 설풍 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0005
+變更前原文 설풍 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0006
+變更前原文 설풍 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0007
+變更前原文 설풍 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0008
+變更前原文 설풍 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0009
+變更前原文 설풍 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0010
+變更前原文 설풍 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0001
+變更前原文 설풍 원기석 [광폭/번쩍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0002
+變更前原文 설풍 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0003
+變更前原文 설풍 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0004
+變更前原文 설풍 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0005
+變更前原文 설풍 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0006
+變更前原文 설풍 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0007
+變更前原文 설풍 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0008
+變更前原文 설풍 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0009
+變更前原文 설풍 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0010
+變更前原文 설풍 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 설풍 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0011
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0012
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0015
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style1_0018
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0011
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0012
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0015
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style2_0018
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0011
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0012
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0015
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_Style3_0018
+變更前原文 태황 원기석 [비연검/하단베기]
+變更後原文 태황 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0011
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0012
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0015
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style1_0018
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0011
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0012
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0015
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style2_0018
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0011
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0012
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0015
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_Style3_0018
+變更前原文 태황 원기석 [승룡각/다리걸기]
+變更後原文 태황 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0011
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0012
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0015
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style1_0018
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0011
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0012
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0015
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style2_0018
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0011
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0012
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0015
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style1_0018
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0011
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0012
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0015
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style2_0018
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0011
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0012
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0015
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_Style3_0018
+變更前原文 태황 원기석 [폭염/기공포/설빙/흑편뢰]
+變更後原文 태황 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0011
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0012
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0015
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style1_0018
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0011
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0012
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0015
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style2_0018
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0011
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0012
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0015
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_Style3_0018
+變更前原文 태황 원기석 [격돌/절단]
+變更後原文 태황 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0011
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0012
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0015
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style1_0018
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0011
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0012
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0015
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style2_0018
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0011
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0012
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0015
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_Style3_0018
+變更前原文 태황 원기석 [척추찌르기/나뭇잎운신]
+變更後原文 태황 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0011
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0012
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0015
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style1_0018
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0011
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0012
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0015
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style2_0018
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0011
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0012
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0015
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_Style3_0018
+變更前原文 태황 원기석 [습격/하단베기]
+變更後原文 태황 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0011
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0012
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0015
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style1_0018
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0011
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0012
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0015
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style2_0018
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0011
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0012
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0015
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style1_0018
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0011
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0012
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0015
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style2_0018
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0011
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0012
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0015
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style1_0018
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0011
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0012
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0015
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_Style2_0018
+變更前原文 태황 원기석 [폭발사격/연계폭발]
+變更後原文 태황 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0011
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0012
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0015
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style1_0018
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0011
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0012
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0015
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_Style2_0018
+變更前原文 태황 원기석 [돌파/발목베기/섬광/염왕수]
+變更後原文 태황 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0011
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0012
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0015
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style1_0018
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0011
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0012
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0015
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_Style2_0018
+變更前原文 태황 원기석 [파공성/지면울림/궁신탄영/투검]
+變更後原文 태황 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0011
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0012
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0015
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style1_0018
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0011
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0012
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0015
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_Style2_0018
+變更前原文 태황 원기석 [별튕기기/별굴리기/천둥울림/번개숨결]
+變更後原文 태황 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0001
+變更前原文 흑월 진기석 [화룡연참/급소베기/창룡검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0002
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0003
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0004
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0005
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0006
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0007
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0008
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0009
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style1_0010
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0001
+變更前原文 흑월 진기석 [화룡연참/급소베기/창룡검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0002
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0003
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0004
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0005
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0006
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0007
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0008
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0009
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style2_0010
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0001
+變更前原文 흑월 진기석 [화룡연참/급소베기/창룡검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0002
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0003
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0004
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0005
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0006
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0007
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0008
+變更前原文 흑월 진기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0009
+變更前原文 흑월 진기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Sword_Style3_0010
+變更前原文 흑월 진기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 흑월 진기석 [검사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0001
+變更前原文 흑월 진기석 [적룡권/풍령각/광란]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0002
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0003
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0004
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0005
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0006
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0007
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0008
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0009
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style1_0010
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0001
+變更前原文 흑월 진기석 [적룡권/풍령각/광란]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0002
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0003
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0004
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0005
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0006
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0007
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0008
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0009
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style2_0010
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0001
+變更前原文 흑월 진기석 [적룡권/풍령각/광란]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0002
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0003
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0004
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0005
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0006
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0007
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0008
+變更前原文 흑월 진기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0009
+變更前原文 흑월 진기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Gauntlet_Style3_0010
+變更前原文 흑월 진기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 흑월 진기석 [권사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0001
+變更前原文 흑월 진기석 [말벌/큰 해바라기/와장창]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0002
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0003
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0004
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0005
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0006
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0007
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0008
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0009
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style1_0010
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0001
+變更前原文 흑월 진기석 [말벌/큰 해바라기/와장창]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0002
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0003
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0004
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0005
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0006
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0007
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0008
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0009
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style2_0010
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0001
+變更前原文 흑월 진기석 [폭열신장/빙백연혼경/폭뢰파]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0002
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0003
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0004
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0005
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0006
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0007
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0008
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0009
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style1_0010
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0001
+變更前原文 흑월 진기석 [폭열신장/빙백연혼경/폭뢰파]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0002
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0003
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0004
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0005
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0006
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0007
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0008
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0009
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style2_0010
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0001
+變更前原文 흑월 진기석 [폭열신장/빙백연혼경/폭뢰파]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0002
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0003
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0004
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0005
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0006
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0007
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0008
+變更前原文 흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0009
+變更前原文 흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Aura-bangle_Style3_0010
+變更前原文 흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 흑월 진기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0001
+變更前原文 흑월 진기석 [파괴/섬멸/쌍월격]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0002
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0003
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0004
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0005
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0006
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0007
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0008
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0009
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style1_0010
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0001
+變更前原文 흑월 진기석 [파괴/섬멸/쌍월격]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0002
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0003
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0004
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0005
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0006
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0007
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0008
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0009
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style2_0010
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0001
+變更前原文 흑월 진기석 [파괴/섬멸/쌍월격]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0002
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0003
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0004
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0005
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0006
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0007
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0008
+變更前原文 흑월 진기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0009
+變更前原文 흑월 진기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Axe_Style3_0010
+變更前原文 흑월 진기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 흑월 진기석 [역사]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0001
+變更前原文 흑월 진기석 [심장찌르기/뇌절도:살/월영섬]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0002
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0003
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0004
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0005
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0006
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0007
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0008
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0009
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style1_0010
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0001
+變更前原文 흑월 진기석 [심장찌르기/뇌절도:살/월영섬]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0002
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0003
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0004
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0005
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0006
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0007
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0008
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0009
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style2_0010
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0001
+變更前原文 흑월 진기석 [심장찌르기/뇌절도:살/월영섬]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0002
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0003
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0004
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0005
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0006
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0007
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0008
+變更前原文 흑월 진기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0009
+變更前原文 흑월 진기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_Dagger_Style3_0010
+變更前原文 흑월 진기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 흑월 진기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0001
+變更前原文 흑월 진기석 [태풍참/뇌연섬/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0002
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0003
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0004
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0005
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0006
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0007
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0008
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0009
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style1_0010
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0001
+變更前原文 흑월 진기석 [태풍참/뇌연섬/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0002
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0003
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0004
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0005
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0006
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0007
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0008
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0009
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style2_0010
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0001
+變更前原文 흑월 진기석 [태풍참/뇌연섬/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0002
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0003
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0004
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0005
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0006
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0007
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0008
+變更前原文 흑월 진기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0009
+變更前原文 흑월 진기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_RynSword_Style3_0010
+變更前原文 흑월 진기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 흑월 진기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0001
+變更前原文 흑월 진기석 [폭마령/흑염룡/윤회]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0002
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0003
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0004
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0005
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0006
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0007
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0008
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0009
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style1_0010
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0001
+變更前原文 흑월 진기석 [폭마령/흑염룡/윤회]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0002
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0003
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0004
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0005
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0006
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0007
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0008
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0009
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style2_0010
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0001
+變更前原文 흑월 진기석 [창천권/빙륜환/태진각]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0002
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0003
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0004
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0005
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0006
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0007
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0008
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0009
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style1_0010
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0001
+變更前原文 흑월 진기석 [창천권/빙륜환/태진각]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0002
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0003
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0004
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0005
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0006
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0007
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0008
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0009
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style2_0010
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0001
+變更前原文 흑월 진기석 [전탄난사/기관총사격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0002
+變更前原文 흑월 진기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0003
+變更前原文 흑월 진기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0004
+變更前原文 흑월 진기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0005
+變更前原文 흑월 진기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0006
+變更前原文 흑월 진기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0007
+變更前原文 흑월 진기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0008
+變更前原文 흑월 진기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0009
+變更前原文 흑월 진기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style1_0010
+變更前原文 흑월 진기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0001
+變更前原文 흑월 진기석 [전탄난사/기관총사격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0002
+變更前原文 흑월 진기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0003
+變更前原文 흑월 진기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0004
+變更前原文 흑월 진기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0005
+變更前原文 흑월 진기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0006
+變更前原文 흑월 진기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0007
+變更前原文 흑월 진기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0008
+變更前原文 흑월 진기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0009
+變更前原文 흑월 진기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_Gun_Style2_0010
+變更前原文 흑월 진기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 흑월 진기석 [격사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0001
+變更前原文 흑월 진기석 [난도/광검/염폭참]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0002
+變更前原文 흑월 진기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0003
+變更前原文 흑월 진기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0004
+變更前原文 흑월 진기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0005
+變更前原文 흑월 진기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0006
+變更前原文 흑월 진기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0007
+變更前原文 흑월 진기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0008
+變更前原文 흑월 진기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0009
+變更前原文 흑월 진기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style1_0010
+變更前原文 흑월 진기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0001
+變更前原文 흑월 진기석 [난도/광검/염폭참]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0002
+變更前原文 흑월 진기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0003
+變更前原文 흑월 진기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0004
+變更前原文 흑월 진기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0005
+變更前原文 흑월 진기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0006
+變更前原文 흑월 진기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0007
+變更前原文 흑월 진기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0008
+變更前原文 흑월 진기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0009
+變更前原文 흑월 진기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_GreatSword_Style2_0010
+變更前原文 흑월 진기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 흑월 진기석 [투사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0001
+變更前原文 흑월 진기석 [공명/돌풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0002
+變更前原文 흑월 진기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0003
+變更前原文 흑월 진기석 [공명/결집/돌풍살/태풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0004
+變更前原文 흑월 진기석 [공명/산탄/돌풍살/강사]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0005
+變更前原文 흑월 진기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0006
+變更前原文 흑월 진기석 [공명/결집/돌풍살/태풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0007
+變更前原文 흑월 진기석 [공명/산탄/돌풍살/강사]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0008
+變更前原文 흑월 진기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0009
+變更前原文 흑월 진기석 [공명/결집/돌풍살/태풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style1_0010
+變更前原文 흑월 진기석 [공명/산탄/돌풍살/강사]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0001
+變更前原文 흑월 진기석 [공명/돌풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0002
+變更前原文 흑월 진기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0003
+變更前原文 흑월 진기석 [공명/결집/돌풍살/태풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0004
+變更前原文 흑월 진기석 [공명/산탄/돌풍살/강사]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0005
+變更前原文 흑월 진기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0006
+變更前原文 흑월 진기석 [공명/결집/돌풍살/태풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0007
+變更前原文 흑월 진기석 [공명/산탄/돌풍살/강사]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0008
+變更前原文 흑월 진기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0009
+變更前原文 흑월 진기석 [공명/결집/돌풍살/태풍살]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_LongBow_Style2_0010
+變更前原文 흑월 진기석 [공명/산탄/돌풍살/강사]
+變更後原文 흑월 진기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0001
+變更前原文 흑월 진기석 [광폭/번쩍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0002
+變更前原文 흑월 진기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0003
+變更前原文 흑월 진기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0004
+變更前原文 흑월 진기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0005
+變更前原文 흑월 진기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0006
+變更前原文 흑월 진기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0007
+變更前原文 흑월 진기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0008
+變更前原文 흑월 진기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0009
+變更前原文 흑월 진기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style1_0010
+變更前原文 흑월 진기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0001
+變更前原文 흑월 진기석 [광폭/번쩍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0002
+變更前原文 흑월 진기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0003
+變更前原文 흑월 진기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0004
+變更前原文 흑월 진기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0005
+變更前原文 흑월 진기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0006
+變更前原文 흑월 진기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0007
+變更前原文 흑월 진기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0008
+變更前原文 흑월 진기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0009
+變更前原文 흑월 진기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone2_Orb_Style2_0010
+變更前原文 흑월 진기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 흑월 진기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0001
+變更前原文 설풍 원기석 [말벌/큰 해바라기/와장창]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0002
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0003
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0004
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0005
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0006
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0007
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0008
+變更前原文 설풍 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0009
+變更前原文 설풍 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0010
+變更前原文 설풍 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 설풍 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0011
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0012
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0015
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_Style3_0018
+變更前原文 태황 원기석 [하단베기/달려들기/엉덩방아/데굴데굴]
+變更後原文 태황 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0001
+變更前原文 흑월 진기석 [말벌/큰 해바라기/와장창]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0002
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0003
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0004
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0005
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0006
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0007
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0008
+變更前原文 흑월 진기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0009
+變更前原文 흑월 진기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone2_Staff_Style3_0010
+變更前原文 흑월 진기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 흑월 진기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0001
+變更前原文 설풍 원기석 [폭마령/흑염룡/윤회]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0002
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0003
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0004
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0005
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0006
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0007
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0008
+變更前原文 설풍 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0009
+變更前原文 설풍 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0010
+變更前原文 설풍 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 설풍 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0011
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0012
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0015
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_Style3_0018
+變更前原文 태황 원기석 [경계베기/명령/안개벼락/낮은어둠]
+變更後原文 태황 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0001
+變更前原文 흑월 진기석 [폭마령/흑염룡/윤회]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0002
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0003
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0004
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0005
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0006
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0007
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0008
+變更前原文 흑월 진기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0009
+變更前原文 흑월 진기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone2_WarDagger_Style3_0010
+變更前原文 흑월 진기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 흑월 진기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0001
+變更前原文 설풍 원기석 [멸륜참/화풍연참]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0002
+變更前原文 설풍 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0003
+變更前原文 설풍 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0004
+變更前原文 설풍 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0005
+變更前原文 설풍 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0006
+變更前原文 설풍 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0007
+變更前原文 설풍 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0008
+變更前原文 설풍 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0009
+變更前原文 설풍 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0010
+變更前原文 설풍 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0001
+變更前原文 설풍 원기석 [멸륜참/화풍연참]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0002
+變更前原文 설풍 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0003
+變更前原文 설풍 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0004
+變更前原文 설풍 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0005
+變更前原文 설풍 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0006
+變更前原文 설풍 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0007
+變更前原文 설풍 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0008
+變更前原文 설풍 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0009
+變更前原文 설풍 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0010
+變更前原文 설풍 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 설풍 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0001
+變更前原文 흑월 진기석 [멸륜참/화풍연참]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0002
+變更前原文 흑월 진기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0003
+變更前原文 흑월 진기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0004
+變更前原文 흑월 진기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0005
+變更前原文 흑월 진기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0006
+變更前原文 흑월 진기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0007
+變更前原文 흑월 진기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0008
+變更前原文 흑월 진기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0009
+變更前原文 흑월 진기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style1_0010
+變更前原文 흑월 진기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0001
+變更前原文 흑월 진기석 [멸륜참/화풍연참]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0002
+變更前原文 흑월 진기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0003
+變更前原文 흑월 진기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0004
+變更前原文 흑월 진기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0005
+變更前原文 흑월 진기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0006
+變更前原文 흑월 진기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0007
+變更前原文 흑월 진기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0008
+變更前原文 흑월 진기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0009
+變更前原文 흑월 진기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone2_DualBlade_Style2_0010
+變更前原文 흑월 진기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 흑월 진기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0011
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0012
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0015
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style1_0018
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0011
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0012
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0015
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_Style2_0018
+變更前原文 태황 원기석 [강격/다리걸기/하단베기]
+變更後原文 태황 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0001
+變更前原文 설풍 원기석 [창천권/빙륜환/태진각]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0002
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0003
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0004
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0005
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0006
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0007
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0008
+變更前原文 설풍 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0009
+變更前原文 설풍 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0010
+變更前原文 설풍 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 설풍 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0011
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0012
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0015
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_Style3_0018
+變更前原文 태황 원기석 [대지파동/진공파/쇄붕격]
+變更後原文 태황 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0001
+變更前原文 흑월 진기석 [창천권/빙륜환/태진각]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0002
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0003
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0004
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0005
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0006
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0007
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0008
+變更前原文 흑월 진기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0009
+變更前原文 흑월 진기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone2_SoulGauntlet_Style3_0010
+變更前原文 흑월 진기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 흑월 진기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011
+變更前原文 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_101
+變更前原文 +1 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +1 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_102
+變更前原文 +2 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +2 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_103
+變更前原文 +3 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +3 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_104
+變更前原文 +4 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +4 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_105
+變更前原文 +5 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +5 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_106
+變更前原文 +6 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +6 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_107
+變更前原文 +7 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +7 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_108
+變更前原文 +8 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +8 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_109
+變更前原文 +9 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +9 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0011_110
+變更前原文 +10 천수 원기석 [화룡연참/만월베기/급소베기/창룡검결/어검비산]
+變更後原文 +10 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012
+變更前原文 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_101
+變更前原文 +1 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +1 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_102
+變更前原文 +2 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +2 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_103
+變更前原文 +3 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +3 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_104
+變更前原文 +4 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +4 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_105
+變更前原文 +5 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +5 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_106
+變更前原文 +6 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +6 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_107
+變更前原文 +7 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +7 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_108
+變更前原文 +8 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +8 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_109
+變更前原文 +9 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +9 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0012_110
+變更前原文 +10 천수 원기석 [화룡연참/발도/급소베기/십마령섬/창룡검결/무명검결]
+變更後原文 +10 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013
+變更前原文 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_101
+變更前原文 +1 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +1 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_102
+變更前原文 +2 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +2 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_103
+變更前原文 +3 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +3 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_104
+變更前原文 +4 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +4 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_105
+變更前原文 +5 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +5 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_106
+變更前原文 +6 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +6 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_107
+變更前原文 +7 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +7 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_108
+變更前原文 +8 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +8 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_109
+變更前原文 +9 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +9 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Sword_0013_110
+變更前原文 +10 천수 원기석 [화룡연참/번개베기/급소베기/발도/창룡검결/어검 연속베기]
+變更後原文 +10 천수 원기석 [검사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011
+變更前原文 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_101
+變更前原文 +1 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +1 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_102
+變更前原文 +2 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +2 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_103
+變更前原文 +3 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +3 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_104
+變更前原文 +4 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +4 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_105
+變更前原文 +5 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +5 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_106
+變更前原文 +6 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +6 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_107
+變更前原文 +7 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +7 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_108
+變更前原文 +8 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +8 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_109
+變更前原文 +9 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +9 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0011_110
+變更前原文 +10 천수 원기석 [적룡권/산사태/풍령각/철산고/광란/살육]
+變更後原文 +10 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012
+變更前原文 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_101
+變更前原文 +1 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +1 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_102
+變更前原文 +2 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +2 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_103
+變更前原文 +3 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +3 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_104
+變更前原文 +4 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +4 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_105
+變更前原文 +5 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +5 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_106
+變更前原文 +6 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +6 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_107
+變更前原文 +7 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +7 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_108
+變更前原文 +8 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +8 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_109
+變更前原文 +9 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +9 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0012_110
+變更前原文 +10 천수 원기석 [적룡권/용호포/풍령각/회천각/광란/쌍장]
+變更後原文 +10 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013
+變更前原文 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_101
+變更前原文 +1 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +1 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_102
+變更前原文 +2 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +2 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_103
+變更前原文 +3 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +3 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_104
+變更前原文 +4 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +4 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_105
+變更前原文 +5 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +5 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_106
+變更前原文 +6 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +6 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_107
+變更前原文 +7 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +7 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_108
+變更前原文 +8 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +8 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_109
+變更前原文 +9 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +9 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Gauntlet_0013_110
+變更前原文 +10 천수 원기석 [적룡권/붕권/풍령각/광란/도산봉추]
+變更後原文 +10 천수 원기석 [권사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011
+變更前原文 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_101
+變更前原文 +1 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +1 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_102
+變更前原文 +2 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +2 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_103
+變更前原文 +3 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +3 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_104
+變更前原文 +4 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +4 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_105
+變更前原文 +5 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +5 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_106
+變更前原文 +6 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +6 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_107
+變更前原文 +7 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +7 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_108
+變更前原文 +8 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +8 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_109
+變更前原文 +9 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +9 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0011_110
+變更前原文 +10 천수 원기석 [말벌/가시덩굴/큰 해바라기/가시덩굴/와장창/빠직]
+變更後原文 +10 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012
+變更前原文 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_101
+變更前原文 +1 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +1 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_102
+變更前原文 +2 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +2 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_103
+變更前原文 +3 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +3 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_104
+變更前原文 +4 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +4 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_105
+變更前原文 +5 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +5 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_106
+變更前原文 +6 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +6 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_107
+變更前原文 +7 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +7 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_108
+變更前原文 +8 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +8 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_109
+變更前原文 +9 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +9 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0012_110
+變更前原文 +10 천수 원기석 [말벌/투척밤송이/큰 해바라기/와장창/뻥이요]
+變更後原文 +10 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013
+變更前原文 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_101
+變更前原文 +1 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +1 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_102
+變更前原文 +2 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +2 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_103
+變更前原文 +3 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +3 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_104
+變更前原文 +4 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +4 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_105
+變更前原文 +5 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +5 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_106
+變更前原文 +6 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +6 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_107
+變更前原文 +7 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +7 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_108
+變更前原文 +8 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +8 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_109
+變更前原文 +9 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +9 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Staff_0013_110
+變更前原文 +10 천수 원기석 [말벌/꿀밤/큰 해바라기/해바라기/와장창/쏜다냥]
+變更後原文 +10 천수 원기석 [소환사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011
+變更前原文 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_101
+變更前原文 +1 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +1 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_102
+變更前原文 +2 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +2 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_103
+變更前原文 +3 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +3 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_104
+變更前原文 +4 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +4 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_105
+變更前原文 +5 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +5 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_106
+變更前原文 +6 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +6 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_107
+變更前原文 +7 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +7 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_108
+變更前原文 +8 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +8 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_109
+變更前原文 +9 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +9 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0011_110
+變更前原文 +10 천수 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]
+變更後原文 +10 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012
+變更前原文 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_101
+變更前原文 +1 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +1 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_102
+變更前原文 +2 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +2 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_103
+變更前原文 +3 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +3 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_104
+變更前原文 +4 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +4 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_105
+變更前原文 +5 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +5 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_106
+變更前原文 +6 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +6 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_107
+變更前原文 +7 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +7 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_108
+變更前原文 +8 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +8 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_109
+變更前原文 +9 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +9 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0012_110
+變更前原文 +10 천수 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]
+變更後原文 +10 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013
+變更前原文 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_101
+變更前原文 +1 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +1 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_102
+變更前原文 +2 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +2 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_103
+變更前原文 +3 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +3 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_104
+變更前原文 +4 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +4 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_105
+變更前原文 +5 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +5 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_106
+變更前原文 +6 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +6 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_107
+變更前原文 +7 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +7 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_108
+變更前原文 +8 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +8 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_109
+變更前原文 +9 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +9 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Aura-bangle_0013_110
+變更前原文 +10 천수 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]
+變更後原文 +10 천수 원기석 [기공사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011
+變更前原文 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_101
+變更前原文 +1 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +1 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_102
+變更前原文 +2 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +2 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_103
+變更前原文 +3 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +3 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_104
+變更前原文 +4 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +4 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_105
+變更前原文 +5 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +5 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_106
+變更前原文 +6 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +6 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_107
+變更前原文 +7 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +7 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_108
+變更前原文 +8 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +8 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_109
+變更前原文 +9 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +9 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0011_110
+變更前原文 +10 천수 원기석 [파괴/격노/섬멸/격풍/쌍월격/쇄도]
+變更後原文 +10 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012
+變更前原文 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_101
+變更前原文 +1 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +1 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_102
+變更前原文 +2 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +2 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_103
+變更前原文 +3 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +3 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_104
+變更前原文 +4 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +4 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_105
+變更前原文 +5 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +5 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_106
+變更前原文 +6 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +6 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_107
+變更前原文 +7 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +7 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_108
+變更前原文 +8 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +8 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_109
+變更前原文 +9 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +9 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0012_110
+變更前原文 +10 천수 원기석 [파괴/대파괴/섬멸/발구르기/쌍월격/금월참]
+變更後原文 +10 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013
+變更前原文 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_101
+變更前原文 +1 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +1 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_102
+變更前原文 +2 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +2 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_103
+變更前原文 +3 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +3 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_104
+變更前原文 +4 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +4 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_105
+變更前原文 +5 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +5 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_106
+變更前原文 +6 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +6 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_107
+變更前原文 +7 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +7 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_108
+變更前原文 +8 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +8 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_109
+變更前原文 +9 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +9 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Axe_0013_110
+變更前原文 +10 천수 원기석 [파괴/분쇄/섬멸/집행/쌍월격/무진]
+變更後原文 +10 천수 원기석 [역사]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011
+變更前原文 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_101
+變更前原文 +1 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +1 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_102
+變更前原文 +2 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +2 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_103
+變更前原文 +3 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +3 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_104
+變更前原文 +4 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +4 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_105
+變更前原文 +5 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +5 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_106
+變更前原文 +6 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +6 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_107
+變更前原文 +7 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +7 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_108
+變更前原文 +8 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +8 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_109
+變更前原文 +9 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +9 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0011_110
+變更前原文 +10 천수 원기석 [심장찌르기/암흑살/뇌절도:살/뇌절도/월영섬/오월참]
+變更後原文 +10 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012
+變更前原文 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_101
+變更前原文 +1 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +1 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_102
+變更前原文 +2 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +2 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_103
+變更前原文 +3 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +3 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_104
+變更前原文 +4 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +4 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_105
+變更前原文 +5 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +5 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_106
+變更前原文 +6 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +6 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_107
+變更前原文 +7 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +7 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_108
+變更前原文 +8 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +8 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_109
+變更前原文 +9 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +9 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0012_110
+變更前原文 +10 천수 원기석 [심장찌르기/독무투척/뇌절도:살/월영섬/월영격]
+變更後原文 +10 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013
+變更前原文 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_101
+變更前原文 +1 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +1 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_102
+變更前原文 +2 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +2 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_103
+變更前原文 +3 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +3 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_104
+變更前原文 +4 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +4 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_105
+變更前原文 +5 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +5 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_106
+變更前原文 +6 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +6 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_107
+變更前原文 +7 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +7 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_108
+變更前原文 +8 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +8 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_109
+變更前原文 +9 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +9 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_Dagger_0013_110
+變更前原文 +10 천수 원기석 [심장찌르기/맹독베기/뇌절도:살/심장찌르기/월영섬/월영살]
+變更後原文 +10 천수 원기석 [암살자]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011
+變更前原文 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_101
+變更前原文 +1 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +1 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_102
+變更前原文 +2 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +2 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_103
+變更前原文 +3 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +3 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_104
+變更前原文 +4 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +4 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_105
+變更前原文 +5 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +5 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_106
+變更前原文 +6 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +6 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_107
+變更前原文 +7 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +7 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_108
+變更前原文 +8 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +8 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_109
+變更前原文 +9 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +9 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0011_110
+變更前原文 +10 천수 원기석 [태풍참/가르기/뇌연섬/발도/영혼가르기]
+變更後原文 +10 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012
+變更前原文 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_101
+變更前原文 +1 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +1 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_102
+變更前原文 +2 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +2 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_103
+變更前原文 +3 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +3 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_104
+變更前原文 +4 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +4 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_105
+變更前原文 +5 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +5 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_106
+變更前原文 +6 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +6 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_107
+變更前原文 +7 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +7 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_108
+變更前原文 +8 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +8 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_109
+變更前原文 +9 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +9 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0012_110
+變更前原文 +10 천수 원기석 [태풍참/질풍삼연섬/뇌연섬/절명참/영혼가르기/귀월격]
+變更後原文 +10 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013
+變更前原文 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_101
+變更前原文 +1 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +1 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_102
+變更前原文 +2 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +2 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_103
+變更前原文 +3 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +3 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_104
+變更前原文 +4 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +4 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_105
+變更前原文 +5 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +5 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_106
+變更前原文 +6 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +6 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_107
+變更前原文 +7 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +7 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_108
+變更前原文 +8 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +8 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_109
+變更前原文 +9 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +9 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_RynSword_0013_110
+變更前原文 +10 천수 원기석 [태풍참/하늘베기/뇌연섬/천둥베기/영혼가르기/내려베기]
+變更後原文 +10 천수 원기석 [린검사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011
+變更前原文 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_101
+變更前原文 +1 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +1 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_102
+變更前原文 +2 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +2 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_103
+變更前原文 +3 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +3 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_104
+變更前原文 +4 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +4 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_105
+變更前原文 +5 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +5 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_106
+變更前原文 +6 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +6 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_107
+變更前原文 +7 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +7 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_108
+變更前原文 +8 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +8 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_109
+變更前原文 +9 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +9 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0011_110
+變更前原文 +10 천수 원기석 [폭마령/차원탄/흑염룡/수라/윤회/참절]
+變更後原文 +10 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012
+變更前原文 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_101
+變更前原文 +1 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +1 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_102
+變更前原文 +2 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +2 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_103
+變更前原文 +3 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +3 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_104
+變更前原文 +4 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +4 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_105
+變更前原文 +5 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +5 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_106
+變更前原文 +6 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +6 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_107
+變更前原文 +7 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +7 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_108
+變更前原文 +8 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +8 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_109
+變更前原文 +9 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +9 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0012_110
+變更前原文 +10 천수 원기석 [폭마령/개문/흑염룡/귀령개문/윤회/검은파도]
+變更後原文 +10 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013
+變更前原文 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_101
+變更前原文 +1 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +1 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_102
+變更前原文 +2 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +2 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_103
+變更前原文 +3 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +3 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_104
+變更前原文 +4 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +4 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_105
+變更前原文 +5 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +5 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_106
+變更前原文 +6 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +6 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_107
+變更前原文 +7 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +7 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_108
+變更前原文 +8 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +8 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_109
+變更前原文 +9 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +9 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_WarDagger_0013_110
+變更前原文 +10 천수 원기석 [폭마령/사령쇄도/흑염룡/귀령쇄도/윤회/안개칼날]
+變更後原文 +10 천수 원기석 [주술사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011
+變更前原文 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_101
+變更前原文 +1 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +1 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_102
+變更前原文 +2 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +2 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_103
+變更前原文 +3 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +3 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_104
+變更前原文 +4 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +4 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_105
+變更前原文 +5 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +5 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_106
+變更前原文 +6 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +6 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_107
+變更前原文 +7 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +7 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_108
+變更前原文 +8 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +8 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_109
+變更前原文 +9 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +9 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0011_110
+變更前原文 +10 천수 원기석 [창천권/천룡열권/빙륜환/태진각/벽력장]
+變更後原文 +10 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012
+變更前原文 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_101
+變更前原文 +1 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +1 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_102
+變更前原文 +2 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +2 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_103
+變更前原文 +3 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +3 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_104
+變更前原文 +4 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +4 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_105
+變更前原文 +5 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +5 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_106
+變更前原文 +6 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +6 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_107
+變更前原文 +7 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +7 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_108
+變更前原文 +8 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +8 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_109
+變更前原文 +9 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +9 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0012_110
+變更前原文 +10 천수 원기석 [창천권/발경/빙륜환/한기폭풍/태진각/하염축]
+變更後原文 +10 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013
+變更前原文 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_101
+變更前原文 +1 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +1 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_102
+變更前原文 +2 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +2 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_103
+變更前原文 +3 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +3 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_104
+變更前原文 +4 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +4 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_105
+變更前原文 +5 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +5 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_106
+變更前原文 +6 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +6 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_107
+變更前原文 +7 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +7 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_108
+變更前原文 +8 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +8 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_109
+變更前原文 +9 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +9 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_SoulGauntlet_0013_110
+變更前原文 +10 천수 원기석 [창천권/패왕권/빙륜환/빙하탄/태진각/나선쌍장]
+變更後原文 +10 천수 원기석 [기권사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011
+變更前原文 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_101
+變更前原文 +1 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +1 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_102
+變更前原文 +2 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +2 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_103
+變更前原文 +3 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +3 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_104
+變更前原文 +4 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +4 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_105
+變更前原文 +5 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +5 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_106
+變更前原文 +6 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +6 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_107
+變更前原文 +7 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +7 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_108
+變更前原文 +8 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +8 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_109
+變更前原文 +9 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +9 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0011_110
+變更前原文 +10 천수 원기석 [전탄난사/작렬/기관총사격/궤도폭격]
+變更後原文 +10 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012
+變更前原文 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_101
+變更前原文 +1 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +1 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_102
+變更前原文 +2 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +2 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_103
+變更前原文 +3 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +3 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_104
+變更前原文 +4 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +4 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_105
+變更前原文 +5 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +5 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_106
+變更前原文 +6 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +6 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_107
+變更前原文 +7 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +7 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_108
+變更前原文 +8 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +8 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_109
+變更前原文 +9 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +9 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0012_110
+變更前原文 +10 천수 원기석 [전탄난사/연환/참격/기관총사격/분광포]
+變更後原文 +10 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013
+變更前原文 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_101
+變更前原文 +1 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +1 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_102
+變更前原文 +2 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +2 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_103
+變更前原文 +3 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +3 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_104
+變更前原文 +4 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +4 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_105
+變更前原文 +5 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +5 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_106
+變更前原文 +6 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +6 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_107
+變更前原文 +7 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +7 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_108
+變更前原文 +8 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +8 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_109
+變更前原文 +9 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +9 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_Gun_0013_110
+變更前原文 +10 천수 원기석 [전탄난사/참격/망상/기관총사격/굴절광선]
+變更後原文 +10 천수 원기석 [격사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011
+變更前原文 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_101
+變更前原文 +1 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +1 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_102
+變更前原文 +2 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +2 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_103
+變更前原文 +3 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +3 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_104
+變更前原文 +4 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +4 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_105
+變更前原文 +5 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +5 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_106
+變更前原文 +6 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +6 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_107
+變更前原文 +7 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +7 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_108
+變更前原文 +8 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +8 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_109
+變更前原文 +9 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +9 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0011_110
+變更前原文 +10 천수 원기석 [난도/연참/광검/일월검기/염폭참/염룡검]
+變更後原文 +10 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012
+變更前原文 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_101
+變更前原文 +1 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +1 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_102
+變更前原文 +2 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +2 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_103
+變更前原文 +3 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +3 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_104
+變更前原文 +4 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +4 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_105
+變更前原文 +5 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +5 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_106
+變更前原文 +6 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +6 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_107
+變更前原文 +7 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +7 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_108
+變更前原文 +8 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +8 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_109
+變更前原文 +9 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +9 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0012_110
+變更前原文 +10 천수 원기석 [난도/연격세/광검/선검술/염폭참/염왕진]
+變更後原文 +10 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013
+變更前原文 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_101
+變更前原文 +1 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +1 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_102
+變更前原文 +2 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +2 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_103
+變更前原文 +3 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +3 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_104
+變更前原文 +4 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +4 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_105
+變更前原文 +5 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +5 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_106
+變更前原文 +6 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +6 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_107
+變更前原文 +7 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +7 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_108
+變更前原文 +8 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +8 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_109
+變更前原文 +9 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +9 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_GreatSword_0013_110
+變更前原文 +10 천수 원기석 [난도/일도양단/광검/달빛검기/염폭참/홍염]
+變更後原文 +10 천수 원기석 [투사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011
+變更前原文 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_101
+變更前原文 +1 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +1 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_102
+變更前原文 +2 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +2 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_103
+變更前原文 +3 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +3 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_104
+變更前原文 +4 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +4 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_105
+變更前原文 +5 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +5 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_106
+變更前原文 +6 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +6 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_107
+變更前原文 +7 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +7 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_108
+變更前原文 +8 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +8 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_109
+變更前原文 +9 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +9 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0011_110
+變更前原文 +10 천수 원기석 [공명/내력화살/돌풍살/삼중사격]
+變更後原文 +10 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012
+變更前原文 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_101
+變更前原文 +1 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +1 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_102
+變更前原文 +2 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +2 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_103
+變更前原文 +3 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +3 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_104
+變更前原文 +4 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +4 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_105
+變更前原文 +5 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +5 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_106
+變更前原文 +6 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +6 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_107
+變更前原文 +7 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +7 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_108
+變更前原文 +8 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +8 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_109
+變更前原文 +9 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +9 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0012_110
+變更前原文 +10 천수 원기석 [공명/결집/돌풍살/태풍살]
+變更後原文 +10 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013
+變更前原文 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_101
+變更前原文 +1 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +1 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_102
+變更前原文 +2 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +2 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_103
+變更前原文 +3 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +3 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_104
+變更前原文 +4 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +4 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_105
+變更前原文 +5 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +5 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_106
+變更前原文 +6 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +6 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_107
+變更前原文 +7 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +7 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_108
+變更前原文 +8 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +8 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_109
+變更前原文 +9 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +9 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_LongBow_0013_110
+變更前原文 +10 천수 원기석 [공명/산탄/돌풍살/강사]
+變更後原文 +10 천수 원기석 [궁사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011
+變更前原文 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_101
+變更前原文 +1 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +1 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_102
+變更前原文 +2 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +2 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_103
+變更前原文 +3 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +3 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_104
+變更前原文 +4 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +4 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_105
+變更前原文 +5 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +5 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_106
+變更前原文 +6 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +6 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_107
+變更前原文 +7 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +7 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_108
+變更前原文 +8 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +8 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_109
+變更前原文 +9 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +9 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0011_110
+變更前原文 +10 천수 원기석 [광폭/별무리/번쩍/회전회오리]
+變更後原文 +10 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012
+變更前原文 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_101
+變更前原文 +1 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +1 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_102
+變更前原文 +2 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +2 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_103
+變更前原文 +3 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +3 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_104
+變更前原文 +4 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +4 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_105
+變更前原文 +5 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +5 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_106
+變更前原文 +6 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +6 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_107
+變更前原文 +7 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +7 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_108
+變更前原文 +8 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +8 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_109
+變更前原文 +9 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +9 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0012_110
+變更前原文 +10 천수 원기석 [광폭/광휘/번쩍/번개구슬]
+變更後原文 +10 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013
+變更前原文 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_101
+變更前原文 +1 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +1 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_102
+變更前原文 +2 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +2 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_103
+變更前原文 +3 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +3 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_104
+變更前原文 +4 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +4 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_105
+變更前原文 +5 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +5 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_106
+變更前原文 +6 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +6 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_107
+變更前原文 +7 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +7 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_108
+變更前原文 +8 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +8 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_109
+變更前原文 +9 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +9 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_Orb_0013_110
+變更前原文 +10 천수 원기석 [광폭/광륜/번쩍/우레폭풍]
+變更後原文 +10 천수 원기석 [천도사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011
+變更前原文 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_101
+變更前原文 +1 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +1 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_102
+變更前原文 +2 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +2 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_103
+變更前原文 +3 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +3 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_104
+變更前原文 +4 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +4 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_105
+變更前原文 +5 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +5 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_106
+變更前原文 +6 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +6 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_107
+變更前原文 +7 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +7 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_108
+變更前原文 +8 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +8 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_109
+變更前原文 +9 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +9 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0011_110
+變更前原文 +10 천수 원기석 [멸륜참/절멸/화풍연참/화선풍]
+變更後原文 +10 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012
+變更前原文 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_101
+變更前原文 +1 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +1 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_102
+變更前原文 +2 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +2 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_103
+變更前原文 +3 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +3 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_104
+變更前原文 +4 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +4 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_105
+變更前原文 +5 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +5 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_106
+變更前原文 +6 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +6 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_107
+變更前原文 +7 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +7 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_108
+變更前原文 +8 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +8 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_109
+變更前原文 +9 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +9 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0012_110
+變更前原文 +10 천수 원기석 [멸륜참/환영살/화풍연참/화월]
+變更後原文 +10 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013
+變更前原文 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_101
+變更前原文 +1 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +1 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_102
+變更前原文 +2 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +2 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_103
+變更前原文 +3 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +3 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_104
+變更前原文 +4 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +4 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_105
+變更前原文 +5 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +5 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_106
+變更前原文 +6 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +6 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_107
+變更前原文 +7 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +7 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_108
+變更前原文 +8 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +8 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_109
+變更前原文 +9 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +9 천수 원기석 [쌍검사]
+原文变更 Item.Name2.General_EnchantStone_DualBlade_0013_110
+變更前原文 +10 천수 원기석 [멸륜참/연검: 난도/화풍연참/개화]
+變更後原文 +10 천수 원기석 [쌍검사]
+新增条目 Item.Name2.General_Accessory_ArborDayEvent_0001_101
+新增条目 Item.Name2.General_Accessory_ArborDayEvent_0001_102
+新增条目 Item.Desc2.General_Accessory_ArborDayEvent_0001_101
+新增条目 Item.Desc2.General_Accessory_ArborDayEvent_0001_102
+新增条目 Item.Desc4.General_Accessory_ArborDayEvent_0001_101
+新增条目 Item.Desc4.General_Accessory_ArborDayEvent_0001_102
+新增条目 Item.Desc5.General_Accessory_ArborDayEvent_0001_101
+新增条目 Item.Desc5.General_Accessory_ArborDayEvent_0001_102
+新增条目 Item.Name2.Event_Grocery_SpecialMaterial_0073
+新增条目 Item.Name2.Event_Grocery_Coin_0370
+新增条目 Item.Name2.Event_Grocery_Food_0125
+新增条目 Item.Name2.Event_Grocery_Box_1330
+新增条目 Item.Desc2.Event_Grocery_SpecialMaterial_0073
+新增条目 Item.Desc2.Event_Grocery_Food_0125
+新增条目 Item.MainInfo.Event_Grocery_SpecialMaterial_0073
+新增条目 Item.MainInfo.Event_Grocery_Coin_0370
+新增条目 Item.MainInfo.Event_Grocery_Food_0125
+新增条目 Item.MainInfo.Event_Grocery_Box_1330
+新增条目 Item.Desc4.Event_Grocery_SpecialMaterial_0073
+新增条目 Item.Desc4.Event_Grocery_Coin_0370
+新增条目 Item.Desc4.Event_Grocery_Food_0125
+新增条目 Item.Desc5.Event_Grocery_SpecialMaterial_0073
+新增条目 Item.Desc5.Event_Grocery_Coin_0370
+新增条目 Item.Desc5.Event_Grocery_Food_0125
+新增条目 Item.Desc5.Event_Grocery_Box_1330

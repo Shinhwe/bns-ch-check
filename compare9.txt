@@ -1,0 +1,1090 @@
+原文变更 Item.AcquirePlace.1626
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료<br/><image enablescale="true" imagesetpath="00009499.Repeat_start" scalerate="1.2"/> 나류성지 일일퀘스트, 법기 연구소 일일퀘스트, 흑룡교 비밀전당 일일퀘스트, 갈고리 협곡 일일퀘스트<br/><image enablescale="true" imagesetpath="00009499.Repeat_start" scalerate="1.2"/> 그루족 고도시 일일퀘스트, 메아리 수중동굴 일일퀘스트, 나류 수장고 일일퀘스트, 폭풍의 모래신전 일일퀘스트
+原文变更 Item.AcquirePlace.1635
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.AcquirePlace.1662
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료<br/><image enablescale="true" imagesetpath="00009499.Repeat_start" scalerate="1.2"/> 지옥의 용광로, 잊혀진 무덤<br/><image enablescale="true" imagesetpath="00009499.Repeat_start" scalerate="1.2"/> 흑룡교 지하감옥, 비탄의 설옥궁
+原文变更 Item.AcquirePlace.1814
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 일반 던전 신비상인 신비해
+原文变更 Item.AcquirePlace.1815
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료<br/><image enablescale="true" imagesetpath="00009076.Tooltip_GetWhere" scalerate="1.2"/> 일반 던전 신비상인 신비해<br/><image enablescale="true" imagesetpath="00009499.Repeat_start" scalerate="1.2"/> 귀면극단, 천명 부화장, 뒤틀린 천무궁 일일 퀘스트
+原文变更 Item.Desc2.General_Accessory_ChristmasEvent_0001_101
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_ChristmasEvent_0001_102
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_ChristmasEvent_0001_103
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_ChristmasEvent_0001_104
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_ChristmasEvent_0001_105
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_SoulEvent_0002_101
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_SoulEvent_0002_102
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_SoulEvent_0002_103
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_SoulEvent_0002_104
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_SoulEvent_0002_105
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_HalloweenEvent_0001_101
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Accessory_HalloweenEvent_0001_102
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_FishingPaste_0004
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.General_Grocery_FishingPaste_0005
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1313
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1031
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4113
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4114
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4115
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1325
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1032
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4188
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4189
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4190
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1354
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1033
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4229
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4230
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4231
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4236
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1362
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1034
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4242
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4243
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4244
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4245
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1364
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1035
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4260
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4261
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4262
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4263
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1365
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1036
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4280
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4281
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4282
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4283
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1394
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1037
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4343
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4344
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4345
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4346
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1410
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1039
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4425
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4426
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4427
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4428
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1411
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1040
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4439
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4440
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4441
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4442
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1441
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1041
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4471
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4472
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4473
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4474
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1466
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1042
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4495
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4496
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4497
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4498
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1467
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Key_1043
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4499
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4500
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4501
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_Box_4502
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.General_Grocery_SpecialMaterial_1486
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc6.General_Grocery_Box_3381
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_3395
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_3563
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4022
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4051
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4052
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4053
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4054
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4055
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4056
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0157
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Coin_0265
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0524
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0525
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0526
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0527
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SpecialMaterial_1483
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 검은바람동굴<br/><image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림<br/><image imagesetpath="00009076.Tooltip_process" enablescale="true" scalerate="1.2"/> 홍악린 파편 가공
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0688
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0689
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0690
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0692
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_SelectionBox_0693
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc6.General_Grocery_Box_4863
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림, 천공의 유랑선, 불법 군수공장
+原文变更 Item.Desc6.General_Grocery_Box_4864
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림, 천공의 유랑선, 불법 군수공장
+原文变更 Item.Desc6.General_Grocery_Box_4865
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 몽환의 천수림, 천공의 유랑선, 불법 군수공장
+原文变更 Item.Desc2.Event__Grocery_Coin_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event__Grocery_Coin_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event__Grocery_Coin_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Potion_0006
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0013
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Potion_0007
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0014
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Potion_0008
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0015
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_RepairTool_0006
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_RepairTool_0007
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_RepairTool_0008
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_ReviveTalisman_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_ReviveTalisman_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_ReviveTalisman_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_ReviveTalisman_0004
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Promotion_Grocery_Coin_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0016
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0017
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0018
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Potion_0010
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Potion_0011
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Potion_0012
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0019
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;위기의 순간에 귀인이 나타나 전세를 역전시킵니다. 기연절벽 비무장에서 만날 확률이 높습니다.&quot;</font><br/><br/>교환 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;돌림판에서 원하는 물품을 얻을 확률이 증가합니다. 뱀띠는 추가 확률을 적용받습니다.(믿거나 말거나!)&quot;</font><br/><br/>교환 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;거래를 통해 큰 재물을 얻을 수 있습니다. 시장 상황이 급격히 변할 때에는 조심하세요.&quot;</font><br/><br/>교환 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0004
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;새로운 지역에서 유명세를 얻게 됩니다. 숲 지역은 조심하는 것이 좋습니다.&quot;</font><br/><br/>교환 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0005
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;허약했던 체력과 장비가 좋아지는 해입니다. 주변의 부러움과 질투를 받을 수 있습니다.&quot;</font><br/><br/>교환 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0008
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0009
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0010
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0021
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0022
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0023
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0024
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_TownTeleport_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_TownTeleport_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_TownTeleport_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0078
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0079
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0034
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0035
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Potion_0014
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0049
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0051
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;축제 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0044
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0045
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0046
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0047
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0048
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Key_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0008
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0049
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0119
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0120
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Deed_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Key_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0009
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Box_0185
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0186
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Key_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0010
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Deed_0004
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Box_0204
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0205
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Key_0004
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0011
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Box_0227
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0228
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_0229
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0083
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0085
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Key_0005
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0014
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Deed_0005
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0060
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0088
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0089
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Key_0006
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0016
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0091
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Key_0007
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Cash_Grocery_Coin_0017
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0010
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0011
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0012
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0013
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0014
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0015
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0101
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0061
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0062
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Food_0063
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Box_0399
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0043
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0281
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0051
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0283
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0052
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0053
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1030
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1031
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1032
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1033
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1034
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1035
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0292
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Promotion_Grocery_Box_0194
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 <font name="00008130.UI.Label_LightYellow_12">&quot;사용 기간이 종료되어 더 이상 사용할 수 없습니다.&quot;</font>
+原文变更 Item.Desc2.Event_Grocery_Coin_0307
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0308
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0309
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0310
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0311
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0312
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0313
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0314
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0315
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0316
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1101
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1102
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1103
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1104
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1105
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0328
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0329
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0333
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0334
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Deed_0110
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Deed_0111
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Deed_0112
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Deed_0113
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Deed_0114
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0061
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0057
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0058
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_SpecialMaterial_0059
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1163
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1164
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1165
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1166
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1175
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0079
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0080
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0336
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0337
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0338
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0339
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0340
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0341
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0342
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1176
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0065
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0066
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0067
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0068
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0069
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0086
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0087
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1182
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1183
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1184
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1185
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0070
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0071
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0345
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0346
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1189
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpTalisman_0010
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0347
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0348
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1191
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0349
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Box_1192
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Deed_0048
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Deed_0049
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0090
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0091
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0092
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Food_0093
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0328
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0350
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Cash_Grocery_Coin_0329
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_Coin_0357
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Key_0015
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0139
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0140
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0141
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0142
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0143
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0144
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_WeaponGem_0145
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0077
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_SpecialMaterial_0060
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_SpecialMaterial_0061
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_SpecialMaterial_0062
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_SpecialMaterial_0063
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0352
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0099
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0100
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0101
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0102
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1222
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1223
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0353
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0354
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0103
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0104
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0331
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0332
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0333
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0105
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0106
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0107
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Food_0108
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0334
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0335
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0336
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1226
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1227
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1228
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0078
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Box_1229
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0355
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_Coin_0356
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.MainInfo.Event_Grocery_ExpTalisman_0011
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc4.Event_Grocery_Coin_0325
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상<br/><image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 주간도전 완료 보상<br/><image enablescale="true" imagesetpath="00009499.Repeat_start" scalerate="1.2"/> 잃어버린 장군의 긍지
+原文变更 Item.Desc5.Event_Grocery_Box_0525
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 사용 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc5.Event_Grocery_Box_0526
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 사용 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc6.Event_Grocery_Box_0778
+變更前原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료
+變更後原文 <image enablescale="true" imagesetpath="00009076.Tooltip_Party" scalerate="1.2"/> 일일도전 완료 보상
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0001
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0002
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0003
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0004
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0005
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0006
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0007
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 Item.Desc2.Event_Grocery_ExpansionTool_0008
+變更前原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+變更後原文 이벤트 기간이 종료되어 더 이상 사용할 수 없습니다.
+原文变更 TrainDesc.Trait_Thunderer_base_1_01
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Label_LightYellow_12">별빛</font>과 <font name="00008130.UI.Label_LightYellow_12">광자</font>를 중첩하여 전용 무공을 사용합니다.</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">빛을 다루는 무공으로 <font name="00008130.UI.Label_LightYellow_12">별빛</font>을 모아 더욱 강력한 무공을 사용합니다.</p>
+原文变更 TrainDesc.Trait_Thunderer_advanced_1_01
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Label_LightYellow_12">별빛</font>과 <font name="00008130.UI.Label_LightYellow_12">광자</font>를 중첩하여 전용 무공을 사용합니다.</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">빛을 다루는 무공으로 <font name="00008130.UI.Label_LightYellow_12">별빛</font>을 모아 더욱 강력한 무공을 사용합니다.</p>
+原文变更 TrainDesc.Trait_Thunderer_advanced_1_11
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">광증폭 상태에서 <font name="00008130.UI.Vital_LightBlue">광정: 쾌</font> 사용 가능</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">광증폭 상태에서 <font name="00008130.UI.Vital_LightBlue">광탄: 쾌</font> 사용 가능</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">광정</font> 시전 속도 증가</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">광탄</font> 시전 속도 증가</p>
+原文变更 TrainDesc.Trait_Thunderer_advanced_1_12
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">광증폭 상태에서 <font name="00008130.UI.Vital_LightBlue">광정: 중</font> 사용 가능</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">광증폭 상태에서 <font name="00008130.UI.Vital_LightBlue">광탄: 중</font> 사용 가능</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">광정</font> 피해량 증가</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">광탄</font> 피해량 증가</p>
+原文变更 TrainDesc.Trait_Thunderer_advanced_1_13
+變更前原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">광증폭 상태에서 <font name="00008130.UI.Vital_LightBlue">광정: 환</font> 사용 가능</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10">광증폭 상태에서 <font name="00008130.UI.Vital_LightBlue">광탄: 환</font> 사용 가능</p>
+變更後原文 <p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">광정</font> 범위 광역으로 변경</p><br/><p bullets="●" bulletsfontset="00008130.UI.Normal_12" bottommargin="10"><font name="00008130.UI.Vital_LightBlue">광탄</font> 범위 광역으로 변경</p>
+新增条目 UI.ItemGrowth.Confirm.ImproveOptionChange.MakeSelection
+新增条目 CH_PA_FrozenArkRnD_0002_msg_1_text1
+新增条目 q_2000_1_icon_msg_1_text1
+新增条目 q_2001_3_icon_msg_1_text1
+新增条目 q_2001_6_icon_msg_1_text1
+新增条目 q_2002_3_icon_msg_1_text1
+新增条目 q_2002_6_icon_msg_1_text1

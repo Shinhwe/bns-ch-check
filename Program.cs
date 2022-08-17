@@ -1,5 +1,7 @@
 ﻿
 
+using System.Text.RegularExpressions;
+
 namespace bns_ch_check;
 
 class Program
@@ -7,23 +9,808 @@ class Program
   static async Task Main(string[] args)
   {
 
+
     // BNSXmlConvert bnsXmlConvert = new BNSXmlConvert();
 
-    // await bnsXmlConvert.Convert("/Users/shinhwe/after.xml");
+    // await bnsXmlConvert.Convert("/Users/shinhwe/bns-ch-txt/Translation64.xml");
 
-    // BNSXMLMerge bnsXMLMerge = new BNSXMLMerge();
+    BNSXMLMerge bnsXMLMerge = new BNSXMLMerge();
 
-    // await bnsXMLMerge.Merge("/Users/shinhwe/bns-ch-txt/Translation64-tw.xml", "/Users/shinhwe/bns-ch-txt/Translation64.xml", 817280, 819091);
+    await bnsXMLMerge.Merge("/Users/shinhwe/before.xml", "/Users/shinhwe/after.xml");
+
+    // await bnsXMLMerge.MergeFromChineseFile("/Users/shinhwe/bns-ch-txt/Translation64.xml", "/Users/shinhwe/bns-ch-txt/Translation64-cn.xml", 694582, 694599);
+
+    // await bnsXMLMerge.MergeFromChineseFile("/Users/shinhwe/bns-ch-txt/Translation64.xml", "/Users/shinhwe/before.xml", "itemskill.");
+
+    // BNSXMLCompare bnsXMLCompare = new BNSXMLCompare();
+
+    // await bnsXMLCompare.Compare("/Users/shinhwe/before.xml", "/Users/shinhwe/after.xml", true);
 
     // BNSXmlReader bnsXmlReader = new BNSXmlReader();
 
     // await bnsXmlReader.Read("/Users/shinhwe/bns-ch-txt/Translation64.xml");
 
+    // BNSXMLRecover bnsXmlRecover = new BNSXMLRecover("/Users/shinhwe/bns-ch-txt/Translation64.xml");
+
+    // bnsXmlRecover.Recover();
+
+
+    // Dictionary<string, string> translateDictionary = new Dictionary<string, string>()
+    // {
+    //   ["천수 원기석"] = "千手元氣石",
+    //   ["흑월 진기석"] = "黑月真氣石",
+    //   ["설풍 원기석"] = "雪風元氣石",
+    //   ["태황 원기석"] = "太皇元氣石",
+    //   ["상묵 태황 원기석"] = "常墨 太皇元氣石",
+    //   ["상묵 설풍 원기석"] = "常墨 雪風元氣石",
+    //   ["상묵 흑월 진기석"] = "常墨 黑月真氣石",
+    //   ["인광석"] = "人光石",
+    //   ["지광석"] = "地光石",
+    //   ["천광석"] = "天光石",
+    //   ["각성 인광석"] = "覺醒人光石",
+    //   ["각성 지광석"] = "覺醒地光石",
+    //   ["각성 천광석"] = "覺醒天光石",
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["검사"] = "劍士",
+    //   ["권사"] = "拳士",
+    //   ["소환사"] = "召喚師",
+    //   ["기공사"] = "氣功士",
+    //   ["역사"] = "力士",
+    //   ["암살자"] = "刺客",
+    //   ["린검사"] = "燐劍士",
+    //   ["주술사"] = "咒術師",
+    //   ["기권사"] = "乾坤士",
+    //   ["격사"] = "槍擊士",
+    //   ["투사"] = "鬥士",
+    //   ["궁사"] = "弓箭手",
+    //   ["천도사"] = "天道士",
+    //   ["쌍검사"] = "雙劍士",
+    //   ["악사"] = "樂師",
+
+
+
+
+
+
+
+
+
+
+
+    //   ["화룡연참"] = "火龍連斬",
+    //   ["만월베기"] = "滿月斬",
+    //   ["급소베기"] = "奪命劍",
+    //   ["창룡검결"] = "蒼龍劍訣",
+    //   ["어검비산"] = "禦劍飛散",
+    //   ["발도"] = "拔劍",
+    //   ["십마령섬"] = "弑魔靈閃",
+    //   ["무명검결"] = "無名劍訣",
+    //   ["번개베기"] = "雷斬",
+    //   ["어검 연속베기"] = "禦劍連斬",
+    //   ["비연검"] = "飛燕劍",
+    //   ["하단베기"] = "下段斬",
+    //   ["회전베기"] = "回旋斬",
+    //   ["창룡무"] = "蒼龍舞",
+    //   ["대지가르기"] = "裂地",
+    //   ["이기어검"] = "以氣禦劍",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["적룡권"] = "赤龍拳",
+    //   ["풍령각"] = "風令腳",
+    //   ["광란"] = "狂亂",
+    //   ["산사태"] = "山崩",
+    //   ["철산고"] = "鐵山靠",
+    //   ["살육"] = "殺戮",
+    //   ["용호포"] = "龍虎步",
+    //   ["회천각"] = "回天腳",
+    //   ["쌍장"] = "雙掌",
+    //   ["붕권"] = "崩拳",
+    //   ["도산봉추"] = "刀山崩竹",
+    //   ["승룡각"] = "昇龍腿",
+    //   ["다리걸기"] = "掃堂腿",
+    //   ["광포"] = "狂步",
+    //   ["흑령철포"] = "黑靈鐵步",
+    //   ["흑령선풍"] = "黑靈旋風",
+    //   ["흑령파동"] = "黑靈波動",
+    //   ["멸산고"] = "滅山靠",
+    //   ["통배권"] = "通背拳",
+    //   ["도산붕추"] = "刀山崩竹",
+    //   ["파진무"] = "破陣舞",
+    //   ["아랑난무"] = "餓狼亂舞",
+    //   ["점혈"] = "點穴",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["말벌"] = "馬蜂",
+    //   ["큰 해바라기"] = "大向日葵",
+    //   ["와장창"] = "轟隆隆！",
+    //   ["가시덩굴"] = "荊棘籐",
+    //   ["빠직"] = "氣呼呼！",
+    //   ["투척밤송이"] = "飛栗球",
+    //   ["뻥이요"] = "騙你的！",
+    //   ["쏜다냥"] = "發射喵",
+    //   ["꿀밤"] = "爆栗",
+    //   ["해바라기"] = "向日葵",
+    //   ["달려들기"] = "喵喵出擊！",
+    //   ["엉덩방아"] = "四腳朝天",
+    //   ["데굴데굴"] = "骨碌碌",
+    //   ["와장창!"] = "轟隆隆！",
+    //   ["뿅뿅~"] = "砰砰~",
+    //   ["빠직!"] = "氣呼呼！",
+    //   ["장미"] = "玫瑰",
+    //   ["휘릭"] = "揮力！",
+    //   ["나팔꽃 흡수"] = "牽牛花",
+    //   ["황금벌"] = "黃金蜂",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["폭열신장"] = "爆炎神掌",
+    //   ["빙백연혼경"] = "冰壁連魂鏡",
+    //   ["폭뢰파"] = "暴雷波",
+    //   ["화염지옥"] = "火焰地狱",
+    //   ["빙백한포"] = "冰壁寒炮",
+    //   ["섬뇌격"] = "閃雷擊",
+    //   ["유성지"] = "流星指",
+    //   ["설화장"] = "雪花掌",
+    //   ["섬뇌장"] = "閃雷掌",
+    //   ["화련장"] = "火蓮掌",
+    //   ["쌍룡파"] = "雙龍掌",
+    //   ["연쇄번개"] = "連鎖閃電",
+    //   ["폭염"] = "炎爆",
+    //   ["기공포"] = "氣功炮",
+    //   ["설빙"] = "雪冰",
+    //   ["흑편뢰"] = "黑閃雷",
+    //   ["열화장"] = "烈火掌",
+    //   ["한파"] = "玄冰掌",
+    //   ["낙뢰"] = "雷降",
+    //   ["천룡포"] = "天龍炮",
+    //   ["염룡파"] = "炎龍掌",
+    //   ["빙룡파"] = "冰龍掌",
+    //   ["뇌흔"] = "雷魂",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["파괴"] = "破壞",
+    //   ["섬멸"] = "殆滅",
+    //   ["쌍월격"] = "雙月擊",
+    //   ["격노"] = "激怒",
+    //   ["격풍"] = "激風",
+    //   ["쇄도"] = "突馳",
+    //   ["대파괴"] = "破壞",
+    //   ["발구르기"] = "重踏",
+    //   ["금월참"] = "金月斬",
+    //   ["분쇄"] = "粉碎",
+    //   ["집행"] = "執刑",
+    //   ["무진"] = "無盡",
+    //   ["격돌"] = "衝鋒",
+    //   ["절단"] = "滅絕",
+    //   ["월격"] = "月擊",
+    //   ["쇄류"] = "碎流",
+    //   ["광천부"] = "狂天賦",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["심장찌르기"] = "刺心",
+    //   ["뇌절도:살"] = "雷絕刀：殺",
+    //   ["월영섬"] = "月影閃",
+    //   ["암흑살"] = "闇黑殺",
+    //   ["뇌절도"] = "雷絕刀",
+    //   ["오월참"] = "烏月斬",
+    //   ["독무투척"] = "擲毒霧",
+    //   ["월영격"] = "月影擊",
+    //   ["맹독베기"] = "猛毒斬",
+    //   ["월영살"] = "月影殺",
+    //   ["척추찌르기"] = "脊崩",
+    //   ["나뭇잎운신"] = "木葉隱身",
+    //   ["뇌절도: 살"] = "雷絕刀：殺",
+    //   ["독풍격"] = "毒風腳",
+    //   ["오월령: 예기"] = "烏月靈：銳氣",
+    //   ["그림자흡수"] = "吸影",
+    //   ["무영살"] = "無影殺",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["태풍참"] = "颱風斬",
+    //   ["뇌연섬"] = "雷炎閃",
+    //   ["영혼가르기"] = "靈魂斬",
+    //   ["가르기"] = "斷水斬",
+    //   ["귀월격"] = "鬼月擊",
+    //   ["질풍삼연섬"] = "疾風三連斬",
+    //   ["절명참"] = "絕命斬",
+    //   ["하늘베기"] = "天斬",
+    //   ["천둥베기"] = "轟雷斬",
+    //   ["내려베기"] = "下斬",
+    //   ["습격"] = "襲擊",
+    //   ["귀참"] = "鬼斬",
+    //   ["멸혼섬"] = "滅魂閃",
+    //   ["파천검륜"] = "破天劍流",
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["폭마령"] = "暴魔靈",
+    //   ["흑염룡"] = "黑炎龍",
+    //   ["윤회"] = "輪回",
+    //   ["차원탄"] = "次元彈",
+    //   ["수라"] = "修羅",
+    //   ["참절"] = "斬絕",
+    //   ["개문"] = "開門",
+    //   ["귀령개문"] = "鬼靈開門",
+    //   ["검은파도"] = "黑暗波動",
+    //   ["사령쇄도"] = "死靈突馳",
+    //   ["귀령쇄도"] = "鬼靈突馳",
+    //   ["안개칼날"] = "迷霧刀鋒",
+    //   ["경계베기"] = "警戒斬",
+    //   ["명령"] = "命令",
+    //   ["안개벼락"] = "迷霧霹靂",
+    //   ["낮은어둠"] = "低處黑暗",
+    //   ["야차"] = "夜叉",
+    //   ["나찰"] = "羅剎",
+    //   ["공간붕괴"] = "空間崩壞",
+    //   ["결계"] = "結界",
+    //   ["황폐화"] = "荒廢",
+    //   ["마령살"] = "魔靈殺",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["창천권"] = "蒼穹拳",
+    //   ["빙륜환"] = "冰輪環",
+    //   ["태진각"] = "太真腿",
+    //   ["천룡열권"] = "天龍烈拳",
+    //   ["벽력장"] = "霹靂掌",
+    //   ["발경"] = "爪破",
+    //   ["한기폭풍"] = "寒氣風暴",
+    //   ["하염축"] = "夏鹽踢",
+    //   ["패왕권"] = "霸王拳",
+    //   ["빙하탄"] = "冰河彈",
+    //   ["나선쌍장"] = "螺旋雙掌",
+    //   ["대지파동"] = "大地波動",
+    //   ["진공파"] = "真空破",
+    //   ["쇄붕격"] = "碎峰擊",
+    //   ["삼연격"] = "三連擊",
+    //   ["극점"] = "極點",
+    //   ["천수일권"] = "千手一拳",
+    //   ["우벽장"] = "右壁掌",
+    //   ["비익장"] = "飛翼掌",
+    //   ["수라패왕권"] = "修羅霸王拳",
+    //   ["무영수"] = "無影手",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["전탄난사"] = "流彈亂射",
+    //   ["기관총사격"] = "機關槍射擊",
+    //   ["작렬"] = "炸裂",
+    //   ["궤도폭격"] = "軌道轟炸",
+    //   ["연환"] = "連環",
+    //   ["참격"] = "斬擊",
+    //   ["분광포"] = "分光炮",
+    //   ["망상"] = "妄想",
+    //   ["굴절광선"] = "折射光線",
+    //   ["폭발사격"] = "爆發射擊",
+    //   ["연계폭발"] = "連續爆發",
+    //   ["낙화"] = "落華",
+    //   ["타락"] = "墮落",
+    //   ["저격자세"] = "狙擊姿態",
+    //   ["폭탄확산"] = "炸彈擴散",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["난도"] = "亂刀",
+    //   ["광검"] = "狂劍",
+    //   ["염폭참"] = "炎爆斬",
+    //   ["연참"] = "連斬",
+    //   ["일월검기"] = "日月劍氣",
+    //   ["염룡검"] = "炎龍劍",
+    //   ["연격세"] = "連擊勢",
+    //   ["선검술"] = "仙劍術",
+    //   ["염왕진"] = "炎王陣",
+    //   ["일도양단"] = "一刀兩斷",
+    //   ["달빛검기"] = "月光劍氣",
+    //   ["홍염"] = "紅炎",
+    //   ["돌파"] = "突破",
+    //   ["발목베기"] = "掃堂斬",
+    //   ["섬광"] = "閃光",
+    //   ["염왕수"] = "炎王束",
+    //   ["속검"] = "速劍",
+    //   ["월야"] = "月夜",
+    //   ["단세"] = "單勢",
+    //   ["연환세"] = "連環勢",
+    //   ["벚꽃비"] = "櫻花雨",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["공명"] = "共鳴",
+    //   ["돌풍살"] = "突風殺",
+    //   ["내력화살"] = "內力箭",
+    //   ["삼중사격"] = "三重射擊",
+    //   ["결집"] = "集結",
+    //   ["태풍살"] = "颱風殺",
+    //   ["산탄"] = "散彈",
+    //   ["강사"] = "鋼殺",
+    //   ["파공성"] = "破空",
+    //   ["지면울림"] = "地面鳴響",
+    //   ["궁신탄영"] = "弓身彈影",
+    //   ["투검"] = "鬥劍",
+    //   ["관통화살"] = "貫穿箭",
+    //   ["궤멸화살"] = "潰亡箭",
+    //   ["이어쏘기"] = "連射",
+    //   ["정조준"] = "瞄準",
+    //   ["화살폭풍"] = "暴風箭矢",
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["광폭"] = "光幅",
+    //   ["번쩍"] = "閃現",
+    //   ["별무리"] = "星群",
+    //   ["회전회오리"] = "回轉旋風",
+    //   ["광휘"] = "光輝",
+    //   ["번개구슬"] = "雷珠",
+    //   ["광륜"] = "光輪",
+    //   ["우레폭풍"] = "雷鳴風暴",
+    //   ["별튕기기"] = "跳星",
+    //   ["별굴리기"] = "滾星",
+    //   ["천둥울림"] = "雷鳴",
+    //   ["번개숨결"] = "雷息",
+    //   ["벼락고리"] = "霹靂環",
+    //   ["푸른울림"] = "青鳴",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["멸륜참"] = "滅輪斬",
+    //   ["화풍연참"] = "花風連斬",
+    //   ["절멸"] = "誅滅",
+    //   ["화선풍"] = "花旋風",
+    //   ["환영살"] = "幻影殺",
+    //   ["화월"] = "花月",
+    //   ["연검: 난도"] = "連劍：亂刀",
+    //   ["개화"] = "開花",
+    //   ["강격"] = "強擊",
+    //   ["수라잔영살"] = "修羅殘影殺",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //   ["진기석 홈이 확장된 무기에 장착할 수 있습니다."] = "可以裝備在已添加真氣石凹槽的武器上。",
+    //   ["진기석 홈이 확장된 무기에 장착할 수 있습니다"] = "可以裝備在已添加真氣石凹槽的武器上。",
+    //   ["원기석 홈이 확장된 무기에 장착할 수 있습니다."] = "可以裝備在已添加元氣石凹槽的武器上。",
+    //   ["원기석 홈이 확장된 무기에 장착할 수 있습니다"] = "可以裝備在已添加元氣石凹槽的武器上。",
+    //   [" 무공 및 관련된 특성 무공이 강화됩니다"] = "招式和相關特性招式。",
+    //   [" 무공 및 관련된 특성 무공이 강화됩니다."] = "招式和相關特性招式。",
+    //   ["무공 및 관련된 특성 무공이 강화됩니다"] = "招式和相關特性招式。",
+    //   ["무공 및 관련된 특성 무공이 강화됩니다."] = "招式和相關特性招式。",
+    //   ["무공 및 관련된 특성 무공이 강화됩니다 "] = "招式和相關特性招式。",
+    //   ["무공 및 관련된 특성 무공이 강화됩니다. "] = "招式和相關特性招式。",
+    //   ["10단계 이상 성장 시 분해를 통해 <arg id=\"item:General_Grocery_Coin_0197\" p=\"id:item.front-icon.scale.120\"/> <font name=\"00008130.Program.Fontset_ItemGrade_7\">청룡성</font>을 획득할 수 있습니다.<br/>"] = "成長至10段時，經由分解可以獲得<arg id=\"item:General_Grocery_Coin_0197\" p=\"id:item.front-icon.scale.120\"/> <font name=\"00008130.Program.Fontset_ItemGrade_7\">青龍星</font>。<br/>",
+    //   ["능력치가 최대로 성장된 각성 파천목걸이는 잠재된 기운을 해방시킬 수 있습니다.<br/>"] = "",
+    //   ["능력치가 최대로 성장된 각성 설풍반지는 잠재된 기운을 해방시킬 수 있습니다.<br/>"] = "",
+    //   ["능력치가 최대로 성장된 각성 백야귀걸이는 잠재된 기운을 해방시킬 수 있습니다.<br/>"] = "",
+    //   ["능력치가 최대로 성장된 각성 백야반지는 잠재된 기운을 해방시킬 수 있습니다.<br/>"] = "",
+    //   ["분해 시 불라국의 석판에 사용할 수 있는 장비를 획득할 수 있습니다.<br/>"] = "經由分解獲得的裝備可以使用於布拉國石板。<br/>",
+
+
+
+
+
+
+
+
+
+
+
+    //   ["기검 계열의 "] = "強化氣劍系的",
+    //   ["쾌검 계열의 "] = "強化快劍系的",
+    //   ["어검 계열의 "] = "強化禦劍系的",
+
+
+
+
+
+
+    //   ["적호 계열의 "] = "強化赤虎系的",
+    //   ["청룡 계열의 "] = "強化青龍系的",
+    //   ["흑랑 계열의 "] = "強化黑狼系的",
+
+
+
+
+
+
+    //   ["조화 계열의 "] = "強化調和系的",
+    //   ["자연 계열의 "] = "強化自然系的",
+    //   ["환상 계열의 "] = "強化幻想系的",
+
+
+
+
+
+
+
+    //   ["초열 계열의 "] = "強化灼熱系的",
+    //   ["혹한 계열의 "] = "強化酷寒系的",
+    //   ["음양 계열의 "] = "強化陰陽系的",
+
+
+
+
+
+
+    //   ["태산 계열의 "] = "強化泰山系的",
+    //   ["칠흑 계열의 "] = "強化漆黑系的",
+    //   ["쌍월 계열의 "] = "強化雙月系的",
+
+
+
+
+
+
+    //   ["독영 계열의 "] = "強化毒影系的",
+    //   ["무영 계열의 "] = "強化無影系的",
+    //   ["암영 계열의 "] = "強化暗影系的",
+
+
+
+
+
+
+
+    //   ["풍운 계열의 "] = "強化風雲系的",
+    //   ["섬광 계열의 "] = "強化閃光系的",
+    //   ["귀검 계열의 "] = "強化鬼劍系的",
+
+
+
+
+
+
+
+    //   ["왜곡 계열의 "] = "強化扭曲系的",
+    //   ["저주 계열의 "] = "強化詛咒系的",
+    //   ["사신 계열의 "] = "強化死神系的",
+
+
+
+
+
+
+    //   ["금강 계열의 "] = "強化金剛系的",
+    //   ["순환 계열의 "] = "強化循環系的",
+    //   ["천수 계열의 "] = "強化千手系的",
+
+
+
+
+
+    //   ["포화 계열의 "] = "強化炮火系的",
+    //   ["마탄 계열의 "] = "強化魔彈系的",
+    //   ["투영 계열의 "] = "強化投影系的",
+
+
+
+
+
+
+    //   ["혈기 계열의 "] = "強化血氣系的",
+    //   ["선검 계열의 "] = "強化仙劍系的",
+    //   ["염제 계열의 "] = "強化炎帝系的",
+
+
+
+
+
+
+    //   ["여명 계열의 "] = "強化黎明系的",
+    //   ["질풍 계열의 "] = "強化疾風系的",
+
+
+
+
+
+
+
+    //   ["은하 계열의 "] = "強化銀河系的",
+    //   ["우레 계열의 "] = "強化雷鳴系的",
+
+
+
+
+
+
+
+
+    //   ["무극 계열의 "] = "強化無極系的",
+    //   ["화무 계열의 "] = "強化花舞系的",
+
+
+
+
+
+
+
+    //   ["화무 계열의 "] = "強化典律系的",
+    //   ["화무 계열의 "] = "強化旋律系的",
+    // };
+
+    // Dictionary<string, string> weaponTypeTranslateDictionary = new Dictionary<string, string>()
+    // {
+    //   ["린검"] = "燐劍",
+    //   ["쌍검"] = "雙劍",
+    //   ["대검"] = "巨劍",
+    //   ["기권갑"] = "乾坤拳套",
+    //   ["보주"] = "寶珠",
+    //   ["소태도"] = "短刀",
+    //   ["도끼"] = "斧頭",
+    //   ["권총"] = "手槍",
+    //   ["지팡이"] = "法杖",
+    //   ["기공패"] = "彩綾",
+    //   ["권갑"] = "拳套",
+    //   ["검"] = "劍",
+    //   ["활"] = "弓",
+    //   ["주술도"] = "咒術刀",
+    //   ["현"] = "琴",
+    // };
+
+    // Dictionary<string, string> weaponTranslateDictionary = new Dictionary<string, string>()
+    // {
+    //   // ["격전 환영"] = "激戰幻影",
+    //   // ["얼음꽃 환영"] = "冰花幻影",
+    //   // ["백선 환영"] = "百選幻影",
+    //   // ["우리의 기억 환영"] = "我們的記憶幻影",
+    //   // ["흑신 환영"] = "黑神幻影"
+    //   // ["검은 십자가 환영"] = "黑色十字幻影"
+    //   // ["천벌 환영"] = "天罰幻影"
+    //   // ["호박귀신 환영"] = "南瓜鬼幻影"
+    //   // ["미노우"] = "米陶諾斯"
+    //   // ["퇴마 환영"] = "驅魔幻影"
+    //   // ["다이노스 환영"] = "戴诺斯幻影",
+    //   // ["바캉스 환영"] = "假期幻影",
+    //   // ["홍윤 환영"] = "紅雲幻影",
+    // };
+
+    // BNSXMLAutoTranslate bnsXMLAutoTranslate = new BNSXMLAutoTranslate("/Users/shinhwe/bns-ch-txt/Translation64.xml", weaponTranslateDictionary);
+
+    // bnsXMLAutoTranslate.translateItemNameAndDesc();
+
+    // BNSXMLAutoTranslate bnsXMLAutoTranslate = new BNSXMLAutoTranslate("/Users/shinhwe/bns-ch-txt/Translation64.xml", translateDictionary);
+
+    // bnsXMLAutoTranslate.translateWeaponName(weaponTypeTranslateDictionary);
+
+    // bnsXMLAutoTranslate.translateAccessoryDesc();
+
+    // bnsXMLAutoTranslate.translateAchieve();
+
+    // bnsXMLAutoTranslate.translateEnchantStone();
+
+    // bnsXMLAutoTranslate.translateGroceryBox();
+
+    // bnsXMLAutoTranslate.translateGroceryBadge();
+
+
     BNSXMLChecker bnsXMLChecker = new BNSXMLChecker("/Users/shinhwe/bns-ch-txt/Translation64.xml");
 
-    await bnsXMLChecker.CheckAchieve();
+    // await bnsXMLChecker.CheckXML();
 
-    await bnsXMLChecker.CheckBrackets();
+    // await bnsXMLChecker.CheckSealed();
+
+    // await bnsXMLChecker.CheckItemBrand();
+
+    // await bnsXMLChecker.CheckSkillTrainingRoom();
+
+    // await bnsXMLChecker.CheckNickName();
+
+    // await bnsXMLChecker.CheckSetAttr();
+
+    // await bnsXMLChecker.CheckAction();
+
+    // await bnsXMLChecker.CheckEnv();
+
+    // await bnsXMLChecker.CheckFieldItem();
+
+    // await bnsXMLChecker.CheckMSG();
+
+    // await bnsXMLChecker.CheckCH();
+
+    // await bnsXMLChecker.CheckItem();
+
+    // await bnsXMLChecker.getIconImage();
+
+    // await bnsXMLChecker.CheckNPC();
+
+    // await bnsXMLChecker.CheckAchieve();
+
+    // await bnsXMLChecker.CheckEffect();
+
+    // await bnsXMLChecker.CheckSkillTooltipAttr();
+
+    // await bnsXMLChecker.CheckSkill();
+
+    // await bnsXMLChecker.CheckSkin();
+
+    // await bnsXMLChecker.CheckUI();
+
+    // await bnsXMLChecker.CheckStore();
 
     // BNSXMLItemNameToJSON bnsXMLItemNameToJSON = new BNSXMLItemNameToJSON("/Users/shinhwe/bns-ch-txt/Translation64.xml");
 
@@ -31,7 +818,39 @@ class Program
 
     // BNSXMLNameChecker bnsXMLNameChecker = new BNSXMLNameChecker("/Users/shinhwe/bns-ch-txt/Translation64.xml");
 
-    // await bnsXMLNameChecker.CheckName("령", "魂");
+    // await bnsXMLNameChecker.CheckName("명중", "命中");
+
+    // await bnsXMLNameChecker.CheckName("치명", "暴擊");
+
+    // await bnsXMLNameChecker.CheckName("린검", "燐劍");
+
+    // await bnsXMLNameChecker.CheckName("쌍검", "雙劍");
+
+    // await bnsXMLNameChecker.CheckName("대검", "巨劍");
+
+    // await bnsXMLNameChecker.CheckName("보주", "寶珠");
+
+    // await bnsXMLNameChecker.CheckName("소태도", "短刀");
+
+    // await bnsXMLNameChecker.CheckName("도끼", "斧頭");
+
+    // await bnsXMLNameChecker.CheckName("권총", "手槍");
+
+    // await bnsXMLNameChecker.CheckName("지팡이", "法杖");
+
+    // await bnsXMLNameChecker.CheckName("기공패", "彩綾");
+
+    // await bnsXMLNameChecker.CheckName("권갑", "拳套");
+
+    // await bnsXMLNameChecker.CheckName("검", "劍");
+
+    // await bnsXMLNameChecker.CheckName("활", "弓");
+
+    // await bnsXMLNameChecker.CheckName("기권갑", "乾坤拳套");
+
+    // await bnsXMLNameChecker.CheckName("주술도", "咒術刀");
+
+    // await bnsXMLNameChecker.CheckName("현", "琴");
 
     // 령 魂
 
@@ -162,7 +981,7 @@ class Program
 
 
     //   // ["설풍 원기석 [폭열신장/빙백연혼경/폭뢰파]"] = "雪風元氣石[爆炎神掌/冰壁連魂鏡/暴雷波]",
-    //   // ["설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]"] = "雪風元氣石[爆炎神掌/火炎地獄/冰壁連魂鏡/冰壁寒砲/暴雷波/閃雷擊]",
+    //   // ["설풍 원기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]"] = "雪風元氣石[爆炎神掌/火焰地狱/冰壁連魂鏡/冰壁寒炮/暴雷波/閃雷擊]",
     //   // ["설풍 원기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]"] = "雪風元氣石[爆炎神掌/流星指/冰壁連魂鏡/雪花掌/暴雷波/閃雷掌]",
     //   // ["설풍 원기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]"] = "雪風元氣石[爆炎神掌/火蓮掌/冰壁連魂鏡/雙龍掌/暴雷波/連鎖閃電]",
 
@@ -282,7 +1101,7 @@ class Program
 
 
     //   // ["흑월 진기석 [폭열신장/빙백연혼경/폭뢰파]"] = "黑月真氣石[爆炎神掌/冰壁連魂鏡/暴雷波]",
-    //   // ["흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]"] = "黑月真氣石[爆炎神掌/火炎地獄/冰壁連魂鏡/冰壁寒砲/暴雷波/閃雷擊]",
+    //   // ["흑월 진기석 [폭열신장/화염지옥/빙백연혼경/빙백한포/폭뢰파/섬뇌격]"] = "黑月真氣石[爆炎神掌/火焰地狱/冰壁連魂鏡/冰壁寒炮/暴雷波/閃雷擊]",
     //   // ["흑월 진기석 [폭열신장/유성지/빙백연혼경/설화장/폭뢰파/섬뇌장]"] = "黑月真氣石[爆炎神掌/流星指/冰壁連魂鏡/雪花掌/暴雷波/閃雷掌]",
     //   // ["흑월 진기석 [폭열신장/화련장/빙백연혼경/쌍룡파/폭뢰파/연쇄번개]"] = "黑月真氣石[爆炎神掌/火蓮掌/冰壁連魂鏡/雙龍掌/暴雷波/連鎖閃電]",
 
@@ -469,7 +1288,7 @@ class Program
 
     //   ["초열 계열의 <font name=\"00008130.UI.Vital_LightBlue\">폭열신장</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>초열 계열의 <font name=\"00008130.UI.Vital_LightBlue\">화염지옥</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>혹한 계열의 <font name=\"00008130.UI.Vital_LightBlue\">빙백연혼경</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>혹한 계열의 <font name=\"00008130.UI.Vital_LightBlue\">빙백한포</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>음양 계열의 <font name=\"00008130.UI.Vital_LightBlue\">폭뢰파</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>음양 계열의 <font name=\"00008130.UI.Vital_LightBlue\">섬뇌격</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>원기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //   "強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">爆炎神掌</font>招式和相關特性招式。<br/>強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">火炎地獄</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁連魂鏡</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁寒砲</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">暴雷波</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">閃雷擊</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
+    //   "強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">爆炎神掌</font>招式和相關特性招式。<br/>強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">火焰地狱</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁連魂鏡</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁寒炮</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">暴雷波</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">閃雷擊</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
 
 
 
@@ -629,28 +1448,28 @@ class Program
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>원기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //   "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
+    //   "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
 
 
 
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">작렬</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">작렬</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>원기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //  "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
+    //  "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
 
 
 
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">연환</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">참격</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>원기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //  "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">連環</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
+    //  "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">連環</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
 
 
 
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">참격</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">망상</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>원기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //  "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">妄想</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
+    //  "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">妄想</font>招式和相關特性招式。<br/>可以裝備在已添加元氣石凹槽的武器上。",
 
 
 
@@ -869,7 +1688,7 @@ class Program
 
     //   ["초열 계열의 <font name=\"00008130.UI.Vital_LightBlue\">폭열신장</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>초열 계열의 <font name=\"00008130.UI.Vital_LightBlue\">화염지옥</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>혹한 계열의 <font name=\"00008130.UI.Vital_LightBlue\">빙백연혼경</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>혹한 계열의 <font name=\"00008130.UI.Vital_LightBlue\">빙백한포</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>음양 계열의 <font name=\"00008130.UI.Vital_LightBlue\">폭뢰파</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>음양 계열의 <font name=\"00008130.UI.Vital_LightBlue\">섬뇌격</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>진기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //   "強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">爆炎神掌</font>招式和相關特性招式。<br/>強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">火炎地獄</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁連魂鏡</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁寒砲</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">暴雷波</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">閃雷擊</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
+    //   "強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">爆炎神掌</font>招式和相關特性招式。<br/>強化灼熱系的<font name=\"00008130.UI.Vital_LightBlue\">火焰地狱</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁連魂鏡</font>招式和相關特性招式。<br/>強化酷寒系的<font name=\"00008130.UI.Vital_LightBlue\">冰壁寒炮</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">暴雷波</font>招式和相關特性招式。<br/>強化陰陽系的<font name=\"00008130.UI.Vital_LightBlue\">閃雷擊</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
 
 
 
@@ -1029,28 +1848,28 @@ class Program
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>진기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //   "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
+    //   "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
 
 
 
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">작렬</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">작렬</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>진기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //  "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
+    //  "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">炸裂</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
 
 
 
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">연환</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">참격</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>진기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //  "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">連環</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
+    //  "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">連環</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
 
 
 
 
     //   ["포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>포화 계열의 <font name=\"00008130.UI.Vital_LightBlue\">참격</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">전탄난사</font> 무공 및 관련된 특성 무공이 강화됩니다<br/>마탄 계열의 <font name=\"00008130.UI.Vital_LightBlue\">망상</font> 무공 및 관련된 특성 무공이 강화됩니다.<br/>진기석 홈이 확장된 무기에 장착할 수 있습니다."]
     //   =
-    //  "強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化砲火系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">妄想</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
+    //  "強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。強化炮火系的<font name=\"00008130.UI.Vital_LightBlue\">斬擊</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">流彈亂射</font>招式和相關特性招式。<br/>強化魔彈系的<font name=\"00008130.UI.Vital_LightBlue\">妄想</font>招式和相關特性招式。<br/>可以裝備在已添加真氣石凹槽的武器上。",
 
 
 

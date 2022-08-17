@@ -1,0 +1,67 @@
+新增条目 Name2.2022_05_11_01
+新增条目 Name2.2022_05_04_01
+新增条目 Item.Name2.General_Accessory_Nova_0061
+新增条目 Item.Name2.General_Accessory_Nova_0061_101
+新增条目 Item.Name2.General_Accessory_Nova_0061_102
+新增条目 Item.Name2.General_Accessory_Nova_0061_103
+新增条目 Item.Name2.General_Accessory_Nova_0061_104
+新增条目 Item.Name2.General_Accessory_Nova_0061_105
+新增条目 Item.Name2.General_Accessory_Nova_0061_106
+新增条目 Item.Name2.General_Accessory_Nova_0061_107
+新增条目 Item.Name2.General_Accessory_Nova_0061_108
+新增条目 Item.Name2.General_Accessory_Nova_0061_109
+新增条目 Item.Name2.General_Accessory_Nova_0061_110
+新增条目 Item.Name2.General_Accessory_Nova_0061_111
+新增条目 Item.Name2.General_Accessory_Nova_0061_112
+新增条目 Item.Name2.General_Accessory_Nova_0061_113
+新增条目 Item.Name2.General_Accessory_Nova_0061_114
+新增条目 Item.Name2.General_Accessory_Nova_0061_115
+新增条目 Item.Name2.General_Accessory_Nova_0061_116
+新增条目 Item.Name2.General_Accessory_Nova_0061_117
+新增条目 Item.Name2.General_Accessory_Nova_0061_118
+新增条目 Item.Name2.General_Accessory_Nova_0061_119
+新增条目 Item.Name2.General_Accessory_Nova_0061_120
+新增条目 Item.Nick.General_Accessory_Nova_0061
+新增条目 Item.Nick.General_Accessory_Nova_0061_101
+新增条目 Item.Nick.General_Accessory_Nova_0061_102
+新增条目 Item.Nick.General_Accessory_Nova_0061_103
+新增条目 Item.Nick.General_Accessory_Nova_0061_104
+新增条目 Item.Nick.General_Accessory_Nova_0061_105
+新增条目 Item.Nick.General_Accessory_Nova_0061_106
+新增条目 Item.Nick.General_Accessory_Nova_0061_107
+新增条目 Item.Nick.General_Accessory_Nova_0061_108
+新增条目 Item.Nick.General_Accessory_Nova_0061_109
+新增条目 Item.Nick.General_Accessory_Nova_0061_110
+新增条目 Item.Nick.General_Accessory_Nova_0061_111
+新增条目 Item.Nick.General_Accessory_Nova_0061_112
+新增条目 Item.Nick.General_Accessory_Nova_0061_113
+新增条目 Item.Nick.General_Accessory_Nova_0061_114
+新增条目 Item.Nick.General_Accessory_Nova_0061_115
+新增条目 Item.Nick.General_Accessory_Nova_0061_116
+新增条目 Item.Nick.General_Accessory_Nova_0061_117
+新增条目 Item.Nick.General_Accessory_Nova_0061_118
+新增条目 Item.Nick.General_Accessory_Nova_0061_119
+新增条目 Item.Nick.General_Accessory_Nova_0061_120
+原文变更 Item.Name2.Cash_Grocery_Coin_0096
+變更前原文 소울패스 Plus 티켓
+變更後原文 옛 소울패스 Plus 티켓
+新增条目 Item.Name2.Cash_Grocery_Coin_0097
+新增条目 Item.Name2.Cash_Grocery_Coin_0098
+原文变更 Item.MainInfo.Cash_Grocery_Coin_0096
+變更前原文 소울패스 Plus 보상 획득 가능
+變更後原文 기간이 종료되어 더 이상 사용할 수 없습니다.
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0097
+新增条目 Item.MainInfo.Cash_Grocery_Coin_0098
+新增条目 Item.Desc5.Cash_Grocery_Coin_0097
+原文变更 Map_555_name
+變更前原文 남도파 사당
+變更後原文 시험의 전당
+原文变更 Map_556_name
+變更前原文 남도파 전승의 전당
+變更後原文 남도파 전승의 사당
+原文变更 Map_557_name
+變更前原文 남도파 석굴
+變更後原文 전승의 사당
+原文变更 UI.TargetIndicator.ShooterAbyss.tooltip
+變更前原文 필중에 명중된 적은 심연 상태가 됩니다. 심연 상태의 적에게 주요 무공은 더욱 강한 피해를 입힐 수 있습니다.
+變更後原文 심연 상태의 적에게 주요 무공으로 더욱 강한 피해를 입힐 수 있습니다.
